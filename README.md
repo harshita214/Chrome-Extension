@@ -30,7 +30,7 @@ When `TYPE` can be:
 
 - **feat** - is a new chrome-extension
 - **doc** - documentation only changes
-- **fix** - a bug fix
+- **fix** - a bug fix/improving current extension
 
 **All PRs must include a commit message with the changes description!**
 
