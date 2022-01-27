@@ -2,7 +2,7 @@
 
 Chrome Extensions are something which we use very frequently in our day-to-day life for example Grammarly, In this project similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension it makes it more exciting. So you may be on any level of learning you can always contribute to this project and build your very own extensions!
 
-<h4>[ In development Phase ] 
+
   
 # Contribution is fun! ✨
 
@@ -62,7 +62,7 @@ $ git push origin [name_of_your_new_branch]
 7. Get a code review approval/reject
 8. After approval, merge your PR 
 9. GitHub will automatically delete the branch after the merge is done. (they can still be restored).
-10. Yey! you made it! 😃
+10. Yey! you made it! 🎊
   
  ## 📌 Introducing/Submitting New Ideas
 
@@ -70,6 +70,6 @@ We would like you to contribute to Chrome-Extension.
 For us to find the right balance, please open an issue explaining your ideas before introducing a new pull request.
   
   
-  Thanks for contribuitng !
+ Thanks for contribuitng ❤️
 
 
