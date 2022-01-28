@@ -11,7 +11,7 @@ chrome.runtime.onInstalled.addListener(() => {
     type: "basic",
     title: "AlarmClock",
     message: `Now the time is:${new Date().getHours()}:${new Date().getMinutes()}`,
-    iconUrl: "../images/logo.png",
+    iconUrl: "logo.png",
   };
   chrome.alarms.onAlarm.addListener(function (ev) {
     if (ev.name == ClockName) {

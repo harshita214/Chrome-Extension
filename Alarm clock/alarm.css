@@ -1,0 +1,52 @@
+h2 {
+	color: #61afff;
+	text-align: center;
+	text-transform: uppercase;
+	width: 20rem;
+	font-size: 2.5rem;
+	padding: 0;
+	margin-top: 0;
+}
+
+input {
+	width: 14.5rem;
+	margin-bottom: 20px;
+}
+
+.alarm-buttons {
+	width: 15rem;
+	display: flex;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+}
+
+button {
+	margin: 0;
+	width: 50%;
+	height: 3rem;
+	border: none;
+	text-transform: uppercase;
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+button.set {
+	background: #0262c2;
+	color: #fff;
+}
+button.set:hover {
+	background: #3873ae;
+}
+
+button.reset {
+	background: #505050;
+	color: rgb(40, 40, 40);
+}
+button.reset:hover {
+	background: #5c5c5c;
+}
