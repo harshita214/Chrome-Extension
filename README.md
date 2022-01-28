@@ -2,7 +2,7 @@
 
 Chrome Extensions are something which we use very frequently in our day-to-day life for example Grammarly, In this project similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension it makes it more exciting. So you may be on any level of learning you can always contribute to this project and build your very own extensions!
 
-
+<h3>❗If you are a participant of JWOC then please note contributions will start from Feb 1st.Before that no issue will be assigned. </h3>
   
 # Contribution is fun! ✨
 
@@ -30,11 +30,11 @@ When `TYPE` can be:
 
 - **feat** - is a new chrome-extension
 - **doc** - documentation only changes
-- **fix** - a bug fix/improving current extension
+- **fix** - a bug fix/improving current extension or UI enhancement
 
 **All PRs must include a commit message with the changes description!**
 
-For the initial start, fork the project and use git clone command to download the repository to your computer. A standard procedure for working on an issue would be to:
+<b> <h3> For the initial start, fork the project and use git clone command to download the repository to your computer </b> </h3>. A standard procedure for working on an issue would be to:
 
 1. `git pull`, before creating a new branch, pull the changes from upstream. Your master needs to be up to date.
 
