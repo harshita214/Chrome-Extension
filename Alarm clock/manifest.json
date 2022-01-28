@@ -5,7 +5,8 @@
   "description": "This is an hourly alarm clock!",
   "action": {
     "default_title": "TICK TOCK!",
-    "default_icon": "logo.png"
+    "default_icon": "logo.png",
+    "default_popup": "popup.html"
   },
   "icons": {
     "128": "logo.png"
@@ -16,6 +17,7 @@
   "permissions": [
     "background",
     "alarms",
-    "notifications"
+    "notifications",
+    "scripting"
   ]
 } 
