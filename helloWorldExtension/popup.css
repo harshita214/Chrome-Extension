@@ -1,3 +1,7 @@
+body{
+    background-color: #002240;
+}
+
 #popup{
     height: 300px;
     width: 300px;
@@ -12,5 +16,6 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    color: red;  
 
 }
