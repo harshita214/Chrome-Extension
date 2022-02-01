@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Highlight Us",
+    "version": "0.1.0",
+    "description": "Highlight all links in a web page",
+    "author": "Suman Mondal <suman.mondal@outlook.in>",
+    "action": {
+        "default_title": "Highlight Us",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab"
+    ],
+    "content_scripts": [
+        {
+          "matches": ["https://*/*"],
+          "css": ["style.css"],
+          "js": ["script.js"]
+        }
+      ]
+}
