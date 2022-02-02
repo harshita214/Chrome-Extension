@@ -1,8 +1,8 @@
 const defaultFilters = [
 	"*://*.ebay.com/*",
-	"*://pune.craigslist.org//*",
+	"*://*.pune.craigslist.org//*",
 	"*://*.gumtree.com/*",
-	"*://oodle.com/*",
+	"*://*.oodle.com/*",
 	"*://*.adpost.com/*",
 	"*://*.hoobly.com/*",
 	"*://*.salespider.com/*",
