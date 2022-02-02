@@ -15,9 +15,13 @@ Chrome Extensions are something which we use very frequently in our day-to-day l
 
 We would ❤️ for you to contribute to Chrome-Extension and help make it better by adding your ideas or by making current one better! We want contributing to be fun, enjoyable, and educational for everyone. All contributions are welcome, including issues as well as updates.
 
-## How to Start?
+## How to Start? 
 
 If you have a idea of any Chrome-Extension you want to build just open a issue regarding this , we will discuss and assign you that issue.In case you are confused and have queries just ping [me](https://www.linkedin.com/in/harshita-sharma-bb7992208/) , will help you get along and build!
+
+##  📌 How to view extension? 🤔
+
+Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext).md) documentation it has all steps.
   
 ## Submit a Pull Request 🚀
 
@@ -67,8 +71,15 @@ $ git push origin [name_of_your_new_branch]
 
 We would like you to contribute to Chrome-Extension.
 For us to find the right balance, please open an issue explaining your ideas before introducing a new pull request.
-  
-  
- Thanks for contribuitng ❤️
+
+## Our Contributors 💜
+
+<a href="https://github.com/harshita214/Chrome-Extension/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=harshita214/Chrome-Extension" />
+</a>
+
+ <hr>
+ 
+ ### Thanks for contribuitng ❤️
 
 
