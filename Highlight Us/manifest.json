@@ -5,7 +5,8 @@
     "description": "Highlight all links in a web page",
     "action": {
         "default_title": "Highlight Us",
-        "default_popup": "popup.html"
+        "default_popup": "popup.html",
+        "default_icon": "/images/icons128.png"
     },
     "permissions": [
         "activeTab"
