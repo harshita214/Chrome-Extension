@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    min-height: 100px;
+    width: 250px;
+    border: 2px solid gainsboro;
+}
+
+.para {
+    text-align: center;
+    font-size: large;
+    background-color: yellow;
+    font-weight: 600;
+}
+
+.div-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#click-btn {
+  background-color: white;
+  border: none;
+  color: black;
+  margin: 5px 3px 15px;
+  padding: 7px 7px;
+  border: 2px solid blue;
+  border-radius: 6px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+#click-btn:hover {
+    background-color: rgb(15, 122, 172);
+    color: white;
+}
