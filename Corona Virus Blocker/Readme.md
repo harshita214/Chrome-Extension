@@ -32,6 +32,8 @@ So basically , After enabling this extension , it will remove corona virus word 
 <div align="center">
   
   <img src = "https://github.com/ayush-sleeping/Chrome-Extension/blob/main/Corona%20Virus%20Blocker/Output%20SS/SS%20before%20enabling%20extension.png" >
+  
+  <img src = "https://github.com/ayush-sleeping/Chrome-Extension/blob/main/Corona%20Virus%20Blocker/Output%20SS/before%20ss.png" >
 
 </div>
 
@@ -60,5 +62,8 @@ So basically , After enabling this extension , it will remove corona virus word 
 <div align="center">
   
   <img src = "https://github.com/ayush-sleeping/Chrome-Extension/blob/main/Corona%20Virus%20Blocker/Output%20SS/Output.png" >
+  
+  <img src = "https://github.com/ayush-sleeping/Chrome-Extension/blob/main/Corona%20Virus%20Blocker/Output%20SS/after%20ss.png" >
+
 
 </div>
