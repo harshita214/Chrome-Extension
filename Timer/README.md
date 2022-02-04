@@ -23,6 +23,26 @@ These are some known issues that could be resolved in the future:
 - [ ] UI glitch that can cause the `Set timer` screen to flash even when the timer is running.
 - [ ] Automatic popup of the extension once the timer has completed running. (To be implemented)
 - [ ] Sounds to be added to button press and timer completion for better UX.
-- [ ] Better UI could be implemented, although the focus should be on ultraminimalism. 
+- [ ] Better UI could be implemented, although the focus should be on ultra-minimalism. 
+
+## Previews
+
+### Idle
+https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/1_Idle.png
+
+###Input
+https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/1_Input.png
+
+### Error
+https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/2_Error.png
+
+### Running
+https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/3_Running.png
+https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/3_Running_2.png
+
+### End
+https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/4_End.png
+
+
 
 ### Designed and Developed by [DarkFalc0n](https://github.com/DarkFalc0n)
