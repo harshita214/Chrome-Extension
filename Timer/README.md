@@ -28,20 +28,20 @@ These are some known issues that could be resolved in the future:
 ## Previews
 
 ### Idle
-https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/1_Idle.png
+![Idle](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/1_Idle.png)
 
-###Input
-https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/1_Input.png
+### Input
+![Input](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/1_Input.png)
 
 ### Error
-https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/2_Error.png
+![Error](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/2_Error.png)
 
 ### Running
-https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/3_Running.png
-https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/3_Running_2.png
+![Running1](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/3_Running.png)
+![Running2](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/3_Running_2.png)
 
 ### End
-https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/4_End.png
+![End](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/4_End.png)
 
 
 
