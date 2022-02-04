@@ -15,6 +15,7 @@ var timerMessage = document.getElementById('timermessage')
 var resetButton = document.getElementById('resetbutton')
 var loadBar = document.getElementById('loader')
 
+
 startButton.addEventListener('click', clickStart);
 resetButton.addEventListener('click', clickReset);
 
@@ -32,7 +33,7 @@ setInterval(function (){
             timerScreen.classList.remove('hide');
             if (result.isTimerRunning) {
                 timerMessage.innerHTML = "Timer is running";
-             }
+            }
             else {
                 timerMessage.innerHTML = "Time is up"
             }
@@ -41,6 +42,7 @@ setInterval(function (){
     
 
 },1000)
+
 
 //TimeUpdate Code Starts Here ->
 setInterval(function (){
@@ -54,8 +56,7 @@ setInterval(function (){
             var distance = countDownTime - now;
             if(distance > 0){
                 timeLeft = generateTimeString(Math.floor(distance / 1000));
-                loaderLength = (distance * 296)  / (totalTime*1000)
-                console.log(loaderLength)
+                loaderLength = (distance * 296)  / (totalTime*1000);
             }
         }
         else {
@@ -78,8 +79,7 @@ function clickReset(){
     chrome.storage.local.set({'isTimerIdle': 1});
     chrome.alarms.clear('TimerAlarm');
     inputScreen.classList.remove('hide');
-    timerScreen.classList.add('hide');
-    
+    timerScreen.classList.add('hide');    
 }
 
 
@@ -93,8 +93,9 @@ function clickStart(){
 
         inputScreen.classList.add('hide');
         timerScreen.classList.remove('hide');
-        timeInSeconds = hourInput.value * 3600 + minuteInput.value * 60 + secondInput.value;
+        timeInSeconds = hourInput.value * 3600 + minuteInput.value * 60 + secondInput.value * 1;
         chrome.storage.local.set({'timeInSeconds': timeInSeconds})
+        console.log(timeInSeconds);
 
         chrome.alarms.create(
             'TimerAlarm',
@@ -115,6 +116,7 @@ function generateTimeString(time){
     var s = doubleDigitString(Hour) + 'h ' + doubleDigitString(Minute) + 'm ' + doubleDigitString(Second) + 's';
     return s;
 }
+
 
 function doubleDigitString(num){
     s = '0' + num;
