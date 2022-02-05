@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;200;300;400&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+.app-wrapper{
+    width: 400px;
+    height: 200px;
+    background-color: #1a1a1a;
+    overflow: hidden;
+}
+.input-wrapper{
+    
+    display: flex;
+    flex-direction: column;
+}
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.time-input{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+}
+.input-field{
+    width: 70px;
+    height: 50px;
+    background-color: transparent;
+    box-sizing: border-box;
+}
+.field-type{
+    text-align: center;
+    margin-top: 5px;
+}
+.button{
+    width: 120px;
+    height: 40px;
+    margin: auto;
+    margin-top: 0px;
+    background-color: #1a1a1a;    
+    font-size: medium;
+}
+.thin-border{
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 8px;
+    color: white;
+}
+.button:hover{
+    color: #1a1a1a;
+    background-color: white;
+    transition: 0.5s;
+}
+.button:active{
+    transform: scale(0.9);
+}
+.small-text{
+    font-family: 'Overpass', sans-serif;
+    color: white;
+    font-size: 19px;
+    text-align: center;
+    font-weight: 100;
+}
+.large-text{
+    font-family: 'Overpass', sans-serif;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 100;
+}
+
+input::-webkit-outer-spin-button{
+    -webkit-appearance: none;
+
+}
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+
+}
+@keyframes pop-up {
+    0% {
+        transform: scale(0.9);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+.timer-wrapper{
+    /* display: none; */
+    display: flex;
+    flex-direction: column;
+}
+.time-left{
+    margin-top: 0px;
+}
+.error-msg{
+    color: red;
+    animation: pop-up 0.1s linear;
+}
+.loading-bar{
+    width: 300px;
+    height: 10px;
+    position: relative;
+    top: -20px;
+    margin: auto;
+    margin-top: 0;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+    color: white;
+}
+
+.loader{
+    height: 6px;
+    position: relative;
+    top: 2px;
+    left: 2px;
+    width: 200px;
+    background-color: white;
+    float: left;
+    border-radius: 2px;
+}
+
+.hide{
+    display:none;
+}

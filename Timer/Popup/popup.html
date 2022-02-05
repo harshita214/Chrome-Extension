@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+        <link rel="stylesheet" type="text/css" href="styles.css">
+	</head>
+	<body>
+		<div class="app-wrapper">
+			<div class="input-wrapper" id="inputwrapper">
+				<div class="flex-row">
+					<div class="time-input">
+						<input type="number" autocomplete="off" max="24" maxlength=2 placeholder="00" class="input-field thin-border small-text" id="hours">
+						<p class="field-type small-text">HH</p>
+					</div>
+					<p class="small-text">:</p>
+					<div class="time-input">
+						<input type="number" autocomplete="off" max="59" maxlength=2 placeholder="00" class="input-field thin-border small-text" id="minutes">
+						<p class="field-type small-text">MM</p>
+					</div>
+					<p class="small-text">:</p>
+					<div class="time-input">
+						<input type="number" autocomplete="off" max="59" maxlength=2 placeholder="00" class="input-field thin-border small-text" id="seconds">
+						<p class="field-type small-text">SS</p>
+					</div>
+				</div>
+				<button class="button thin-border small-text" id="startbutton">Start Timer</button>
+				<p class="error-msg small-text hide" id="error">Please insert valid time values</p>
+			</div>
+			<div id="timerwrapper" class="timer-wrapper hide">
+				<p class="small-text" id="timermessage">Timer is running</p>
+				<p class="time-left large-text" id="timestring">00h 00m 00s</p>
+				<div class="loading-bar">
+					<div class="loader" id="loader"></div>
+				</div>
+				
+				<button class="button thin-border small-text" id="resetbutton">Reset</button>
+				
+			</div>
+		</div>
+		<script src="popup.js"></script>
+	</body>
+</html>

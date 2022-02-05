@@ -1,0 +1,19 @@
+{
+    "name": "Timer for Developers",
+    "description": " A timer extension for multipurpose use.",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "permissions": ["storage","activeTab","scripting","tabs","alarms","notifications"] ,
+    "action": {
+        "default_popup": "Popup/popup.html",
+        "default_icon": {              
+            "64": "Icons/logo64.png", 
+            "128": "Icons/logo128.png"   
+          }
+    },
+    "background": {
+        "service_worker": "Background/background.js"
+      } 
+
+    
+}
