@@ -1,0 +1,19 @@
+body {
+    width: 400px;
+    height: 200px;
+    background-image: url("backgroundimg.jpg");
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    border: 5px solid rgb(7, 74, 78);
+}
+p {
+    display: inner-flex;
+    margin:auto 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: rgb(7, 39, 41);
+    padding: 10px;
+    font-weight: bold;
+    
+}
