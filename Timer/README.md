@@ -33,8 +33,7 @@ These are some known issues that could be resolved in the future:
 ### Input
 ![Input](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/1_Input.png)
 
-### Error
-![Error](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/2_Error.png)
+
 
 ### Running
 ![Running1](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/3_Running.png)
@@ -42,6 +41,9 @@ These are some known issues that could be resolved in the future:
 
 ### End
 ![End](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/4_End.png)
+
+### Error
+![Error](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Timer/Preview/2_Error.png)
 
 
 
