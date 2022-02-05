@@ -1,17 +1,6 @@
 body {
-    width : 150px;
-    height : 150 px;
-    background-color: lightpink;
-    display: flex;
+    width : 250px;
+    height : 130 px;
+    background-image: url("images/pranked.png");
     justify-content: center;
-}
-
-p {
-    display:inline-flex;
-    margin:auto;
-    font-size: larger;
-    color: black;
-    border: 2px black;
-    padding: 10px;
-
 }

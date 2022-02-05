@@ -8,20 +8,14 @@
             "matches": [
                 "<all_urls>"
             ],
-            "js" : ["content.js"],
-            "css" : ["main.css"]
-            
+            "js" : ["content.js"]
         }
     ],
-    "background" : {
-        "persistent" : false,
-        "scripts" : ["background.js"]
-    },
     "browser_action" : {
-        "default_icon": "/images/logo.png"
+        "default_popup" : "popup.html",
+        "default_icon": "/images/logo3.png"
     },
     "icons" : {
-        "128": "/images/logo.png"
+        "128": "/images/logo3.png"
     }
-
 }
