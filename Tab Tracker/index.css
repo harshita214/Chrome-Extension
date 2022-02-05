@@ -1,43 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700&display=swap');
+
 body {
     margin: 0;
-    padding: 10px;
-    font-family: Arial, Helvetica, sans-serif;
-    min-width: 400px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
 }
 
+.font-thin{
+    font-weight: 100;
+    font-size: 12px;
+}
+
+.font-regular{
+    font-weight: 500;
+    font-size: 12px;
+}
+.font-largeRegular{
+    font-weight: 400;
+    font-size: 12px;
+}
 input {
-    width: 100%;
+    width: 340px;
+    margin: auto;
+    margin-top: 0px;
+    margin-bottom: 30px;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #5f9341;
+    border-radius: 20px;
+    border-color: #2FC4B2;
+    border-width: 2px;
+    border-style: solid;
     margin-bottom: 4px;
-}
-
-button {
-    background: #5f9341;
+    background-color: transparent;
+    padding-left: 10px;    
     color: white;
-    padding: 10px 20px;
-    border: 1px solid #5f9341;
-    font-weight: bold;
+
 }
 
-#delete-btn {
-    background: white;
-    color: #5f9341;
+input:active, input:focus{
+    border-color: #2FC4B2;
+    outline: none;
+    border-style: solid;
+    border-width: 2px;
 }
+
+
+button{
+    background-image: linear-gradient(135deg ,#2FC4B2, #48B4B9);
+    background-position: left;
+    cursor: pointer;
+    color: white;
+    margin: 10px;
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+}
+
+button:nth-of-type(3){
+    background-image: linear-gradient(135deg ,#EF6C32, #FC1847);
+}
+
+
+
 
 ul {
-    margin-top: 20px;
-    list-style: none;
     padding-left: 0;
+    overflow-y: scroll;
+    width: 80%;
+    min-height: 54px;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #2FC4B2;
+    border-radius: 10px;
 }
 
-li {
-    margin-top: 5px;
+ul::-webkit-scrollbar {
+    width: 6px;
+    position: relative;
+    left: -3px;
 }
+
+ul::-webkit-scrollbar-track {
+    background-color: transparent;
+    margin-top: 6px;
+
+}
+
+::-webkit-scrollbar-thumb {
+    background: #2FC4B2;
+    border-radius: 10px;
+    margin-right: 3px;
+}
+
+
 
 a {
-    color: #5f9341;
+    color: #2FC4B2;
+}
+
+.app-wrapper{
+    width: 400px;
+    max-height: 250px;
+    flex-direction: column;
+    display:flex;
+    overflow: hidden;
+    background-image: linear-gradient(315deg, #434343, #000000);
+}
+
+
+
+  
+
+.button-wrapper{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    margin-top: 0px;
+    position: relative;
+}
+
+
+
+span{
+    position: absolute;
+    background: #fff;
+    transform: translate(-50%, -100%);
+    border-radius: 50%;
+    pointer-events: none;
+    animation: ripples 0.6s linear infinite;
+}
+
+@keyframes ripples {
+  0% {
+    width: 0px;
+    height: 0px;
+    opacity: 0.5;
+  }
+  100% {
+    width: 500px;
+    height: 500px;
+    opacity: 0;
+  }
+}
+
+p{
+    font-weight: 500;
+    color: #2FC4B2;
+    font-size: 28px;
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 
