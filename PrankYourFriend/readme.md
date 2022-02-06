@@ -4,3 +4,7 @@ It works by enabling it in Chrome Extension.
 
 # Screenshots
 ![screenshot](images/ss.JPG)
+
+![screenshot2](images/ss2.JPG)
+
+![screenshot3](images/ss3.JPG)
