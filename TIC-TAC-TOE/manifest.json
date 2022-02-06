@@ -9,7 +9,7 @@
         }
     ],
     "browser_action": {
-        "default_popup": "copy.html",
+        "default_popup": "copy.html"
     },
     "icons": {
         "16": "icons/logo_16x16.png",
