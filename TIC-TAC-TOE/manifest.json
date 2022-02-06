@@ -1,5 +1,4 @@
 {
-    "manifest_version":2,
     "name": "Tic-tac-toe",
     "version": "1.0.0",
     "description": "A fun tic tac toe game for your browser.",
@@ -11,6 +10,11 @@
     ],
     "browser_action": {
         "default_popup": "copy.html",
-        "default_icon": "logo.png"
-    } 
+    },
+    "icons": {
+        "16": "icons/logo_16x16.png",
+        "48": "icons/logo_48x48.png",
+        "128": "icons/logo_128x128.png"
+    },
+    "manifest_version":2
 }
