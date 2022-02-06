@@ -1,6 +1,6 @@
 {
     "manifest_version":2,
-    "name": "Tic",
+    "name": "Tic-tac-toe",
     "version": "1.0.0",
     "description": "A fun tic tac toe game for your browser.",
     "content_scripts": [
