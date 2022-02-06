@@ -2,7 +2,7 @@
   
   
 # <p align="center"> Tic-Tac-Toe: A fun tic tac toe game for your browser!</p>
-**Tic-Tac-Toe is one of the most popular games that we all have played but this game has a twist!^-^**
+**Tic-Tac-Toe is one of the most popular and fun games that we all have played but this game has a twist!^-^**
 
 **This extension lets you play tic tac toe with your voice whenever you try to visit any website.**
 
