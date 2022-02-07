@@ -2,6 +2,8 @@
 
 <h1 align="center"> Chrome-Extension </h1>
 
+
+
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 <div align="center">
@@ -19,6 +21,8 @@
   
 </div>
 
+
+
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center">
@@ -27,6 +31,8 @@
     ·
     <a href="https://github.com/harshita214/Chrome-Extension/issues">Request Extension </a>
   </p>
+
+
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <!-- TABLE OF CONTENTS --> 
@@ -44,6 +50,8 @@
 <p align="right">(<a href="#Bottom">Bottom</a>)</p>
 
 <br>
+
+
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -64,6 +72,8 @@
 
 <br>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -75,6 +85,9 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 
 
 <br>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -94,9 +107,10 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 <br>
 
 
-
-
 <br>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
@@ -116,6 +130,8 @@ If you have a idea of any Chrome-Extension you want to build just open a issue r
 <br>
 
 <br>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ###  Submit a Pull Request 🚀
 
@@ -146,6 +162,8 @@ $ git checkout -b [name_of_your_new_branch]
 
 3. Work - commit - repeat ( be sure to be in your branch )
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 4. Push changes to GitHub
 
 ```
@@ -170,23 +188,57 @@ $ git push origin [name_of_your_new_branch]
 
 
 <br>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
+## Contributors
+<a href="https://github.com/harshita214/Chrome-Extension"><img src="https://forthebadge.com/images/badges/built-by-developers.svg"  ></a> 
+<a href="https://github.com/harshita214/Chrome-Extension"><img src="https://forthebadge.com/images/badges/built-with-love.svg"  ></a> 
+<a href="https://github.com/harshita214/Chrome-Extension"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" ></a>   
+
+<br>
+
+
+Thanks to all the **people who contribute** 💜
+
+![Contributors](https://contributors-img.web.app/image?repo=harshita214/Chrome-Extension)
+
+
+
+<br>
+
+<br>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+## Feedback
+
+If you have any feedback or suggestions please reach out to Project - Maintainer.  
+* [Harshita sharma](https://github.com/harshita214) 
   
- ## 📌 Introducing/Submitting New Ideas
+Or you can create a  <a href="https://github.com/aman34503/harshita214/issues">issue</a> and mention there , which new features or extension can make this Project more good.
 
-We would like you to contribute to Chrome-Extension.
-For us to find the right balance, please open an issue explaining your ideas before introducing a new pull request.
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Our Contributors 💜
+<br>
+  
+<br>
 
-<a href="https://github.com/harshita214/Chrome-Extension/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=harshita214/Chrome-Extension" />
-</a>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
- <hr>
- 
- ### Thanks for contribuitng ❤️
+<div align="center">
+
+### Show some ❤️ by starring this awesome Repository!
+
+</div>
+  
+  
+<div id="Bottom"></div>
 
 
