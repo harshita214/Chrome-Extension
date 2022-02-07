@@ -8,12 +8,24 @@ body {
     border: 5px solid rgb(7, 74, 78);
 }
 p {
-    display: inner-flex;
+    display: table-column;
     margin:auto 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 25px;
     color: rgb(7, 39, 41);
     padding: 10px;
     font-weight: bold;
-    
+}
+
+#clickme {
+    display: table-column;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin: auto 10px;
+    padding: 10px 10px;
+    color: rgb(7, 39, 41) ;
+    background-color: rgb(231, 231, 18);
+    border-radius: 5px;
+    text-align: center;
 }
