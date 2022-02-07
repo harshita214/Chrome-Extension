@@ -1,4 +1,35 @@
-<h1 align="center">Chrome-Extension</h1>
+<div id="top"></div>
+
+<h1 align="center"> Chrome-Extension </h1>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
+<div align="center">
+
+![Contributors](https://img.shields.io/github/contributors/harshita214/Chrome-Extension?style=for-the-badge)
+  ![Forks](https://img.shields.io/github/forks/harshita214/Chrome-Extension?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/harshita214/Chrome-Extension?style=for-the-badge)
+![License](https://img.shields.io/github/license/harshita214/Chrome-Extension?style=for-the-badge)
+![PRs-Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)  
+
+![](https://img.shields.io/github/issues-raw/harshita214/Chrome-Extension?color=orange&style=for-the-badge)
+![](https://img.shields.io/github/issues-closed/harshita214/Chrome-Extension?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr/harshita214/Chrome-Extension?style=for-the-badge)
+![](https://img.shields.io/github/issues-pr-closed-raw/harshita214/Chrome-Extension?style=for-the-badge)
+  
+</div>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+
+<p align="center">
+    <br />
+    <a href="https://github.com/harshita214/Chrome-Extension/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/harshita214/Chrome-Extension/issues">Request Extension </a>
+  </p>
+
+<!-- ---------------------------------------------------------------------------------------------------------------------- -->
+<!-- TABLE OF CONTENTS --> 
 
 Chrome Extensions are something which we use very frequently in our day-to-day life for example Grammarly, In this project similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension it makes it more exciting. So you may be on any level of learning you can always contribute to this project and build your very own extensions!
 
