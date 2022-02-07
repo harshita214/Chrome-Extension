@@ -38,7 +38,7 @@
 
 #### Table of Contents :
 * [Overview](#Overview)
-* [Available Extensions:](#Available-Extensions:)
+* [Available Extensions](#Available-Extensions)
 * [How to view extension?](#How-to-view-extension?)
 * [Open Source programs this repo has been part of](#Open-Source-programs-this-repo-has-been-part-of)
 * [Contribution Guidelines](#Contribution-Guidelines)
@@ -74,7 +74,7 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Available Extensions:
+## Available Extensions
 
 | S-No. | Extensions | Contributed by |
 |:--|:--|:--|
