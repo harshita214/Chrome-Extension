@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    width: 200px;
+    
+}
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+section h4{
+    padding: 0;
+    margin: 0;
+}
