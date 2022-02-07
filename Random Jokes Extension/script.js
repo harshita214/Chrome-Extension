@@ -1,4 +1,5 @@
-fetch('https://icanhazdadjoke.com/slack')
+function jokes(){
+    fetch('https://icanhazdadjoke.com/slack')
     .then(data => data.json())
     .then(jokeData => {
         const jokeText = jokeData.attachments[0].text;
@@ -6,3 +7,5 @@ fetch('https://icanhazdadjoke.com/slack')
         
         jokeElement.innerHTML = jokeText;
     })
+}
+document.getElementById("clickme").onclick = jokes;
