@@ -60,25 +60,64 @@
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-## How to view extension?
 
-Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext).md) documentation it has all steps.
+
+<br>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
- ## 📌 Contributing
+## How to view extension?
 
-We would ❤️ for you to contribute to Chrome-Extension and help make it better by adding your ideas or by making current one better! We want contributing to be fun, enjoyable, and educational for everyone. All contributions are welcome, including issues as well as updates.
+Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext).md) documentation it has all steps.
 
-## How to Start? 
+
+
+
+<br>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+## Open Source programs this repo has been part of
+<a href="https://github.com/harshita214/Chrome-Extension"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+
+
+<div align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQEp7MUBpYE93g/company-logo_200_200/0/1608129179676?e=1651708800&v=beta&t=71R--Oo_R0AHY17EVdLFe50g8M5UAJ4vizvw--RaBAE" width="150px">
+</div>
+
+<div align="center">
+    <a href="https://jwoc.tech/">JGEC Winter of Code</a>
+
+</div>
+
+<br>
+
+
+
+
+<br>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+## Contribution Guidelines
+
+<p align="center">                    We would ❤️ for you to contribute to Chrome-Extension and help make it better by adding your ideas or by making current one better! We want contributing to be fun, enjoyable, and educational for everyone. All contributions are welcome, including issues as well as updates.                         </p>
+
+<br>
+
+<br>
+
+
+###  How to Start?  📌
 
 If you have a idea of any Chrome-Extension you want to build just open a issue regarding this , we will discuss and assign you that issue.In case you are confused and have queries just ping [me](https://www.linkedin.com/in/harshita-sharma-bb7992208/) , will help you get along and build!
 
+<br>
 
+<br>
 
-  
-## Submit a Pull Request 🚀
+###  Submit a Pull Request 🚀
 
 Branch naming convention is as following
 
@@ -115,12 +154,25 @@ $ git push origin [name_of_your_new_branch]
 
 5. Submit your changes for review
    If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+   
 6. Start a Pull Request
    Now submit the pull request and click on `Create pull request`.
+   
 7. Get a code review approval/reject
+
 8. After approval, merge your PR 
+
 9. GitHub will automatically delete the branch after the merge is done. (they can still be restored).
+
 10. Yey! you made it! 🎊
+
+
+
+
+<br>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
   
  ## 📌 Introducing/Submitting New Ideas
 
