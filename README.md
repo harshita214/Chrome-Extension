@@ -26,7 +26,6 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
 <p align="center">
-    <br />
     <a href="https://github.com/harshita214/Chrome-Extension/issues">Report Bug</a>
     ·
     <a href="https://github.com/harshita214/Chrome-Extension/issues">Request Extension </a>
@@ -39,6 +38,7 @@
 
 #### Table of Contents :
 * [Overview](#Overview)
+* [Available Extensions:](#Available-Extensions:)
 * [How to view extension?](#How-to-view-extension?)
 * [Open Source programs this repo has been part of](#Open-Source-programs-this-repo-has-been-part-of)
 * [Contribution Guidelines](#Contribution-Guidelines)
@@ -48,9 +48,6 @@
 
   
 <p align="right">(<a href="#Bottom">Bottom</a>)</p>
-
-<br>
-
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -76,6 +73,34 @@
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+## Available Extensions:
+
+| S-No. | Extensions | Contributed by |
+|:--|:--|:--|
+| 01. | [AD Blocker](https://github.com/harshita214/Chrome-Extension/tree/main/AD%20BLOCKER) | [Saujanya Raj](https://github.com/saujanyaraj07) |
+| 02. | [Abusive Word Hider](https://github.com/harshita214/Chrome-Extension/tree/main/Abusive%20Word%20Hider) | [Ayush Mishra](https://github.com/ayush-sleeping) |
+| 03. | [Alarm clock](https://github.com/harshita214/Chrome-Extension/tree/main/Alarm%20clock) | [Harshita sharma](https://github.com/harshita214) & [Siddhant Singh](https://github.com/siddhantsingh-1) |
+| 04. | [Highlight Us](https://github.com/harshita214/Chrome-Extension/tree/main/Highlight%20Us) | [Suman Mondal](https://github.com/thatsuman) |
+| 05. | [Night Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Night%20Mode) | [RajulPE](https://github.com/RajulPE) |
+| 06. | [PrankYourFriend](https://github.com/harshita214/Chrome-Extension/tree/main/PrankYourFriend) | [Mahim Kapoor](https://github.com/mahimk9) |
+| 07. | [Quotes](https://github.com/harshita214/Chrome-Extension/tree/main/Quotes) | [Tarun Maharshi](https://github.com/trunmhrshi) |
+| 08. | [Tab Tracker](https://github.com/harshita214/Chrome-Extension/tree/main/Tab%20Tracker) | [Harshita sharma](https://github.com/harshita214) & [Pratyay Roy](https://github.com/DarkFalc0n) |
+| 09. | [Timer](https://github.com/harshita214/Chrome-Extension/tree/main/Timer) | [Pratyay Roy](https://github.com/DarkFalc0n) |
+| 10. | [Water Break](https://github.com/harshita214/Chrome-Extension/tree/main/Water%20Break) | [Ritika Saha](https://github.com/ritika-saha) |
+| 11. | [Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/calculator) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| 12. | [Hello World](https://github.com/harshita214/Chrome-Extension/tree/main/helloWorldExtension) | [rohit-raj25](https://github.com/rohit-raj25) |
+
+
+
+
+<br>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
 
 ## How to view extension?
 
