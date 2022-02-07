@@ -31,16 +31,41 @@
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 <!-- TABLE OF CONTENTS --> 
 
-Chrome Extensions are something which we use very frequently in our day-to-day life for example Grammarly, In this project similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension it makes it more exciting. So you may be on any level of learning you can always contribute to this project and build your very own extensions!
+#### Table of Contents :
+* [Overview](#Overview)
+* [How to view extension?](#How-to-view-extension?)
+* [Open Source programs this repo has been part of](#Open-Source-programs-this-repo-has-been-part-of)
+* [Contribution Guidelines](#Contribution-Guidelines)
+* [Contributors](#Contributors)
+* [Feedback](#Feedback)
+
 
   
-# Contribution is fun! ✨
+<p align="right">(<a href="#Bottom">Bottom</a>)</p>
 
- ## 📌 Tech Stack
+<br>
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## Overview
+
+<p align="center">        Chrome Extensions are something which we use very frequently in our day-to-day life for example Grammarly, In this project similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension it makes it more exciting. So you may be on any level of learning you can always contribute to this project and build your very own extensions!                   </p>
+
+<div align="center">   <h3>     Contribution is fun! ✨    </h3>    </div>
+  
+
+ #### Tech-Stack used :
+
+  ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+## How to view extension?
+
+Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext).md) documentation it has all steps.
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
  ## 📌 Contributing
 
@@ -50,9 +75,8 @@ We would ❤️ for you to contribute to Chrome-Extension and help make it bette
 
 If you have a idea of any Chrome-Extension you want to build just open a issue regarding this , we will discuss and assign you that issue.In case you are confused and have queries just ping [me](https://www.linkedin.com/in/harshita-sharma-bb7992208/) , will help you get along and build!
 
-##  📌 How to view extension? 🤔
 
-Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext).md) documentation it has all steps.
+
   
 ## Submit a Pull Request 🚀
 
