@@ -90,6 +90,8 @@
 | 10. | [Water Break](https://github.com/harshita214/Chrome-Extension/tree/main/Water%20Break) | [Ritika Saha](https://github.com/ritika-saha) |
 | 11. | [Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/calculator) | [Mohak Srivastav](https://github.com/whiteHatpro) |
 | 12. | [Hello World](https://github.com/harshita214/Chrome-Extension/tree/main/helloWorldExtension) | [rohit-raj25](https://github.com/rohit-raj25) |
+| 13. | [Random Jokes Extension](https://github.com/harshita214/Chrome-Extension/tree/main/Random%20Jokes%20Extension) | [Mrunal Jambenal](https://github.com/mrunal736) |
+| 14. | [Word of the day](https://github.com/harshita214/Chrome-Extension/tree/main/wordoftheday) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
 
 
 
