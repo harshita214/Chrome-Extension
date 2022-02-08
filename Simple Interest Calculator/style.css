@@ -1,0 +1,77 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+.mainDiv {
+  margin: 0.5rem;
+  min-width: 400px;
+}
+
+.calcTable {
+  border-collapse: separate;
+  border-spacing: 5px;
+}
+
+.highlight {
+  background-color: #ffff00;
+}
+
+.rowField {
+  margin: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.medium {
+  box-sizing: border-box;
+  width: 50%;
+}
+
+.large {
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.calculate {
+  padding: 0.5rem 0;
+  margin: 0.2rem;
+  background-color: #0000b0;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 4px 10px 0px;
+  width: 100%;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.calculate:hover {
+  background-color: white;
+  color: #0000b0;
+}
+
+.clear {
+  padding: 0.5rem 0;
+  margin: 0.2rem;
+  background-color: #0000b0;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 4px 10px 0px;
+  width: 100%;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.clear:hover {
+  background-color: white;
+  color: #0000b0;
+}
