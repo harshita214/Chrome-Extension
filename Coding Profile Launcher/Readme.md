@@ -61,7 +61,7 @@ BOOM , You ready to use this extension and whenever you click on any websites ic
 
 <div align="center">
 
-  <img src = "https://github.com/ayush-sleeping/Chrome-Extension/blob/main/Coding%20Profile%20Launcher/OutPut%20SS/3.png" >
+  <img src = "https://github.com/ayush-sleeping/Chrome-Extension/blob/main/Coding%20Profile%20Launcher/OutPut%20SS/4.png" >
 
 </div>
 
