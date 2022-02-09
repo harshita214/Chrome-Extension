@@ -1,0 +1,30 @@
+{
+    "manifest_version": 2,
+    "name": "Spacing",
+    "version": "0.1.0",
+    "description": "This is for giving space in website",
+
+    "browser_action": {
+      "default_title": "Spacer",
+     
+      "default_popup": "popup.html"
+    },
+
+    "background":{
+      "scripts":[
+          "popup.js"
+      ],
+      "persistent":true
+  },
+
+  "permissions":[
+    "https://*/*",
+    "http://*/*",
+    "tabs"
+  ]
+    
+   
+    
+   
+  } 
+  
