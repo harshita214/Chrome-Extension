@@ -1,0 +1,100 @@
+html,
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    margin: 0;
+    min-height: 180px;
+    padding: 0;
+    width: 480px;
+}
+
+h1 {
+    font-family: "Menlo", monospace;
+    font-size: 22px;
+    font-weight: 400;
+    margin: 0;
+    color: #2e165b;
+}
+
+a:link,
+a:visited {
+    color: #000000;
+    outline: 0;
+    text-decoration: none;
+}
+
+img {
+    width: 30px;
+}
+
+.modal-header {
+    align-items: center;
+    border-bottom: 0.5px solid #dadada;
+}
+
+.modal-content {
+    padding: 0 22px;
+}
+
+.modal-icons {
+    border-top: 0.5px solid #dadada;
+    height: 50px;
+    width: 100%;
+}
+
+.logo {
+    padding: 16px;
+}
+
+.logo-icon {
+    vertical-align: text-bottom;
+    margin-right: 12px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 22px;
+}
+
+.flex {
+    opacity: 1;
+    transition: opacity 0.2s ease-in-out;
+    width: 120px;
+}
+
+.flex:hover {
+    opacity: 0.4;
+}
+.flex .fa {
+    font-size: 40px;
+    color: #2e165b;
+  }
+  .btn{
+    color: #fff !important;
+    border-radius: .25rem;
+    padding: .375rem .75rem;
+    line-height: 1rem;
+    font-size: 1rem; 
+    text-align: center;
+    vertical-align: middle;
+    background-color: #2e165b;
+    border: 1px solid 007bff;
+    margin-top: .25rem;
+    margin-bottom: .25rem;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.3);
+  }
+  .btn:hover{
+    color: #fff;
+    background-color: #532d84;
+    border-color: #7e4eac;
+  }
+  .flex a div{
+    visibility: hidden;
+  }
+  .flex:hover{
+    cursor: pointer;
+  }
+  .flex:hover div{
+    visibility: visible;
+  }
