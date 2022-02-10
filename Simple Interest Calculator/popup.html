@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Interest Calculator</title>
+</head>
+
+<body>
+    <div class="mainDiv">
+        <table class="calcTable large">
+            <tbody>
+                <tr>
+                    <td class="medium">Amount </td>
+                    <td>
+                        <input type="number" id="principal" class="large">
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class="medium">Interest Rate </td>
+                    <td>
+                        <input type="range" min="1" max="20" step="0.25" value="10.25" id="rate" class="large">
+                        <span id="rate_display">10.25%</span>
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr></tr>
+                <tr>
+                    <td class="medium">No. of Years</td>
+                    <td>
+                        <select name="years" id="years" class="large">
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                            <option value="7">7</option>
+                            <option value="8">8</option>
+                            <option value="9">9</option>
+                            <option value="10">10</option>
+                        </select>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="rowField">
+            <button id="computeInterest" class="calculate">Calculate</button>
+            <button id="clearInput" class="clear">Clear</button>
+        </div>
+
+        <span id="result">
+        </span>
+    </div>
+    <script src="popup.js"></script>
+</body>
+
+</html>
