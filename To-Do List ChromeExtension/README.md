@@ -10,6 +10,5 @@ will add learn-checklist in later version of this extension
 
 
 
-
 https://user-images.githubusercontent.com/77486870/153426396-eea9c1dd-d5f0-42bc-96f6-d4c35095832e.mp4
 
