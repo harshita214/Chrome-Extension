@@ -10,8 +10,8 @@ td{
     font-size:90px;
     text-align:center;
     background-color:white;
-    color: lightblue;
-    opacity:0.7;
+    color: rgb(223, 47, 23);
+    opacity:2.0;
     }
     
     body{
@@ -21,17 +21,18 @@ td{
     
     .menu{
     width:48%;
-    background-color:darkblue;
-    color:lightblue;
+    background-color:rgb(146, 146, 231);
+    font-size:15px;
+    color:rgb(0, 0, 0);
     border: 5px solid lightblue;
-    text-decoration:none;
-    opacity:0.6;
+    text-decoration:bold;
+    opacity:3.0;
     }
     
     h1{
-    font-family:"Lucida Console", Monaco, monospace;
+    font-family:"Helvetica, sans-serif";
     font-size:40px;
-    color:blue;
+    color:rgb(147, 71, 170);
     }
     
     #alertbox{
@@ -39,7 +40,7 @@ td{
     background-color:white;
     opacity:0.8;
     color:black;
-    font-family:"Impact", Charcoal, sans-serif;
+    font-family:"Helvetica, sans-serif";
     text-decoration:bold;
     border-radius:10px;
     float:left;
