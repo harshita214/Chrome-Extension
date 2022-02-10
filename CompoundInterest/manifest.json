@@ -1,0 +1,15 @@
+{   "manifest_version":2,
+    "name":"compoundInterest",
+    "description": "this is for calculating compound interest in your browser tab",
+    "version": "0.1.0",
+    "browser_action":{
+        "default_tittle":"compoundInterest",
+        "default_popup": "popup.html"
+    },
+    "permissions":[
+        "https://*/*", 
+        "http://*/*",
+        "tabs"
+    ]
+
+}
