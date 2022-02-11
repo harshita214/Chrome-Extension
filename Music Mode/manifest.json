@@ -1,0 +1,19 @@
+{
+    "name": "Music Mode",
+    "version": "0.01",
+    "description": "Music Mode - Listen music while browsing",
+      "browser_action": {
+          "default_title": "Music Mode",
+          "default_popup": "popout.html",
+          "default_icon": "logo.png"
+      },
+    "background":{
+      "page": "background.html",
+      "persistent": true
+    },
+    "icons": {
+      "128": "logo.png"
+  },
+    "manifest_version": 2
+  }
+  
