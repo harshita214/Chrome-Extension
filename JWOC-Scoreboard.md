@@ -17,6 +17,11 @@
 | [mahimk9](https://github.com/mahimk9) | [#19](https://github.com/harshita214/Chrome-Extension/issues/19) | [#34](https://github.com/harshita214/Chrome-Extension/pull/34) | Medium | 3 |
 | [trunmhrshi](https://github.com/trunmhrshi) | [#20](https://github.com/harshita214/Chrome-Extension/issues/20) | [#24](https://github.com/harshita214/Chrome-Extension/pull/24) | Medium | 3 |
 | [mnnkhndlwl](https://github.com/mnnkhndlwl) | [#37](https://github.com/harshita214/Chrome-Extension/issues/37) | [#40](https://github.com/harshita214/Chrome-Extension/pull/40) | Medium | 3 |
+| [03amir](https://github.com/03amir) | [#5](https://github.com/harshita214/Chrome-Extension/issues/5) | [#46](https://github.com/harshita214/Chrome-Extension/pull/46) | Medium | 3 |
+| [Aniket-508](https://github.com/Aniket-508) | [#41](https://github.com/harshita214/Chrome-Extension/issues/41) | [#48](https://github.com/harshita214/Chrome-Extension/pull/48) | Medium | 3 |
+| [ayush-sleeping](https://github.com/ayush-sleeping) | [#39](https://github.com/harshita214/Chrome-Extension/issues/39) | [#49](https://github.com/harshita214/Chrome-Extension/pull/49) | Medium | 3 |
+| [whiteHatpro](https://github.com/whiteHatpro) | [#44](https://github.com/harshita214/Chrome-Extension/issues/44) | [#50](https://github.com/harshita214/Chrome-Extension/pull/50) | Medium | 3 |
+
 
 
 
