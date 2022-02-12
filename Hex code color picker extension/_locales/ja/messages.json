@@ -1,0 +1,8 @@
+{
+    "app_name": {
+        "message": "カラースポイトツール"
+    },
+    "app_description": {
+        "message": "スポイトでページから色を取得します。"
+    }
+}
