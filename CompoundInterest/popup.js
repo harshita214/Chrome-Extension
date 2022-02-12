@@ -20,7 +20,7 @@ function calculate(){
     const p =totalamount.value;
 const r = interestRate.value;
 const t = year.value;
-const amount = p * (Math.pow((1 + (r / 1)), (1 * t)));
+const amount = p * (Math.pow((1 + (r / 100)), (t)));
   // const interest = amount - p;
   if(amount>0 && p>0 && r>0 && t>0){
     result.innerHTML="total amount will be "+ amount;
