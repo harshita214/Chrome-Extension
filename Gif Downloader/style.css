@@ -1,0 +1,35 @@
+body {
+    width: 480px;
+    background-color: black;
+    color: #FFFFFF;
+}
+
+img {
+    margin-right: 5px;
+    width: 150px;
+    height: 150px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.columns{
+    justify-content: space-between;
+    display: flexbox;
+    flex: 9;
+
+}
+
+.searcharea{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
