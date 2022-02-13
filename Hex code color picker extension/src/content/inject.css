@@ -1,0 +1,478 @@
+body[enableColorCursor] *{
+	cursor: crosshair !important;
+	pointer-events: none !important;
+}
+body[enableColorCursor]{
+	cursor: crosshair !important;
+}
+
+.color-sampler-preview {
+    z-index: 2147483647 !important;
+    left: 110px;
+    top: 1765px;
+    /*border: 10px solid rgb(52, 56, 129);*/
+
+
+
+
+    position: absolute !important;
+    box-shadow: rgb(74, 74, 74) 0px 0px 0px 1px;
+    z-index: 100 !important;
+    width: 120px !important;
+    height: 120px !important;
+    background-color: white !important;
+    pointer-events: none !important;
+    box-sizing: border-box !important;
+    /*border-width: 10px;*/
+    /*border-style: solid;*/
+    /*border-color: lightgrey;*/
+    /*border-image: initial;*/
+    border-radius: 50% !important;
+    overflow: hidden !important;
+}
+
+
+.color-sampler-preview::before {
+    content: " " !important;
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 12px !important;
+    height: 12px !important;
+    pointer-events: none !important;
+    box-sizing: border-box !important;
+    display: block !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: red !important;
+    border-image: initial !important;
+    /*border-radius: 30px !important;*/
+    overflow: hidden !important;
+}
+
+.color-sampler-preview input {
+    background: rgb(99, 101, 210);
+    color: rgb(0, 0, 0);
+
+
+
+    color: white;
+    position: absolute !important;
+    bottom: 0px !important;
+    left: 0px !important;
+    right: 0px !important;
+    font-weight: 500 !important;
+    font-size: 12px !important;
+    height: 35px !important;
+    text-align: center !important;
+    display: block !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    letter-spacing: 2px !important;
+    box-shadow: none !important;
+    background: white;
+    /*border-width: initial !important;*/
+    /*border-style: none !important;*/
+    /*border-color: initial !important;*/
+    /*border-image: initial !important;*/
+    border-radius: 0px !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    transition: none 0s ease 0s !important;
+}
+
+
+.color-sampler-preview table {
+    box-sizing: border-box !important;
+    border-spacing: 0px !important;
+    /*margin: 0px !important;*/
+    margin: -1px !important;
+}
+.color-sampler-preview table, .color-sampler-preview td, .color-sampler-preview th{
+    border-collapse: collapse !important;
+    border: 1px solid #a7a7a7;
+
+}
+.color-sampler-preview tr {
+    border-width: initial !important;
+    border-style: none !important;
+    border-color: initial !important;
+    border-image: initial !important;
+}
+.color-sampler-preview td {
+
+    height: 11px !important;
+    width: 11px !important;
+    /*border-width: initial !important;*/
+    /*border-style: none !important;*/
+    /*border-color: initial !important;*/
+    /*border-image: initial !important;*/
+    padding: 0px !important;
+    /*border: 0.5px inset #00000038 !important;*/
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#fardosInjectEyeDropp {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    z-index: 9999999999 !important;
+    box-sizing: border-box !important;
+    display: block !important;
+}
+#colorPickerUI, #colorPickerUI *{
+	cursor: auto !important;
+	pointer-events: auto !important;
+}
+.fardosInjectEyeDropp canvas {
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    display: block !important;
+}
+/*.color-sampler-preview {
+    position: absolute !important;
+    z-index: 99999999999 !important;
+    box-shadow: 0 0 1px 1px rgba(34, 45, 57, 0.3) !important;
+    z-index: 100 !important;
+    width: 200px !important;
+    height: 200px !important;
+    border: 10px solid lightgrey;
+    border-radius: 50% !important;
+    background-color: white !important;
+    pointer-events: none !important;
+    overflow: hidden !important;
+    box-sizing: border-box !important;
+}
+.color-sampler-preview.active {
+    display: block !important;
+}
+.color-sampler-preview table {
+    border-spacing: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+}
+.color-sampler-preview tr {
+    border: none !important;
+}
+.color-sampler-preview td {
+    height: 6px !important;
+    width: 6px !important;
+    border: none !important;
+    padding: 0 !important;
+}
+.color-sampler-preview td[x="7"][y="7"] {
+    border: 1px solid transparent !important;
+}
+.color-sampler-preview td[x="7"][y="6"] {
+    border-bottom: 1px solid transparent !important;
+}
+.color-sampler-preview td[x="7"][y="8"] {
+    border-top: 1px solid transparent !important;
+}
+.color-sampler-preview td[x="6"][y="7"] {
+    border-right: 1px solid transparent !important;
+}
+.color-sampler-preview td[x="8"][y="7"] {
+    border-left: 1px solid transparent !important;
+}
+.color-sampler-preview::before {
+    content: " " !important;
+    position: absolute !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 10px !important;
+    height: 10px !important;
+    border: 1px solid gray !important;
+    pointer-events: none !important;
+    border-radius: 30px !important;
+    overflow: hidden !important;
+    box-sizing: border-box !important;
+    display: block !important;
+}
+.color-sampler-preview input {
+    position: absolute !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    background: white;
+    color: white;
+    font-weight: 500 !important;
+    border: none !important;
+    font-size: 12px !important;
+    height: 35px !important;
+    text-align: center !important;
+    -moz-appearance: none !important;
+    border-radius: 0 !important;
+    box-shadow: 0 !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    transition: none !important;
+    letter-spacing: 2px !important;
+    box-shadow: none !important;
+}*/
+#colorPickerUI.rightSideFardosPickerM {
+    position: fixed !important;
+    top: 10px;
+    right: 10px;
+    width: 290px !important;
+    height: auto !important;
+    /*padding-bottom: 32px !important;*/
+    border-radius: 10px !important;
+    background: white !important;
+    border: 1px solid lightgrey !important;
+    box-shadow: 0 0 1px 1px rgba(40, 52, 67, .07) !important;
+    box-sizing: border-box !important;
+    font-family: 'Helvetica' !important;
+    user-select: none !important;
+    cursor: pointer !important;
+    z-index: 9999999999 !important;
+    padding-bottom: 22px;
+}
+#colorPickerUI.rightSideFardosPickerM .closeButtns {
+    width: 35px !important;
+    height: 35px !important;
+    position: absolute !important;
+    top: 5px !important;
+    right: 5px !important;
+    border-radius: 30px !important;
+    text-align: center !important;
+    padding-top: 9px !important;
+    cursor: pointer !important;
+    transition: all .3s !important;
+    z-index: 9999999999 !important;
+    padding-left: 8px !important;
+    box-sizing: border-box !important
+}
+.fardosPickerHeader {
+    height: 43px !important;
+}
+#colorPickerUI .closeButtns svg {
+    text-align: center !important;
+    fill: #8492a6 !important;
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+    vertical-align: middle !important;
+    width: 18px !important;
+    height: 18px !important;
+    box-sizing: border-box !important;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important;
+}
+#colorPickerUI .closeButtns *, #colorPickerUI .fardoscolorBoxRemoveColor *{
+    cursor: pointer !important;
+}
+.rightSideTitleFP {
+    font-size: 16px !important;
+    font-weight: 900 !important;
+    padding-bottom: 10px !important;
+    padding-top: 5px !important;
+    padding-left: 10px !important;
+    display: inline-block !important;
+    margin: 0 !important;
+    box-sizing: border-box !important;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important;
+    margin-top: 2px !important;
+}
+.rightSideTitleFP img {
+    width: 20px !important;
+    float: left !important;
+    box-sizing: border-box !important;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important;
+    margin-top: 5px !important;
+    margin-right: 10px !important;
+}
+.rightSideTitleFP span {
+    float: left !important;
+    margin: 0 !important;
+    margin-top: 7px !important;
+    box-sizing: content-box !important;
+    line-height: 1.1 !important;
+    color: black !important;
+}
+.rightSideChosenColorsFardos {
+    border-top: 1px solid rgba(0, 0, 0, 0.1) !important;
+    max-height: 150px !important;
+    min-height: 0 !important;
+    overflow-x: hidden !important;
+    overflow: -moz-scrollbars-none !important;
+    -ms-overflow-style: none !important;
+}
+.rightSideChosenColorsFardos ul {
+    list-style: none !important;
+    padding: 0 !important;
+    margin-bottom: 0 !important;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important;
+    text-align: center !important;
+    outline: none !important;
+}
+.rightSideChosenColorsFardos ul li {
+    display: block !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border-bottom: 1px solid rgb(254, 168, 88)!important;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important;
+    text-align: center !important;
+    outline: none !important;
+}
+#colorPickerUI .bottomBttnsSaveColorsF {
+    position: absolute !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    padding: 5px 10px !important;
+    display: inline-block !important;
+    text-align: center !important;
+    background: #64db94 !important;
+    background: linear-gradient(-45deg, rgb(254, 168, 88), rgb(254, 168, 88)) !important;
+    font-size: 10px !important;
+    text-transform: uppercase !important;
+    letter-spacing: 1px !important;
+    font-weight: 900 !important;
+    color: rgb(254, 168, 88) !important;
+    text-decoration: none !important;
+    cursor: pointer !important;
+    box-sizing: content-box !important;
+    line-height: 1.2 !important;
+    outline: none !important;
+    border-bottom-left-radius: 10px !important;
+    border-bottom-right-radius: 10px !important;
+}
+#colorPickerUI .bottomBttnsSaveColorsF.alternateAddvertise{
+    background: linear-gradient(-45deg, rgb(0 184 255), rgb(110 0 255)) !important;
+}
+.bottomBttnsSaveColorsF.settogo {
+    background: #1bd138 !important;
+}
+#colorPickerUI .colorBoxFardosPick {
+    width: 25px !important;
+    height: 25px !important;
+    border-radius: 4px !important;
+    background: orange;
+    box-shadow: 0 0 1px 1px rgba(40, 52, 67, .07) !important;
+    display: inline-block !important;
+    position: relative !important;
+    vertical-align: middle !important;
+    float: left !important;
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+    margin-inline-start: 0px !important;
+    margin-inline-end: 0px !important;
+    margin-top: 10px !important;
+    margin-left: 10px !important;
+    cursor: pointer !important;
+}
+.colorBoxFardosPick svg {
+    fill: white !important;
+}
+#colorPickerUI .fardoscolorHexCode,
+#colorPickerUI .fardoscolorRGBCode {
+    display: inline-block !important;
+    font-size: 12px !important;
+    font-weight: 900 !important;
+    letter-spacing: 0.5px !important;
+    cursor: pointer !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    padding-left: 10px !important;
+    padding-right: 5px !important;
+    text-align: left !important;
+    color: #1F2667;
+    float: left;
+    box-sizing: content-box !important;
+    line-height: 1.3 !important;
+}
+.fardoscolorHexCode {
+    width: 55px !important;
+}
+.fardoscolorRGBCode {
+    /*width: 120px !important;*/
+}
+#colorPickerUI .fardoscolorBoxRemoveColor {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    padding: 4px !important;
+    visibility: hidden !important;
+    opacity: 0 !important;
+    transition: 0.3s all !important;
+    cursor: pointer !important;
+    background: #00000063;
+    border-radius: 4px !important;
+}
+#colorPickerUI .colorBoxFardosPick:hover .fardoscolorBoxRemoveColor {
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+.bottomFardosInjectStatus {
+    float: right !important;
+    text-align: right !important;
+    font-size: 11px !important;
+    font-weight: 400 !important;
+    letter-spacing: 0.3px !important;
+    position: absolute !important;
+    bottom: -20px !important;
+    right: 0 !important;
+    margin: 0 !important;
+}
+

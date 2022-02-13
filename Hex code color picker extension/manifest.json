@@ -1,0 +1,34 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "__MSG_app_name__",
+  "description": "__MSG_app_description__",
+  "default_locale": "en",
+  "version": "1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icons/art-and-design.png"
+  },
+  "browser_action": {},
+  "background": {
+    "scripts": [
+      "js/jquery.min.js",
+      "src/bg/background.js"
+    ]
+  },
+  "web_accessible_resources": [
+    "src/content/inject.css",
+    "icons/art-and-design.png"
+  ],
+  "permissions": [
+    "activeTab"
+  ],
+  "commands": {
+    "_execute_browser_action": {
+        "suggested_key": {
+            "windows": "Alt+Shift+C",
+            "mac": "Alt+Shift+C"
+        }
+    }
+  }
+}
