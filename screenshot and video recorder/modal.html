@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>ModalSrteam</title>
+    <link href="css/style.css" rel="stylesheet"/>
+</head>
+<body>
+    <div id="sm_modalRecordDelay">
+       <p class="sm_record_data"> Start recording in 5...4...3...2...1...</p>
+    </div>
+    <script>
+        setTimeout(function () {
+            document.getElementById('sm_modalRecordDelay').style.display = 'none';
+        }, 3000);
+    </script>
+</body>
