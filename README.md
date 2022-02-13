@@ -82,7 +82,10 @@
 | 02. | [Abusive Word Hider](https://github.com/harshita214/Chrome-Extension/tree/main/Abusive%20Word%20Hider) | [Ayush Mishra](https://github.com/ayush-sleeping) |
 | 03. | [Alarm clock](https://github.com/harshita214/Chrome-Extension/tree/main/Alarm%20clock) | [Harshita sharma](https://github.com/harshita214) & [Siddhant Singh](https://github.com/siddhantsingh-1) |
 | 04. | [Coding Profile Launcher](https://github.com/harshita214/Chrome-Extension/tree/main/Coding%20Profile%20Launcher) | [Ayush Mishra](https://github.com/ayush-sleeping) |
+| 04. | [Gif Downloader](https://github.com/harshita214/Chrome-Extension/tree/main/Gif%20Downloader) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
+| 05. | [Hex code color picker](https://github.com/harshita214/Chrome-Extension/tree/main/Hex%20code%20color%20picker%20extension) | [Mohak Srivastav](https://github.com/whiteHatpro) |
 | 05. | [Highlight Us](https://github.com/harshita214/Chrome-Extension/tree/main/Highlight%20Us) | [Suman Mondal](https://github.com/thatsuman) |
+| 05. | [Music Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Music%20Mode) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
 | 06. | [Night Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Night%20Mode) | [RajulPE](https://github.com/RajulPE) |
 | 07. | [Prank Your Friend](https://github.com/harshita214/Chrome-Extension/tree/main/PrankYourFriend) | [Mahim Kapoor](https://github.com/mahimk9) |
 | 08. | [Quotes](https://github.com/harshita214/Chrome-Extension/tree/main/Quotes) | [Tarun Maharshi](https://github.com/trunmhrshi) |
