@@ -1,0 +1,16 @@
+{
+    "name": "GIF Downloader",
+    "description": "A simple gif downloader",
+    "manifest_version": 2,
+    "version": "1.0",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+    },
+    "permissions": [
+        "downloads"
+    ]
+}
