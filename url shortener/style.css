@@ -1,0 +1,12 @@
+body {
+    width: 400px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.toast-success{
+    margin-top: 10px;
+}
