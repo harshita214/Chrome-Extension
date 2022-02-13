@@ -20,3 +20,7 @@ Take a screenshot or record your screen with, powerful screen capture and screen
 
 ▸ Upload screenshots and screen video records to Google Drive.
 ▸ Automatically generates a link that you can share with anyone.
+
+
+https://user-images.githubusercontent.com/77486870/153755427-4d204d48-37d5-43e5-a345-c8fa96318f12.mp4
+
