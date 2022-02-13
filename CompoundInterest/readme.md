@@ -9,4 +9,5 @@ This extension calculate compound interest in a click in your browser tab.
 ---
 ## Screenshots
 
-![Extension](./c.png)
+![Extension](./12.png)
+![Extension](./123.png)
