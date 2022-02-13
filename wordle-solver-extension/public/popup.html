@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>My Chrome Extension</title>
+    <link rel="stylesheet" href="popup.css" />
+  </head>
+  <body>
+    <div class="app">
+      <img id="wordle-image" src="icons/logo.png" alt="Worlde Game AI Player" />
+
+      <p class="title">Wordle AI Player</p>
+
+      <span id="game-state">READY</span>
+
+      <h4 id="not-wordle-warning">
+        Please Make sure to go to the Official Wordle Game Website to play!
+      </h4>
+
+      <span id="won">Yay!! You Won!</span>
+      <span id="lost">Whoow! You Lost!</span>
+
+      <hr class="divider" />
+
+      <div class="horizontal-container">
+        <button id="play" class="button">Play</button>
+        <button id="reset-game" class="button button-secondary">Reset!</button>
+      </div>
+    </div>
+
+    <script src="popup.js"></script>
+
+    <!--
+    This HTML file opens when you click on icon from the toolbar.
+
+    To begin the development, run `npm run watch`.
+    To create a production bundle, use `npm run build`.
+  --></body>
+</html>

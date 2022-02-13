@@ -1,0 +1,143 @@
+/* normalize css starts here */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* normalize css ends here */
+
+html {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif;
+  color: #222;
+}
+
+body {
+  width: 320px;
+  min-height: 300px;
+  max-height: 400px;
+}
+
+.app {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 8px;
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 12px;
+}
+
+code {
+  font-size: 12px;
+  font-family: inherit;
+  background-color: rgba(254, 237, 185, 0.3);
+  padding: 2px 4px;
+  border-radius: 2px;
+}
+
+.counter-label {
+  font-size: 12px;
+  margin-bottom: 5px;
+}
+
+.counter {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+.button-container {
+  margin-top: 15px;
+}
+
+.button {
+  border: 0;
+  display: inline-block;
+  padding: 10px 20px;
+  margin-right: 4px;
+  margin-left: 4px;
+  background-color: #6aaa64;
+  color: #fff;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: transform 0.2s ease;
+  user-select: none;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  user-select: none;
+}
+
+.button:hover:enabled {
+  transform: scale(1.1);
+}
+
+.button-secondary {
+  background-color: #787c7e;
+  color: #fff;
+}
+
+.divider {
+  margin: 30px auto 25px;
+  width: 50px;
+  border: 0.5px dashed #000;
+  opacity: 0.1;
+}
+
+#won {
+  display: none;
+  font-size: 22px;
+  color: #2ecc71;
+  margin-top: 1em;
+}
+
+#lost {
+  display: none;
+  font-size: 22px;
+  color: #c85d51;
+  margin-top: 1em;
+}
+
+#wordle-image {
+  height: 5em;
+  width: auto;
+  margin-bottom: 2rem;
+}
+
+#horizontal-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+#not-wordle-warning {
+  display: flex;
+  font-size: 12px;
+  color: #c89a51;
+  margin-top: 1em;
+}
+
+#game-state {
+  margin: 1em 0;
+}
