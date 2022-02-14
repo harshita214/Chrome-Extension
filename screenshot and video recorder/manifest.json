@@ -1,0 +1,67 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "browser_action": {
+      "default_icon": "/images/128.png",
+      "default_popup": "/popup.html",
+      "default_title": "Screenshot-master"
+   },
+   "commands": {
+      "all_page_capture": {
+         "description": "Capture all page",
+         "suggested_key": {
+            "default": "Ctrl+Shift+Y",
+            "mac": "Command+Shift+Y"
+         }
+      },
+      "start_record": {
+         "description": "Start record",
+         "suggested_key": {
+            "default": "Ctrl+Shift+E",
+            "mac": "Command+Shift+E"
+         }
+      },
+      "stop_record": {
+         "description": "Stop record",
+         "suggested_key": {
+            "default": "Ctrl+Shift+K",
+            "mac": "Command+Shift+K"
+         }
+      },
+      "visible_area_capture": {
+         "description": "Capture visible area",
+         "suggested_key": {
+            "default": "Ctrl+Shift+S",
+            "mac": "Command+Shift+S"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "css": [ "/css/content.css", "/libs/fontawesome/css/all.min.css", "/libs/fontawesome/css/fontawesome.min.css" ],
+      "js": [ "/libs/jquery.js", "/libs/detect_zoom.js", "/libs/cropper.js", "/js/plugin.js", "/js/content.js", "/libs/fabric.js", "/libs/fabric-history.js", "/libs/platform.js", "/libs/cors_upload.js", "/js/state.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://apis.google.com blob: 'unsafe-eval'; object-src 'self';script-src-elem 'self' blob: 'unsafe-eval';",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "differential_fingerprint": "1.d3c2e81a0aecfde5ede75d440c4d79f08e519ba27892e8ea5dc1d99f46b98fe7",
+   "icons": {
+      "128": "/images/128.png",
+      "32": "/images/32.png",
+      "64": "/images/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj9P2urVPoYjViSTuJ2RlGqJAWdwzncy2GmT//sNyyi9CPRbjApb8k6CR22zK6EvFCFk6Mb7l8Rp5RaRLlrLzfU7MqdLzXj1pXq/ZS8bRbCzjjTnDl11A2qxgu3BjGSh2rHHhmf/gOlZaegYCTh2u7EuKKeUwJXsso+3rXjvohW4lq7Gzu7ccAPnhz9d7SIxKJLSR3UL9Yx/k5M+J8neMVjGa7sxQucmn/jaPTBQlrg/D2C3cgNm4V1tuQUdo4By3QP0eFea7pqelX8eMUl4L6TRmBbcExFfUkahe09J3okbkIGw5922Z2ywvYJJ5Sux2UAi1cQXyhRfMQVJhobx3sQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "oauth2": {
+      "client_id": "504884789030-r8gttlp2qdjvaibag1emgghgetg3c43m.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/userinfo.email", "https://www.googleapis.com/auth/drive.file" ]
+   },
+   "offline_enabled": true,
+   "permissions": [ "storage", "downloads", "tabs", "activeTab", "\u003Call_urls>", "identity", "identity.email", "tabCapture", "desktopCapture" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1.0",
+   "web_accessible_resources": [ "/images/*.png", "/libs/jquery.js", "frame-video.html" ]
+}
