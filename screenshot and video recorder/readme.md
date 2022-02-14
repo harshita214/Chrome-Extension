@@ -24,3 +24,8 @@ Take a screenshot or record your screen with, powerful screen capture and screen
 
 https://user-images.githubusercontent.com/77486870/153755427-4d204d48-37d5-43e5-a345-c8fa96318f12.mp4
 
+![Screenshot (121)](https://user-images.githubusercontent.com/77486870/153867371-07162006-dfd6-4582-adce-1906a9b276d4.png)
+
+![Screenshot (122)](https://user-images.githubusercontent.com/77486870/153867556-469871ae-f0a8-47bd-a5eb-cc0f86db1b1f.png)
+
+![Screenshot (123)](https://user-images.githubusercontent.com/77486870/153867584-7510b36f-5168-4dc9-b6ba-466a10ec46c6.png)
