@@ -10,10 +10,25 @@ body{
     background: rgba(250, 250, 250, 0.85);
 }
 
+.input{
+    margin-bottom: 10px;
+    
+}
+
+#city{
+    padding: 5px;
+}
+
+.submit{
+    padding: 5px;
+    cursor: pointer;
+}
+
 p{
     margin-top: 10px;
     text-transform: uppercase;
     letter-spacing: 1px;
+    font-size: 1.1rem;
 }
 
 sup{
