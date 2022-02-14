@@ -1,0 +1,25 @@
+body {
+    width: 500px;
+   height: 100%;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.toast-success{
+    margin-top: 10px;
+}
+.btn-success{
+    margin-top: 10px;
+}
+.form-input{
+    margin-top: 10px;
+}
+.card-footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

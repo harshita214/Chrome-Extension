@@ -1,0 +1,19 @@
+{
+    "name": "URL Shortener",
+    "version": "0.1",
+    "description": "Covert your large urls to tiny ones",
+    "icons": {
+        "128": "logo.png"
+    },
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": false
+    },
+    "manifest_version": 2,
+    "permissions": [
+        "storage"
+    ]
+}
