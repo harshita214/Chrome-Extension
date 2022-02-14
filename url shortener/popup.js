@@ -2,12 +2,20 @@ let generateBtn = document.querySelector("#shortURL");
 let api = document.querySelector("#myurl");
 let toastError = document.querySelector('.toast-error')
 let toastSuccess = document.querySelector('.toast-success')
+let copy = document.getElementById('copybutton')
 let loader = document.querySelector('.loading')
+var text = document.getElementById("myInput");
 const url = new URL("https://t.ly/api/v1/link/shorten"); //api url endpoint
 let headers = {
     "Content-Type": "application/json",
     "Accept": "application/json",
 }
+
+copy.addEventListener('click',()=>{
+text.select();
+document.getSelection().removeAllRanges();
+navigator.clipboard.writeText(text.value);
+})
 
 generateBtn.addEventListener('click', () => {
     if (api.value) {
@@ -24,9 +32,10 @@ generateBtn.addEventListener('click', () => {
                 })
             }).then(response => response.json())
                 .then(json => {
-                    loader.classList.add('d-hide')
-                    toastSuccess.classList.remove('d-hide');
-                    toastSuccess.textContent = json.short_url; //from the json response 
+                    loader.classList.add('d-hide');
+                    text.classList.remove('d-hide');
+                    text.value = json.short_url; //from the json response 
+                    copy.classList.remove('d-hide');
                 })
                 .catch(err => { alert(err) })
         });
