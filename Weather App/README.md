@@ -12,7 +12,7 @@
 </p>
 <br/>
 <h2 align="center">Description</h2>
-<p> This is an weather app which takes the current user location and displays the weather of that place. The weather information includes:
+<p> This is a weather app which takes the current user location and displays the weather of that place. The weather information includes:
 
 -  Current city
 -  Country code
