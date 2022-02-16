@@ -1,0 +1,61 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+	"name": "Tumblr - Tiled Dashboard",
+	"version": "0.1",
+	"manifest_version": 1,
+	"description": "This extension modifies the look of your Tumblr dashboard.",
+	"icons":
+	{
+		"16": "images/icon_16.png",
+		"128": "images/icon_128.png"
+	},
+	"background":
+	{
+		"page": "background.html"
+	},
+	"content_scripts": [
+	{
+		"matches": [
+			"*://*.tumblr.com/dashboard*",
+			"*://*.tumblr.com/blog*",
+			"*://*.tumblr.com/drafts*",
+			"*://*.tumblr.com/queue*",
+			"*://*.tumblr.com/inbox*",
+			"*://*.tumblr.com/liked/by*",
+			"*://*.tumblr.com/likes*",
+			"*://*.tumblr.com/tagged*"
+		],
+		"css": [
+			"styles.css"
+		],
+		"js": [
+			"jquery-3.5.0.min.js",
+			"masonry.min.js",
+			"messagehandler.js",
+			"settings.js",
+			"common.js",
+			"pagehandler.js",
+			"options.js",
+			"observer.js",
+			"postshandler.js",
+			"post.js",
+			"layouthandler.js",
+			"ighelper.js",
+			"tiled_dashboard.js"
+		]
+	}],
+	"permissions": [
+		"https://ig-rss.ddns.net/",
+		"https://www.instagram.com/",
+		"https://www.google-analytics.com/",
+		"https://api.tumblr.com/v2/*",
+		"webRequest",
+		"storage",
+		"tabs"
+	],
+	"web_accessible_resources": [
+		"options.html"
+	],
+	"content_security_policy": "script-src 'self' https://api.tumblr.com/v2/ https://ssl.google-analytics.com; object-src 'self'"
+}
