@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+      <meta charset="UTF-8">
+      <title>Website Screenshot</title>
+      <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+      <link href="/css/style.css" rel="stylesheet"/>
+    <!--  <link href="/libs/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>-->
+      <script src="/libs/jquery.js"></script>
+      <script src="/js/popup.js"></script>
+      <script src="/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <link href="/libs/bootstrap-toggle-master/css/bootstrap-toggle.min.css" rel="stylesheet">
+      <script src="/libs/bootstrap-toggle-master/js/bootstrap-toggle.min.js"></script>
+    <!--  <link href="/libs/fontawesome/css/all.min.css" rel="stylesheet">
+      <link href="/libs/fontawesome/css/fontawesome.min.css" rel="stylesheet">-->
+  </head>
+  <body class="popup-box sm_root" style="display: none; min-height: 400px; min-width: 300px;">
+    <!--<div id="working" style="display: none"></div>-->
+    <div id="message" style="display: none">
+      <div class="warning-wrapper">
+      </div>
+      <h1>Warning</h1>
+        <div class="message-container">
+        </div>
+    </div>
+    <div id="sm_tabs">
+        <ul class="nav nav-tabs flex-row" style="width: 100%" id="myTab" role="tablist">
+          <li class="nav-item" role="presentation">
+            <a class="nav-link active" id="home-tab" data-toggle="tab" href="#capture" role="tab" aria-controls="home" aria-selected="true">
+              <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0)">
+                  <path d="M19.2032 5.13983H16.0474V4.80668C16.0474 3.3183 14.8718 2.11034 13.4234 2.11034H8.40447C6.95542 2.11034 5.78044 3.3183 5.78044 4.80668V5.13983H2.62403C1.17498 5.13983 0 6.34719 0 7.83618V17.6233C0 19.1117 1.17498 20.3197 2.62403 20.3197H19.2044C20.6534 20.3197 21.8284 19.1117 21.8284 17.6233V7.83618C21.8272 6.34659 20.6523 5.13983 19.2032 5.13983ZM10.913 17.5226C8.17939 17.5226 5.95654 15.2385 5.95654 12.4295C5.95654 9.62116 8.17939 7.33645 10.913 7.33645C13.6467 7.33645 15.8695 9.62056 15.8695 12.4295C15.8695 15.2385 13.6461 17.5226 10.913 17.5226ZM13.5371 12.4295C13.5371 13.9149 12.3592 15.1259 10.913 15.1259C9.46691 15.1259 8.28901 13.9149 8.28901 12.4295C8.28901 10.9436 9.46691 9.7332 10.913 9.7332C12.3592 9.7332 13.5371 10.9436 13.5371 12.4295Z" fill="#A5ADC2"/>
+                </g>
+                <defs>
+                  <clipPath id="clip0">
+                    <rect width="21.8284" height="22.43" fill="white"/>
+                  </clipPath>
+                </defs>
+              </svg>
+            </a>
+          </li>
+          <li class="nav-item"role="presentation">
+            <a class="nav-link" id="record-tab" data-toggle="tab" href="#record" role="tab" aria-controls="profile" aria-selected="false">
+              <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g clip-path="url(#clip0)">
+                  <path d="M12.1977 4.66672H2.38095C1.06659 4.66821 0.0014881 5.73331 0 7.04767V14.95C0.0014881 16.2644 1.06659 17.3295 2.38095 17.331H12.1977C13.5121 17.3295 14.5772 16.2644 14.5787 14.95V7.04767C14.5772 5.73331 13.5121 4.66821 12.1977 4.66672V4.66672Z" fill="#A5ADC2"/>
+                  <path d="M21.7598 5.90642C21.6114 5.82178 21.4289 5.82308 21.2816 5.90995L16.0167 9.01859C15.8716 9.10434 15.7827 9.26022 15.7827 9.42874V12.3004C15.7827 12.4475 15.8506 12.5865 15.9669 12.6767L21.2317 16.7641C21.3753 16.8756 21.5699 16.8956 21.7332 16.8157C21.8966 16.7357 22 16.5697 22 16.3878V6.31992C22 6.14898 21.9083 5.99124 21.7598 5.90642Z" fill="#A5ADC2"/>
+                </g>
+                <defs>
+                  <clipPath id="clip0">
+                    <rect width="22" height="22" fill="white"/>
+                  </clipPath>
+                </defs>
+              </svg>
+            </a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="history-tab" data-toggle="tab" href="#history" role="tab" aria-controls="profile" aria-selected="false">
+              <svg width="22" height="22" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M11.5238 6.80956V12.0476L16.0076 14.7086L16.7619 13.4357L13.0952 11.2619V6.80956H11.5238Z" fill="#A5ADC2"/>
+                <path d="M12.5662 1.57143C7.35429 1.57143 3.14286 5.79331 3.14286 11H0L4.08046 15.0805L4.15378 15.2323L8.38097 11H5.23811C5.23811 6.95097 8.5224 3.66668 12.5714 3.66668C16.6205 3.66668 19.9047 6.95097 19.9047 11C19.9047 15.049 16.6205 18.3333 12.5714 18.3333C10.5443 18.3333 8.71617 17.5057 7.39097 16.1805L5.90857 17.6629C7.61097 19.3705 9.96286 20.4286 12.5662 20.4286C17.7781 20.4286 22 16.2067 22 11C22 5.79331 17.7781 1.57143 12.5662 1.57143Z" fill="#A5ADC2"/>
+              </svg>
+            </a>
+          </li>
+        </ul>
+    </div>
+    <div class="tab-content" style="padding-top: 20px;" id="myTabContent">
+
+      <div class="tab-pane fade show active" id="capture" role="tabpanel" aria-labelledby="home-tab">
+        <h5>Capture a <span>screenshot</span></h5>
+        <h6>Choose the type of screen capture</h6>
+          <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+              <li class="nav-item withoutContentScript first-child-capture" role="presentation" style="line-height: 18.5; margin-right: 15px;">
+                <a class="nav-link withoutContentScript capture-all flex-view" id="pills-home-tab" data-toggle="pill" href="#allPage" role="tab" aria-controls="pills-home" aria-selected="true">
+                  <img src="./images/cats_images/1-1.svg"/>
+                  <h4>Whole page</h4>
+                  <div class="sm_shortCuts_wrapper">
+                    <span class="sm_shortCuts_blue">Ctrl</span>
+                    <span class="sm_shortCuts_blue">Shift</span>
+                    <span class="sm_shortCuts_blue">Y</span>
+                  </div>
+                </a>
+              </li>
+              <li class="nav-item" role="presentation">
+                <a class="nav-link withContentScript capture-visible flex-view" id="pills-profile-tab" data-toggle="pill" href="#visibleArea" role="tab" aria-controls="pills-profile" aria-selected="false">
+                  <img src="./images/cats_images/1-2.svg"/>
+                  <h4>Visible area</h4>
+                  <div class="sm_shortCuts_wrapper">
+                    <span class="sm_shortCuts_yellow">Ctrl</span>
+                    <span class="sm_shortCuts_yellow">Shift</span>
+                    <span class="sm_shortCuts_yellow">S</span>
+                  </div>
+                </a>
+                <a class="nav-link withoutContentScript capture-region" id="pills-contact-tab" data-toggle="pill" href="#selectedArea" role="tab" aria-controls="pills-contact" aria-selected="false">
+                  <img src="./images/cats_images/1-3.svg"/>
+                  <h4>Custom area</h4>
+                </a>
+              </li>
+          </ul>
+          <div class="sm_footer">
+            <a href="#" class="rateUsLink" target="_blank">Please rate us</a>
+            <a href="#" class="getSupportedLink" target="_blank">Get support</a>
+          </div>
+      </div>
+
+      <div class="tab-pane fade" id="record" style="position: relative; min-height: 300px;" role="tabpanel" aria-labelledby="profile-tab">
+        <!-- <div style="position: absolute; width: 300px; height: 450px;"></div> -->
+        <div id="startRecording_container" style="display: none;">
+          <h5>Capture a <span>screen record</span></h5>
+          <h6>Choose the type of screen video</h6>
+
+          <!-- if recording not started -->
+          <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+            <li class="nav-item first-child-record" role="presentation">
+              <!-- record desktop -->
+              <a class="nav-link active record-screen btn-handler flex-view"
+                id="sm_record_desktop" data-toggle="pill"
+                href="#desktopRecord" role="tab" aria-controls="pills-home"
+                aria-selected="true"
+                data-message="startRecordDesktop"
+                data-recording="started"
+              >
+                <img src="./images/cats_images/3-2.svg"/>
+                <h4>Desktop</h4>
+              </a>
+              <a class="nav-link active record-screen-tab btn-handler flex-view"
+                id="sm_record_desktop_tab" data-toggle="pill"
+                href="#desktopRecord" role="tab" aria-controls="pills-home"
+                aria-selected="true"
+                data-message="startRecordDesktopTab"
+                data-recording="started"
+              >
+              <img src="./images/normal_gr.svg"/>
+              <h4>Current tab</h4>
+              <h5></h5>
+            </a>
+
+
+            </li>
+            <li class="nav-item" role="presentation">
+              <!-- record web -->
+              <a class="nav-link record-webcam camIsNotAvailable btn-handler flex-view"
+                id="sm_record_webcam" data-toggle="pill" href="#camRecord"
+                role="tab" aria-controls="pills-profile" aria-selected="false"
+                data-message="startRecordWeb"
+                data-recording="started"
+              >
+                <img src="./images/cats_images/2-2.svg"/>
+                <h4>Webcam</h4>
+                <button type="button" class="btn warning" data-bs-toggle="tooltip" data-bs-placement="top" title="Camera access required">
+                  <img src="./images/warning_small.svg" class="warning">
+                </button>
+              </a>
+              <!-- record web&desktop -->
+              <a class="nav-link record-both camIsNotAvailable btn-handler flex-view" id="sm_record_both" data-toggle="pill" href="#desktopCamRecord" role="tab" aria-controls="pills-home" aria-selected="true"
+                data-message="startRecordDesktopWeb"
+                data-recording="started"
+              >
+                <img src="./images/cats_images/2-3.svg"/>
+                <h4>Both</h4>
+                <button type="button" class="btn warning" data-bs-toggle="tooltip" data-bs-placement="top" title="Camera access required">
+                  <img src="./images/warning_small.svg" class="warning"/>
+                </button>
+              </a>
+            </li>
+          </ul>
+          <!-- end if recording is not started -->
+
+          <div class="sm_footer">
+            <div class="sm_footer_wrapper">
+                <img class="sm_image_mic_on" src="images/microphone_img_on.svg" style="display: none"/>
+                <img class="sm_image_mic_off" src="images/microphone_img_off.svg"/>
+  
+                <div class="sm_checkbox">
+                  <div class="custom-control custom-switch grand-access">
+                    <input type="checkbox" class="custom-control-input checkedMicrophone btn-handler-mic" id="checkboxGrantAccess">
+                    <label class="custom-control-label" for="checkboxGrantAccess"></label>
+                  </div>
+                </div>
+  
+                <div class="sm_checkbox">
+                  <div class="custom-control custom-switch mic-access" style="display:none">
+                    <input type="checkbox" class="custom-control-input checkedMicrophone" id="checkboxMicrophoneAccess" checked>
+                    <label class="custom-control-label" for="checkboxMicrophoneAccess"></label>
+                  </div>
+                </div>
+                <img class="sm_image_system_sound_on" src="images/normal.svg" style="width: 22px; height: 22px" style="display: none"/>
+                <img class="sm_image_system_sound_off" src="images/muted.svg" style="width: 22px; height: 22px"/>
+  
+                <div class="sm_checkbox">
+                  <div class="custom-control custom-switch">
+                    <input type="checkbox" class="custom-control-input checkedSystemSound" id="checkboxSystemSoundAccess" checked>
+                    <label class="custom-control-label" for="checkboxSystemSoundAccess"></label>
+                  </div>
+                </div>
+
+            </div>
+
+            <div class="sm_support">
+              <a href="#" target="_blank" class="getSupportedLink">Get support</a>
+            </div>
+          </div>
+        </div>
+
+        <!-- recording is in progress -->
+        <div class="tab-content" id="recordingControls_container" style="display: none;">
+          <h5>Chrome tab <span>capture</span></h5>
+          <h6>Press a button to start recording</h6>
+          <div class="tab-pane fade show active" id="desktopRecord" role="tabpanel" aria-labelledby="pills-home-tab">
+            <div>
+              <div class="desktopRecord-start">
+                <button
+                    class="resume-recording-desktop btn btn-primary btn-block btn-handler"
+                    data-message="resumeRecordDesktop"
+                    data-recording="resumed"
+                    >
+                    <img src="./images/start_recording.svg" style="width: 51px; height: 51px;">
+                    <h4>Start recording</h4>
+                  </button>
+              </div>
+              <div class="desktopRecord-pause-stop">
+                  <button
+                    class="pause-recording-desktop btn btn-primary btn-block btn-handler"
+                    data-message="pauseRecordDesktop"
+                    data-recording="paused"
+                  >
+                  <img src="./images/pause_resume_recording.svg">
+                  <h4>Pause</h4>
+                  </button>
+                  <button
+                    disabled
+                    class="stop-recording-desktop btn btn-primary btn-block btn-handler"
+                    data-message="stopRecordDesktop"
+                    data-recording="notStarted"
+                    >
+                    <img src="./images/stop_recording.svg">
+                    <h4>Stop</h4>
+                    <div class="sm_shortCuts_wrapper">
+                      <span class="sm_shortCuts_blue">Ctrl</span>
+                      <span class="sm_shortCuts_blue">Shift</span>
+                      <span class="sm_shortCuts_blue">K</span>
+                    </div>
+                  </button>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane fade" id="camRecord" role="tabpanel" aria-labelledby="pills-profile-tab">
+            <div>
+              <div class="cameraRecord-start">
+                <button
+                  class="start-recording-web btn btn-primary btn-block btn-handler"
+                  data-message="startRecordWeb"
+                  data-recording="started"
+                  >
+                  Start recording
+                </button>
+              </div>
+              <div class="cameraRecord-pause-stop">
+                <button
+                  class="pause-recording-web btn btn-primary btn-block btn-handler"
+                  data-message="pauseRecordWeb"
+                  data-recording="paused"
+                  >
+                  Pause
+                </button>
+                <button
+                  class="resume-recording-web btn btn-primary btn-block btn-handler"
+                  data-message="resumeRecordWeb"
+                  data-recording="resumed"
+                  >
+                  Resume
+                </button>
+                <button
+                  class="stop-recording-web btn btn-primary btn-block btn-handler"
+                  data-message="stopRecordWeb"
+                  data-recording="notStarted"
+                >
+                  Stop
+                </button>
+              </div>
+            </div>
+          </div>
+          <div class="tab-pane fade" id="desktopCamRecord" role="tabpanel" aria-labelledby="pills-desktop-cam-tab">
+            <div class="desktopCamRecord-start">
+              <button
+                class="start-recording-desktop-web btn btn-primary btn-block btn-handler"
+                type="button"
+                aria-pressed="false"
+                data-message="startRecordDesktopWeb"
+                data-recording="started"
+                >
+                Start recording
+              </button>
+            </div>
+            <div class="desktopCamRecord-pause-stop">
+              <button
+                class="pause-recording-desktop-web btn btn-primary btn-block btn-handler"
+                data-message="pauseRecordDesktopWeb"
+                data-recording="paused"
+                >
+                Pause
+              </button>
+              <button
+                class="resume-recording-desktop-web btn btn-primary btn-block btn-handler"
+                data-message="resumeRecordDesktopWeb"
+                data-recording="resumed"
+                >
+                Resume
+              </button>
+              <button
+                class="stop-recording-desktop-web btn btn-primary btn-block btn-handler"
+                data-message="stopRecordDesktopWeb"
+                data-recording="notStarted"
+                >
+                Stop
+              </button>
+            </div>
+
+          </div>
+          <div class="sm_footer">
+            <div class="sm_footer_wrapper">
+              <div class="sm_image_mic_on">
+                <img src="images/microphone_img_on.svg"/>
+                <span>Microphone ON</span>
+              </div>
+              <div class="sm_image_mic_off">
+                <img src="images/microphone_img_off.svg"/>
+                <span>Microphone OFF</span>
+              </div>
+
+            </div>
+            <div class="sm_support">
+              <a href="#" class="getSupportedLink" target="_blank">Get support</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+    <!--  </div>-->
+      <div class="tab-pane fade history-content" id="history" role="tabpanel" aria-labelledby="profile-tab">
+     <!--   <div class="history section" id="history_data"></div>-->
+          <div class="history_wrapper">
+            <h3>History</h3>
+            <h6>Click the button below to view the history of screenshots & screen recordings</h6>
+            <button type="button" class="btn btn-primary show-history">Show History</button>
+          <!--  <a class="show-history">
+            <span class="icon icon-eye"></span>
+            <span tr="history">Show History</span>
+          </a>-->
+        </div>
+        <div class="sm_footer">
+          <a href="#" target="_blank" class="rateUsLink">Please rate us</a>
+          <a href="#" target="_blank" class="getSupportedLink">Get support</a>
+        </div>
+      </div>
+
+    <!-- <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">789</div>-->
+    </div>
+    <div class="window_message" style="display: none" id="noall" tr="noall"></div>
+    <script src="/libs/util.js"></script>
+    <script src="/libs/filesystem.js"></script>
+    <script src="/history/popup_view_history.js"></script>
+  </body>
+</html>

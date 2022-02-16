@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Camera</title>
+
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+    <link href="css/content.css" rel="stylesheet"/>
+    <script src="/libs/jquery.js"></script>
+
+    <script src="/js/camera.js"></script>
+</head>
+<body id="window-camera">
+    <div id="sm_wrapperforVideoDataId">
+        <div id="sm_duration" style="display: none;">
+            <span class="sm_recordImage"></span>
+            <span id="sm_durationId"></span>
+        </div>
+        <div class="pointer" id="sm_btnClose" style="display: none"></div>
+
+        <video id="sm_videoId" autoplay></video>
+
+        <div id="sm_videoDataId">
+            <div id="sm_btn_micr" style="display: none;"></div>
+            <div class="pointer" id="sm_btn_micr_muted" style="display: none"></div>
+            <div class="pointer" id="sm_btn_stop" style="display: none"><span></span></div>
+            <div class="pointer" id="sm_btn_pause" style="display: none"></div>
+            <div class="pointer" id="sm_btn_resume" style="display: none"></div>
+            <span></span>
+        </div>
+        </div>
+    </div>
+</body>
+</html>
