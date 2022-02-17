@@ -1,4 +1,4 @@
-# **Quotes Extension**
+# **Compound interest calculator Extension**
 This extension calculate compound interest in a click in your browser tab.
 
  ## Technologies used:
@@ -9,5 +9,7 @@ This extension calculate compound interest in a click in your browser tab.
 ---
 ## Screenshots
 
-![Extension](./12.png)
-![Extension](./123.png)
+![Extension](./1.png)
+![Extension](./2.png)
+![Extension](./3.png)
+![Extension](./5.png)
