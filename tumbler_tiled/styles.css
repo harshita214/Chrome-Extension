@@ -1,0 +1,79 @@
+:root {
+	--scroll-width: 9px;
+}
+
+#base-container > div > div:nth-child(2),
+#base-container > div > div:nth-child(2) > div:nth-child(1),
+main {
+	max-width: unset !important;
+}
+
+.posts-container {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+article > div:nth-child(1) {
+	display: none;
+}
+
+#TD_Setting_Button {
+	cursor: pointer;
+	background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAAEgvhuhAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA8klEQVRo3u2XwRLDIAhEF8f//2V6yWQ6rSSKaDVdLh5M4AErMaKqKFk+VgUgxwoASDCsekOsjTOGXFGVdqSPSt6pconoksqyXPAiRgYAIPmzQt4IaC7HXQSxmviVREuVUm85TYomz6m3IhrB7MOwmqJ3D+uwaqBGG4o4k1ps8UZIGGh0Tuf/4Lz5A+qdh+GzJUfMkBHkl9cJSpHO/VK0dK6rnVA2dAG1hN+4apyrNygbuuZscStp6NVi9hlaNROJ1opMemeeyLc9nQR/EngeceJ3AtfZiVLjBCf4w8fh9BH6S/CuEUqNE5zgBA+epbv+5b8AaYMvzZQ3KhAAAAAASUVORK5CYII=') 50% 50% no-repeat !important;
+	background-size: 23px 23px !important;
+}
+
+#TD_Settings_Container {
+	width: 800px;
+	height: fit-content;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-left: -400px;
+	margin-top: -200px;
+	z-index: 91;
+	background: #f7f7f7;
+}
+
+#TD_Settings_Background {
+	position: fixed;
+	z-index: 90;
+	width: 100%;
+	height: 100%;
+	background: white;
+	opacity: 0.75;
+	top: 0;
+}
+
+#TD_Settings_Container *:not(input) {
+	filter: brightness(0.35);
+}
+
+#TD_Settings_Container > * {
+	margin: 8px;
+}
+
+#TD_Settings_Container h2 {
+	text-align: center;
+}
+
+#TD_Settings_Container * {
+	margin: 0.5em;
+}
+
+#TD_Settings_Container table {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#TD_Settings_Container input {
+	text-align: right;
+	background-color: unset;
+}
+
+#TD_Settings_Save {
+	margin: 4px 8px;
+	width: 92px;
+	position: relative;
+	left: calc(50% - 50px);
+}
