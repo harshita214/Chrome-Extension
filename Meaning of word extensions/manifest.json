@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name": "Meaning of word",
+    "version": "0.1",
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_title": "Get a meaning of word!"
+    }
+  }
