@@ -1,0 +1,112 @@
+/* Main */
+html, body {
+    background-color: white;
+}
+
+
+.input-number::-webkit-inner-spin-button, 
+.input-number::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+    height: 5px;
+    border-radius: 5px;
+    background: linear-gradient(90deg, #1CDF99, #FFFFFF, 60%);
+}
+   
+input[type="range"]::-moz-range-track {
+    height: 5px;
+    border-radius: 5px;
+    background: linear-gradient(90deg, #1CDF99, #FFFFFF, 60%);
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    border: 1px solid #F2F2F2;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+    height: 17px;
+    width: 17px;
+    margin-top: -6px;
+    border-radius: 50%;
+}
+   
+input[type="range"]::-moz-range-thumb {
+    background: #FFFFFF;
+    border: 1px solid #F2F2F2;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+    height: 15px;
+    width: 15px;
+    margin-top: -6px;
+}
+
+
+
+input[type="number"] {
+    width: 65%;
+}
+
+/* Buttons */
+.footer-btn {
+    font-size: 24px;
+}
+
+
+.custom-control-input~.custom-control-label::before {
+    width: 2.75rem !important;
+}
+
+
+.custom-control-label::before {
+    height: 1.3rem !important;
+}
+
+.custom-switch .custom-control-label::after {
+    width: calc(1.3rem - 4px) !important;
+    height: calc(1.3rem - 4px) !important;
+}
+
+
+.custom-switch .custom-control-label::after {
+    left: calc(-2.2rem + 2px);
+}
+
+.custom-control-input:checked ~.custom-control-label::after {
+    left: calc(-1.6rem + 2px) !important;
+}
+
+.custom-switch .custom-control-label::before {
+    background: #C4C4C4;
+}
+
+.custom-switch .custom-control-label::after {
+    background: #FFFFFF;
+}
+
+.custom-control-input:checked~.custom-control-label::before {
+    border-color: #1CDF99;
+    background-color: #1CDF99;
+}
+
+.custom-control-input:hover ~.custom-control-label::before {
+    border-color: #ABA5A5;
+    background-color: #ABA5A5;
+}
+
+.custom-control-input:checked:hover ~.custom-control-label::before {
+    border-color: #17B57C;
+    background-color: #17B57C;
+}
+
+.f-selected {
+    border: none !important;
+}
+
+.green-hover:hover {
+    color: #79AF9C !important;
+}
+
+.white-hover:hover {
+    color: #DCDCDC !important;
+}

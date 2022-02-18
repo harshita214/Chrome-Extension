@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="lib/bootstrap.css">
+    <style>
+      @font-face {
+        font-family: 'Titillium Web';
+        font-style: normal;
+        font-weight: 400;
+        src: local('Titillium Web Regular'), local('TitilliumWeb-Regular'),
+            url('./fonts/titillium-web-v8-latin-regular.woff2') format('woff2')
+      }
+      @font-face {
+        font-family: 'Titillium Web';
+        font-style: normal;
+        font-weight: 600;
+        src: local('Titillium Web SemiBold'), local('TitilliumWeb-SemiBold'),
+            url('./fonts/titillium-web-v8-latin-600.woff2') format('woff2')
+      }
+      @font-face {
+        font-family: 'Titillium Web';
+        font-style: normal;
+        font-weight: 700;
+        src: local('Titillium Web Bold'), local('TitilliumWeb-Bold'),
+            url('./fonts/titillium-web-v8-latin-700.woff2') format('woff2')
+      }
+    </style>
+  </head>
+  <body style="width: 435px;">
+    <div class="w-100" style="height: 70px; padding: 21px 33px;">
+      <img src="icon-128.png" width="51" height="50" style="float: left;">
+
+      <div class="custom-control custom-switch" style="float: right; position: absolute; top: 33px; right: 40px;">
+        <input type="checkbox" class="custom-control-input" id="status-switch" checked>
+        <label class="custom-control-label" for="status-switch"></label>
+      </div>
+    </div>
+
+    <div style="padding: 27px 33px;">
+      <h1 style="font-family: 'Titillium Web'; font-weight: 600; font-size: 18px; color: #566282; margin-bottom: 8px;">Font size</h1>
+      <h1 class="size-reset green-hover" style="float: right; cursor: pointer; color: #1CDF99; font-family: 'Titillium Web'; font-size: 14px; font-weight: bold; position: absolute; top: 100px; right: 34px;">Reset</h1>
+      <form class="w-100 h-100">
+        <input type="hidden" class="slider-input font-size" value="14" max="12" max="24" />
+        <div class="labels" style="font-size: 16px; margin-top: 11px; text-align: center; padding: 0px 9px; width: 55px; border: 1px solid #C4C4C4; border-radius: 3px; box-shadow: inset 0px 0px 2px rgba(0, 0, 0, 0.25);">
+          <label class="d-inline font-size-px" style="font-family: Titillium Web;"></label>
+        </div>
+        </div>
+      </form>
+      <div style="width: 435px; height: 0px; opacity: 0.1; border: 1px solid #000000; position: absolute; top: 205px; left: 0;"></div>
+      <div style="padding: 0px 33px; margin-top: 45px;">
+        <h1 style="font-family: 'Titillium Web'; font-weight: 600; font-size: 18px; color: #566282; display: inline-block;">Font family</h1>
+        <h1 class="family-reset green-hover" style="float: right; cursor: pointer; color: #1CDF99; font-family: 'Titillium Web'; font-size: 14px; font-weight: bold; float: right;">Reset</h1>
+      </div>
+      <form style="padding: 27px 33px; padding-top:10px;">
+        <select name="fonts-standard" class="custom-select custom-select-sm w-50 fonts-list-standard mb-2" style="padding-top: 0.15rem !important;"><option value="default" selected>Default</option></select>
+        <div class="mb-2 font-preview-standard" style="color:#566282; font-family: Arial, Helvetica, sans-serif;">The selected  <label style="color: #566282; text-decoration: underline; font-weight: bold;">standard</label> font looks like this.</div>
+
+        <select name="fonts-sans" class="custom-select custom-select-sm w-50 fonts-list-sans mb-2" style="padding-top: 0.15rem !important;"><option value="default" selected>Default</option></select>
+        <div class="mb-2 font-preview-sans" style="color:#566282;">The selected <label style="color: #566282; text-decoration: underline; font-weight: bold;">sans-serif</label> font looks like this.</div>
+
+        <select name="fonts-sans-serif" class="custom-select custom-select-sm w-50 fonts-list-serif mb-2" style="padding-top: 0.15rem !important;"><option value="default" selected>Default</option></select>
+        <div class="mb-2 font-preview-serif" style="color:#566282;">The selected  <label style="color: #566282; text-decoration: underline; font-weight: bold;">serif</label> font looks like this.</div>
+
+        <select name="fonts-monospace" class="custom-select custom-select-sm w-50 fonts-list-monospace mb-2" style="padding-top: 0.15rem !important;"><option value="default" selected>Default</option></select>
+        <div class="mb-2 font-preview-monospace" style="color:#566282;">The selected  <label style="color: #566282; text-decoration: underline; font-weight: bold;">monospace</label> font looks like this.</div>
+      </form>
+    </div>
+
+    <div style="width: 100%; margin-top: 25px; padding: 20px 33px; background: linear-gradient(189.6deg, #566282 0.23%, #353E57 96.36%);">
+      <h1 style="font-family: 'Titillium Web'; font-weight: 600; font-size: 18px; color: #FFFFFF; display: inline;">Font color</h1>
+      <h1 class="color-reset white-hover" style="float: right; cursor: pointer; color: white; font-family: 'Titillium Web'; font-size: 14px; font-weight: bold; float: right;">Reset</h1>
+      <div class="w-100" style="display: flex; margin-top: 6px;">
+        <div id="white-f" class="clr" style="min-width: 32px; min-height: 32px; max-width: 32px; max-height: 32px; cursor: pointer; margin-right: 10.5px; border-radius: 50px; background: #FFFFFF; border: 2px solid #575875; box-sizing: border-box; box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.25);"></div>
+        <div id="black-f" class="clr f-selected" style="min-width: 32px; min-height: 32px; max-width: 32px; max-height: 32px; cursor: pointer; margin-right: 10.5px; border-radius: 50px; background: #414141; border: 2px solid #575875; box-sizing: border-box; box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.25);"></div>
+        <div id="red-f" class="clr" style="min-width: 32px; min-height: 32px; max-width: 32px; max-height: 32px; cursor: pointer; margin-right: 10.5px; border-radius: 50px; background: #FF2F3B; border: 2px solid #575875; box-sizing: border-box; box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.25);"></div>
+        <div id="brown-f" class="clr" style="min-width: 32px; min-height: 32px; max-width: 32px; max-height: 32px; cursor: pointer; margin-right: 10.5px; border-radius: 50px; background: #A55820; border: 2px solid #575875; box-sizing: border-box; box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.25);"></div>
+        <div id="orange-f" class="clr" style="min-width: 32px; min-height: 32px; max-width: 32px; max-height: 32px; cursor: pointer; margin-right: 10.5px; border-radius: 50px; background: #FF9F2F; border: 2px solid #575875; box-sizing: border-box; box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.25);"></div>
+        <div id="yellow-f" class="clr" style="min-width: 32px; min-height: 32px; max-width: 32px; max-height: 32px; cursor: pointer; margin-right: 10.5px; border-radius: 50px; background: #FFEA2F; border: 2px solid #575875; box-sizing: border-box; box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.25);"></div>
+        <div id="purple-f" class="clr" style="min-width: 32px; min-height: 32px; max-width: 32px; max-height: 32px; cursor: pointer; margin-right: 10.5px; border-radius: 50px; background: #E22FFF; border: 2px solid #575875; box-sizing: border-box; box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.25);"></div>
+        <div id="blue-f" class="clr" style="min-width: 32px; min-height: 32px; max-width: 32px; max-height: 32px; cursor: pointer; margin-right: 10.5px; border-radius: 50px; background: #2FCDFF; border: 2px solid #575875; box-sizing: border-box; box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.25);"></div>
+        <div id="dark-blue-f" class="clr" style="min-width: 32px; min-height: 32px; max-width: 32px; max-height: 32px; cursor: pointer; margin-right: 10.5px; border-radius: 50px; background: #2F69FF; border: 2px solid #575875; box-sizing: border-box; box-shadow: inset 0px 0px 6px rgba(0, 0, 0, 0.25);"></div>
+      </div>
+    </div>
+
+    </div>
+    <script src="lib/jquery/jquery-3.4.1.js"></script>
+    <link rel="stylesheet" href="jquery.range.css">
+    <script src="jquery.range.js"></script>
+    <script src="font.logic.js"></script>
+  </body>
+</html>
