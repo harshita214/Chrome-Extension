@@ -1,0 +1,26 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "manifest_version": 2,
+    "name": "Font changer",
+    "description": "Font changer",
+    "version": "0.0.1",
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "background": {
+        "page": "background.html"
+    },
+    "content_scripts": [{
+        "js": [ "lib/jquery/jquery-3.4.1.js", "inject.js" ],
+        "matches": ["https://*/*", "http://*/*"  ]
+    }],
+    "icons": {
+        "128": "icon-128.png",
+        "48": "icon-48.png",
+        "16": "icon-16.png"
+    },
+    "content_security_policy": "script-src 'self' https://www.google-analytics.com https://www.googletagmanager.com https://*.googleapis.com; object-src 'self'",
+    "default_locale": "en",
+    "permissions": [ "fontSettings", "https://*/*", "http://*/*", "storage" ]
+}
