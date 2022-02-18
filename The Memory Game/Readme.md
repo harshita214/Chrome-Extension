@@ -35,6 +35,15 @@ And score depends on , how much chance you will take to complete the game .
 
 ## Output snapshots :
 
+### Tap on below to see the screen recording of output ,
+
+<div align="center">
+
+  Screen - Record of [Output](https://drive.google.com/file/d/1q-YYsqpEmUFZFJBCZzC4pFPyMMOGY6db/view?usp=sharing)! 
+
+</div>
+
+
 
 <br>
 
