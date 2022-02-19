@@ -5,7 +5,7 @@
 }
 
 body{
-    width: 400px;
+    width: 500px;
     background-color: #976efa;
     color: #020202;
 }
@@ -16,6 +16,7 @@ body{
     align-items: center;
     justify-content: center;
     padding: 30px 5px;
+    padding-bottom: 30px;
     border-radius: 5px;
     gap: 50px;
     background-color: #FFFFFF;
@@ -37,3 +38,14 @@ input{
     margin-top: 5px;
     background: none;
 } 
+
+.div2 {
+    height: 10px;
+    width: 120px;
+    padding: 20px 20px 20px 20px;
+    margin-top: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  
+  }
