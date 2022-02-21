@@ -1,0 +1,60 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+  "description": "site blocker",
+  "name": "site blocker",
+  "short_name": "site blocker",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "options_page": "public/options.html",
+  "icons": {
+    "16": "public/images/icon16.png",
+    "32": "public/images/icon32.png",
+    "48": "public/images/icon48.png",
+    "128": "public/images/icon128.png"
+  },
+  "declarative_net_request": {
+    "rule_resources" : []
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "public/images/icon16.png",
+      "32": "public/images/icon32.png"
+    },
+    "default_popup": "public/popup.html"
+  },
+  "permissions": [
+    "tabs",
+    "declarativeNetRequest",
+    "storage",
+    "unlimitedStorage",
+    "<all_urls>",
+    "contextMenus",
+    "notifications",
+    "webRequest",
+    "webRequestBlocking",
+    "webNavigation",
+    "cookies"
+  ],
+  "version": "5.3.4.0",
+  "web_accessible_resources": [
+    "public/*",
+    "public/images/*"
+  ],
+  "incognito": "spanning",
+  "content_scripts": [{
+    "matches": ["<all_urls>"],
+    "run_at": "document_end",
+    "js": ["content.js"]
+  },
+  {
+    "matches": ["<all_urls>"],
+    "run_at": "document_start",
+    "js": ["checkPageManual.js"]
+  }
+  ],
+  "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCgFmSjU432CjKYI/w7UA8f6O2Z5TKhwccXRJd0EnDRwoGgi0wJqYkA++jqIMXHQMvqoZ1RC60H1woIYA8VY8O8Z3rIW5zmtE03YRVTI2VQYGDz1rK26ZKkS6Kg5u3eyre+bA7KWbesOWXDrZQ8NcczSgXtZJm8Oyj6vb95F4QaXwIDAQAB"
+}
