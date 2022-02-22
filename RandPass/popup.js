@@ -19,7 +19,6 @@ function passGen(alpha) {
     }
 
     textBox.value = pass;
-    textBox.select();
 }
 
 function getAlpha() {
@@ -28,10 +27,10 @@ function getAlpha() {
 
     for (var i = 0; i < checkboxes.length; i++) {
         if (checkboxes[i].checked) {
-            alpha += charset[ checkboxes[i].id ];
+            alpha += charset[checkboxes[i].id];
         }
         else {
-            alpha = alpha.replace(charset[ checkboxes[i].id ], "");
+            alpha = alpha.replace(charset[checkboxes[i].id], "");
         }
     }
     return alpha;
@@ -39,17 +38,26 @@ function getAlpha() {
 
 document.getElementById("generate").addEventListener("click", () => {
     var alpha = getAlpha();
-    
+
     if (alpha.length == 0) {
         alert("Error! Please select something!")
     }
     else {
         passGen(alpha);
     }
+    document.getElementById("copy").innerHTML = "Copy";
+});
+
+document.getElementById("copy").addEventListener("click", () => {
+    var textBox = document.getElementById("textBox");
+    textBox.select();
+    navigator.clipboard.writeText(textBox.value);
+    document.getElementById("copy").innerHTML = "Copied!";
 });
 
 document.getElementById("reset").addEventListener("click", () => {
     var textBox = document.getElementById("textBox");
     textBox.value = '';
     textBox.focus();
+    document.getElementById("copy").innerHTML = "Copy";
 });

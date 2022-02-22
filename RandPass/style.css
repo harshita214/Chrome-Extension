@@ -3,7 +3,7 @@ body{
     color: wheat;    
     font-family: Helvetica, sans-serif;
     font-size: 13px;
-    width: 200px;
+    width: 250px;
 }
 
 #textBox {
@@ -27,8 +27,8 @@ body{
 
 button {
     cursor: pointer;
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
     border-radius: 1rem;
     background: #cfef00;
     border: 1px solid transparent;
@@ -42,7 +42,9 @@ button:hover {
 }
 
 .inputButton{
-    margin : 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0.6rem;
     max-width: 90%;
     display: flex;
     justify-content: space-between;
