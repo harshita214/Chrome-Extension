@@ -1,0 +1,238 @@
+@font-face {
+    font-family: ‘Font1’;
+    font-style: normal;
+    font-weight: 500;
+    src: url(chrome-extension://__MSG_@@extension_id__/src/fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: ‘Font2’;
+    font-style: normal;
+    font-weight: bold;
+    src: url(chrome-extension://__MSG_@@extension_id__/src/fonts/Roboto-Bold.ttf);
+}
+
+
+
+.rep-tooltip {
+    position: relative;
+    margin-right: 5px;
+    user-select: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 22px;
+    width: 22px;
+    cursor: pointer;
+}
+
+.rep-tooltip .rep-tooltip-wrapper {
+    background-color: white;
+    font-size: 13px;
+    position: absolute;
+    z-index: 10;
+    cursor: initial;
+    border-radius: 12px;
+    user-select: none;
+    border: 1px solid #F2F2F2;
+    box-shadow: rgba(0, 0, 0, 0.10) -2px 6px 10px 3px;
+    height: max-content;
+    min-height: 135px;
+    width: max-content;
+    min-width: 240px;
+    left: 30px;
+    top: -45px;
+    max-width: 250px;
+
+}
+
+.rep-tooltip .rep-tooltip-wrapper:after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 0;
+    position: absolute;
+    border-bottom: 8px solid transparent !important;
+    border-right: 8px solid #FFFFFF !important;
+    border-left: 8px solid transparent !important;
+    border-top: 8px solid transparent !important;
+    top: 48px !important;
+    left: -16px !important;
+}
+
+
+.rep-tooltip .rep-tooltip-wrapper .rep-tooltip-content {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    font-size: 15px;
+    height: 110px;
+    justify-content: space-evenly;
+}
+
+
+.rep-tooltip .rep-tooltip-wrapper .rep-threat {
+    background: #2EB49C;
+    height: 25px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF !important;
+    width: 90%;
+    border-radius: 5px;
+    margin: 3px auto auto;
+    font-weight: bold !important;
+    font-family: ‘Font2’;
+}
+
+
+.rep-tooltip .rep-tooltip-wrapper .rep-tooltip-content .rep-domain {
+    margin-top: 5px;
+    color: black !important;
+    margin-left: 10px;
+    font-family: ‘Font1’;
+    max-width: 250px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.rep-tooltip .rep-tooltip-wrapper .rep-tooltip-content .rep-domain span {
+    color: black !important;
+}
+
+.rep-tooltip .rep-tooltip-wrapper .rep-tooltip-content .rep-status {
+    display: inline-flex;
+    width: 100%;
+    align-items: center;
+    margin-left: 10px;
+    font-family: ‘Font1’;
+}
+
+.rep-tooltip .rep-tooltip-wrapper .rep-tooltip-content .rep-status img {
+    margin-left: 5px;
+}
+
+
+.rep-tooltip .rep-tooltip-wrapper .rep-tooltip-content .rep-status span {
+    margin-left: 5px;
+    text-transform: uppercase;
+}
+
+.rep-tooltip .rep-tooltip-wrapper .rep-tooltip-content .rep-threats {
+    color: black !important;
+    margin-left: 10px;
+    font-family: ‘Font1’;
+}
+
+.rep-loading {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.rep-loading img {
+    max-width: 70px;
+}
+
+.rep-loading span {
+    font-family: ‘Font1’;
+}
+
+.rep-title {
+    color: rgba(32, 32, 32, 0.7);
+    font-weight: bold !important;
+    font-family: ‘Font2’;
+}
+
+.borderb {
+    border-bottom: 0.5px dashed #E4E4E4;
+    width: 100%;
+}
+
+/** REPUTATION RELEVANT CLASSES**/
+/* BACKGROUND */
+.excellent {
+    background: #2EB49C !important;
+}
+
+.verygood {
+    background: #65C9CF !important;
+}
+
+.unsatisfactory {
+    background: #B5BBCF !important;
+}
+
+.poor {
+    background: #D7A04E !important;
+}
+
+.verypoor {
+    background: #E94A54 !important;
+}
+
+.unknown {
+    background: #B5BBCF !important;
+}
+
+/* BORDER */
+.excellent-b {
+    border-color: #2EB49C !important;
+}
+
+.verygood-b {
+    border-color: #65C9CF !important;
+}
+
+.unsatisfactory-b {
+    border-color: black !important;
+}
+
+.poor-b {
+    border-color: #D7A04E !important;
+}
+
+.verypoor-b {
+    border-color: #E94A54 !important;
+}
+
+.unknown-b {
+    border-color: black !important;
+}
+
+
+/* TEXT */
+.excellent-text {
+    color: #2EB49C !important;
+}
+
+.verygood-text {
+    color: #65C9CF !important;
+}
+
+.unsatisfactory-text {
+    color: black !important;
+}
+
+.poor-text {
+    color: #D7A04E !important;
+}
+
+.verypoor-text {
+    color: #E94A54 !important;
+}
+
+.unknown-text {
+    color: black !important;
+}
+
+

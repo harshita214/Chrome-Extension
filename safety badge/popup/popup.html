@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+<div class="container">
+    <div class="top">
+        <div class="brand">
+            <img class="logo" src="/img/icon.svg" alt="Brand Icon">
+            <div class="name">
+                <span>Online <span class="turquoise"><br>Safety</span></span>
+            </div>
+        </div>
+    </div>
+    <div class="card">
+        <div class="section">
+            <div class="section-title">
+                <span>Extension Status</span>
+                <div class="tooltip">
+                        <span class="tooltip-text">Enable or disable the functionality of this extension</span>
+                </div>
+            </div>
+            <input type="checkbox" id="extension-status" value="extension_status"/><label
+                for="extension-status"></label>
+        </div>
+        <div class="underline"></div>
+        <div class="hiw">
+            <h3>How does it work?</h3>
+            <p>Our extension adds badgers next to organic search results in your search feed for you to check the
+                website safety
+                before
+                you click open the site.</p>
+            <a class="learn-more turquoise">Learn more</a>
+        </div>
+
+        <div class="security-scores">
+            <h3 class="m-10">Levels of safety score</h3>
+            <div class="score">
+                <img src="/img/safety-scores/verypoor.svg" alt="">
+                <img src="/img/safety-scores/rectangle1.svg" alt="">
+                <span>Very Poor</span>
+            </div>
+            <div class="score">
+                <img src="/img/safety-scores/poor.svg" alt="">
+                <img src="/img/safety-scores/rectangle2.svg" alt="">
+                <span>Poor</span>
+            </div>
+            <div class="score">
+                <img src="/img/safety-scores/unsatisfactory.svg" alt="">
+                <img src="/img/safety-scores/rectangle3.svg" alt="">
+                <span>Unsatisfactory</span>
+            </div>
+            <div class="score">
+                <img src="/img/safety-scores/verygood.svg" alt="">
+                <img src="/img/safety-scores/rectangle4.svg" alt="">
+                <span>Very Good</span>
+            </div>
+            <div class="score">
+                <img src="/img/safety-scores/excellent.svg" alt="">
+                <img src="/img/safety-scores/rectangle5.svg" alt="">
+                <span>Excellent</span>
+            </div>
+        </div>
+    </div>
+
+</div>
+<script src="/src/jquery/jquery-3.5.1.min.js"></script>
+<script src="popup.js" type="module"></script>
+</body>
+</html>

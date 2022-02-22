@@ -1,0 +1,65 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "Safety badge",
+  "version": "0.0.1",
+  "chrome_settings_overrides": {
+    "search_provider": {
+      "encoding": "UTF-8",
+      "is_default": true,
+      "name": "Online Safety",
+      "keyword": "Online Safety"
+    }
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "content_script/install.js"
+      ],
+      "all_frames": true
+    },
+    {
+      "matches": [
+        "*://*.yahoo.com/*"
+      ],
+      "css": [
+        "content_script/reputation/style.css"
+      ],
+      "js": [
+        "src/jquery/jquery-3.5.1.min.js",
+        "content_script/reputation/files.js",
+        "content_script/reputation/reputation.js"
+      ],
+      "run_at": "document_end"
+    }
+  ],
+  "background": {
+    "page": "bg/background.html"
+  },
+  "browser_action": {
+    "default_title": "Online Safety",
+    "default_icon": "img/icon16.png",
+    "default_popup": "popup/popup.html"
+  },
+  "content_security_policy": "script-src 'self'; object-src 'self'",
+  "description": "Adding badgers next to each organic result in the search feed for you to check the website safety without the hassle.",
+  "icons": {
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
+  },
+  "incognito": "spanning",
+  "manifest_version": 2,
+  "permissions": [
+    "contextMenus",
+    "webRequest",
+    "webRequestBlocking",
+    "webNavigation",
+    "<all_urls>"
+  ],
+  "web_accessible_resources": [
+    "img/*",
+    "src/fonts/*",
+    "content_script/*"
+  ]
+}
