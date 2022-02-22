@@ -13,3 +13,7 @@ Please note that the extension only adds badgers next to organic results in your
 ![Screenshot (147)](https://user-images.githubusercontent.com/77486870/155120520-14e081f6-a807-4cf2-a82a-614730a71316.png)
 ![Screenshot (144)](https://user-images.githubusercontent.com/77486870/155120538-2ee4ec76-6294-4ecb-9d22-d7f8c2e5c519.png)
 ![Screenshot (143)](https://user-images.githubusercontent.com/77486870/155120569-7640fc61-b30a-454a-9ae0-8ed349edb46a.png)
+
+
+https://user-images.githubusercontent.com/77486870/155176399-386db5e6-d57e-44c1-a137-d1b7146ea5b7.mp4
+
