@@ -1,0 +1,280 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+html {
+    background: #F2F2F2;
+}
+
+body {
+    height: max-content;
+    width: 325px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.underline {
+    width: 95%;
+    height: 0.006em;
+    background: lightgray;
+    margin: 5px auto auto;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+
+}
+
+.container .top {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
+.container .top img {
+    cursor: pointer;
+}
+
+.container .top .brand {
+    display: flex;
+    align-items: center;
+}
+
+.container .top .brand img {
+    height: 45px;
+}
+
+.container .top .brand .name {
+    margin-left: 10px;
+}
+
+.container .top .brand .name span {
+    font-size: 20px;
+    font-weight: bold;
+    color: #222125;
+    line-height: 22px;
+    letter-spacing: 1px;
+}
+
+.container .card {
+    background: #ffffff;
+    width: 290px;
+    height: max-content;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    margin: 6px auto auto;
+    box-shadow: 0 16px 24px rgba(0, 0, 0, 0.06), 0 2px 6px rgba(0, 0, 0, 0.04), 0 0 1px rgba(0, 0, 0, 0.04);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.container .card .hiw {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    height: 145px;
+    justify-content: space-around;
+}
+
+.container .card .hiw p {
+    font-size: 14px;
+    font-weight: 500;
+    font-family: 'Quicksand', sans-serif;
+    width: 265px;
+    margin: auto;
+}
+
+.container .card .hiw a {
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.container .card .security-scores {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.container .card .security-scores .score {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+}
+
+.container .card .security-scores .score img {
+    margin-right: 7px;
+}
+
+.container .card .security-scores .score span {
+    font-size: 13px;
+    font-weight: 500;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+.container .card .section {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+    justify-content: space-around;
+}
+
+.container .card .section-title {
+    display: flex;
+    align-items: center;
+}
+
+
+.container .card span:not(.tooltip-text) {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Quicksand', sans-serif;
+    margin-right: 7px;
+}
+
+.footer {
+    margin-top: 10px;
+    padding: 12px;
+}
+
+.footer ul {
+    display: inline-flex;
+    width: 100%;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+.footer ul li {
+    color: #ffffff;
+}
+
+.footer ul li, .container .card .hiw a {
+    cursor: pointer;
+}
+
+.footer ul li:hover, .container .card .hiw a:hover {
+    text-decoration: none;
+}
+
+.turquoise {
+    color: #2EB49C !important;
+}
+
+.m-10 {
+    margin: 10px;
+}
+
+.dividing-line {
+    height: 1px;
+    width: 95%;
+    background: #F1F1F1;
+    margin: 15px 5px;
+    text-align: center;
+}
+
+.home {
+    display: none;
+    border-radius: 13px;
+    border: 2px solid black;
+    font-size: 14px;
+    padding: 5px 12px;
+    font-weight: 600;
+    background: #2EB49C;
+    cursor: pointer;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    background: url(/img/info.svg) center no-repeat;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.tooltip .tooltip-text {
+    display: none;
+    width: 250px;
+    text-align: center;
+    padding: 5px 5px;
+    position: absolute;
+    top: 25px;
+    z-index: 1;
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid #DDDDDD;
+    box-sizing: border-box;
+    box-shadow: 0 24px 32px rgba(0, 0, 0, 0.04), 0 16px 24px rgba(0, 0, 0, 0.04), 0 4px 8px rgba(0, 0, 0, 0.04), 0 0 1px rgba(0, 0, 0, 0.04);
+    border-radius: 12px;
+    color: #6C7181;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+
+.tooltip:hover .tooltip-text {
+    display: block;
+}
+
+
+input[type=checkbox] {
+    height: 0;
+    width: 0;
+    visibility: hidden;
+}
+
+label {
+    cursor: pointer;
+    text-indent: -9999px;
+    width: 35px;
+    height: 14px;
+    background: #F2F2F2;
+    display: block;
+    border-radius: 100px;
+    position: relative;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+label:after {
+    content: '';
+    position: absolute;
+    top: -6px;
+    left: -3px;
+    width: 22px;
+    height: 22px;
+    background: #B5BBCF;
+    border-radius: 90px;
+    transition: 0.3s;
+    box-shadow: 0 4px 7px rgba(4, 4, 25, 0.2), 0 0.893452px 1.56354px rgba(4, 4, 25, 0.16), 0 0.266004px 0.465507px rgba(4, 4, 25, 0.1);
+}
+
+input:checked + label:after {
+    background: #2EB49C;
+}
+
+input:checked + label:after {
+    left: calc(100% + 3px);
+    transform: translateX(-100%);
+}
+
+label:active:after {
+    width: 50px;
+}
+
