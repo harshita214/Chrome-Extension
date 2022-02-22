@@ -99,6 +99,16 @@
 | 19. | [Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/calculator) | [Mohak Srivastav](https://github.com/whiteHatpro) |
 | 20. | [Hello World](https://github.com/harshita214/Chrome-Extension/tree/main/helloWorldExtension) | [rohit-raj25](https://github.com/rohit-raj25) |
 | 21. | [Word of the day](https://github.com/harshita214/Chrome-Extension/tree/main/wordoftheday) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
+| 22. | [Compound Interest](https://github.com/harshita214/Chrome-Extension/tree/main/CompoundInterest) | [Amirul Sekh](https://github.com/03amir) |
+| 23. | [Meaning of word](https://github.com/harshita214/Chrome-Extension/tree/main/Meaning%20of%20word%20extensions) | [Tanwi Kumari](https://github.com/Devmindtk) |
+| 24. | [TIC TAC TOE](https://github.com/harshita214/Chrome-Extension/tree/main/TIC-TAC-TOE) | [Saujanya Raj](https://github.com/saujanyaraj07) |
+| 25. | [The Memory Game](https://github.com/harshita214/Chrome-Extension/tree/main/The%20Memory%20Game) | [Ayush Mishra](https://github.com/ayush-sleeping) |
+| 26. | [Weather App](https://github.com/harshita214/Chrome-Extension/tree/main/Weather%20App) | [Srijita Mandal](https://github.com/Srijita-Mandal) |
+| 27. | [Font changer](https://github.com/harshita214/Chrome-Extension/tree/main/font%20changer) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| 28. | [Rgb hex converter](https://github.com/harshita214/Chrome-Extension/tree/main/rgb%20%20hex%20converter) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
+| 29. | [screenshot and video recorder](https://github.com/harshita214/Chrome-Extension/tree/main/screenshot%20and%20video%20recorder) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| 30. | [Tumbler_tiled](https://github.com/harshita214/Chrome-Extension/tree/main/tumbler_tiled) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| 31. | [URL shortener](https://github.com/harshita214/Chrome-Extension/tree/main/url%20shortener) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
 
 
 
