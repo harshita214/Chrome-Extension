@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RandPass</title>
+</head>
+
+<body>
+    <div class="textBox">
+        <input type="text" id="textBox" placeholder="length">
+    </div>
+
+    <input type="checkbox" id="digits" name="option" checked>
+    <label for="digits">inlcude digits (0-9)</label><br>
+
+    <input type="checkbox" id="lowercase" name="option" checked>
+    <label for="lowercase">inlcude lowercase (a-z)</label><br>
+
+    <input type="checkbox" id="uppercase" name="option" checked>
+    <label for="uppercase">inlcude uppercase (A-Z)</label><br>
+
+    <input type="checkbox" id="symbols" name="option" checked>
+    <label for="symbols">inlcude symbols (#@! etc.)</label><br>
+
+
+    <div class="inputButton">
+        <button id="generate">Generate</button>
+        <button id="copy">Copy</button>
+        <button id="reset">Reset</button>
+    </div>
+
+    <script src="popup.js"></script>
+</body>
+
+</html>
