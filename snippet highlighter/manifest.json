@@ -1,0 +1,120 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "snippet highlighter",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": " ",
+  "icons": {
+    "16": "images/purple/icon-16.png",
+    "32": "images/purple/icon-32.png",
+    "48": "images/purple/icon-48.png",
+    "128": "images/purple/icon-128.png"
+  },
+  "permissions": [
+    "<all_urls>",
+    "storage",
+    "contextMenus",
+    "tabs",
+    "http://*/*",
+    "https://*/*",
+    "https://read.amazon.com/*",
+    "https://read.amazon.ca/*",
+    "https://read.amazon.co.uk/*",
+    "https://read.amazon.com.au/*"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "browser_action": {
+    "default_icon": {
+      "19": "images/purple/icon-19.png",
+      "38": "images/purple/icon-38.png"
+    },
+    "default_title": "Snippet Highlighter - click to toggle on/off"
+  },
+  "options_ui": {
+    "page": "options/index.html",
+    "chrome_style": true
+  },
+  "commands": {
+    "toggle-snippet": {
+      "suggested_key": {
+        "default": "Alt+Shift+X"
+      },
+      "description": "Toggle Snippet Highlighter on/off"
+    },
+    "toggle-snippet-sidebar": {
+      "suggested_key": {
+        "default": "Alt+X"
+      },
+      "description": "Show/Hide Snippet sidebar"
+    },
+    "capture-screen": {
+      "suggested_key": {
+        "default": "Alt+C"
+      },
+      "description": "Screen snip"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://gosnippet.com/*",
+        "https://gosnippet.test/*",
+        "http://gosnippet.com/*",
+        "http://gosnippet.test/*"
+      ],
+      "js": [
+        "content_scripts/content-app.js"
+      ],
+      "run_at": "document_end",
+      "all_frames": true
+    },
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*",
+        "file://*/*"
+      ],
+      "js": [
+        "content_scripts/content-main.js"
+      ],
+      "css": [
+        "css/sidebar.css",
+        "css/content-main.css"
+      ],
+      "run_at": "document_end",
+      "all_frames": false
+    },
+    {
+      "matches": [
+        "https://read.amazon.com/*",
+        "https://read.amazon.ca/*",
+        "https://read.amazon.co.uk/*",
+        "https://read.amazon.com.au/*"
+      ],
+      "js": [
+        "content_scripts/content-kindle.js"
+      ],
+      "css": [
+        "css/content-kindle.css"
+      ],
+      "run_at": "document_end",
+      "all_frames": false
+    }
+  ],
+  "web_accessible_resources": [
+    "images/*",
+    "content_scripts/frames/sidebar/index.html",
+    "content_scripts/frames/popover/index.html",
+    "content_scripts/frames/select-screenshot/index.html",
+    "content_scripts/frames/edit-screenshot/index.html",
+    "content_scripts/frames/kindle-choose-book/index.html",
+    "content_scripts/frames/application/index.html",
+    "pdfjs/web/viewer.html"
+  ],
+  "content_security_policy": "script-src 'self'; object-src 'self'"
+}

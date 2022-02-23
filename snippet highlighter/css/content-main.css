@@ -1,0 +1,258 @@
+
+.snippet-color-yellow {
+  background: rgba(255,241,118,1);
+}
+.snippet-highlight-yellow {
+  background: rgba(255,241,118,.3) !important;
+  border-color: rgba(255,241,118,1) !important;
+}
+.snippet-highlight-hover.snippet-highlight-yellow {
+  background: rgba(255,241,118,.5) !important;
+}
+img.snippet-highlight-yellow {
+  border-bottom: 10px solid rgba(255,241,118, .5) !important;
+}
+
+.snippet-color-green {
+  background: rgba(129,199,132,1);
+}
+.snippet-highlight-green {
+  background: rgba(129,199,132,.3) !important;
+  border-color: rgba(129,199,132,1) !important;
+}
+.snippet-highlight-hover.snippet-highlight-green {
+  background: rgba(129,199,132,.5) !important;
+}
+img.snippet-highlight-green {
+  border-bottom: 10px solid rgba(129,199,132, .5) !important;
+}
+
+.snippet-color-blue {
+  background: rgba(79,195,247,1);
+}
+.snippet-highlight-blue {
+  background: rgba(79,195,247,.3) !important;
+  border-color: rgba(79,195,247,1) !important;
+}
+.snippet-highlight-hover.snippet-highlight-blue {
+  background: rgba(79,195,247,.5) !important;
+}
+img.snippet-highlight-blue {
+  border-bottom: 10px solid rgba(79,195,247, .5) !important;
+}
+
+.snippet-color-pink {
+  background: rgba(240, 98, 146, 1);
+}
+.snippet-highlight-pink {
+  background: rgba(240, 98, 146, .3) !important;
+  border-color: rgba(240, 98, 146, 1) !important;
+}
+.snippet-highlight-hover.snippet-highlight-pink {
+  background: rgba(240, 98, 146, .5) !important;
+}
+img.snippet-highlight-pink {
+  border-bottom: 10px solid rgba(240, 98, 146, .5) !important;
+}
+
+.snippet-color-orange {
+  background: rgba(255, 183, 77, 1);
+}
+.snippet-highlight-orange {
+  background: rgba(255, 183, 77, .3) !important;
+  border-color: rgba(255, 183, 77, 1) !important;
+}
+.snippet-highlight-hover.snippet-highlight-orange {
+  background: rgba(255, 183, 77, .5) !important;
+}
+img.snippet-highlight-orange {
+  border-bottom: 10px solid rgba(255, 183, 77, .5) !important;
+}
+
+.snippet-highlight-hover {
+  cursor: pointer !important;
+}
+
+#snippet_message_box {
+  position: fixed !important;
+  background: transparent !important;
+  top: 20px !important;
+  width: 400px !important;
+  height: 170px !important;
+  right: 15px !important;
+  z-index: 2147483647 !important;
+  margin: 0px !important;
+}
+
+#snippet_popover_container {
+  display: none;
+  background: #fff !important;
+  position: absolute !important;
+  width: 224px !important;
+  max-height: 500px;
+  height: 84px;
+  top: 0;
+  left: 0;
+  z-index: 2147483640 !important;
+  -webkit-transition: opacity .2s !important;
+  transition: opacity .2s !important;
+  border-radius: 5px !important;
+  border: 1px solid #CDCDCD !important;
+  box-shadow: #0000004C 0 2px 15px 0px !important;
+  box-sizing: border-box !important;
+}
+
+#snippet_popover_container:before, #snippet_popover_container:after {
+  content:"" !important;
+  display: block !important;
+  position: absolute !important;
+  height: 0px !important;
+  width: 0px !important;
+
+  border: solid 10px transparent !important;
+  left: 102px !important;
+  z-index: 2147483647 !important;
+}
+
+#snippet_popover_container.top-caret:before {
+  border-bottom: solid 10px white !important;
+  top: -18.7px !important;
+}
+
+#snippet_popover_container.top-caret:after {
+  border-bottom: solid 10px #CDCDCD !important;
+  top: -20px !important;
+
+  z-index: 2147483646 !important;
+}
+
+#snippet_popover_container.bottom-caret:before {
+  border-top: solid 10px #EEEEEE !important;
+  bottom: -18px;
+}
+
+#snippet_popover_container.bottom-caret:after {
+  border-top: solid 10px #CDCDCD !important;
+  z-index: 2147483646 !important;
+  bottom: -20px;
+}
+
+.snippet_popover_iframe {
+  width: 100% !important;
+  height: 100% !important;
+  margin: 0px !important;
+  border-radius: 5px !important;
+}
+
+.snippet-img-button {
+  position: absolute;
+  display: none;
+  top: 0px;
+  left: 0px;
+  width: 70px;
+  height: 28px;
+  cursor: pointer;
+  border-radius: 3px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0 1px 3px 0px !important;
+  background-position: 0 50%;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-color: #3f51b5;
+}
+
+.snippet-img-button:hover {
+  background-color: #4b5cbc;
+}
+
+#snippet_counts {
+  width: 20px !important;
+  height: 20px;
+  line-height: 20px;
+  background: #eee;
+  text-align: center !important;
+  top: 65px !important;
+  right: 3px !important;
+  cursor: default;
+  position: fixed !important;
+  font-size: 11px !important;
+
+  font-family: sans-serif !important;
+  color: #444 !important;
+  z-index: 2147483645 !important;
+  display: inline-block !important;
+  border-radius: 50%;
+
+  -webkit-animation-duration: .35s;
+  animation-duration: .35s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+@-webkit-keyframes snippet-animation-pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.3, 1.3, 1.3);
+    transform: scale3d(1.3, 1.3, 1.3);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+@keyframes snippet-animation-pulse {
+  from {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    -webkit-transform: scale3d(1.3, 1.3, 1.3);
+    transform: scale3d(1.3, 1.3, 1.3);
+  }
+
+  to {
+    -webkit-transform: scale3d(1, 1, 1);
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.snippet-animation-pulse {
+  -webkit-animation-name: snippet-animation-pulse;
+  animation-name: snippet-animation-pulse;
+}
+
+#snippet_screenshot {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  z-index: 2147483647 !important;
+  max-width: 100% !important;
+}
+
+#snippet_screenshot_edit {
+  position: fixed !important;
+  z-index: 2147483640 !important;
+  top: 0px !important;
+  left: 0px !important;
+  height: 100% !important;
+  width: 100% !important;
+  background-color: rgba(0,0,0,0.5) !important;
+  max-width: 100% !important;
+}
+
+.snippet-pdf-button:hover {
+  cursor: pointer;
+}
+
+.snippet-has-notes {
+  border-bottom: 2px;
+  border-bottom-style: solid;
+}
