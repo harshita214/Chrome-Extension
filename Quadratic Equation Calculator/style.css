@@ -1,0 +1,16 @@
+.button{
+
+	background-color: gray;
+}
+.test{
+
+    background-image: url("quadLogo.png");
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%; 
+    background-position: relative;
+    background-repeat: no-repeat;
+    backface-visibility: 0.1;
+
+}
