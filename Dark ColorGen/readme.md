@@ -4,7 +4,7 @@ This is a google chrome extension for generating a color palette for designing a
 Dark theme has become a design trend now owing to the growth of AMOLED displays and late night workign habits. The palette generator is an essential tool for all UI designers and frontend engineers to genrate quick Dark Mode Palettes that look cool and minimalistic.'
 
 # Features
-- Any selected hue can yield a color palette consisting of the following colors:
+- Any selected hue can yield a color palette consisting of the following color theme:
 
 ```
 1. Primary Text
