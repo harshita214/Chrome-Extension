@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Security-Policy" content="default-src *; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://colorjs.io ">
+        <link rel="stylesheet" href="styles.css">
+        <script src="./color.esm.js" type="module"></script>
+    </head>
+
+    <body>
+        <div class="app-wrapper">
+            <p class="title">
+                Select any Hue
+            </p>
+            <div class="slide-container">
+                <input type="range" class="slider"  min="0" max="360" value="180" id="slider">
+                <div class="slider-value" id="hue"></div>
+            </div>
+            <button id="generatebutton" class="submit-button">
+                Generate Palette
+            </button>
+            <div class="palette-wrapper" id="palettewrapper">
+
+            </div>
+            <div class="copy-alert" id="copyalert"> 
+                Color Copied
+            </div>
+        </div>        
+        <script src="./control.js" type="module"></script>
+    </body>
+</html>
