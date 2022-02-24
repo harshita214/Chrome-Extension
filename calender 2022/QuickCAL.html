@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>QuickCAL</title>
+    <style>
+      body {
+        min-width: 200px;
+        overflow-x: hidden;
+      }
+      #toolbar {
+        padding: 4px;
+      }
+    </style>
+    <link href="css/jquery-ui.min.css" rel="stylesheet" />
+    <script src="js/jquery-2.1.4.min.js"></script>
+    <script src="js/jquery-ui.min.js"></script>
+    <script src="QuickCAL.js"></script>
+  </head>
+  <body>
+    <div id="show_cal"></div>
+    <div id="toolbar" class="ui-widget-header ui-corner-all">
+      <button
+        class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only"
+        id="CALtoday"
+      >
+        <span class="ui-button-text" style="padding: 0.1em 0.25em"
+          >Today</span
+        ></button
+      ><span id="CALtime" class="ui-button-text" style="padding: 0.1em 0.25em"
+        >Time</span
+      ><button
+        class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only"
+        style="float: right"
+        id="CALclose"
+      >
+        <span class="ui-button-text" style="padding: 0.1em 0.25em">Close</span>
+      </button>
+    </div>
+  </body>
+</html>
