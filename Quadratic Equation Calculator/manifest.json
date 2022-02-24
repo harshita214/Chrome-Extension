@@ -4,7 +4,7 @@
        "default_popup": "popup.html",
        "default_title": "Quadratic Equation Calculator"
     },
-    "description": "Find the discriminant and roots of a quadratic equation!",
+    "description": "Easily find the discriminant and roots of a quadratic equation!",
     "icons": {
        "128": "logo128.png",
        "32": "logo32.png"

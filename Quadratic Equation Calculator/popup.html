@@ -1,32 +1,31 @@
-<!DOCTYPE html>
+
+<!DOCTYPE: html>
 <html>
-  <head>
-    <link rel = "stylesheet" type = "text/css" href = "style.css"/>
-
-  </head>
-    <body>
-        <center>
-          <form id="mainForm">
-            <fieldset>
-              <legend>Quadratic Formula</legend>
-
-                  <p><label> A-Value </label> <input name="aValue" type="text" size="20"></p>
-                  <p> <label> B-Value </label> <input name="bValue" type="text" size="20"></p>
-                  <p><label> C-Value </label> <input name="cValue" type="text" size="20"></p>
-                 
-            </fieldset>
-          </form>
+    <head>
+        <link href="style.css" rel="stylesheet" type="text/css">    
             
-                  <button id = "execute" class = "button">Submit</button>
-                 
-                  <p id = "root1">X = </p>
-                  <p id = "root2">X = </p>
-
-          </center>
-        
-
-        <script src="popup.js"></script>
-
+    </head>
+   
+    <body>
+        <div id = "container">
+                <h1>Quadratic Equation Calculator</h1> 
+                <p id = "formula">Solve ax^2 + bx + c = 0 equations easily!</p>
+            <div id = "box">
+                    
+                <div id = "stuff">
+    
+  <p id = "a">a: <input type = "text" name = "a:" id = "ain"></p>
+  <p id = "b">b: <input type = "text" name = "b:" id = "bin"></p> 
+  <p id = "c">c: <input type = "text" name = "c:" id = "cin"></p>
+  <button id = "calculate" >Calculate</button>
+  <p> </p>
+  
+  <p id = "dis">D= </p>
+  <p id = "out1">X1= </p>
+  <p id = "out2">X2= </p>
+</div>
+</div>
+</div>
+<script src = "popup.js"></script>   
     </body>
-
 </html>
