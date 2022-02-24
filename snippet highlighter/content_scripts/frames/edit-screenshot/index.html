@@ -1,0 +1,90 @@
+<!DOCTYPE html><html lang=en><head><style>.container {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 100%;
+        text-align: center;
+      }
+
+      .snippet-action-color {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        overflow: hidden;
+        position: relative;
+        border-radius: 50%;
+        text-align: center;
+        cursor: pointer;
+        margin: 0 5px;
+      }
+
+      .snippet-color-yellow {
+        background: rgba(255,241,118,.7);
+        border: 1px solid rgba(255,241,118,1);
+      }
+      .snippet-color-yellow:hover{
+        background: rgba(255,241,118,.9);
+      }
+      .snippet-color-green {
+        background: rgba(129,199,132,.5);
+        border: 1px solid rgba(129,199,132,1);
+      }
+      .snippet-color-green:hover {
+        background: rgba(129,199,132,.8);
+      }
+      .snippet-color-blue {
+        background: rgba(79,195,247,.5);
+        border: 1px solid rgba(79,195,247,.5);
+      }
+      .snippet-color-blue:hover {
+        background: rgba(79,195,247,.8);
+      }
+      .snippet-color-pink {
+        background: rgba(240, 98, 146,.5);
+        border: 1px solid rgba(240, 98, 146,.5);
+      }
+      .snippet-color-pink:hover{
+        background: rgba(240, 98, 146,.8);
+      }
+      .snippet-color-orange {
+        background: rgba(255, 183, 77,.5);
+        border: 1px solid rgba(255, 183, 77,.5);
+      }
+      .snippet-color-orange:hover{
+        background: rgba(255, 183, 77,.8);
+        border: 1px solid rgba(255, 183, 77,.8);
+      }
+
+      .snippet-action-color[data-selected='1']:before,
+      .snippet-action-color[data-selected='1']:after {
+        position: absolute;
+        left: 14.5px;
+        top: 4px;
+        content: ' ';
+        height: 22px;
+        width: 1px;
+        background-color: #777;
+      }
+
+      .snippet-action-color[data-selected='1']:before {
+        transform: rotate(45deg);
+      }
+      .snippet-action-color[data-selected='1']:after {
+        transform: rotate(-45deg);
+      }
+      .color-selected {
+        width: 100%;
+        font-size: 22px !important;
+        position: absolute;
+        top: 4px;
+        font-weight: 700 !important;
+        left: 0px;
+      }
+
+      .color-container {
+        position: absolute; right: 10px; top: 11px;
+      }
+
+      body {
+        font-family: "Roboto", sans-serif !important;
+      }</style><link href=/content_scripts/frames/edit-screenshot/index.js rel=preload as=script><link href=/css/content_scripts/frames/edit-screenshot/index.5418defb.css rel=preload as=style><link href=/css/content_scripts/frames/edit-screenshot/index.5418defb.css rel=stylesheet></head><body data-app=true><div id=app></div><script src=/content_scripts/frames/edit-screenshot/index.js></script></body></html>

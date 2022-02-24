@@ -1,0 +1,10 @@
+.textLayer {
+  opacity: unset;
+}
+
+.textLayer ::selection {
+  background: rgb(196, 225, 255, 0.8)
+}
+.textLayer ::-moz-selection {
+  background: rgba(196, 225, 255, 0.8)
+}

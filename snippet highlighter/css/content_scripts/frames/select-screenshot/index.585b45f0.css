@@ -1,0 +1,74 @@
+*,
+:after,
+:before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body,
+html {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+.borderedBox,
+.crosshairs,
+.overlay {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.overlay.highlighting {
+  background: transparent;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-style: solid;
+}
+.crosshairs {
+  height: 100%;
+  position: absolute;
+  width: 100%;
+  z-index: 2147483645;
+}
+.crosshairs.hidden {
+  display: none;
+}
+.crosshairs:after,
+.crosshairs:before {
+  content: "";
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  border: none !important;
+}
+.crosshairs:before {
+  left: -100%;
+  top: -100%;
+  border-right: 1px solid hsla(0, 0%, 100%, 0.3) !important;
+  border-bottom: 1px solid hsla(0, 0%, 100%, 0.3) !important;
+}
+.crosshairs:after {
+  left: 0;
+  top: 0;
+  border-top: 1px solid hsla(0, 0%, 100%, 0.3) !important;
+  border-left: 1px solid hsla(0, 0%, 100%, 0.3) !important;
+}
+.container {
+  clear: both;
+  background: transparent;
+}
+.borderedBox {
+  border: 1px solid #fff;
+  position: absolute;
+  background: transparent;
+}
+.borderedBox.hidden {
+  display: none;
+}

@@ -1,0 +1,123 @@
+<html><head><link rel=stylesheet href=/css/app.css><link rel=stylesheet href=https://use.fontawesome.com/releases/v5.8.1/css/all.css integrity=sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf crossorigin=anonymous><link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900|Material+Icons" rel=stylesheet><style>html,
+    body {
+      margin: 0;
+      border: 0;
+      padding: 0;
+    }
+
+    .container_popover {
+      position: absolute;
+      width: 100%;
+      text-align: center;
+    }
+
+    .container_popover .snippet-notes-container {
+      max-height: 200px;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+
+    .container_popover .snippet-notes {
+      text-align: left;
+      min-height: 48px;
+    }
+
+    .container_popover .snippet-folders-container {
+      max-height: 212px;
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+
+    .container_popover .note-content p {
+      margin-bottom: 0px !important;
+    }
+
+    .snippet-action-color {
+      display: inline-block;
+      width: 30px;
+      height: 30px;
+      overflow: hidden;
+      position: relative;
+      border-radius: 50%;
+      text-align: center;
+      cursor: pointer;
+      margin: 5px;
+    }
+
+    .snippet-color-yellow {
+      background: rgba(255, 241, 118, .7);
+      border: 1px solid rgba(255, 241, 118, 1);
+    }
+
+    .snippet-color-yellow:hover {
+      background: rgba(255, 241, 118, .9);
+    }
+
+    .snippet-color-green {
+      background: rgba(129, 199, 132, .5);
+      border: 1px solid rgba(129, 199, 132, 1);
+    }
+
+    .snippet-color-green:hover {
+      background: rgba(129, 199, 132, .8);
+    }
+
+    .snippet-color-blue {
+      background: rgba(79, 195, 247, .5);
+      border: 1px solid rgba(79, 195, 247, .5);
+    }
+
+    .snippet-color-blue:hover {
+      background: rgba(79, 195, 247, .8);
+    }
+
+    .snippet-color-pink {
+      background: rgba(240, 98, 146, .5);
+      border: 1px solid rgba(240, 98, 146, .5);
+    }
+
+    .snippet-color-pink:hover {
+      background: rgba(240, 98, 146, .8);
+    }
+
+    .snippet-color-orange {
+      background: rgba(255, 183, 77, .5);
+      border: 1px solid rgba(255, 183, 77, .5);
+    }
+
+    .snippet-color-orange:hover {
+      background: rgba(255, 183, 77, .8);
+      border: 1px solid rgba(255, 183, 77, .8);
+    }
+
+    .snippet-action-color[data-selected='1']:before,
+    .snippet-action-color[data-selected='1']:after {
+      position: absolute;
+      left: 13.5px;
+      top: 3px;
+      content: ' ';
+      height: 22px;
+      width: 1px;
+      background-color: #777;
+    }
+
+    .snippet-action-color[data-selected='1']:before {
+      transform: rotate(45deg);
+    }
+
+    .snippet-action-color[data-selected='1']:after {
+      transform: rotate(-45deg);
+    }
+
+    .container_popover .folder-selector {
+      background-color: #EEEEEE !important;
+      padding: 0px !important;
+    }
+
+    .container_popover .folder-selector .v-list__tile {
+      height: 35px;
+    }
+
+    .snippet-note .note-actions {
+      background-color: white;
+    }</style><link href=/content_scripts/frames/popover/index.js rel=preload as=script><link href=/css/content_scripts/frames/popover/index.f62dcc20.css rel=preload as=style><link href=/css/content_scripts/frames/popover/index.f62dcc20.css rel=stylesheet></head><body><div id=app></div><script src=/content_scripts/frames/popover/index.js></script></body></html>

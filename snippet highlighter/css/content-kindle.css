@@ -1,0 +1,81 @@
+#snippet_canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.3);
+    top: 0;
+    left: 0;
+}
+
+#snippet_error_box,
+#snippet_info_box {
+    width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: rgba(0,0,0,0.7);
+    padding: 30px;
+    border-radius: 5px;
+}
+
+#snippet_error_box {
+    display: none;
+    background: rgba(255,0,0,0.9);
+    color: #fff;
+    font-size: 20px;
+    line-height: 1.4;
+    font-family: sans-serif;
+}
+
+#snippet_error_box a:active,
+#snippet_error_box a:focus,
+#snippet_error_box a:hover,
+#snippet_error_box a:visited,
+#snippet_error_box a {
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 6px 10px;
+    display: inline-block;
+    border: 1px solid #fff;
+}
+
+#snippet_progress_text {
+    font-size: 20px;
+    margin-bottom: 15px;
+    color: #fff;
+    line-height: 1.4;
+}
+
+#snippet_progress_text span {
+    float: right;
+}
+
+#snippet_progress_bar {
+    background-color: black;
+    border-radius: 13px; /* (height of inner div) / 2 + padding */
+    padding: 3px;
+}
+
+#snippet_progress_bar > div {
+    background-color: #1565c0;
+    width: 0%;
+    height: 20px;
+    transition: width 0.3s linear;
+    border-radius: 10px;
+}
+
+#snippet_kindle_sidebar {
+  margin: 0px !important;
+}
+
+#kindle_choose_book {
+  position: absolute !important;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  z-index: 2147483640;
+  background-color: rgba(0,0,0,0.5);
+}
