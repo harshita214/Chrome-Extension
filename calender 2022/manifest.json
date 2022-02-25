@@ -1,0 +1,21 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 2,
+
+  "name": " Calendar 2022 ",
+  "short_name": "CAL2022",
+  "description": "This extension quickly displays a small calendar.",
+  "version": "1.1.2.1",
+  "icons": { 	"16": "QuickCAL16.png",
+           		"48": "QuickCAL48.png",
+          		"128": "QuickCAL128.png" },
+  "browser_action": {
+    "default_icon": "QuickCAL16.png",
+    "default_popup": "QuickCAL.html",
+    "default_title": "QuickCAL"
+  },
+  "permissions": [
+    
+  ]
+}
