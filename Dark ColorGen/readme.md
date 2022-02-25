@@ -22,6 +22,7 @@ Dark theme has become a design trend now owing to the growth of AMOLED displays 
 # Preview
 
 ![Image](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Dark%20ColorGen/preview/paletteimage.png)
+![Video](https://github.com/DarkFalc0n/Chrome-Extension/blob/main/Dark%20ColorGen/preview/ExtPreview.mp4)
 
 # Author
 Made with ❤ by [DarkFalc0n](https://github.com/DarkFalc0n) 
