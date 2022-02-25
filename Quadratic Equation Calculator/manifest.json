@@ -1,0 +1,15 @@
+{
+    "browser_action": {
+       "default_icon": "logo32.png",
+       "default_popup": "popup.html",
+       "default_title": "Quadratic Equation Calculator"
+    },
+    "description": "Easily find the discriminant and roots of a quadratic equation!",
+    "icons": {
+       "128": "logo128.png",
+       "32": "logo32.png"
+    },
+    "manifest_version": 2,
+    "name": "Quadratic Equation Calculator",
+    "version": "1.12"
+ }

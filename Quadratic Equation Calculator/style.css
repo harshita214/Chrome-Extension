@@ -1,0 +1,66 @@
+
+#container {
+    position: relative;
+   
+}
+
+#box {
+    position: absolute;
+    left: 80px;
+    border-radius: 25px;
+    width: 300px;
+    height: 400px;
+    background-color: rgb(235, 151, 221);
+    top: 90px;
+}
+
+#stuff {
+    position: absolute;
+    left: 35px;
+}
+#dis {
+    position: absolute;
+    top: 180px;
+}
+#out1 {
+    position: absolute;
+    top: 230px;
+}
+#out2 {
+    position: absolute;
+    top: 280px; 
+}
+
+#formula {
+    position: absolute;
+    left: 45px;
+    top: 40px;
+}
+
+
+
+
+body {
+    min-width:480px;
+    min-height: 500px;
+}
+
+input {
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+font-size: 20px;
+}
+
+button {
+    position: absolute;
+    background-color: mediumorchid;
+    font-size: 20px;
+    border-color: indigo;
+    left: 60px;
+}
+h1 {
+    position: absolute;
+    left: 55px;
+}
