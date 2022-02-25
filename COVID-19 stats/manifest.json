@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "Covid-19 stats!",
+    "description": "This extension shows Covid-19 statistics world-wide",
+    "version": "1.0",
+    "browser_action": {
+        "default_icon": "stats_icon.png",
+        "default_popup": "stats.html"
+    }
+}
