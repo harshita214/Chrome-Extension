@@ -1,0 +1,13 @@
+{
+    "name": "Dark ColorGen",
+    "description": "Dark Color Palette Generator",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "./popup/popup.html",
+        "default_icon": {
+            "128": "/logo/logo.png"
+          }
+    },
+    "permissions": ["storage"]
+  }
