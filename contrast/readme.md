@@ -11,3 +11,4 @@ When you install this extension, all pages are "inverted", so black becomes whit
 ![Screenshot (163)](https://user-images.githubusercontent.com/77486870/155782480-4603ed94-f9de-49c5-9208-9f1b7896f0dc.png)
 ![Screenshot (162)](https://user-images.githubusercontent.com/77486870/155782492-2a6b38b8-acb3-41f3-bfb7-a9a52464f9f4.png)
 
+https://user-images.githubusercontent.com/77486870/155847490-76a74e77-eff6-4f55-9dbb-eb0b1de3f146.mp4
