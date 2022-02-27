@@ -1,0 +1,50 @@
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  border: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.info {
+  width: 100%;
+  color: #555;
+  padding: 10px 0;
+  text-align: center;
+  font-family: arial,sans-serif;
+}
+
+.title {
+  width: 100%;
+  color: #555;
+  padding: 10px 0;
+  text-align: center;
+  font-family: arial,sans-serif;
+}
+
+.image {
+  padding: 0;
+  width: 100%;
+  height: 100px;
+  margin-bottom: 10px;
+  background: url('../icons/180.png') no-repeat center center;
+  background-size: 90px;
+}
+
+.title {
+  font-size: 16px;
+}
+
+.footer {
+  font-size: 16px;
+}

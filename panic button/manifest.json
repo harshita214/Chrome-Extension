@@ -1,0 +1,39 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "offline_enabled": true,
+  "short_name": "hide-tabs",
+  "name": "Panic Button",
+  "permissions": ["storage", "sessions"],
+  "description": "Easily hide and restore all open tabs with the click of a button!",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Panic button",
+    "default_icon": {
+      "16": "data/icons/16.png",
+      "32": "data/icons/32.png",
+      "48": "data/icons/48.png",
+      "64": "data/icons/64.png"
+    }
+  },
+  "commands": {
+    "hide_tabs": {
+      "description": "Panic Button",
+      "suggested_key": {
+        "mac": "Alt+Shift+A",
+        "default": "Alt+Shift+A"
+      }
+    }
+  },
+  "icons": {
+    "16": "data/icons/16.png",
+    "32": "data/icons/32.png",
+    "48": "data/icons/48.png",
+    "64": "data/icons/64.png",
+    "128": "data/icons/128.png"
+  }
+}
