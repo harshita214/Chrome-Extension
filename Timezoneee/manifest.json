@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Timezoneee",
+    "version": "1.0",
+    "description": "Convert your time to specific timezones",
+    "icons": {
+        "128": "img/icons128.png",
+        "16": "img/icons16.png"
+    },
+    "browser_action": {
+        "default_icon": "img/icons16.png",
+        "default_popup": "popup.html"
+    }
+}
