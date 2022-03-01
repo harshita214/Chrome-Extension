@@ -1,0 +1,89 @@
+#zorbi-button {
+  color: rgb(55, 53, 47);
+}
+
+#zorbi-button:hover {
+  background: rgba(55, 53, 47, 0.08);
+}
+
+.zorbi-darken {
+  background-color: rgba(0, 0, 0, 0.05);
+  background-clip: content-box;
+}
+
+.dark #zorbi-button {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.dark #zorbi-button:hover {
+  background: rgb(71, 76, 80);
+}
+
+.dark .zorbi-darken {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.zorbi-spoilers .zorbi-spoiler {
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.zorbi-darken:hover > .zorbi-spoiler,
+.zorbi-darken:focus-within > .zorbi-spoiler,
+.zorbi-darken:active > .zorbi-spoiler {
+  opacity: 1;
+}
+
+.notion-option {
+  user-select: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.dark .notion-option-bg {
+  background-color: #3f4447;
+}
+.dark .notion-option-bg:hover {
+  background-color: #474c50;
+}
+
+.notion-option-bg {
+  background-color: #ffffff;
+}
+.notion-option-bg:hover {
+  background-color: #efefef;
+}
+
+.notion-option-inner {
+  display: flex;
+  align-items: center;
+  line-height: 120%;
+  width: 100%;
+  user-select: none;
+  min-height: 28px;
+  font-size: 14px;
+}
+
+.notion-option-left {
+  margin-left: 14px;
+  margin-right: 14px;
+  min-width: 0px;
+  flex: 1 1 auto;
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.notion-option-right {
+  margin-left: auto;
+  margin-right: 14px;
+  min-width: 0px;
+  flex-shrink: 0;
+}
+
+.notion-option-image {
+  height: 16px;
+  width: 16px;
+  margin-right: 8px;
+}
