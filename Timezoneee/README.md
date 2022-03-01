@@ -1,20 +1,17 @@
-# RandPass
+# Timezoneee
 
-Use RandPass (a Random Password Generator) Chrome Extentsion to create secure passwords that are impossible to crack without sending them across the Internet.
-
+Timezoneee is a Google Chrome Extentsion to compare and convert time instantly to all the major time zones across the world.
 
 # Installation
 
-- Clone this project `git clone ` or Download ZIP and find the RandPass Folder
+- Clone this project `git clone ` or Download ZIP and find the Timezoneee Folder
 - Go to Manage Extenions in Chrome (chrome://extensions/)
 - Load the extension into the Chrome
 
 # Usage
 
-- Set the password length
-- Select the character set(s)
-- Generate
-- Reset to create new passwords
+- Select source and destination timezones from the dropdown
+- Submit
 
 ## Example
 ***
