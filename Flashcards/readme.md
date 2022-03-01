@@ -17,3 +17,11 @@ SPACED-REPETITION
 ## Screenshots
 
 
+![Screenshot (169)](https://user-images.githubusercontent.com/77486870/156250860-ff3763a3-9d8b-4068-921b-52fbbf23b51f.png)
+![Screenshot (170)](https://user-images.githubusercontent.com/77486870/156250880-289559a8-3222-4ce7-8a18-619d29dc3cea.png)
+![Screenshot (171)](https://user-images.githubusercontent.com/77486870/156250905-6180d1a6-c6f1-4926-b506-41d847f8a8b2.png)
+![Screenshot (176)](https://user-images.githubusercontent.com/77486870/156250914-7bf1a8b3-12db-4561-b918-f97f7c9b1366.png)
+![Screenshot (174)](https://user-images.githubusercontent.com/77486870/156250919-249758c8-57b6-4ecc-8248-ae19a8a1ed26.png)
+![Screenshot (173)](https://user-images.githubusercontent.com/77486870/156250929-a3ed9918-97d8-46b4-a9fb-9699b310899d.png)
+https://user-images.githubusercontent.com/77486870/156251010-9f4a604a-896f-4139-aad1-74d2423f8cc3.mp4
+
