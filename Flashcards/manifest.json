@@ -1,0 +1,61 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "short_name": "FLASHCARDS",
+  "name": "Flashcards from PDFs and Notion",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "icons": {
+    "192": "icon192.png"
+  },
+  "background": {
+    "scripts": ["background.js", "authentication.js"]
+  },
+  "browser_action": {},
+  "content_scripts": [
+    {
+      "matches": ["https://www.notion.so/*"],
+      "css": ["css/notion.css", "css/spinner.css"],
+      "js": ["notion.js"]
+    }
+  ],
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "storage",
+    "notifications",
+    "alarms"
+  ],
+  "web_accessible_resources": [
+    "icon192.png",
+    "icon192error.png",
+    "/media/logo.svg",
+
+    "logo.svg",
+    "close.svg",
+    "frame.html",
+    "index.html"
+  ],
+
+  "content_security_policy": "script-src 'self' 'sha256-GgRxrVOKNdB4LrRsVPDSbzvfdV4UqglmviH9GoBJ5jk='; object-src 'self'",
+  "commands": {
+    "toggle-ext": {
+      "suggested_key": {
+        "default": "Alt+Q"
+      },
+      "description": "Toggle the extension"
+    },
+    "send-to-front": {
+      "suggested_key": {
+        "default": "Alt+A"
+      },
+      "description": "Send selected text to the front"
+    },
+    "send-to-back": {
+      "suggested_key": {
+        "default": "Alt+S"
+      },
+      "description": "Send selected text to the back"
+    }
+  }
+}
