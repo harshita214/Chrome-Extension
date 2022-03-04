@@ -1,0 +1,13 @@
+{
+    "name":"rock papper scissor",
+    "description": "beat computer in rock paper scissor game",
+    "manifest_version": 2,
+    "version": "1.0",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+      "128": "logo.png"
+  }
+}
