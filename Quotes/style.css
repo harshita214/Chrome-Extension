@@ -1,7 +1,7 @@
 body {
     width: 200px;
     height: 200px;
-    background-color: #2c2626;
+    background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1));
 }
 
 p {
