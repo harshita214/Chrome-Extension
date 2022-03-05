@@ -1,0 +1,17 @@
+{
+    "name": "Revising_Helper",
+    "description": "Build an Extension!",
+    "version": "2.0",
+    "manifest_version": 3,
+    "permissions":[
+        "activeTab"],
+
+        "action":{
+            "default_popup": "index.html",
+            "default_icon": "icons.png"
+            
+        }
+        
+
+    
+  }
