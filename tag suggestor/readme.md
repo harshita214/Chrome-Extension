@@ -17,3 +17,9 @@ GRAY = do not use this hashtag, very few people are following it
 
 ## screenshots
 
+![Screenshot (177)](https://user-images.githubusercontent.com/77486870/156916586-79c76981-a5c6-4cb6-8d1d-1c972226e7a6.png)
+![Screenshot (178)](https://user-images.githubusercontent.com/77486870/156916593-0e94072e-9e2b-48de-8f91-1293d9a0aa68.png)
+
+
+https://user-images.githubusercontent.com/77486870/156916601-64b855d8-f339-40ee-b3b5-03b913867b18.mp4
+
