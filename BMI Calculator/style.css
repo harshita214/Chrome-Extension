@@ -1,48 +1,85 @@
 #container {
-	width :350px;
-	height:480px;
-	margin-left:0px;
-	margin-top:0px;
+	width :390px;
+	height:595px;
+	margin:auto;
 	background-color: #44318D;
 	padding-left: 10px;
 	padding-right: 10px;
 	color: white;
+	border-radius: 40px;
+	box-shadow: rgba(255, 255, 255, 0.25) 0px 54px 55px, rgba(255, 255, 255, 0.12) 0px -12px 30px, rgba(255, 255, 255, 0.12) 0px 4px 6px, rgba(255, 255, 255, 0.17) 0px 12px 13px, rgba(255, 255, 255, 0.09) 0px -3px 5px;
 }
-
+.head{
+	margin-left:60px;
+	display:inline-block;
+}
+.h1{
+	font-family: 'Merriweather', serif;
+}
+.uinput{
+	
+		border: 1px solid white;
+		border-radius: 5px;
+		margin:15px;
+		color:#fff;
+	  
+}
 #cm {
-	width:150px;
-	height:25px;
-	margin-top: 30px;
+  border: none;
+  outline: 0;
+  padding:8px 0px 8px 20px;
+  background-color:transparent;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight:lighter;
+  color:#fff;
 }
 
 #kg{
-    width:150px;
-	height:25px;
-	margin-top: 30px;
+	border: none;
+	outline: 0;
+	padding:8px 0px 8px 20px;
+	background-color:transparent;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.2rem;
+	font-weight:lighter;
+	color:#fff;
 }
+::placeholder {
+	color: #fff;
+	opacity: 0.5;
+  }
 
 #weightguide {
-	margin-left: 75px;
-	margin-top: 50px;
+	margin-left: 50px;
+	margin-top: -15px;
 	color: white;
+	font-family: 'Merriweather', serif;
 }
 
 #result {
-	font-size:35px;
-	margin-left: 90px;
+	font-size:25px;
+	margin-left: 160px;
+	margin-top:10px;
 	color: white ;
+	font-family: 'Roboto', sans-serif;
+}
+.row{
+	background-color:none;
 }
 
 #submit{
 	width:150px;
-	height:35px;
-	margin-left:90px;
+	height:45px;
+	margin-left:120px;
 	margin-top: 25px;
-	border-radius: 5px;
+	border-radius: 30px;
+	padding:5px;
 	border-style: none;
 	background-color: #D83f87;
 	color:#fff;
-	font-size:25px;
+	font-size:23px;
+	font-family: 'Merriweather', serif;
 }
 
 body {
