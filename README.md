@@ -88,7 +88,7 @@
 | 08. | [Music Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Music%20Mode) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
 | 09. | [Night Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Night%20Mode) | [RajulPE](https://github.com/RajulPE) |
 | 10. | [Prank Your Friend](https://github.com/harshita214/Chrome-Extension/tree/main/PrankYourFriend) | [Mahim Kapoor](https://github.com/mahimk9) |
-| 11. | [Quotes](https://github.com/harshita214/Chrome-Extension/tree/main/Quotes) | [Tarun Maharshi](https://github.com/trunmhrshi) |
+| 11. | [Quotes](https://github.com/harshita214/Chrome-Extension/tree/main/Quotes) | [Nikhil Kumar](https://github.com/nickel-28) |
 | 12. | [Random Jokes](https://github.com/harshita214/Chrome-Extension/tree/main/Random%20Jokes%20Extension) | [Mrunal Jambenal](https://github.com/mrunal736) |
 | 13. | [Simple Interest Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Simple%20Interest%20Calculator) | [Aniket Pawar](https://github.com/Aniket-508) |
 | 14. | [Spacing](https://github.com/harshita214/Chrome-Extension/tree/main/Spacing) | [Amirul Sekh](https://github.com/03amir) |
