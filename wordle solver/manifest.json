@@ -1,0 +1,28 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "Wordle Solver",
+  "description": "Automatically solves Wordle",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "/images/wordle_16.png",
+      "32": "/images/wordle_32.png",
+      "48": "/images/wordle_48.png",
+      "128": "/images/wordle_128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/wordle_16.png",
+    "32": "/images/wordle_32.png",
+    "48": "/images/wordle_48.png",
+    "128": "/images/wordle_128.png"
+  },
+  "web_accessible_resources": [{
+    "resources":["words/*"],
+    "matches": ["https://www.powerlanguage.co.uk/*"]
+  }]
+}
