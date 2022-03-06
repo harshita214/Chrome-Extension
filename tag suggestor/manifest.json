@@ -1,0 +1,53 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "manifest_version": 2,
+    "name": "Hashtag Generator",
+    "short_name": "Hashtag Generator",
+    "description": "Get hashtag suggestions for images and texts on any site (great for Instagram, Pinterest, Twitter, Facebook, LinkedIn).",
+    "version": "0.0.1",
+    "icons": {
+        "16": "images/icon-16.png",
+        "32": "images/icon-32.png",
+        "48": "images/icon-48.png",
+        "64": "images/icon-64.png",
+        "128": "images/icon-128.png",
+        "256": "images/icon-256.png"
+    },
+    "browser_action": {
+        "default_icon": {
+            "19": "images/icon-19.png",
+            "38": "images/icon-38.png"
+        },
+    },
+    "web_accessible_resources": [
+        "images/*",
+        "fonts/*"
+    ],
+    "background": {
+        "scripts": [
+            "js/jquery-3.2.1.js",
+            "js/background.js"
+        ],
+        "persistent": false
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": [
+              "js/modal.js"
+            ],
+            "css": [
+                "css/chrome.css"
+            ],
+            "all_frames": true
+        }
+    ],
+    "permissions": [
+        "storage",
+        "tabs",
+        "activeTab",
+        "contextMenus",
+        "notifications",
+    ]
+}
