@@ -6,4 +6,5 @@ Paste anything to generate a QR code for it
 ![Screenshot 2022-03-03 173204](https://user-images.githubusercontent.com/78430607/156561718-008e8416-ba44-420f-a641-f740263d4556.png)
 
 ## videos
-https://user-images.githubusercontent.com/78430607/156563255-1b6ea2f9-7532-4347-bf73-0ab9f06c2680.MP4
+
+https://user-images.githubusercontent.com/78430607/156920084-b627be31-c7ad-4899-bdd0-7b6858cc5582.MP4
