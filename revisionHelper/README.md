@@ -38,3 +38,6 @@ This is the image of mail.
 3) Load the frontEnd folder in Chrome Extension
 
 
+
+https://user-images.githubusercontent.com/56593431/156935306-ffd362d4-55ad-497f-bd95-84cc548b4324.mp4
+
