@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html spellcheck="false" style="width: 495px; height: 204px" class="loading">
+  <head>
+    <meta charset="utf-8" />
+    <title>Vimium C Popup</title>
+    <meta name="color-scheme" content="light dark" />
+    <script defer="defer" src="define.js"></script>
+    <script type="module" src="async_bg.js"></script>
+    <link rel="stylesheet" href="options.css" />
+    <script type="module" src="options_base.js"></script>
+    <script type="module" src="options_popup.js"></script>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      html.loading {
+        content-visibility: hidden;
+      }
+      body {
+        width: 495px;
+        background: var(--background-color, #fff);
+      }
+      p {
+        margin-top: 5px;
+      }
+      #helpText,
+      #state {
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+      }
+      #state {
+        background: #f3f3f3;
+        background: var(--panel-background-color);
+        border-bottom: 0.5px solid #979ca0;
+        border-width: var(--tiny);
+        box-sizing: border-box;
+        line-height: 16px;
+        margin: 0;
+        padding: 4px 5px 3.5px 32px;
+        text-indent: -27px;
+        width: 100%;
+      }
+      #state-value {
+        color: #15c;
+        color: var(--state-color, #15c);
+        line-height: 15px;
+      }
+      .action {
+        color: #15c;
+        color: var(--link-color);
+      }
+      a.decorate-none:not(:hover) {
+        text-decoration: none;
+      }
+      .accesskey {
+        text-decoration: underline;
+      }
+      #footer {
+        box-sizing: border-box;
+        height: 36px;
+        padding: 5px 8px 2px 3px;
+        position: static !important;
+        text-align: right;
+        width: 100%;
+      }
+      #helpText {
+        margin-top: -3px;
+        text-align: left;
+      }
+      #exclusionRules {
+        height: 144px;
+        max-height: 144px;
+        margin-bottom: 0;
+        margin-top: 0 !important;
+        padding-bottom: 2px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="state">
+      <span class="Vim">Vim</span>ium <span class="C">C</span>
+      <span id="state-action"></span><span></span><span></span>
+    </div>
+    <div id="exclusionRules">
+      <table id="exclusionTable" class="code">
+        <thead>
+          <tr>
+            <td>
+              <span class="exclusionHeader" data-i="Patterns">Patterns</span>
+            </td>
+            <td class="exclusionPassKeysTd">
+              <span class="exclusionHeader" data-i="Keys">Keys</span>
+            </td>
+            <td class="exclusionRemoveTd"></td>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <template id="exclusionTemplate"
+        ><table>
+          <tr class="exclusionRule">
+            <td>
+              <input
+                autocomplete="off"
+                type="text"
+                class="pattern"
+                placeholder=":https://example.net/"
+                spellcheck="false"
+              />
+            </td>
+            <td>
+              <input
+                autocomplete="off"
+                type="text"
+                class="passKeys"
+                placeholder="f j &lt;c-j&gt; K"
+                lang="en"
+                spellcheck="false"
+              />
+            </td>
+            <td>
+              <a class="remove" role="button" tabindex="0" title="Remove"
+                ><svg class="btn_svg" viewBox="0 0 16 16">
+                  <path d="M4 4l8 8zM4 12L12 4"></path></svg
+              ></a>
+            </td>
+          </tr></table
+      ></template>
+    </div>
+    <div id="footer">
+      <span id="helpText"
+        ><a
+          id="toggleOnce"
+          href="vimium://status toggle"
+          class="decorate-none"
+          tabindex="1"
+          role="button"
+          accesskey="x"
+          ><span>Disable for once</span> (<span class="accesskey">X</span>)</a
+        ><span class="hidden">
+          /
+          <a
+            id="resetStatus"
+            href="vimium://status reset"
+            class="decorate-none"
+            tabindex="1"
+            role="button"
+            accesskey="z"
+            ><span data-i="o121">Reset</span> (<span class="accesskey">Z</span
+            >)</a
+          ></span
+        ><span data-i="period">.</span><span data-i="NS"> </span
+        ><a
+          class="options-link"
+          href="options.html"
+          target="_blank"
+          tabindex="1"
+          data-i="o121_2"
+          >Options</a
+        ><span data-i="period">.</span> <span data-i="VerIs">Version </span
+        ><span class="version"></span><span data-i="period">.</span><br /><span
+          id="helpSpan"
+          data-i="o122"
+          >In table are the rules matching this page.</span
+        >
+        <span style="display: none"
+          ><strong><kbd>&lt;c-enter&gt;</kbd></strong>
+          <span data-i="o123">to save and close.</span></span
+        > </span
+      ><button id="exclusionAddButton" class="fixed-size" data-i="o2">
+        Add Rule
+      </button>
+      <button id="saveOptions" class="fixed-size" disabled="disabled">
+        No Changes
+      </button>
+    </div>
+    <div
+      id="blocked-msg"
+      style="box-sizing: border-box; display: none; padding: 8px 20px 12px"
+    >
+      <h4>
+        <span class="Vim">Vim</span>ium <span class="C">C</span
+        ><span data-i="o125"> is </span
+        ><span id="state-value" data-i="o126">not running</span
+        ><span data-i="o127"> on this page</span>
+      </h4>
+      <p id="injection-refused" style="display: none">
+        <span data-i="o127_2"
+          >On this page runs an extension which supports injection of Vimium C,
+          but its ID is not in the allow list. </span
+        ><a id="doAllowExt" data-i="o127_3">Allow it now</a
+        ><span data-i="period">.</span>
+      </p>
+      <div>
+        <p data-i="o128">
+          Your browser does not run web extensions like Vimium / Vimium C on
+          certain pages, usually for security reasons.
+        </p>
+        <p data-i="o129">
+          Unless your browser's developers change their policy, then
+          unfortunately it is not possible to make Vimium / Vimium C<br />(or
+          any other web extension, for that matter) work on this page.
+        </p>
+        <p id="opera-warning" style="display: none">
+          <span data-i="o129_2">Besides,</span><span> Opera </span
+          ><span data-i="o129_3"
+            >has a special security option preventing extensions (like Vimium C)
+            from working on some search result pages. And you can turn it off
+            manually.</span
+          >
+        </p>
+        <br />
+        <p id="refresh-after-install">
+          <span data-i="o130">If </span><span class="Vim">Vim</span>ium
+          <span class="C">C</span
+          ><span data-i="o131"> is newly installed, please </span
+          ><span class="action" data-i="o132">refresh</span
+          ><span data-i="o133"> to get it work.</span
+          ><a
+            id="retryInject"
+            href="vimium://status enable"
+            class="decorate-none"
+            role="button"
+            accesskey="z"
+            ><span data-i="o133_2">Retry</span> (<span class="accesskey">Z</span
+            >)</a
+          ><span data-i="period">.</span>
+        </p>
+      </div>
+      <p>
+        <span data-i="o134">Configure more on the </span
+        ><a
+          class="options-link"
+          href="options.html"
+          target="_blank"
+          data-i="o135"
+          >options</a
+        ><span data-i="o136"> page. </span><span data-i="VerIs">Version </span
+        ><span class="version"></span><span data-i="period">.</span>
+      </p>
+    </div>
+  </body>
+</html>

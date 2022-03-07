@@ -1,0 +1,459 @@
+<div class="R Scroll UI" id="HDlg" tabindex="0">
+  <style type="text/css">
+    .R.H {
+      contain: none;
+      pointer-events: all;
+      -webkit-user-select: auto;
+      user-select: auto;
+    }
+    #HDlg {
+      background: #fff;
+      border: 1px solid #b3b3b3;
+      border-radius: 8px;
+      box-shadow: 0 0 6px rgba(0, 0, 0, 0.4);
+      box-sizing: content-box;
+      contain: content;
+      left: calc(50% - 479px);
+      line-height: 130%;
+      max-height: calc(100% - 118px);
+      min-height: 25px;
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      padding: 8px 18px 0 18px;
+      top: 50px;
+      -webkit-user-select: auto;
+      user-select: auto;
+      width: 920px;
+    }
+    #HDlg:focus {
+      outline: 0;
+    }
+    #HelpContent {
+      width: 920px;
+    }
+    #HelpBanner {
+      height: 26px;
+      padding: 3px;
+    }
+    #HelpTitle {
+      font-size: 20px;
+      line-height: 130%;
+    }
+    #HelpLinks {
+      float: right;
+      position: relative;
+      top: 7px;
+      font-size: 0;
+    }
+    .Vim {
+      color: #2f508e;
+    }
+    .VimC {
+      color: #a55e18;
+    }
+    .HelpTables {
+      border-spacing: 0;
+      color: inherit;
+      table-layout: fixed;
+      width: 920px;
+    }
+    .HTablesTop {
+      vertical-align: top;
+    }
+    .HelpTable {
+      border-collapse: separate;
+      border-spacing: 5.5px 3px;
+      color: inherit;
+      contain: content;
+      line-height: 130%;
+      word-break: normal;
+    }
+    .HColumn {
+      white-space: normal;
+      font: 12px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .HelpTd {
+      line-height: 19.2px;
+      padding: 0;
+      vertical-align: top;
+    }
+    .TdBottom {
+      visibility: hidden;
+    }
+    .HDivider {
+      border-bottom: 1px solid #ddd;
+      clear: both;
+      height: 1px;
+      margin: 10px 1px;
+    }
+    .HelpAdv {
+      display: none;
+    }
+    .HelpDA .HelpAdv {
+      display: table-row;
+    }
+    .HelpKeys {
+      clear: both;
+      font-family: Consolas, "Liberation Mono", "Courier New", monospace;
+      text-align: right;
+      white-space: nowrap;
+    }
+    .HelpLongKeys {
+      text-align: left;
+    }
+    .HelpKey {
+      background-color: #f3f3f3;
+      border: 1px solid #ccc;
+      border-bottom: 2px solid #bbb;
+      border-radius: 3px;
+      padding: 1px 4px 0;
+    }
+    .HelpCommandInfo {
+      font-size: 14px;
+      word-break: break-word;
+      overflow-wrap: anywhere;
+      width: 100%;
+    }
+    .HelpCommandName {
+      font-style: italic;
+      cursor: pointer;
+      font-size: 12px;
+    }
+    .HelpSectionTitle {
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 24px;
+    }
+    .VimL {
+      all: initial;
+      background: 0 0;
+      border: none;
+      box-shadow: none;
+      color: #15c;
+      cursor: pointer;
+      font: inherit;
+      padding: 0;
+      text-decoration: underline;
+    }
+    .VimL:visited {
+      color: #15c;
+    }
+    .VimL:active {
+      color: #052577;
+    }
+    .VimL:focus {
+      outline: 2px auto #4d90fe;
+    }
+    .TopLink {
+      font-size: 14px;
+      margin-right: 14px;
+    }
+    #HCls {
+      color: #555;
+      margin: 0 1px;
+    }
+    #HCls:hover {
+      color: #000;
+    }
+    #HCls:active,
+    #HCls:focus {
+      color: #4d90fe;
+      outline: 0;
+    }
+    #HCloseT {
+      vertical-align: middle;
+    }
+    #HelpFooter {
+      font-size: 13px;
+      line-height: 16px;
+      margin-bottom: 10px;
+      position: relative;
+    }
+    #HAdv,
+    #HelpTip {
+      position: absolute;
+      top: -34px;
+    }
+    #HelpVersion {
+      float: right;
+    }
+    #HAdv {
+      right: 0;
+      text-decoration: none;
+    }
+    #HAdv:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 999.9px) {
+      #HDlg {
+        left: calc(50% - 419px);
+        width: 800px;
+      }
+      #HelpContent,
+      .HelpTables {
+        width: 800px;
+      }
+    }
+    @media (max-width: 837.9px) {
+      #HDlg {
+        left: 4px;
+        right: 4px;
+        width: auto;
+        overflow-x: scroll;
+      }
+      #HelpContent {
+        padding-right: 12px;
+      }
+    }
+    .D > #HDlg {
+      background: #000;
+      border-color: #555;
+      color: #aab0b6;
+    }
+    .D .Vim {
+      color: #9bf;
+    }
+    .D .VimC {
+      color: #e6ccb3;
+    }
+    .D #HCls,
+    .D .VimL {
+      color: #5b96f5;
+    }
+    .D #HCls:hover,
+    .D .VimL:hover {
+      color: #8ab4f8;
+    }
+    .D .HDivider {
+      border-color: #555;
+    }
+    .D .HelpKey {
+      background: #18191b;
+      color: #aab0b6;
+      border-color: #666;
+    }
+    @media (forced-colors: active), (-ms-high-contrast: active) {
+      #HDlg {
+        border-radius: 0;
+      }
+      .HelpKey {
+        border-bottom-width: 1px;
+        border-radius: 0;
+        padding: 1px 4px;
+      }
+    }
+    .D > .Scroll::-webkit-scrollbar:horizontal,
+    .D > .Scroll::-webkit-scrollbar:vertical {
+      border-color: #555;
+    }
+    .D > .Scroll:hover::-webkit-scrollbar-thumb {
+      background: #666;
+    }
+    .Scroll::-webkit-scrollbar,
+    .Scroll::-webkit-scrollbar-thumb,
+    .Scroll::-webkit-scrollbar-track {
+      background: 0 0;
+      border: none;
+      border-radius: 6px;
+      box-shadow: none;
+      overflow: hidden;
+    }
+    .Scroll::-webkit-scrollbar:vertical {
+      border-radius: 0 6px 6px 0;
+      border-left: 1px solid #ddd;
+      width: 12px;
+    }
+    .Scroll::-webkit-scrollbar:horizontal {
+      border-radius: 0 0 6px 6px;
+      border-top: 1px solid #ddd;
+      height: 12px;
+    }
+    .Scroll:hover::-webkit-scrollbar-thumb {
+      background: #ccc;
+    }
+    .Scroll::-webkit-scrollbar-thumb:vertical {
+      border-radius: 0 6px 6px 0;
+    }
+    .Scroll::-webkit-scrollbar-thumb:horizontal {
+      border-radius: 0 0 6px 6px;
+    }
+    #HDlg.Scroll::-webkit-scrollbar-thumb:hover {
+      background: #929292;
+    }
+    #HDlg.Scroll::-webkit-scrollbar-thumb:active {
+      background: #666;
+    }
+    @media (forced-colors: active), (-ms-high-contrast: active) {
+      .Scroll::-webkit-scrollbar-thumb:vertical {
+        border: 2px solid #ddd;
+        border-left-width: 1px;
+        border-radius: 0;
+        border-right: none;
+      }
+      .Scroll::-webkit-scrollbar-thumb:horizontal {
+        border: 1px solid #ddd;
+        border-bottom: none;
+        border-radius: 0;
+        border-top-width: 1px;
+      }
+    }
+  </style>
+  <div id="HelpContent">
+    <div id="HelpBanner">
+      <span id="HelpTitle"
+        ><span class="Vim">Vim</span>ium
+        <span class="VimC">C</span> {{title}}</span
+      >
+      <span id="HelpLinks"
+        ><a
+          class="VimL TopLink"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="{{homePage}}/wiki"
+          >$Wiki</a
+        >
+        <a
+          class="VimL TopLink"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="{{browserHelp}}"
+          >$browserHelp</a
+        >
+        <a class="VimL TopLink" id="HOpt">$Options</a>
+        <button class="VimL TopLink" id="HCls" title="$Close">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            id="HCloseT"
+            width="12px"
+            height="12px"
+            stroke="currentColor"
+          >
+            <path
+              d="M2 2l8 8zM2 10L10 2"
+              stroke-width="2.4"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            ></path>
+          </svg></button
+      ></span>
+    </div>
+    <div class="HDivider"></div>
+    <table class="HelpTables">
+      <tbody>
+        <tr>
+          <td class="HTablesTop">
+            <table class="HelpTable">
+              <tbody class="HColumn">
+                <tr>
+                  <td class="HelpTd"></td>
+                  <td class="HelpTd HelpSectionTitle">$pageNav</td>
+                </tr>
+                {{pageNavigation}}{{lbPad}}
+              </tbody>
+            </table>
+          </td>
+          <td class="HTablesTop">
+            <table class="HelpTable">
+              <tbody class="HColumn">
+                <tr>
+                  <td class="HelpTd"></td>
+                  <td class="HelpTd HelpSectionTitle">$useVomnibar</td>
+                </tr>
+                {{vomnibarCommands}}
+                <tr>
+                  <td class="HelpTd"></td>
+                  <td class="HelpTd HelpSectionTitle">$useFind</td>
+                </tr>
+                {{findCommands}}
+                <tr>
+                  <td class="HelpTd"></td>
+                  <td class="HelpTd HelpSectionTitle">$historyNav</td>
+                </tr>
+                {{historyNavigation}}
+                <tr>
+                  <td class="HelpTd"></td>
+                  <td class="HelpTd HelpSectionTitle">$changeTabs</td>
+                </tr>
+                {{tabManipulation}}
+                <tr>
+                  <td class="HelpTd"></td>
+                  <td class="HelpTd HelpSectionTitle">$misc</td>
+                </tr>
+                {{misc}}
+                <tr>
+                  <td class="HelpTd TdBottom">&#160;</td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="HDivider"></div>
+    <div id="HelpFooter">
+      <div id="HelpTip">{{tip}}</div>
+      <button class="VimL" id="HAdv">
+        <span data-s="$Show" data-h="$Hide">$Show</span><span>$advCmd</span>
+      </button>
+      <div id="HelpVersion">
+        $VerIs<a
+          class="VimL"
+          target="_blank"
+          rel="noopener noreferrer"
+          href="{{release}}"
+          >{{version}}</a
+        >
+      </div>
+      $Enjoying <span class="Vim">Vim</span>ium
+      <span class="VimC">C</span>$question$NS<a
+        class="VimL"
+        target="_blank"
+        rel="noopener noreferrer"
+        href="{{reviewPage}}"
+        >$HReview{{webStore}}$HReview_2</a
+      >$semicolon$NS<a
+        class="VimL"
+        target="_blank"
+        rel="noopener noreferrer"
+        href="{{homePage}}"
+        >$HStar</a
+      >$semicolon$NS<a
+        class="VimL"
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://gitee.com/gdh1995/vimium-c"
+        >$HStar2</a
+      >$semicolon$NS<a
+        class="VimL"
+        target="_blank"
+        rel="noopener noreferrer"
+        href="{{homePage}}#donate"
+        >$Donate</a
+      >$period$NS$ifBug<a
+        class="VimL"
+        rel="noopener noreferrer"
+        target="_blank"
+        href="{{homePage}}/issues"
+        >$HReport</a
+      >$period<br />$HCredits<a
+        class="VimL"
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://github.com/philc/vimium"
+        >Vimium</a
+      >$HOriginal<a
+        class="VimL"
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://github.com/fengyuanchen/viewerjs"
+        >Viewer.js</a
+      >$HBy<i> Chen Fengyuan</i>$HAnd<a
+        class="VimL"
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://github.com/silentmatt/expr-eval"
+        >JavaScript Expression Evaluator</a
+      >$HBy<i>Matthew Crumley</i>$HEnd
+    </div>
+  </div>
+</div>
