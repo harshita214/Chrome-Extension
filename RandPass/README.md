@@ -16,6 +16,10 @@ Use RandPass (a Random Password Generator) Chrome Extentsion to create secure pa
 - Generate
 - Reset to create new passwords
 
+## Example
+***
+![Usage](demo.gif)
 
+*** 
 <br><br>
 made by - [@r3yc0n1c](https://github.com/r3yc0n1c) @ JWoC'22
