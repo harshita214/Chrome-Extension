@@ -109,6 +109,30 @@
 | 29. | [screenshot and video recorder](https://github.com/harshita214/Chrome-Extension/tree/main/screenshot%20and%20video%20recorder) | [Mohak Srivastav](https://github.com/whiteHatpro) |
 | 30. | [Tumbler_tiled](https://github.com/harshita214/Chrome-Extension/tree/main/tumbler_tiled) | [Mohak Srivastav](https://github.com/whiteHatpro) |
 | 31. | [URL shortener](https://github.com/harshita214/Chrome-Extension/tree/main/url%20shortener) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
+| 32. | [BMI Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/BMI%20Calculator) | [Ayush Mishra](https://github.com/ayush-sleeping) |
+| 33. | [Covid-19 Stats.](https://github.com/harshita214/Chrome-Extension/tree/main/COVID-19%20stats) | [Abhilipsa Sahoo](https://github.com/abhilipsasahoo03) |
+| 34. | [Dark ColorGen](https://github.com/harshita214/Chrome-Extension/tree/main/Dark%20ColorGen) | [Pratyay Roy](https://github.com/DarkFalc0n) |
+| 35. | [Flash Cards](https://github.com/harshita214/Chrome-Extension/tree/main/Flashcards) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| 36. | [Quadratic Equation Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Quadratic%20Equation%20Calculator) | [Saujanya Raj](https://github.com/saujanyaraj07) |
+| 37. | [Rand Pass](https://github.com/harshita214/Chrome-Extension/tree/main/RandPass) | [Raja Majumdar](https://github.com/r3yc0n1c) |
+| 38. | [Timezoneee](https://github.com/harshita214/Chrome-Extension/tree/main/Timezoneee) | [Raja Majumdar](https://github.com/r3yc0n1c) |
+| 39. | [Block Site](https://github.com/harshita214/Chrome-Extension/tree/main/block%20site) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| 40. | [Calender 2022](https://github.com/harshita214/Chrome-Extension/tree/main/calender%202022) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| 41. | [Panic Button](https://github.com/harshita214/Chrome-Extension/tree/main/panic%20button) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| 42. | [Random Gradient Generator](https://github.com/harshita214/Chrome-Extension/tree/main/random%20gradient%20generator) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
+| 43. | [Rock Paper Scissor](https://github.com/harshita214/Chrome-Extension/tree/main/rock%20paper%20scissor) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
+| 44. | [Safety Badge](https://github.com/harshita214/Chrome-Extension/tree/main/safety%20badge) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| 45. | [Snippet Highlighter](https://github.com/harshita214/Chrome-Extension/tree/main/snippet%20highlighter) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| 46. | [Contrast](https://github.com/harshita214/Chrome-Extension/tree/main/contrast) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+
+
+
+
+
+
+
+
+
 
 
 
