@@ -49,10 +49,16 @@ And now click on "Calculate" Button, And the yyou will get your body BMI...
 
 <div align="center">
 
-  <img src = "https://github.com/ayush-sleeping/Chrome-Extension/blob/main/BMI%20Calculator/Output%20SS/Final%20Output.png" >
+<!--   <img src = "https://github.com/ayush-sleeping/Chrome-Extension/blob/main/BMI%20Calculator/Output%20SS/Final%20Output.png" > -->
+  
+![Enhancement](https://user-images.githubusercontent.com/68096820/156984266-3731cd60-ff79-4ff6-a4e8-d36d367d0660.jpeg)
 
 </div>
 
 <br>
+
+https://user-images.githubusercontent.com/68096820/156984166-5ad02807-27c4-4418-903c-267348ee236e.mp4
+
+
 
 <br>
