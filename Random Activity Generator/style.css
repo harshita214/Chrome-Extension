@@ -1,17 +1,38 @@
 body {
   width: 300px;
-  height: 300px;
-  background-color: aliceblue;
+  height: 400px;
+  background-color: beige;
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 
 p {
   display: inner-flex;
   margin: auto 10px;
   font-size: 22px;
-  color: blue;
+  color: black;
   border-radius: 6px;
-  border: 1px solid lightblue;
+  border: 1px solid burlywood;
   padding: 10px;
+}
+.choices {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+.choices img {
+  border-radius: 50%;
+}
+.choices button {
+  background-color: palevioletred;
+  color: white;
+  border: none;
+  font-size: 50px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  outline: none;
+  cursor: pointer;
 }

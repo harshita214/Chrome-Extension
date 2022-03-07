@@ -1,5 +1,5 @@
 {
-  "name": "Dad Jokes",
+  "name": "Random Activity Generator",
   "version": "0.0.1",
   "manifest_version": 2,
   "browser_action": {
