@@ -1,6 +1,6 @@
 # **Random Activity Generator Extension**
 
-This extension generate new activities every time we click on the new group/solo button.
+This extension generates new activities every time we click on the new group/solo button.
 
 ## Technologies used:
 
