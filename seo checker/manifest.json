@@ -1,0 +1,36 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "name": "__MSG_appName__",
+  "version": "1.4.1",
+  "manifest_version": 2,
+  
+  "description": "__MSG_appDescription__",
+  "short_name": "__MSG_appShortName__",
+
+  "default_locale": "en",
+
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhL5CZS8HA2qrOEROVN1bIdKpyNTCINIJfkNrFceNU0lkgv1WKwhtUmm0LTrju8gxKm257cOEZRDPcnvHNCihYWZm0K1lprMm7ZH7rwjZ2z13JNnX4kQNKp8bEsuYNb//GMdfCh30uO8MHqawAW1yoWItqIdw6NM5vPVjNiSrIjYsL2T0dkjLwkAIcMmlET99YSGyRQLOeIEP/QyzqAtf894MLYvoYXTsplZm2lJZfRLT78gZ++GNxhG2PfyM6Q2eA0XNJOi7GDJuC8lfwM9ky31YT/oqG37fVagHMfzhW8LosIn7OVvFzFkfz6EFJMtDRjbYk/FTdJTZfwSCd8JKYQIDAQAB",
+
+  "icons": {
+    "16": "assets/branding/checkbot-chrome-icon-16x16.png",
+    "48": "assets/branding/checkbot-chrome-icon-48x48.png",
+    "128": "assets/branding/checkbot-chrome-icon-128x128.png"
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "16": "assets/branding/checkbot-chrome-icon-16x16.png",
+      "24": "assets/branding/checkbot-chrome-icon-24x24.png",
+      "32": "assets/branding/checkbot-chrome-icon-32x32.png"
+    }
+  },
+
+  "permissions": ["webRequest", "webRequestBlocking", "http://*/*", "https://*/*"],
+
+  "content_security_policy": "default-src 'none'; script-src 'self' ; connect-src *; img-src *; style-src 'unsafe-inline';",
+
+  "background": {
+    "scripts": ["scripts/background.js"]
+  }
+}
