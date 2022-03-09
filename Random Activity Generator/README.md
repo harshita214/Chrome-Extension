@@ -19,3 +19,7 @@ This extension generates new activities every time we click on the new group/sol
 ![Loading](./images/img0.JPG)
 ![Solo Activity](./images/img1.JPG)
 ![Group Activity](./images/img2.JPG)
+
+## Simulation Video
+
+![random_activity_generator](./images/random_activity_generator.gif)
