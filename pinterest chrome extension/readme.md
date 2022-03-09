@@ -2,6 +2,12 @@
 
 This extension helps you collect, organize, save and revisit your inspiring ideas whenever you wish to.
 
+##**Usage**
+* While surfing for ideas on pinterest, copy the image URL of the image you want.
+* Click on the extension icon and click on 'Add pin'.
+* Click on 'save from site' and paste the URL and click 'upload'.
+* Fill the details as mentioned and choose the size of the pin as large, medium or small and 'save'.
+
 <img width="370" alt="sss" src="https://user-images.githubusercontent.com/81632252/157450185-3162a4f6-d946-468b-9919-20dc1625de7b.png">
 
 <img width="960" alt="sss1" src="https://user-images.githubusercontent.com/81632252/157449463-d3a55c78-3b96-49ac-a01c-bd176537ccab.png">
