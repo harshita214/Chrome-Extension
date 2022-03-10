@@ -1,0 +1,12 @@
+{
+    "name": "QuotesHunt",
+    "description": "Extension created by Saheb Giri",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": "./qh.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
+}
