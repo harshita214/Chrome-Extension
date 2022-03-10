@@ -7,7 +7,10 @@ body{
     justify-content: center;
     align-items: center;
     border-radius: 20px;
-    background: rgba(250, 250, 250, 0.85);
+    color: white;
+    background-image: url("background/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .input{
@@ -28,6 +31,7 @@ p{
     margin-top: 10px;
     text-transform: uppercase;
     letter-spacing: 1px;
+    font-weight: bold;
     font-size: 1.1rem;
 }
 
@@ -51,18 +55,18 @@ sup{
     padding: 0.2em 0.6em;
     margin-left: 0.2em;
     border-radius: 30px;
-    color: #fff;
-    background-color: aqua;
+    color: black;
+    background-color: white;
 
 }
 
 .temp{
     display: flex;
     flex-direction: row;
+    font-weight: bold;
     font-size: 3rem;
     font-weight: bold;
     margin-top: 10px;
-    color: #3d3d3d;
     text-align: center;
 }
 
@@ -70,7 +74,21 @@ sup{
     display: flex;
     flex-direction: row;
     font-size: 1.1rem;
+    font-weight: bold;
     margin-top: 10px;
-    color: #3d3d3d;
     text-align: center;
+}
+
+#city{
+    border-radius: 30px;
+    margin-right: -2px;
+    transition: 1s;
+    opacity: 0.8;
+}
+#city:focus{
+    border: 2px solid rgb(172, 236, 255);
+}
+.submit{
+    border-radius: 30px;    
+    background-color: white;
 }
