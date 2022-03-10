@@ -1,6 +1,6 @@
 # RandomFact
-RandomFact is a Chrome extension that is can be used to generate random facts. 
-A basic array was used to implement the repo of facts
+RandomFact is a Chrome extension that is can be used to generate random facts. <br/>
+A basic array was used to implement the repo of facts.
 
 ![image](https://user-images.githubusercontent.com/75256548/157597453-b8a4f7ee-6dd1-4183-b19b-54a1c809fb17.png)
 <br/><br/>
