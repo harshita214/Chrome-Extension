@@ -18,7 +18,7 @@ Use RandPass (a Random Password Generator) Chrome Extentsion to create secure pa
 
 ## Example
 ***
-![Usage](Animation.gif)
+![Usage](demo.gif)
 
 *** 
 <br><br>
