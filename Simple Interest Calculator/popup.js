@@ -1,56 +1,42 @@
-document
-  .getElementById("computeInterest")
-  .addEventListener("click", function () {
-    var principal = document.getElementById("principal").value;
+const form = document.getElementById('form');
+const principal = document.getElementById('principal');
+const rate = document.getElementById('rate');
+const time = document.getElementById('time');
+const resultInterest = document.getElementById('resultInterest');
+const resultAmount = document.getElementById('resultAmount');
+const resultElement = document.getElementById('result');
 
-    if (principal == "" || principal <= 0) {
-      alert("Enter a positive number");
-      document.getElementById("principal").focus();
-      return;
-    }
+let p = 0;
+let r = 0;
+let t = 0;
+let interest = 0;
+let amount = 0;
 
-    var rate = document.getElementById("rate").value;
-    var years = document.getElementById("years").value;
-    var interest = (principal * years * rate) / 100;
+principal.addEventListener('input', (e) => {
+    resultElement.classList.add('hide');
+})
 
-    var dateNow = new Date();
-    var yearNow = parseInt(dateNow.getFullYear()) + parseInt(years);
 
-    var resultDisplay = document.getElementById("result");
-    resultDisplay.innerHTML =
-      "<h3>If you deposit " +
-      "<span class='highlight'>" +
-      principal +
-      "</span>" +
-      ", at an interest rate of " +
-      "<span class='highlight'>" +
-      rate +
-      "</span>%." +
-      " You will receive an amount of " +
-      "<span class='highlight'>" +
-      interest +
-      "</span>" +
-      ", in the year " +
-      "<span class='highlight'>" +
-      yearNow +
-      "</span>.</h3>";
-  });
+const calculateInterest = () => {
+    p = parseFloat(principal.value);
+    r = parseFloat(rate.value);
+    t = parseFloat(time.value);
 
-document.getElementById("rate").addEventListener("change", function () {
-  var slider = document.getElementById("rate");
-  var output = document.getElementById("rate_display");
-  output.innerHTML = slider.value;
-  slider.oninput = function () {
-    output.innerHTML = this.value;
-  };
-});
+    interest = ((p*r*t)/100);
+    resultInterest.innerText = `₹ ${interest.toFixed(2)}`;
+}
 
-document
-  .getElementById("clearInput")
-  .addEventListener("click", function () {
-  document.getElementById("principal").value = "";
-  document.getElementById("rate").value = "10.25";
-  document.getElementById("rate_display").innerHTML = "10.25%";
-  document.getElementById("years").value = "1";
-  document.getElementById("result").innerHTML = "";
-});
+const calculateAmount = () => {
+    amount = (p + interest);
+    resultAmount.innerText = `₹ ${amount.toFixed(2)}`;
+}
+
+
+console.log("form")
+form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    
+    resultElement.classList.remove('hide');
+    calculateInterest();
+    calculateAmount();
+})
