@@ -76,54 +76,54 @@
 
 ## Available Extensions
 
-| S-No. | Extensions | Contributed by |
-|:--|:--|:--|
-| 01. | [AD Blocker](https://github.com/harshita214/Chrome-Extension/tree/main/AD%20BLOCKER) | [Saujanya Raj](https://github.com/saujanyaraj07) |
-| 02. | [Abusive Word Hider](https://github.com/harshita214/Chrome-Extension/tree/main/Abusive%20Word%20Hider) | [Ayush Mishra](https://github.com/ayush-sleeping) |
-| 03. | [Alarm clock](https://github.com/harshita214/Chrome-Extension/tree/main/Alarm%20clock) | [Harshita sharma](https://github.com/harshita214) & [Siddhant Singh](https://github.com/siddhantsingh-1) |
-| 04. | [Coding Profile Launcher](https://github.com/harshita214/Chrome-Extension/tree/main/Coding%20Profile%20Launcher) | [Ayush Mishra](https://github.com/ayush-sleeping) |
-| 05. | [Gif Downloader](https://github.com/harshita214/Chrome-Extension/tree/main/Gif%20Downloader) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
-| 06. | [Hex code color picker](https://github.com/harshita214/Chrome-Extension/tree/main/Hex%20code%20color%20picker%20extension) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 07. | [Highlight Us](https://github.com/harshita214/Chrome-Extension/tree/main/Highlight%20Us) | [Suman Mondal](https://github.com/thatsuman) |
-| 08. | [Music Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Music%20Mode) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
-| 09. | [Night Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Night%20Mode) | [RajulPE](https://github.com/RajulPE) |
-| 10. | [Prank Your Friend](https://github.com/harshita214/Chrome-Extension/tree/main/PrankYourFriend) | [Mahim Kapoor](https://github.com/mahimk9) |
-| 11. | [Quotes](https://github.com/harshita214/Chrome-Extension/tree/main/Quotes) | [Tarun Maharshi](https://github.com/trunmhrshi) |
-| 12. | [Random Jokes](https://github.com/harshita214/Chrome-Extension/tree/main/Random%20Jokes%20Extension) | [Mrunal Jambenal](https://github.com/mrunal736) |
-| 13. | [Simple Interest Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Simple%20Interest%20Calculator) | [Aniket Pawar](https://github.com/Aniket-508) |
-| 14. | [Spacing](https://github.com/harshita214/Chrome-Extension/tree/main/Spacing) | [Amirul Sekh](https://github.com/03amir) |
-| 15. | [Tab Tracker](https://github.com/harshita214/Chrome-Extension/tree/main/Tab%20Tracker) | [Harshita sharma](https://github.com/harshita214) & [Pratyay Roy](https://github.com/DarkFalc0n) |
-| 16. | [Timer](https://github.com/harshita214/Chrome-Extension/tree/main/Timer) | [Pratyay Roy](https://github.com/DarkFalc0n) |
-| 17. | [To-Do List ChromeExtension](https://github.com/harshita214/Chrome-Extension/tree/main/To-Do%20List%20ChromeExtension) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 18. | [Water Break](https://github.com/harshita214/Chrome-Extension/tree/main/Water%20Break) | [Ritika Saha](https://github.com/ritika-saha) |
-| 19. | [Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/calculator) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 20. | [Hello World](https://github.com/harshita214/Chrome-Extension/tree/main/helloWorldExtension) | [rohit-raj25](https://github.com/rohit-raj25) |
-| 21. | [Word of the day](https://github.com/harshita214/Chrome-Extension/tree/main/wordoftheday) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
-| 22. | [Compound Interest](https://github.com/harshita214/Chrome-Extension/tree/main/CompoundInterest) | [Amirul Sekh](https://github.com/03amir) |
-| 23. | [Meaning of word](https://github.com/harshita214/Chrome-Extension/tree/main/Meaning%20of%20word%20extensions) | [Tanwi Kumari](https://github.com/Devmindtk) |
-| 24. | [TIC TAC TOE](https://github.com/harshita214/Chrome-Extension/tree/main/TIC-TAC-TOE) | [Saujanya Raj](https://github.com/saujanyaraj07) |
-| 25. | [The Memory Game](https://github.com/harshita214/Chrome-Extension/tree/main/The%20Memory%20Game) | [Ayush Mishra](https://github.com/ayush-sleeping) |
-| 26. | [Weather App](https://github.com/harshita214/Chrome-Extension/tree/main/Weather%20App) | [Srijita Mandal](https://github.com/Srijita-Mandal) |
-| 27. | [Font changer](https://github.com/harshita214/Chrome-Extension/tree/main/font%20changer) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 28. | [Rgb hex converter](https://github.com/harshita214/Chrome-Extension/tree/main/rgb%20%20hex%20converter) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
-| 29. | [screenshot and video recorder](https://github.com/harshita214/Chrome-Extension/tree/main/screenshot%20and%20video%20recorder) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 30. | [Tumbler_tiled](https://github.com/harshita214/Chrome-Extension/tree/main/tumbler_tiled) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 31. | [URL shortener](https://github.com/harshita214/Chrome-Extension/tree/main/url%20shortener) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
-| 32. | [BMI Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/BMI%20Calculator) | [Ayush Mishra](https://github.com/ayush-sleeping) |
-| 33. | [Covid-19 Stats.](https://github.com/harshita214/Chrome-Extension/tree/main/COVID-19%20stats) | [Abhilipsa Sahoo](https://github.com/abhilipsasahoo03) |
-| 34. | [Dark ColorGen](https://github.com/harshita214/Chrome-Extension/tree/main/Dark%20ColorGen) | [Pratyay Roy](https://github.com/DarkFalc0n) |
-| 35. | [Flash Cards](https://github.com/harshita214/Chrome-Extension/tree/main/Flashcards) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 36. | [Quadratic Equation Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Quadratic%20Equation%20Calculator) | [Saujanya Raj](https://github.com/saujanyaraj07) |
-| 37. | [Rand Pass](https://github.com/harshita214/Chrome-Extension/tree/main/RandPass) | [Raja Majumdar](https://github.com/r3yc0n1c) |
-| 38. | [Timezoneee](https://github.com/harshita214/Chrome-Extension/tree/main/Timezoneee) | [Raja Majumdar](https://github.com/r3yc0n1c) |
-| 39. | [Block Site](https://github.com/harshita214/Chrome-Extension/tree/main/block%20site) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 40. | [Calender 2022](https://github.com/harshita214/Chrome-Extension/tree/main/calender%202022) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 41. | [Panic Button](https://github.com/harshita214/Chrome-Extension/tree/main/panic%20button) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 42. | [Random Gradient Generator](https://github.com/harshita214/Chrome-Extension/tree/main/random%20gradient%20generator) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
-| 43. | [Rock Paper Scissor](https://github.com/harshita214/Chrome-Extension/tree/main/rock%20paper%20scissor) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
-| 44. | [Safety Badge](https://github.com/harshita214/Chrome-Extension/tree/main/safety%20badge) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 45. | [Snippet Highlighter](https://github.com/harshita214/Chrome-Extension/tree/main/snippet%20highlighter) | [Mohak Srivastav](https://github.com/whiteHatpro) |
-| 46. | [Contrast](https://github.com/harshita214/Chrome-Extension/tree/main/contrast) | [Mohak Srivastav](https://github.com/whiteHatpro) |
+| S-No. | Extensions | 
+|:--|:--|
+| 01. | [AD Blocker](https://github.com/harshita214/Chrome-Extension/tree/main/AD%20BLOCKER) | 
+| 02. | [Abusive Word Hider](https://github.com/harshita214/Chrome-Extension/tree/main/Abusive%20Word%20Hider) | 
+| 03. | [Alarm clock](https://github.com/harshita214/Chrome-Extension/tree/main/Alarm%20clock) | 
+| 04. | [Coding Profile Launcher](https://github.com/harshita214/Chrome-Extension/tree/main/Coding%20Profile%20Launcher) | 
+| 05. | [Gif Downloader](https://github.com/harshita214/Chrome-Extension/tree/main/Gif%20Downloader) | 
+| 06. | [Hex code color picker](https://github.com/harshita214/Chrome-Extension/tree/main/Hex%20code%20color%20picker%20extension) | 
+| 07. | [Highlight Us](https://github.com/harshita214/Chrome-Extension/tree/main/Highlight%20Us) | 
+| 08. | [Music Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Music%20Mode) | 
+| 09. | [Night Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Night%20Mode) |
+| 10. | [Prank Your Friend](https://github.com/harshita214/Chrome-Extension/tree/main/PrankYourFriend) | 
+| 11. | [Quotes](https://github.com/harshita214/Chrome-Extension/tree/main/Quotes) | 
+| 12. | [Random Jokes](https://github.com/harshita214/Chrome-Extension/tree/main/Random%20Jokes%20Extension) | 
+| 13. | [Simple Interest Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Simple%20Interest%20Calculator) | 
+| 14. | [Spacing](https://github.com/harshita214/Chrome-Extension/tree/main/Spacing) | 
+| 15. | [Tab Tracker](https://github.com/harshita214/Chrome-Extension/tree/main/Tab%20Tracker) | 
+| 16. | [Timer](https://github.com/harshita214/Chrome-Extension/tree/main/Timer) | 
+| 17. | [To-Do List ChromeExtension](https://github.com/harshita214/Chrome-Extension/tree/main/To-Do%20List%20ChromeExtension) | 
+| 18. | [Water Break](https://github.com/harshita214/Chrome-Extension/tree/main/Water%20Break) | 
+| 19. | [Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/calculator) | 
+| 20. | [Hello World](https://github.com/harshita214/Chrome-Extension/tree/main/helloWorldExtension) | 
+| 21. | [Word of the day](https://github.com/harshita214/Chrome-Extension/tree/main/wordoftheday) | 
+| 22. | [Compound Interest](https://github.com/harshita214/Chrome-Extension/tree/main/CompoundInterest) | 
+| 23. | [Meaning of word](https://github.com/harshita214/Chrome-Extension/tree/main/Meaning%20of%20word%20extensions) | 
+| 24. | [TIC TAC TOE](https://github.com/harshita214/Chrome-Extension/tree/main/TIC-TAC-TOE) | 
+| 25. | [The Memory Game](https://github.com/harshita214/Chrome-Extension/tree/main/The%20Memory%20Game) | 
+| 26. | [Weather App](https://github.com/harshita214/Chrome-Extension/tree/main/Weather%20App) | 
+| 27. | [Font changer](https://github.com/harshita214/Chrome-Extension/tree/main/font%20changer) | 
+| 28. | [Rgb hex converter](https://github.com/harshita214/Chrome-Extension/tree/main/rgb%20%20hex%20converter) | 
+| 29. | [screenshot and video recorder](https://github.com/harshita214/Chrome-Extension/tree/main/screenshot%20and%20video%20recorder) | 
+| 30. | [Tumbler_tiled](https://github.com/harshita214/Chrome-Extension/tree/main/tumbler_tiled) | 
+| 31. | [URL shortener](https://github.com/harshita214/Chrome-Extension/tree/main/url%20shortener) | 
+| 32. | [BMI Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/BMI%20Calculator) | 
+| 33. | [Covid-19 Stats.](https://github.com/harshita214/Chrome-Extension/tree/main/COVID-19%20stats) |
+| 34. | [Dark ColorGen](https://github.com/harshita214/Chrome-Extension/tree/main/Dark%20ColorGen) | 
+| 35. | [Flash Cards](https://github.com/harshita214/Chrome-Extension/tree/main/Flashcards) | 
+| 36. | [Quadratic Equation Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Quadratic%20Equation%20Calculator) | 
+| 37. | [Rand Pass](https://github.com/harshita214/Chrome-Extension/tree/main/RandPass) | 
+| 38. | [Timezoneee](https://github.com/harshita214/Chrome-Extension/tree/main/Timezoneee) | 
+| 39. | [Block Site](https://github.com/harshita214/Chrome-Extension/tree/main/block%20site) | 
+| 40. | [Calender 2022](https://github.com/harshita214/Chrome-Extension/tree/main/calender%202022) | 
+| 41. | [Panic Button](https://github.com/harshita214/Chrome-Extension/tree/main/panic%20button) |
+| 42. | [Random Gradient Generator](https://github.com/harshita214/Chrome-Extension/tree/main/random%20gradient%20generator) |
+| 43. | [Rock Paper Scissor](https://github.com/harshita214/Chrome-Extension/tree/main/rock%20paper%20scissor) | 
+| 44. | [Safety Badge](https://github.com/harshita214/Chrome-Extension/tree/main/safety%20badge) | 
+| 45. | [Snippet Highlighter](https://github.com/harshita214/Chrome-Extension/tree/main/snippet%20highlighter) | 
+| 46. | [Contrast](https://github.com/harshita214/Chrome-Extension/tree/main/contrast) | 
 
 
 
@@ -166,13 +166,25 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 
 
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQEp7MUBpYE93g/company-logo_200_200/0/1608129179676?e=1651708800&v=beta&t=71R--Oo_R0AHY17EVdLFe50g8M5UAJ4vizvw--RaBAE" width="150px">
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQEp7MUBpYE93g/company-logo_200_200/0/1608129179676?e=1651708800&v=beta&t=71R--Oo_R0AHY17EVdLFe50g8M5UAJ4vizvw--RaBAE" width="250px">
 </div>
 
 <div align="center">
     <a href="https://jwoc.tech/">JGEC Winter of Code</a>
 
 </div>
+<br>
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/79797000/157820725-414c8dae-b7be-4c68-89e3-8039d573fbe8.png" width="750px">
+</div>
+
+<div align="center">
+    <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a>
+
+</div>
+
 
 <br>
 
