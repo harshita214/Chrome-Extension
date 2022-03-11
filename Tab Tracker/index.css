@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700&display=swap');
 
 body {
-    margin: 0;
-    padding: 0px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Open Sans", sans-serif;
+        font-size: 14px;
+
 }
 
 .font-thin{
@@ -104,17 +104,16 @@ a {
 }
 
 .app-wrapper{
+    overflow: scroll;
     width: 400px;
-    max-height: 250px;
+    max-height: 700px;
     flex-direction: column;
     display:flex;
     overflow: hidden;
     background-image: linear-gradient(315deg, #434343, #000000);
+
 }
 
-
-
-  
 
 .button-wrapper{
     display: flex;
@@ -157,4 +156,75 @@ p{
     margin-bottom: 10px;
 }
 
+.modal-content {
+    padding: 0 22px;
+  }
+
+
+  img {
+    width: 30px;
+  }
+
+  .modal-header {
+    align-items: center;
+    border-bottom: 0.5px solid #dadada;
+  }
+
+  .modal-content {
+     margin: 10px;
+  }
+
+  .modal-icons {
+    overflow: scroll;
+    padding-bottom: 20px;
+    /* height: 50px;
+    width: 100%; */
+
+    margin: 10px 25px;
+
+
+
+  }
+
+  .logo {
+    padding: 16px;
+  }
+
+  .logo-icon {
+    vertical-align: text-bottom;
+    margin-right: 12px;
+  }
+
+  .version {
+    color: #444;
+    font-size: 18px;
+  }
+
+  .flex-container {
+    display: flex;
+    justify-content: space-between;
+
+  }
+
+  .flex {
+    opacity: 1;
+    transition: opacity 0.2s ease-in-out;
+    /* width: 120px; */
+    margin: 6px 10px;
+  }
+
+  .flex:hover {
+    opacity: 0.4;
+  }
+
+  .flex .fa {
+    font-size: 40px;
+    color: #2f5876;
+  }
+
+  .row{
+      display: flex;
+      justify-content: space-between;
+
+  }
 
