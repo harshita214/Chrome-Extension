@@ -1,10 +1,11 @@
 body {
   width: 400px;
-  height: 570px;
-  background-color: beige;
+  height: 580px;
+  background-color: green;
   display: flex;
   justify-content: center;
   flex-direction: column;
+  color: beige;
 }
 
 .choices {
@@ -14,10 +15,22 @@ body {
   flex-direction: row;
   justify-content: space-around;
 }
-.choices img {
-  border-radius: 50%;
+.choices button {
+  color: white;
+  background-color: red;
+  border-radius: 8px;
 }
 
 #series {
   display: block;
+}
+
+.seriesCol {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.seriesName {
+  display: flex;
+  justify-content: center;
 }

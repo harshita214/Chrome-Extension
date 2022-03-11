@@ -26,34 +26,33 @@ function checker(input) {
 
           let createTaskCard = (task) => {
             let card = document.createElement("div");
-            card.className = "col ";
+            card.className = "row";
             console.log(task);
             let cardBody = document.createElement("div");
+            cardBody.className = "seriesCol";
 
             let sdate = document.createElement("h5");
             var parts = task["dates "];
             sdate.innerText = parts;
 
+            let stype = document.createElement("h5");
+            stype.innerText = task["series_type "];
+
             let seriesName = document.createElement("h3");
             seriesName.innerText = task.series_name;
-
-            let wmintemp = document.createElement("h3");
-            wmintemp.innerText = task["series_type "];
+            seriesName.className = "seriesName";
 
             cardBody.appendChild(sdate);
-            cardBody.appendChild(seriesName);
-            cardBody.appendChild(wmintemp);
+            cardBody.appendChild(stype);
 
             card.appendChild(cardBody);
+            card.appendChild(seriesName);
             cardContainer.appendChild(card);
           };
 
           const newArray = seriesData.slice(0, 5);
           let initListOfTasks = () => {
-            if (cardContainer) {
-              document.getElementById("daily").replaceWith(cardContainer);
-              return;
-            }
+            document.getElementById("daily").innerHTML = "";
 
             cardContainer = document.getElementById("daily");
             newArray.forEach((task) => {
@@ -80,34 +79,33 @@ function checker(input) {
 
           let createTaskCard = (task) => {
             let card = document.createElement("div");
-            card.className = "col ";
+            card.className = "row";
             console.log(task);
             let cardBody = document.createElement("div");
+            cardBody.className = "seriesCol";
 
             let sdate = document.createElement("h5");
             var parts = task["dates "];
             sdate.innerText = parts;
 
+            let stype = document.createElement("h5");
+            stype.innerText = task["series_type "];
+
             let seriesName = document.createElement("h3");
             seriesName.innerText = task.series_name;
-
-            let wmintemp = document.createElement("h3");
-            wmintemp.innerText = task["series_type "];
+            seriesName.className = "seriesName";
 
             cardBody.appendChild(sdate);
-            cardBody.appendChild(seriesName);
-            cardBody.appendChild(wmintemp);
+            cardBody.appendChild(stype);
 
             card.appendChild(cardBody);
+            card.appendChild(seriesName);
             cardContainer.appendChild(card);
           };
 
           const newArray = seriesData.slice(0, 5);
           let initListOfTasks = () => {
-            if (cardContainer) {
-              document.getElementById("daily").replaceWith(cardContainer);
-              return;
-            }
+            document.getElementById("daily").innerHTML = "";
 
             cardContainer = document.getElementById("daily");
             newArray.forEach((task) => {
