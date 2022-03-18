@@ -76,6 +76,7 @@
 
 ## Available Extensions
 
+
 | S-No. | Extensions | Contributed by |
 |:--|:--|:--|
 | 01. | [AD Blocker](https://github.com/harshita214/Chrome-Extension/tree/main/AD%20BLOCKER) | [Saujanya Raj](https://github.com/saujanyaraj07) |
@@ -109,6 +110,8 @@
 | 29. | [screenshot and video recorder](https://github.com/harshita214/Chrome-Extension/tree/main/screenshot%20and%20video%20recorder) | [Mohak Srivastav](https://github.com/whiteHatpro) |
 | 30. | [Tumbler_tiled](https://github.com/harshita214/Chrome-Extension/tree/main/tumbler_tiled) | [Mohak Srivastav](https://github.com/whiteHatpro) |
 | 31. | [URL shortener](https://github.com/harshita214/Chrome-Extension/tree/main/url%20shortener) | [Manan khandelwal](https://github.com/mnnkhndlwl) |
+=======
+
 
 
 
@@ -142,13 +145,25 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 
 
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQEp7MUBpYE93g/company-logo_200_200/0/1608129179676?e=1651708800&v=beta&t=71R--Oo_R0AHY17EVdLFe50g8M5UAJ4vizvw--RaBAE" width="150px">
+<img src="https://media-exp1.licdn.com/dms/image/C560BAQEp7MUBpYE93g/company-logo_200_200/0/1608129179676?e=1651708800&v=beta&t=71R--Oo_R0AHY17EVdLFe50g8M5UAJ4vizvw--RaBAE" width="250px">
 </div>
 
 <div align="center">
     <a href="https://jwoc.tech/">JGEC Winter of Code</a>
 
 </div>
+<br>
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/79797000/157820725-414c8dae-b7be-4c68-89e3-8039d573fbe8.png" width="750px">
+</div>
+
+<div align="center">
+    <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a>
+
+</div>
+
 
 <br>
 
