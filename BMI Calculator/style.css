@@ -1,3 +1,24 @@
+body {
+	background: linear-gradient(-45deg, #ee7752, #e73c7e, #6723d5, #23d5ab);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+	height: 100vh;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+
 #container {
 	width :390px;
 	height:595px;
@@ -50,12 +71,16 @@
 	opacity: 0.5;
   }
 
-#weightguide {
+.weightguide {
 	margin-left: 50px;
-	margin-top: -15px;
+	margin-top:5px;
+	/* margin-top: -15px; */
 	color: white;
+	background-color: rgba(247, 110, 201, 0.3);
+	display:inline-block;
 	font-family: 'Merriweather', serif;
 }
+
 
 #result {
 	font-size:25px;
@@ -64,8 +89,14 @@
 	color: white ;
 	font-family: 'Roboto', sans-serif;
 }
-.row{
-	background-color:none;
+.row1{
+	background-color: rgba(255,255,255,0.3);
+}
+.row2{
+	background-color: rgba(255,255,255,0.3);
+}
+.row3{
+	background-color: rgba(255,255,255,0.3);
 }
 
 #submit{
