@@ -1,0 +1,27 @@
+body {
+  background: #3e2f34;
+}
+
+button {
+  height: 30px;
+  width: 200px;
+  outline: none;
+  margin: 5px;
+  border: none;
+  background: #46cbb2;
+  color: #3e2f34;
+  font-weight: bold;
+}
+
+button:hover {
+  background: #349986;
+  color: #eee;
+  cursor: pointer;
+}
+
+#words {
+  color: #eee;
+  padding: 10px;
+  max-height: 400px;
+  overflow-y: scroll;
+}

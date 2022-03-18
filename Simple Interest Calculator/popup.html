@@ -9,57 +9,29 @@
 </head>
 
 <body>
-    <div class="mainDiv">
-        <table class="calcTable large">
-            <tbody>
-                <tr>
-                    <td class="medium">Amount </td>
-                    <td>
-                        <input type="number" id="principal" class="large">
-                    </td>
-                </tr>
-                <tr></tr>
-                <tr></tr>
-                <tr></tr>
-                <tr></tr>
-                <tr>
-                    <td class="medium">Interest Rate </td>
-                    <td>
-                        <input type="range" min="1" max="20" step="0.25" value="10.25" id="rate" class="large">
-                        <span id="rate_display">10.25%</span>
-                    </td>
-                </tr>
-                <tr></tr>
-                <tr></tr>
-                <tr></tr>
-                <tr></tr>
-                <tr>
-                    <td class="medium">No. of Years</td>
-                    <td>
-                        <select name="years" id="years" class="large">
-                            <option value="1">1</option>
-                            <option value="2">2</option>
-                            <option value="3">3</option>
-                            <option value="4">4</option>
-                            <option value="5">5</option>
-                            <option value="6">6</option>
-                            <option value="7">7</option>
-                            <option value="8">8</option>
-                            <option value="9">9</option>
-                            <option value="10">10</option>
-                        </select>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-
-        <div class="rowField">
-            <button id="computeInterest" class="calculate">Calculate</button>
-            <button id="clearInput" class="clear">Clear</button>
+    
+    <div class="container">
+    
+        <form id="form" class="form">
+            <h2>Simple Interest Calculator</h2>
+            <div class="form-control">
+                <label for="principal">Amount (<em>Amount in ₹</em>)</label>
+                <input type="number" id="principal" placeholder="100000" required>
+            </div>
+            <div class="form-control">
+                <label for="rate">Rate (<em>Rate in % per annum</em>)</label>
+                <input type="number" id="rate" placeholder="10" required>
+            </div>
+            <div class="form-control">
+                <label for="time">Time (<em>Time in years</em>)</label>
+                <input type="number" id="time" placeholder="1" required>
+            </div>
+            <button>Submit</button>
+        </form>
+        <div id="result" class="result hide" >
+            <h4>Total Interest:  <span class="resItem" id="resultInterest">6000</span></h4>
+            <h4> Total Amount :    <span class="resItem" id="resultAmount">5000</span></h4>
         </div>
-
-        <span id="result">
-        </span>
     </div>
     <script src="popup.js"></script>
 </body>

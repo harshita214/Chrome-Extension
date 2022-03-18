@@ -1,27 +1,41 @@
 body {
+
     width: 200px;
     height: 200px;
     background-image: linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1));
 }
 
+
 p {
     
-    margin: 15px 15px;
-    font-size: 15px;
-    color: rgb(239, 239, 255);
-    border-radius: 6px;
-    border: 2px solid lightblue;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    background-color: rgb(63, 61, 61,0.7);
+    color: white;
+    border-radius: 15px;
+    border: 2px solid rgb(106, 167, 196);
     padding: 10px;
+}
+
+#div1 {
+    text-align: center;
 }
 
 #btn {
     align-items: center;
-    border: 2px;
-    border-radius: 6px;
-    padding: 5px 10px;
-    margin: 15px 55px;
-    color: rgb(19, 18, 18);
+    outline: none;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 25px;
+    margin: 30px 75px;
+    color: rgb(27, 26, 26);
+    font-style: italic;
     font-weight: bold;
+    font-size: 20px;
     cursor: pointer;
-    background-color: rgb(206, 178, 178);
+    background-color: rgb(106, 167, 196);
 }  
+
