@@ -4,7 +4,6 @@
 
 - [About](#about)
 - [Technology](#tech)
-- [Live Demo](#demo)
 - [Screenshots](#Screenshots)
 
 ## 📙 About <a name = "about"></a>
@@ -22,9 +21,9 @@
 
 ## 📷 Demo Screenshots <a name = "Screenshots"></a>
 
-<div align="center">
-   <img src="Screenshots/SayItSS.png"></a>
-   <video src="Screenshots/SayIt.mkv" width=650 height=650 autoplay ></a>
-   <hr>
+
+https://user-images.githubusercontent.com/85748264/159112475-93674875-881f-4654-b995-73b9f2b28523.mp4
+
+
 </div>
 
