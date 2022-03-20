@@ -23,3 +23,7 @@
 *** 
 <br><br>
 made by - [@iamrahulmahato](https://github.com/iamrahulmahato)
+
+## ⭐️ Show your support
+
+Give a star if this project helped you!
