@@ -13,3 +13,6 @@ This extension will format numerical value into International Currency Number Sy
 
 ### step 3- press format button and see the output on result box.
 <img src="images/INRdemo.png">
+
+### Demo Video for Using the Extension 
+<video src='images/DemoVid.mp4'>
