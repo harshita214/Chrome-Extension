@@ -12,7 +12,7 @@
 
 ## Example
 ***
-![Usage](demo1.gif)
+![Usage](./img/demo1.gif)
 
 
 ## 📷 Screenshots
