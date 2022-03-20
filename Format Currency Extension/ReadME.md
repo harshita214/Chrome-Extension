@@ -15,4 +15,4 @@ This extension will format numerical value into International Currency Number Sy
 <img src="images/INRdemo.png">
 
 ### Demo Video for Using the Extension 
-<video src='images/DemoVid.mp4'>
+https://user-images.githubusercontent.com/88632352/159156060-a8bf09e9-eb81-4453-b334-61f1fc941b55.mp4
