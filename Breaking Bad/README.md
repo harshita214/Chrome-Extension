@@ -1,3 +1,8 @@
+<p align="center">
+    <img alt="" height="80" src="./img/qh.png">
+  </a>
+</p>
+
 # BreakingBad
 
  BreakingBad is Chrome extension which generate random quote from famous web series Breaking Bad.
