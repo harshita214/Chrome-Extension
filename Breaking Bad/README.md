@@ -3,7 +3,7 @@
   </a>
 </p>
 
-# BreakingBad
+<h1 align="center">BreakingBad</h1>
 
  BreakingBad is Chrome extension which generate random quote from famous web series Breaking Bad.
 
