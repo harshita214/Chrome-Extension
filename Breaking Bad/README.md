@@ -14,6 +14,12 @@
 ***
 ![Usage](demo1.gif)
 
+
+## 📷 Screenshots
+
+![ss1]()
+![ss2]()
+
 *** 
 <br><br>
 made by - [@iamrahulmahato](https://github.com/iamrahulmahato)
