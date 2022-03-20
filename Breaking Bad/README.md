@@ -17,8 +17,8 @@
 
 ## 📷 Screenshots
 
-![ss1]()
-![ss2]()
+![ss1](./img/ss11.jpg)
+![ss2](./img/ss12.jpg)
 
 *** 
 <br><br>
