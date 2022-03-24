@@ -1,0 +1,17 @@
+body{
+    width: 500px;
+    height: 500px;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    display: inner-flex;
+    margin: auto 12px;
+    font-size: 22px;
+    color: blue;
+    border-radius: 10px;
+    border: 5px solid lightblue;
+    padding: 13px;
+}
