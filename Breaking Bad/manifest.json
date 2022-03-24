@@ -1,0 +1,14 @@
+{
+    "name": "Breaking-Bad",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html",
+        "degault_icon": "./img/qh.png"
+    },
+    "icons": {
+        "128": "./img/qh.png"
+    },
+    "permissions": ["activeTab"]
+
+}

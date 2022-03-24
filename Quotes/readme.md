@@ -7,14 +7,14 @@ This extension generate new quotes every time we click on the new quote button.
 * JavaScript
 
 
-### Sometimes we are frustrated while doing work. To feel motivated and better we need quotes, so this extension will help in that situation.
-### In this extension I used an quote api to fetch data when the button is clicked it will fetch the quote and visible on our screen using html,css and javascript.
+### Sometimes we are frustrated while doing our day to day work. To feel motivated and better we need something good to read and what's better than short quotes, so this extension will help in such situations.
+### In this extension I used an quote api to fetch data when the button is clicked, it will fetch the quote which will be visible on your screen using html, css and javascript.
 
 
 ---
 ## Screenshots
 
-![Extension](./images/img0.png)
-![Extension](./images/img1.png)
-![Extension](./images/img2.png)
-![Extension](./images/img3.png)
+![Extension](./Screenshots/Image_1.png)
+![Extension](./Screenshots/Image_2.png)
+![Extension](./Screenshots/Image_3.png)
+![Extension](./Screenshots/Image_4.png)
