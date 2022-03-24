@@ -14,7 +14,7 @@ let audio= document.getElementById('sound')
 start.addEventListener('click',function(){
     if(startTimer===undefined){
         workel.textContent="Work Time !"
-        workel.style["background-color"]="greenyellow"
+        workel.style["background-color"]="white"
         startTimer=setInterval(timer,1000)
         check()
     }
@@ -30,7 +30,7 @@ reset.addEventListener('click',function(){
     stopInterval()
     
    workel.textContent="Start Again"
-   workel.style["background-color"]="rgb(217, 189, 250)"
+   workel.style["background-color"]="white"
    
     startTimer=undefined
 })
