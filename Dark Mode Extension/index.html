@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Chrome Extension</title>
+    <link href="https://fonts.googleapis.com/css?family=Lobster:400|Raleway:300,400,500&display=swap" rel="stylesheet">
+
+</head>
+<style>
+    body {
+        min-width: 300px;
+    }
+    .popup {
+        min-width: 344px;
+        min-height: 188px;
+        background: #fcfafa;
+        border-radius: 10px;
+        padding: 1rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+        font-family: "Lobster";
+        color: #262629;
+    }
+    p {
+        font-family: "Raleway", sans-serif;
+        font-size: 0.75rem;
+    }
+
+    .button {
+        background-color: #FDFCA3;
+        position: relative;
+        height: 2rem;
+        width: 4rem;
+        border-radius: 25px;
+        transition: 1s;
+        font-family: "Raleway", sans-serif;
+    }
+
+    .half {
+        position: absolute;
+        width: 50%;
+        top: 50%;
+        transform: translateY(-50%);
+        pointer-events: none;
+    }
+
+    .circle {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 32px;
+        width: 32px;
+        border-radius: 50%;
+        background-color: rgb(255, 213, 0);
+        pointer-events: none;
+        transition: 1s;
+
+    }
+
+    @keyframes transformToBlue {
+        0% {
+            background-color: #f0efc8;
+        }
+
+        100% {
+            background-color: #8ABFF0;
+        }
+    }
+
+    @keyframes transformToYellow {
+        0% {
+            background-color: #8ABFF0;
+        }
+
+        100% {
+            background-color: #f0efc8;
+        }
+    }
+
+    @keyframes moveCircleRight {
+        0% {
+            left: 0;
+            transform: translateX(0);
+            background-color: rgb(255, 213, 0);
+        }
+
+        100% {
+            left: 100%;
+            transform: translateX(-100%);
+            background-color: #588BE4;
+        }
+    }
+
+    @keyframes moveCircleLeft {
+        0% {
+            left: 100%;
+            transform: translateX(-100%);
+            background-color: #588BE4;
+        }
+
+        100% {
+            left: 0;
+            transform: translateX(0);
+            background-color: rgb(255, 213, 0);
+        }
+    }
+</style>
+
+<body>
+    <div class="popup">
+        <h1> Dark Toggle</h1>
+        <div class="button">
+            <div class="half" style="left: 5px;">On</div>
+            <div class="half" style="right: 5px; text-align: right;">Off</div>
+            <div class="circle"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,124 @@
+{
+  "background": {
+    "persistent": true,
+    "scripts": [
+      "background/define.js",
+      "background/store.js",
+      "background/utils.js",
+      "background/browser.js",
+      "background/normalize_urls.js",
+      "background/parse_urls.js",
+      "background/settings.js",
+      "background/ports.js",
+      "background/exclusions.js",
+      "background/ui_css.js",
+      "background/i18n.js",
+      "background/key_mappings.js",
+      "background/run_commands.js",
+      "background/run_keys.js",
+      "background/tools.js",
+      "background/clipboard.js",
+      "background/eval_urls.js",
+      "background/open_urls.js",
+      "background/frame_commands.js",
+      "background/filter_tabs.js",
+      "background/tab_commands.js",
+      "background/all_commands.js",
+      "background/request_handlers.js",
+      "background/main.js"
+    ]
+  },
+  "browser_action": {
+    "default_icon": {
+      "19": "icons/enabled_19.png",
+      "38": "icons/enabled_38.png"
+    },
+    "default_popup": "pages/popup.html",
+    "default_title": "__MSG_name__\n\n__MSG_noActiveState__"
+  },
+  "commands": {
+    "createTab": {
+      "description": "__MSG_createTab_s__"
+    },
+    "goBack": {
+      "description": "__MSG_goBack_s__"
+    },
+    "goForward": {
+      "description": "__MSG_goForward_s__"
+    },
+    "previousTab": {
+      "description": "__MSG_previousTab_s__"
+    },
+    "quickNext": {
+      "description": "__MSG_quickNext_s__"
+    },
+    "reloadTab": {
+      "description": "__MSG_reloadTab_s__"
+    },
+    "userCustomized1": {
+      "description": "__MSG_userCustomized__ 1"
+    },
+    "userCustomized2": {
+      "description": "__MSG_userCustomized__ 2"
+    }
+  },
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "match_about_blank": true,
+      "matches": [
+        "<all_urls>"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "content_security_policy": "script-src 'self'; style-src 'self' 'unsafe-inline'; object-src 'none'",
+  "default_locale": "en",
+  "description": "__MSG_description__",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "incognito": "spanning",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnaZQnkvrHvNlwXPnSfavEya+9sPtVgBR2hWLsNvwdv6+zHRGr/qhqEbtof1v7gDXzpC5+Dr4kOay6aflw5CaFzA1zyVJySAjpb0RkVh774kp9msRpjyb39obSIWAIB76PTwawEAE+K1f26jXDbTC2gEBe4OWk5KW9u9+KoTmeKLHo73ScR1jFcFaOTbrhwHtIDqj00vpIfrSAofpLIq1gP//Og+FoOT4dF107fwlVfDJuu171svuT68wmcKStl6OANxcnXCXE6OWbeZcjMehcQH41wzTtDugmt0o8w+hJ2WVugwWWmGmE8qSiwo9QYZTJW+5EvMcmNZWUmPbTLGkGQIDAQAB",
+  "manifest_version": 2,
+  "minimum_chrome_version": "47",
+  "name": "__MSG_name__",
+  "offline_enabled": true,
+  "omnibox": {
+    "keyword": "v"
+  },
+  "optional_permissions": [
+    "chrome://*/*",
+    "chrome://new-tab-page/*",
+    "contentSettings",
+    "downloads",
+    "downloads.shelf"
+  ],
+  "options_ui": {
+    "page": "pages/options.html",
+    "chrome_style": false,
+    "open_in_tab": true
+  },
+  "permissions": [
+    "bookmarks",
+    "clipboardRead",
+    "clipboardWrite",
+    "history",
+    "notifications",
+    "sessions",
+    "storage",
+    "tabs",
+    "webNavigation",
+    "<all_urls>"
+  ],
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "0.0.1",
+  "web_accessible_resources": [
+    "content/*",
+    "front/c.*",
+    "lib/*"
+  ]
+}
