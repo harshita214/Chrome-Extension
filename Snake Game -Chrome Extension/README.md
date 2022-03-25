@@ -14,3 +14,10 @@ Game loop:
   - if collision with itself - end game
 - advance snake (delete last node, add new)
 - check if end of game (spawned enough food to end the game)
+- 
+![screenshot](https://user-images.githubusercontent.com/81406458/160060701-a007e076-5e2d-4633-b885-1c34accde08c.png)
+
+![screenshot 2](https://user-images.githubusercontent.com/81406458/160060715-338bc825-84e2-4fac-a630-ec891c1edeb8.png)
+
+https://user-images.githubusercontent.com/81406458/160060726-8532c197-e51c-4cfb-a4a3-3239762fb4ef.mp4
+
