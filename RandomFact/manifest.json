@@ -1,0 +1,14 @@
+{
+    "name": "Random fact generator",
+    "description": "A simple extension for facts",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "icons": {
+        "128": "facts.png"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "facts.png"
+    },
+    "permissions": ["downloads"]
+}

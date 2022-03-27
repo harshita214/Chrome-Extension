@@ -1,6 +1,6 @@
 # **Cricket Series Extension**
 
-This extension generates new activities every time we click on the new group/solo button.
+This extension generates Cricket Series sorted by date.
 
 ## Technologies used:
 
@@ -8,18 +8,18 @@ This extension generates new activities every time we click on the new group/sol
 - CSS
 - JavaScript
 
-### Sometime we are bored in our monotonous life. This Random activity generator will suggest an awesome activity to try something new.
+### This extension is the best for any cricket fan.
 
-### In this extension I used bored api to fetch data when the option button is clicked it will fetch the activity suggestion and is visible on our screen using html,css and javascript.This extension provides options of a solo/group activity.
+### In this extension I used cricket series api to fetch data when the current/upcoming button is clicked it will fetch the date,type and name of the Cricket Series and is visible on our screen using html,css and javascript.This extension provides options of a current/upcoming series.
 
 ---
 
 ## Screenshots
 
 ![Loading](./images/img0.JPG)
-![Solo Activity](./images/img1.JPG)
-![Group Activity](./images/img2.JPG)
+![Current Series](./images/img1.JPG)
+![Upcoming Series](./images/img2.JPG)
 
 ## Simulation Video
 
-![random_activity_generator](./images/random_activity_generator.gif)
+![cricket_series_extension](./images/cricket_series_extension.gif)

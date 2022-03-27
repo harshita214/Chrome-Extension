@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
+:root {
+  --background-color: #8d91aa;
+  --font-color: #504e4e;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+    body {
+      background-color: var(--background-color);
+      border-radius: 5px;
+    }
+.wrapper {
+  width: 370px;
+  border-radius: 7px;
+  padding: 25px 30px;
+}
+.wrapper header {
+  font-family: "Playfair Display", serif;
+  font-size: 28px;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.wrapper form {
+    margin: 35px 0px 20px;
+}
+
+form .row{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+form .row label {
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+form :where(textarea , select , button){
+    outline: none;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+}
+
+form .row textarea {
+    color: var(--font-color);
+    resize: none;
+    height: 70px;
+    font-size: 15px;
+    border: 1px solid #999;
+    padding: 8px 10px;
+}
+
+form .row .outer {
+    display: flex;
+    padding: 0 10px;
+    align-items: center;
+    height: 47px;
+    border-radius: 5px;
+    border: 1px solid #999;
+}
+
+form .row select {
+    font-size: 14px;
+    background-color: #fff;
+}
+.outer{
+    background-color: #fff;
+}
+form button {
+    height: 52px;
+    margin-top: 10px;
+    font-family: "Playfair Display", serif;
+    background-color: #f1ecce;
+    color: var(--background-color);
+    font-size: 17px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+footer{
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-size: medium;
+  margin-bottom: 10px;
+}
+
+a{
+  text-decoration: none;
+}
