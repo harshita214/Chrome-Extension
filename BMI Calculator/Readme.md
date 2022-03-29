@@ -35,8 +35,19 @@ First you have to enable this extension ,
 <div align="center">
 
   <img src = "https://github.com/ayush-sleeping/Chrome-Extension/blob/main/BMI%20Calculator/Output%20SS/Enable%20extension.png" >
+  
+
+
+
+https://user-images.githubusercontent.com/68096820/160613115-292ff2ff-4d58-4697-86eb-8273f9ff45fe.mp4
+
+
 
 </div>
+
+
+
+
 
 <br>
 
