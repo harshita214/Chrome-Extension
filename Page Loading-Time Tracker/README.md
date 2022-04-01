@@ -2,11 +2,9 @@
 
 <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
-<div align="center">
-  
-
-  
-  </div>
+<div align="center"> 
+An extension that displays the time taken followed by an indicator (red/yellow/green), depending on how fast/slow the page loads.
+</div>
 
   <!-- ---------------------------------------------------------------------------------------------------------------------- -->
 
