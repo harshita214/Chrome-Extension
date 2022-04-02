@@ -86,7 +86,7 @@
 | 06. | [Hex code color picker](https://github.com/harshita214/Chrome-Extension/tree/main/Hex%20code%20color%20picker%20extension) | 
 | 07. | [Highlight Us](https://github.com/harshita214/Chrome-Extension/tree/main/Highlight%20Us) | 
 | 08. | [Music Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Music%20Mode) | 
-| 09. | [Night Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Night%20Mode) |
+| 09. | [Night Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Dark%20Mode%20Extension) |
 | 10. | [Prank Your Friend](https://github.com/harshita214/Chrome-Extension/tree/main/PrankYourFriend) | 
 | 11. | [Quotes](https://github.com/harshita214/Chrome-Extension/tree/main/Quotes) | 
 | 12. | [Random Jokes](https://github.com/harshita214/Chrome-Extension/tree/main/Random%20Jokes%20Extension) | 
@@ -94,19 +94,19 @@
 | 14. | [Spacing](https://github.com/harshita214/Chrome-Extension/tree/main/Spacing) | 
 | 15. | [Tab Tracker](https://github.com/harshita214/Chrome-Extension/tree/main/Tab%20Tracker) | 
 | 16. | [Timer](https://github.com/harshita214/Chrome-Extension/tree/main/Timer) | 
-| 17. | [To-Do List ChromeExtension](https://github.com/harshita214/Chrome-Extension/tree/main/To-Do%20List%20ChromeExtension) | 
+| 17. | [To-Do List Chrome Extension](https://github.com/harshita214/Chrome-Extension/tree/main/To-Do%20List%20ChromeExtension) | 
 | 18. | [Water Break](https://github.com/harshita214/Chrome-Extension/tree/main/Water%20Break) | 
 | 19. | [Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/calculator) | 
 | 20. | [Hello World](https://github.com/harshita214/Chrome-Extension/tree/main/helloWorldExtension) | 
 | 21. | [Word of the day](https://github.com/harshita214/Chrome-Extension/tree/main/wordoftheday) | 
-| 22. | [Compound Interest](https://github.com/harshita214/Chrome-Extension/tree/main/CompoundInterest) | 
+| 22. | [Compound Interest Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/CompoundInterest) | 
 | 23. | [Meaning of word](https://github.com/harshita214/Chrome-Extension/tree/main/Meaning%20of%20word%20extensions) | 
 | 24. | [TIC TAC TOE](https://github.com/harshita214/Chrome-Extension/tree/main/TIC-TAC-TOE) | 
 | 25. | [The Memory Game](https://github.com/harshita214/Chrome-Extension/tree/main/The%20Memory%20Game) | 
 | 26. | [Weather App](https://github.com/harshita214/Chrome-Extension/tree/main/Weather%20App) | 
 | 27. | [Font changer](https://github.com/harshita214/Chrome-Extension/tree/main/font%20changer) | 
 | 28. | [Rgb hex converter](https://github.com/harshita214/Chrome-Extension/tree/main/rgb%20%20hex%20converter) | 
-| 29. | [screenshot and video recorder](https://github.com/harshita214/Chrome-Extension/tree/main/screenshot%20and%20video%20recorder) | 
+| 29. | [Screenshot & Video Recorder](https://github.com/harshita214/Chrome-Extension/tree/main/screenshot%20and%20video%20recorder) | 
 | 30. | [Tumbler_tiled](https://github.com/harshita214/Chrome-Extension/tree/main/tumbler_tiled) | 
 | 31. | [URL shortener](https://github.com/harshita214/Chrome-Extension/tree/main/url%20shortener) | 
 | 32. | [BMI Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/BMI%20Calculator) | 
@@ -124,7 +124,22 @@
 | 44. | [Safety Badge](https://github.com/harshita214/Chrome-Extension/tree/main/safety%20badge) | 
 | 45. | [Snippet Highlighter](https://github.com/harshita214/Chrome-Extension/tree/main/snippet%20highlighter) | 
 | 46. | [Contrast](https://github.com/harshita214/Chrome-Extension/tree/main/contrast) | 
-
+| 47. | [Age Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Age%20Calculator)
+| 48. | [File Converter](https://github.com/harshita214/Chrome-Extension/tree/main/File%20Converter)
+| 49. | [Breaking Bad](https://github.com/harshita214/Chrome-Extension/tree/main/Breaking%20Bad)
+| 50. | [Wordle Solver](https://github.com/harshita214/Chrome-Extension/tree/main/wordle%20solver)
+| 51. | [Revision Helper](https://github.com/harshita214/Chrome-Extension/tree/main/revisionHelper)
+| 52. | [Hashtag Suggestor](https://github.com/harshita214/Chrome-Extension/tree/main/tag%20suggestor)
+| 53. | [Pinterest Chrome Extension](https://github.com/harshita214/Chrome-Extension/tree/main/pinterest%20chrome%20extension)
+| 54. | [Keyboard Shortcuts](https://github.com/harshita214/Chrome-Extension/tree/main/keyboard%20shortcuts)
+| 55. | [Cricket Series Extension](https://github.com/harshita214/Chrome-Extension/tree/main/Cricket%20Series%20Extension)
+| 56. | [Format Currency Extension](https://github.com/harshita214/Chrome-Extension/tree/main/Format%20Currency%20Extension)
+| 57. | [GitHub Extension](https://github.com/harshita214/Chrome-Extension/tree/main/Github%20Extension)
+| 58. | [QR Generator Extension](https://github.com/harshita214/Chrome-Extension/tree/main/QR-Generator)
+| 59. | [Random Activity](https://github.com/harshita214/Chrome-Extension/tree/main/Random%20Activity%20Generator)
+| 60. | [Random Fact Extension](https://github.com/harshita214/Chrome-Extension/tree/main/RandomFact) 
+| 61. | [Say It](https://github.com/harshita214/Chrome-Extension/tree/main/Say%20It)
+| 62. | [Snake Game](https://github.com/harshita214/Chrome-Extension/tree/main/Snake%20Game%20-Chrome%20Extension)
 
 
 
