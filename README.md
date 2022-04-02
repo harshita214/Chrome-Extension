@@ -318,6 +318,16 @@ Thanks to all the **people who contribute** 💜
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+ 
+
+ ## Code of Conduct 
+
+To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](https://github.com/harshita214/Chrome-Extensions/mypatch2/CODE_OF_CONDUCT.md). 
+ 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 
 ## Feedback
 
