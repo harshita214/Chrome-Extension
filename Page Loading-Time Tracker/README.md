@@ -38,7 +38,7 @@ An extension that displays the time taken followed by an indicator (red/yellow/g
      <td><b>Slow</b></td>
   </tr>
     <tr>
-     <td><img src = "https://github.com/alisha-kamat/Chrome-Extension/blob/b47bb0140cd85b0eff5a3261f6c737a535a7e628/Page%20Loading-Time%20Tracker/Screenshots/slow.png" ></td>
+     <td><img src = "https://github.com/alisha-kamat/Chrome-Extension/blob/84868da96de21b5cb3b1f0551e31089a0160a5df/Page%20Loading-Time%20Tracker/Screenshots/fast.png" ></td>
      <td><img src = "https://github.com/alisha-kamat/Chrome-Extension/blob/b47bb0140cd85b0eff5a3261f6c737a535a7e628/Page%20Loading-Time%20Tracker/Screenshots/average.png" ></td>
      <td><img src = "https://github.com/alisha-kamat/Chrome-Extension/blob/b47bb0140cd85b0eff5a3261f6c737a535a7e628/Page%20Loading-Time%20Tracker/Screenshots/slow.png" ></td>
   </tr>
