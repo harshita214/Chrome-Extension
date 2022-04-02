@@ -54,7 +54,7 @@
 
 ## Overview
 
-<p align="center">        Chrome Extensions are something which we use very frequently in our day-to-day life for example Grammarly, In this project similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension it makes it more exciting. So you may be on any level of learning you can always contribute to this project and build your very own extensions!                   </p>
+<p align="center">        Chrome Extensions are something which we use very frequently in our day-to-day life for example, Grammarly. In this project, similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension— it makes it more exciting. So you may be on any level of learning, you can always contribute to this project and build your very own extensions!                   </p>
 
 <div align="center">   <h3>     Contribution is fun! ✨    </h3>    </div>
   
