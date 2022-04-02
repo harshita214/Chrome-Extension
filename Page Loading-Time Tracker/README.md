@@ -45,4 +45,10 @@ An extension that displays the time taken followed by an indicator (red/yellow/g
   </table>
 </div>
 
+
 ## Video Demonstration
+
+
+https://user-images.githubusercontent.com/84401192/161379462-5fcd2010-e613-482d-9cd2-251f27660fef.mp4
+
+
