@@ -3,31 +3,58 @@
 
 <head>
 	<title>BMI Calculator</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">	
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <body>
 
-	<div id="container">
+	<div id="container"> 
+        <div class="head">
+		<h1 class="h1"> BMI Calculator</h1>
+		</div>
 
-		<h1> BMI Calculator</h1>
-
-		<hr>
-		Height in CM :
-		<input type="text" id="cm"> <br />
-		Weight in KG :
-		<input type="text" id="kg"> <br />
-		<input type="submit" id="submit" value="Calculate"> <br /><br />
-
+		<!-- <hr> -->
+		<div class="uinput">
+		
+		<input type="text" id="cm"  placeholder="Enter Height in cm">
+		</div>
+		<div class="uinput">
+		
+		<input type="text" id="kg" placeholder="Enter Weight in KG"> 
+		</div>
+		<div>
+		<input type="submit" id="submit" value="Calculate"> 
+        </div>
 		<div id="result"></div>
 
-		<hr>
+		
 
-		<div id="weightguide">
-			<h2> BMI Weight Guide :</h2>
+		<div class="weightguide">
+			<!-- <h2> BMI Weight Guide :</h2>
 			Under Weight &nbsp; = &nbsp; Less than 18.6 <br />
 			Normal Range &nbsp; = &nbsp; 18.6 and 24.9 <br />
-			Overweight &nbsp; = &nbsp; Greater than 24.9 <br />
+			Overweight &nbsp; = &nbsp; Greater than 24.9 <br /> -->
+			<table  cellspacing="4" cellpadding="10">
+				<caption><h1 style="color:#fff;font-size:1.5rem">BMI Weight Guide</h1></caption>
+                <tr>
+					<td colspan="5" class="row1">Under Weight</td>
+				    <td colspan="10" class="row1">Less than 18.6</td>
+				</tr>
+				<tr>
+					<td colspan="5" class="row2">Normal Range</td>
+				    <td colspan="10" class="row2">18.6 and 24.9</td>
+				</tr>
+				<tr>
+					<td colspan="5" class="row2">Overweight</td>
+				    <td colspan="10" class="row2">Greater than 24.9</td>
+				</tr>
+			</table>
 		</div>
 
 	</div>
