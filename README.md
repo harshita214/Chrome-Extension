@@ -186,7 +186,7 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 
 
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C560BAQEp7MUBpYE93g/company-logo_200_200/0/1608129179676?e=1651708800&v=beta&t=71R--Oo_R0AHY17EVdLFe50g8M5UAJ4vizvw--RaBAE" width="250px">
+<img src="https://user-images.githubusercontent.com/80174214/161392790-7895ef9b-bc4d-41ee-a17a-395e3773ac19.png" width="250px">
 </div>
 
 <div align="center">
@@ -197,14 +197,14 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 <br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/79797000/157820725-414c8dae-b7be-4c68-89e3-8039d573fbe8.png" width="750px">
+<img src="https://raw.githubusercontent.com/GirlScriptSummerOfCode/MentorshipProgram/master/GSsoc%20Type%20Logo%20Black.png" width="800px">
 </div>
 
 <div align="center">
     <a href="https://gssoc.girlscript.tech/">GirlScript Summer of Code</a>
 
 </div>
-
+ 
 
 <br>
 
