@@ -169,7 +169,7 @@ Here's an example of what a Chrome Extension usually looks like:
 ![](https://github.com/GoogleChrome/chrome-extensions-samples/blob/main/apps/samples/hello-world/assets/screenshot_1280_800.png)
 (Image taken from [Chrome's extension library](https://github.com/GoogleChrome/chrome-extensions-samples) as an example.)
 
-Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext).md) documentation it has all steps.
+Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext).md) documentation it has all the steps.
 
 
 
