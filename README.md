@@ -52,7 +52,7 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Overview
+<h2 align="center">Overview</h2>
 
 <p align="center">        Chrome Extensions are something which we use very frequently in our day-to-day life for example, Grammarly. In this project, similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension— it makes it more exciting. So you may be on any level of learning, you can always contribute to this project and build your very own extensions!                   </p>
 
@@ -69,12 +69,12 @@
 
 <br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Available Extensions
+<h2 align="center">Available Extensions</h2>
 
 | S-No. | Extensions | 
 |:--|:--|
@@ -156,13 +156,13 @@
 
 <br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 
-## How to view extension?
+<h2 align="center">How to view extension?</h2>
 
 Here's an example of what a Chrome Extension usually looks like:
 
@@ -176,12 +176,12 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 
 <br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Open Source programs this repo has been part of
+<h2 align="center">Open Source programs this repo has been part of</h2>
 <a href="https://github.com/harshita214/Chrome-Extension"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 
 
@@ -211,12 +211,12 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 
 <br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Contribution Guidelines
+<h2 align="center">Contribution Guidelines</h2>
 
 <p align="center">                    We would ❤️ for you to contribute to Chrome-Extension and help make it better by adding your ideas or by making current one better! We want contributing to be fun, enjoyable, and educational for everyone. All contributions are welcome, including issues as well as updates.                         </p>
 
@@ -233,7 +233,7 @@ If you have a idea of any Chrome-Extension you want to build just open a issue r
 
 <br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 ###  Submit a Pull Request 🚀
 
@@ -264,7 +264,7 @@ $ git checkout -b [name_of_your_new_branch]
 
 3. Work - commit - repeat ( be sure to be in your branch )
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 4. Push changes to GitHub
 
@@ -291,12 +291,12 @@ $ git push origin [name_of_your_new_branch]
 
 <br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-## Contributors
+<h2 align="center">Contributors</h2>
 <a href="https://github.com/harshita214/Chrome-Extension"><img src="https://forthebadge.com/images/badges/built-by-developers.svg"  ></a> 
 <a href="https://github.com/harshita214/Chrome-Extension"><img src="https://forthebadge.com/images/badges/built-with-love.svg"  ></a> 
 <a href="https://github.com/harshita214/Chrome-Extension"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" ></a>   
@@ -314,22 +314,22 @@ Thanks to all the **people who contribute** 💜
 
 <br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
  
 
- ## Code of Conduct 
+ <h2 align="center">Code of Conduct</h2>
 
 To maintain a safe and inclusive space for everyone to learn and grow, contributors are advised to follow the [Code of Conduct](./CODE_OF_CONDUCT.md). 
  
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-## Feedback
+<h2 align="center">Feedback</h2>
 
 If you have any feedback or suggestions please reach out to Project - Maintainer.  
 * [Harshita sharma](https://github.com/harshita214) 
@@ -342,7 +342,7 @@ Or you can create a  <a href="https://github.com/aman34503/harshita214/issues">i
   
 <br>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
 <hr>
 
