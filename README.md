@@ -344,6 +344,8 @@ Or you can create a  <a href="https://github.com/aman34503/harshita214/issues">i
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<hr>
+
 <div align="center">
 
 ### Show some ❤️ by starring this awesome Repository!
