@@ -304,7 +304,7 @@ $ git push origin [name_of_your_new_branch]
 <br>
 
 
-Thanks to all the **people who contribute** 💜
+Thanks to all the **people who have contributed** 💜
 
 ![Contributors](https://contributors-img.web.app/image?repo=harshita214/Chrome-Extension)
 
