@@ -181,7 +181,7 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-<h2 align="center">Open Source programs this repo has been part of</h2>
+<h2 align="center">Open Source programmes this repo has been part of</h2>
 <a href="https://github.com/harshita214/Chrome-Extension"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 
 
