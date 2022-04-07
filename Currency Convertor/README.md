@@ -50,6 +50,12 @@ And now click on "EXCHANGE" Button, and amount entered will be converted in to d
 
 </div>
 
+## Demo Video :
+<div align="center">
+    
+https://user-images.githubusercontent.com/87393095/162266278-71d78102-3746-453b-b00c-89ef9b643bf5.mp4
+
+</div>
 <br>
 
 <br>
