@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>IP Geolocation Extension</title>
+  </head>
+  <body>
+    <div class="card">
+      <p id="upload">Enter an IP Address to know its Geolocation</p>
+      <label class="input">
+        <input id="input" class="input__field" type="text" placeholder=" " />
+        <span class="input__label">IP Address</span>
+      </label>
+      <div>
+        <button id="enterText" class="button" style="background-color: #f1bb4e">
+          Submit
+        </button>
+      </div>
+
+      <p id="prediction"></p>
+
+      <br />
+    </div>
+    <div>
+      <ul id="results" class="gradient-list">
+        <li id="ip"></li>
+        <li id="city"></li>
+        <li id="region"></li>
+        <li id="postal_code"></li>
+        <li id="country"></li>
+        <li id="timezone"></li>
+        <li id="time"></li>
+        <li id="connection"></li>
+        <li id="isp"></li>
+      </ul>
+    </div>
+    <br />
+    <script src="script.js"></script>
+  </body>
+</html>
