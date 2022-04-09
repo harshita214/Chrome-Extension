@@ -1,11 +1,11 @@
-name: Enhancement Request
+name: 🔧 Enhancement Request
 description: Request/Suggest any enhancement in features of an extension you think is missing
 title: "Title: "
 labels: "Enhancement Request"
 body:
   - type: textarea #extension
     attributes:
-      label: Which pre-existing extension will you be enhancing?
+      label: Which pre-existing extension will you be working on?
       description: Mention the extension and what it does.
       placeholder: Type here.
     validations:
@@ -14,7 +14,7 @@ body:
   - type: textarea #enhancement
     attributes:
       label: Describe your enhancement/improvement
-      description: A clear and concise description of what feature you will be adding to the extension. Make sure the enhancement is significant. 
+      description: A clear and concise description of what feature you will be adding to the extension and/or the type of enhancement. Make sure your work is significant. 
       placeholder: Kindly elaborate.
     validations:
       required: true
