@@ -1,0 +1,26 @@
+{
+
+    "manifest_version": 2,
+    "name": "Latest News",
+    "version": "1.0",
+
+    "description": "Latest World News straight into your address bar",
+   
+    "icons": {
+        "48": "News-icon.png"
+    },
+
+    "permissions": [
+        "activeTab"
+    ],
+
+    "browser_action": {
+        "default_icon": "News-icon.png",
+        "default_title": "Latest World News",
+        "default_popup": "index.html"
+    }
+
+    
+
+
+}
