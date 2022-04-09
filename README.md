@@ -227,7 +227,7 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 
 ###  How to Start?  📌
 
-If you have a idea of any Chrome-Extension you want to build just open a issue regarding this , we will discuss and assign you that issue.In case you are confused and have queries just ping [me](https://www.linkedin.com/in/harshita-sharma-bb7992208/) , will help you get along and build!
+If you have a idea of any Chrome-Extension you want to build just open an appropriate issue regarding this , we will discuss and assign you that issue.In case you are confused and have queries just ping [me](https://www.linkedin.com/in/harshita-sharma-bb7992208/) , will help you get along and build!
 
 <br>
 
