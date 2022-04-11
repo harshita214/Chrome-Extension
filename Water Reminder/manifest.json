@@ -1,0 +1,26 @@
+{
+    "manifest_version" : 2,
+    "version": "1.0.0",
+    "name":"Water Reminder",
+    "description":"Dummy water reminder extension",
+    "icons":{
+      "128":"./icons/128.png",
+      "48":"./icons/48.png",
+      "32":"./icons/32.png",
+      "16":"./icons/16.png"
+    },
+    "browser_action":{
+      "default_popup":"index.html"
+    },
+    "background":{
+      "scripts":["background.js"],
+      "persistent":false
+    },
+    "permissions":[
+      "alarms",
+      "notifications",
+      "storage",
+      "contextMenus"
+    ],
+    "omnibox": { "keyword" : "stuart"}
+  }
