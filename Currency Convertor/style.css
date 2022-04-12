@@ -1,0 +1,122 @@
+:root {
+  --bg: #fafffd;
+  --el: #3c91e6;
+  --bor: #342e37;
+  --sel: #a2d729;
+}
+
+/* Poppins Google font link */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+::selection {
+  background: var(--el);
+  color: var(--bor);
+}
+body {
+  width: 400px;
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+  color: var(--bg);
+}
+.wrapper {
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  background: var(--bor);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+  position: relative;
+}
+.wrapper::before {
+  content: "";
+  position: absolute;
+  top: 70px;
+  left: 0;
+  width: 100%;
+  height: 5px;
+  background: var(--sel);
+}
+.wrapper .col .text {
+  font-size: 26px;
+  text-align: center;
+  color: var(--el);
+  font-weight: 800;
+}
+.wrapper .col .s6 {
+  margin-top: 30px;
+}
+.wrapper .col .s6 .sm {
+  font-size: 20px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  padding-left: 2px;
+}
+.wrapper .col .s6 input {
+  width: 100%;
+  height: 45px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  padding-left: 10px;
+  font-size: 18px;
+  transition: all 0.4s ease;
+}
+.wrapper .col .s6 input:focus {
+  border: 3px solid var(--sel);
+}
+.wrapper .col .s6 .transfer {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.wrapper .col .s6 .transfer .icon span {
+  font-size: 30px;
+  color: var(--sel);
+  font-size: 40px;
+  font-weight: 700;
+}
+.wrapper .col .s6 .transfer .select-text {
+  width: 150px;
+  height: 45px;
+  padding-left: 6px;
+  outline: none;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}
+.wrapper .col .s6 .transfer .select-text:focus {
+  border: 3px solid var(--sel);
+}
+.wrapper .col .s6 .button {
+  margin-top: 20px;
+}
+.wrapper .col .s6 .button .btn {
+  width: 100%;
+  height: 45px;
+  background: var(--el);
+  border: none;
+  outline: none;
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--bg);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: 0.4s ease;
+}
+
+.wrapper .col .s6 .button .btn:hover {
+  color: var(--bg);
+  background: var(--sel);
+}
+.wrapper .col .s6 .s2 {
+  margin-top: 40px;
+}
+.wrapper .col .s6 .s2 .conversion {
+  font-size: 20px;
+}
