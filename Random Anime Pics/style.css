@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-weight: normal;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.mainContainer {
+  background-color: rgba(255, 255, 255, 0.704);
+  border-radius: 2px;
+  text-align: center;
+  padding: 10px;
+  max-width: 100%;
+  width: 800px;
+}
+
+.animeContainer h3 {
+  font-size: 20px;
+  font-weight: 600;
+  text-transform: capitalize;
+  padding-bottom: 10px;
+  letter-spacing: 0.9px;
+  color:rgba(245, 53, 53, 0.774);
+  font-weight: bold;
+}
+
+.get {
+  margin-bottom: 30px;
+  background-color: rgba(245, 53, 53, 0.774);
+  color: #fff;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 2px;
+  outline: none;
+  font-size: 16px;
+  font-weight: 200;
+  cursor: pointer;
+}
+.get:hover{
+background-color:rgba(245, 53, 53, 0.774);
+color: black;
+padding:12px 32px;
+}
+.animeBox {
+  display: none;
+}
+
+.animeBox img {
+  height: 300px;
+  width: 300px;
+  border-radius: 5%;
+  border: 3px solid rgba(245, 53, 53, 0.774);
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.heroName {
+  margin-bottom: 30px;
+  background-color: rgba(245, 53, 53, 0.774);;
+  color: #fff;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 6px;
+  outline: none;
+  font-size: 17px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+@media screen and (max-width: 500px) {
+  .mainContainer {
+    width: 450px;
+    flex-wrap: wrap;
+  }
+}
