@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <title>MP4 to MP3 Video Converter</title>
+  </head>
+  <body>
+    <div class="card">
+      <p id="upload">Enter the url of the MP4 video to download</p>
+      <label class="input">
+        <input id="input" class="input__field" type="text" placeholder=" " />
+        <span class="input__label">Video</span>
+      </label>
+      <div>
+        <button id="enterText" class="button" style="background-color: #f1bb4e">
+          Submit
+        </button>
+      </div>
+
+      <p id="prediction"></p>
+
+      <br />
+    </div>
+    <div>
+      <iframe
+        id="results"
+        width="100%"
+        height="800px"
+        allowtransparency="true"
+        scrolling="yes"
+        style="border: none"
+        src=""
+      ></iframe>
+    </div>
+    <br />
+
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
+    <script>
+      iFrameResize(
+        {
+          log: false,
+          minHeight: 360,
+          checkOrigin: false,
+          warningTimeout: 20000,
+        },
+        "#results"
+      );
+    </script>
+  </body>
+</html>
