@@ -1,1 +1,28 @@
+# **Dice Roller Game**
 
+This extension can be used for the converting mp4 to mp3 format.
+
+## Technologies used:
+
+- HTML
+- CSS
+- JavaScript
+
+### The idea behind this project :
+Like in our childhood we have played this game on board as we have 2 dice and we through it simultaneously, mate who will get more numbers on dice will win the game.
+
+### How does it work
+At the starting you will observe the game name and a start button, After clicking it you will get two dice on the screen, and dice that will have more numbers on them will win the game, and the message will display as player 1 wins, player 2 wins and match draw.
+
+
+---
+
+## Screenshots
+
+![upload]()
+
+![download](./images/img1.JPG)
+
+## Simulation Video
+
+![mp4_to_mp3](./images/mp4_to_mp3.gif)
