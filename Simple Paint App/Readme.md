@@ -15,16 +15,18 @@ Permission: All websites
 
 ## Output :
 
+![Extension](https://user-images.githubusercontent.com/72568715/166143915-f839f01d-b782-4b12-aa5e-f685f2fc54da.PNG)
 
 
 ### Step 1st :
 First you have to enable this extension
 
-
+![Extenion Image](https://user-images.githubusercontent.com/72568715/166143921-e0b7c614-e328-49a8-b517-f9a7eae1d84d.PNG)
 
 
 ### Step 2nd :
 
+<video src="https://user-images.githubusercontent.com/72568715/166143933-e235605f-0f73-47f4-8a2e-93472b2b4c51.mp4" width="400"></video>
 
 
 
