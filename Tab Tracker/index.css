@@ -1,138 +1,130 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;400;500;700&display=swap');
 
 body {
-    margin: 0;
-    padding: 0px;
-    font-family: 'Montserrat', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  box-sizing: border-box;
+  overflow-y: hidden;
 }
 
-.font-thin{
-    font-weight: 100;
-    font-size: 12px;
+.font-thin {
+  font-weight: 100;
+  font-size: 12px;
 }
 
-.font-regular{
-    font-weight: 500;
-    font-size: 12px;
+.font-regular {
+  font-weight: 500;
+  font-size: 12px;
 }
-.font-largeRegular{
-    font-weight: 400;
-    font-size: 12px;
+.font-largeRegular {
+  font-weight: 400;
+  font-size: 12px;
 }
 input {
-    width: 340px;
-    margin: auto;
-    margin-top: 0px;
-    margin-bottom: 30px;
-    padding: 10px;
-    box-sizing: border-box;
-    border-radius: 20px;
-    border-color: #2FC4B2;
-    border-width: 2px;
-    border-style: solid;
-    margin-bottom: 4px;
-    background-color: transparent;
-    padding-left: 10px;    
-    color: white;
-
+  width: 340px;
+  margin: auto;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  padding: 10px;
+  box-sizing: border-box;
+  border-radius: 20px;
+  border-color: #2fc4b2;
+  border-width: 2px;
+  border-style: solid;
+  margin-bottom: 4px;
+  background-color: transparent;
+  padding-left: 10px;
+  color: white;
 }
 
-input:active, input:focus{
-    border-color: #2FC4B2;
-    outline: none;
-    border-style: solid;
-    border-width: 2px;
+input:active,
+input:focus {
+  border-color: #2fc4b2;
+  outline: none;
+  border-style: solid;
+  border-width: 2px;
 }
 
-
-button{
-    background-image: linear-gradient(135deg ,#2FC4B2, #48B4B9);
-    background-position: left;
-    cursor: pointer;
-    color: white;
-    margin: 10px;
-    width: 100px;
-    height: 30px;
-    border: none;
-    border-radius: 20px;
-    overflow: hidden;
-    position: relative;
+button {
+  background-image: linear-gradient(135deg, #2fc4b2, #48b4b9);
+  background-position: left;
+  cursor: pointer;
+  color: white;
+  margin: 10px;
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
 }
 
-button:nth-of-type(3){
-    background-image: linear-gradient(135deg ,#EF6C32, #FC1847);
+button:nth-of-type(3) {
+  background-image: linear-gradient(135deg, #ef6c32, #fc1847);
 }
-
-
-
 
 ul {
-    padding-left: 0;
-    overflow-y: scroll;
-    width: 80%;
-    min-height: 54px;
-    margin: auto;
-    margin-top: 15px;
-    margin-bottom: 15px;
-    padding: 10px;
-    border: 1px solid #2FC4B2;
-    border-radius: 10px;
+  padding-left: 0;
+  overflow-y: scroll;
+  width: 80%;
+  min-height: 54px;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #2fc4b2;
+  border-radius: 10px;
 }
 
 ul::-webkit-scrollbar {
-    width: 6px;
-    position: relative;
-    left: -3px;
+  width: 6px;
+  position: relative;
+  left: -3px;
+  display: none;
 }
 
-ul::-webkit-scrollbar-track {
-    background-color: transparent;
-    margin-top: 6px;
-
+::-webkit-scrollbar-track {
+  background-color: transparent;
+  margin-top: 6px;
+  display: none;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #2FC4B2;
-    border-radius: 10px;
-    margin-right: 3px;
+  background: #2fc4b2;
+  border-radius: 10px;
+  margin-right: 3px;
+  display: none;
 }
-
-
 
 a {
-    color: #2FC4B2;
+  color: #2fc4b2;
 }
 
-.app-wrapper{
-    width: 400px;
-    max-height: 250px;
-    flex-direction: column;
-    display:flex;
-    overflow: hidden;
-    background-image: linear-gradient(315deg, #434343, #000000);
+.app-wrapper {
+  overflow: scroll;
+  width: 400px;
+  max-height: 700px;
+  flex-direction: column;
+  display: flex;
+  overflow: hidden;
+  background-image: linear-gradient(315deg, #434343, #000000);
 }
 
-
-
-  
-
-.button-wrapper{
-    display: flex;
-    flex-direction: row;
-    margin: auto;
-    margin-top: 0px;
-    position: relative;
+.button-wrapper {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  margin-top: 0px;
+  position: relative;
 }
 
-
-
-span{
-    position: absolute;
-    background: #fff;
-    transform: translate(-50%, -100%);
-    border-radius: 50%;
-    pointer-events: none;
-    animation: ripples 0.6s linear infinite;
+span {
+  position: absolute;
+  background: #fff;
+  transform: translate(-50%, -100%);
+  border-radius: 50%;
+  pointer-events: none;
+  animation: ripples 0.6s linear infinite;
 }
 
 @keyframes ripples {
@@ -148,13 +140,87 @@ span{
   }
 }
 
-p{
-    font-weight: 500;
-    color: #2FC4B2;
-    font-size: 28px;
-    margin-top: 10px;
-    text-align: center;
-    margin-bottom: 10px;
+p {
+  font-weight: 500;
+  color: #2fc4b2;
+  font-size: 28px;
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 10px;
 }
 
+img {
+  width: 30px;
+}
 
+.modal-icons {
+  overflow-y: hidden;
+  overflow-x: auto;
+  padding-bottom: 20px;
+  margin: 10px 32px;
+}
+
+.logo {
+  padding: 16px;
+}
+
+.logo-icon {
+  vertical-align: text-bottom;
+  margin-right: 12px;
+}
+
+.version {
+  color: #444;
+  font-size: 18px;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  float: left;
+}
+
+.flexs {
+  opacity: 1;
+  transition: opacity 0.2s ease-in-out;
+  margin: 6px 10px;
+}
+
+.flexs:hover {
+  opacity: 0.4;
+}
+
+.flexs .fa {
+  font-size: 40px;
+  color: #2f5876;
+}
+
+.row2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 32px;
+}
+
+.button2 {
+  background-image: linear-gradient(135deg, #2fc4b2, #48b4b9);
+  background-position: left;
+  cursor: pointer;
+  color: white;
+
+  width: 60px;
+  height: 30px;
+  border: none;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  margin-top: 15px;
+}
+
+.modal-dialog {
+  width: 260px;
+}
+
+.list-item {
+  display: block;
+  align-items: center;
+}
