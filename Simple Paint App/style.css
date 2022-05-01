@@ -1,0 +1,29 @@
+*, *:before, *:after {
+    box-sizing: inherit;
+  }
+html {
+  box-sizing: border-box;
+  background: whitesmoke;
+  font-family: sans-serif;
+}
+body{
+  background: rgb(226, 201, 192);
+}
+h2{
+  text-align: center;
+  color: #2a2a2a;
+}
+canvas {
+    background: white;
+}
+  
+#paint-app {
+  margin-left: auto;
+  margin-right: auto;
+  width: 380px;
+}
+  
+.placeholder {
+  position:absolute;
+  z-index:999;
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Simple Paint App",
+    "version": "2.1.0",
+    "manifest_version": 2,
+    "description": "This is simple chrome extension that user can paint here anytime. Also it will be very helpful for sketchs,rough works etc.",
+    "background": {
+        "scripts": [
+            "script.js"
+        ],
+        "persistent": true
+    },
+    "browser_action": {
+        "default_title": "Simple Paint App",
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "https://*/*",
+        "http://*/*",
+        "tabs"
+    ]
+}
