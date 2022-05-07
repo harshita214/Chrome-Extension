@@ -1,0 +1,22 @@
+{
+
+    "manifest_version": 2,
+    "name": "Wheel of Fortune",
+    "version": "1.0",
+
+    
+   
+    "icons": {
+        "20": "wheel.png"
+    },
+
+    
+    "browser_action": {
+       
+        "default_popup": "index.html"
+    }
+
+    
+
+
+}
