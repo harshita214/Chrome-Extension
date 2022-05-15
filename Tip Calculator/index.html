@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Tip Calculator Extension</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="calculator">
+  <div class="container">
+    <h1>Tip Calculator</h1>
+    <p>How much was your bill?</p>
+    <p>$  <input type="text" id="billamt"></p>
+    <p>How was the service?</p>
+    <select id="service">
+        <option value="0%">Select Level of Service</option>
+        <option value="0.05">Food was not good</option>
+        <option value="10">Ambience not good</option>
+        <option value="20">Service and dinning was food</option>
+        <option value="50">Overall Great Ambience</option>
+    </select>
+    <p>How many people sharing the bill?</p>
+    <p><input type="text" placeholder="Number of people" id="peopleamt"> People </p>
+   <button class="button" id="btn">Calculate</button>
+   <div id="tips">
+    <sup>$</sup><span id="tip">0.00</span>
+    <small id="each"></small>
+    </div>
+  </div>
+</div>
+<script src="script.js"></script>
+</body>
+</html>
