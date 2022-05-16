@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="popup.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Page Load Speed Indicator</title>
+    <center><span class="text-nowrap"><img src="images/logo.png" alt="TimeTracker"></span>
+    <div><h6 class="text-light">Analyse your page speed - in seconds</h6></div></center>
+    <hr class="text-light">
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="popup.js"></script>
+    <!--span class="text-light" id="load_time" style="font-size: 20px;"></span-->
+
+<script>
+
+$(function () {
+var time = $('#load_time').text();
+var t = parseFloat(time);
+            if (t <= 0.1) {
+                $("body").append($('<span class="dot" style="height: 25px;width: 25px;background-color: #00FF00;border-radius: 50%;display: inline-block;"></span><span class="text-light"><span class="text-light" id="load_time" style="font-size: 20px;"></span> (Fast)</span>'));
+            }
+            else if(t <0.3) {
+                $("body").append($('<span class="dot" style="height: 25px;width: 25px;background-color: #FFFF00;border-radius: 50%;display: inline-block;"></span><span class="text-light"><span class="text-light" id="load_time" style="font-size: 20px;"></span> (Average)</span>'));
+            }
+		else {
+                $("body").append($('<span class="dot" style="height: 25px;width: 25px;background-color: #FF0000;border-radius: 50%;display: inline-block;"></span><span class="text-light"><span class="text-light" id="load_time" style="font-size: 20px;"></span> (Slow)</span>'));
+            }
+        })
+</script>
+</head>
+<body class="container mt-5 bg-dark">
+</body>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="popup.js"></script>
+</html>

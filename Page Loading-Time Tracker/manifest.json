@@ -1,0 +1,13 @@
+{
+	"manifest_version": 2,
+	"name": "Page Load Time Tracker",
+	"description": "Indicates a color (red/yellow/green) based on how fast/slow a page takes to load.",
+	"version": "1.0.0",
+	"icons": {"128": "images/demo.png"},
+	"browser_action": {
+	   "default_title": "Speed Tracker!",
+	   "default_icon": "images/demo.png",
+	   "default_popup": "popup.html"
+	},
+	"permissions": ["activeTab"]
+}
