@@ -1,0 +1,66 @@
+body {
+    font-family: serif;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.container {
+    background: #dddddd;
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+}
+h1 {
+    color: #2a2a2a;
+    font-size: 30px;
+    text-align: center;
+}
+.container p {
+    padding-left: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+
+form input [type="text"] {
+    width: 100px;
+}
+input {
+    padding: 10px 20px;
+}
+.button {
+    background-color: rgb(250, 65, 96);
+    color: #fff;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    display: block;
+    margin: 30px auto;
+    border: none;
+    outline: none;
+}
+
+#billamt {
+    width: 60%;
+    font-size: 19px;
+    background: #f7f7f7;
+    padding: 5px auto;
+}
+
+#service {
+    font-size: 17px;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+#peopleamt {
+    width: 60%;
+    margin-left: 5px 5px 8px 8px;
+}
+
+#tips {
+    font-size: 30px;
+    text-align: center;
+}
