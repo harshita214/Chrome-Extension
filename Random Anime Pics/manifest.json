@@ -1,0 +1,13 @@
+{
+    "name": "Random anime pictures",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.jpg"
+    },
+    "icons": {
+        "128": "icon.jpg"
+    },
+    "permissions": ["tabs"]
+}
