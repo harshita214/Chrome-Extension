@@ -13,6 +13,11 @@ With this utility extension, an extra dropdown is added to each GitHub Repositor
 
 ### In this extension I used APIs to connect each Github Repositories with other platforms and clone / open the Github repository. This would increase the utility of each GitHub Repository
 
+## Video Demonstration
+https://user-images.githubusercontent.com/72455881/170839374-519c5414-edba-4b71-97cd-2302683da421.mp4
+
+
+
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/72455881/170813800-81dd9150-1fc2-47fa-95dd-b06ee72311a3.png)
 
