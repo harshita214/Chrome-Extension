@@ -13,4 +13,4 @@ This Extension will showcase the File directory and folder structure of Github r
 ---
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/72455881/170811713-5f8a42f3-844e-4c48-b818-6b7fd79e65cc.png
+![image](https://user-images.githubusercontent.com/72455881/170811713-5f8a42f3-844e-4c48-b818-6b7fd79e65cc.png)
