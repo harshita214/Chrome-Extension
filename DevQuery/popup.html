@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <!--Let browser know website is optimized for mobile-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!--Import Google Icon Font-->
+        <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <!-- Compiled and minified CSS -->
+        <link rel="stylesheet" href="css/materialize.min.css">
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+
+    <body>
+        <div class="">
+            <div class="row valign-wrapper">
+                <div class="col s4">
+                    <img class="responsive-img valign" src="img/icon128.png" alt="Octocat" />
+                </div>
+                <div class="col s8">
+                    <h4>DevQuery</h4>
+                    <p>Search for a GitHub profile</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col s12">
+                    <form>
+                        <div class="row">
+                            <div class="input-field col s12">
+                                <input placeholder="Enter a username" name="username" type="text" class="validate">
+                            </div>
+                        </div>
+                        <div class="row" style="margin-bottom: 0px;">
+                            <button type="button" id="search-button" class="col s12 btn btn-success waves-effect">Search</button>
+                        </div>
+                    </form>
+                    <div style="margin-top: 10px">
+                        <div class="col s6" id="left-results-column">
+                        </div>
+                        <div class="col s6" id="right-results-column">
+                        </div>
+                    </div>
+                </div>
+                <div class="col s12" id="message-dialog">
+                    <p class="center-align" id="message" style="margin-bottom: 0px;">
+                        Oops! No results found!
+                    </p>
+                </div>
+            </div>
+        </div>
+        <!--Import jQuery before materialize.js-->
+        <script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+        <!-- Compiled and minified JavaScript -->
+        <script src="js/materialize.min.js"></script>
+        <script src="js/script.js"></script>
+    </body>
+
+</html>
