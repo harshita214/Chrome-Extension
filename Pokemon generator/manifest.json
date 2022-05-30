@@ -1,0 +1,9 @@
+{
+	"name": "pokemon",
+	"description": "pops up a random pokemon",
+	"version": "1.0",
+	"icons": { "100": "pokeball.png"},
+	"browser_action": {
+	"default_popup": "index.html"
+	}
+}
