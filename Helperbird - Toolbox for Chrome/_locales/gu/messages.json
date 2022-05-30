@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "ક્રોમ માટે હેલ્પરબર્ડ"
+	},
+	"appDescription": {
+		"message": "32 થી વધુ સુલભતા અને ઉત્પાદકતા સુવિધાઓ દરેક પ્રકારના વાચક, શીખનાર અને લેખકને ટેકો આપવા માટે બનાવવામાં આવી છે. ડિસ્લેક્સિયા સપોર્ટનો સમાવેશ થાય છે."
+	},
+	"helpGuide": {
+		"message": "મદદ માર્ગદર્શિકાઓ"
+	},
+	"upgrade_title": {
+		"message": "હેલ્પરબર્ડ પ્રો સુવિધા"
+	},
+	"upgrade_description": {
+		"message": "આ સુવિધાનો ઉપયોગ કરવા માટે તમારે હેલ્પરબર્ડ પ્રો સબ્સ્ક્રિપ્શનની જરૂર છે. ચિંતા કરશો નહીં, તે 40 USD પ્રતિ વર્ષ અથવા 4.99 એક મહિનામાં છે."
+	},
+	"plan_deal": {
+		"message": "વિદ્યાર્થી ઓફર"
+	},
+	"plan_month": {
+		"message": "માસિક ઓફર"
+	},
+	"plan_year": {
+		"message": "વાર્ષિક ઓફર"
+	},
+	"upgrade_message": {
+		"message": "બધી સુવિધાઓને અનલૉક કરવા માટે, હેલ્પરબર્ડ પ્રો પર અપગ્રેડ કરો."
+	},
+	"column_title": {
+		"message": "કૉલમ"
+	},
+	"upgrade_now": {
+		"message": "હવે અપગ્રેડ કરો"
+	},
+	"upgrade_to_pro": {
+		"message": "હેલ્પરબર્ડ પ્રો પર અપગ્રેડ કરો"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "હેલ્પરબર્ડ પ્રો શોધો"
+	},
+	"signin_message": {
+		"message": "કૃપા કરીને હેલ્પરબર્ડમાં સાઇન ઇન કરો અથવા તમારી સબ્સ્ક્રિપ્શન કી દાખલ કરો."
+	},
+	"privacy": {
+		"message": "ગોપનીયતા"
+	},
+	"whats_new": {
+		"message": "નવું શું છે"
+	},
+	"privacy_details": {
+		"message": "અમે તમારી ગોપનીયતાનો આદર કરીએ છીએ, તેથી તે અહીં સ્પષ્ટ અને સરળ ભાષામાં છે."
+	},
+	"privacy_details_one": {
+		"message": "અહીં હેલ્પરબર્ડ ખાતે, અમે તમારી ગોપનીયતાને અત્યંત ગંભીરતાથી માન આપીએ છીએ અને લઈએ છીએ. તેથી જ અમે કંઈપણ સંગ્રહિત કરતા નથી અથવા એકત્રિત કરતા નથી."
+	},
+	"privacy_details_two": {
+		"message": "જ્યારે તમે લૉગિન કરો છો ત્યારે ફક્ત તમારા ઇમેઇલ માટે પૂછો. તમારી શાળા અથવા વ્યવસાય ડોમેન માટે ચૂકવણી કરવામાં આવી છે કે નહીં અથવા તમે સ્ટ્રાઇપમાં એકાઉન્ટ માટે ચૂકવણી કરી છે કે કેમ તે તપાસવા માટે."
+	},
+	"privacy_details_three": {
+		"message": "તમે કરો છો તે બધું અને તમે સાચવો છો તે સેટિંગ્સ તમારા બ્રાઉઝર પર સ્થાનિક રીતે રહે છે. તમારા કમ્પ્યુટરને ક્યારેય છોડશો નહીં."
+	},
+	"free": {
+		"message": "મફત"
+	},
+	"pro": {
+		"message": "પ્રો"
+	},
+	"on": {
+		"message": "ચાલુ"
+	},
+	"on_lower": {
+		"message": "પર"
+	},
+	"off": {
+		"message": "બંધ"
+	},
+	"off_lower": {
+		"message": "બંધ"
+	},
+	"notes": {
+		"message": "નોંધો"
+	},
+	"open_notes": {
+		"message": "નોંધો ખોલો"
+	},
+	"save": {
+		"message": "સાચવો"
+	},
+	"clear": {
+		"message": "ચોખ્ખુ"
+	},
+	"manage": {
+		"message": "મેનેજ કરો"
+	},
+	"open": {
+		"message": "ખુલ્લા"
+	},
+	"copy": {
+		"message": "નકલ કરો"
+	},
+	"delete": {
+		"message": "કાઢી નાખો"
+	},
+	"documents": {
+		"message": "દસ્તાવેજો"
+	},
+	"remove": {
+		"message": "દૂર કરો"
+	},
+	"version": {
+		"message": "સંસ્કરણ"
+	},
+	"visit": {
+		"message": "મુલાકાત"
+	},
+	"no_results": {
+		"message": "પરિણામ નથી"
+	},
+	"reduce_motion": {
+		"message": "એનિમેશન"
+	},
+	"maths_steps": {
+		"message": "ગણિત ઉકેલનાર"
+	},
+	"tour": {
+		"message": "હેલ્પરબર્ડ ટૂર"
+	},
+	"reduce_motion_description": {
+		"message": "એનિમેશનને વેબ પૃષ્ઠો પર પ્રદર્શિત થવાથી અટકાવો."
+	},
+	"feature_immersive_reader_description": {
+		"message": "ઇમર્સિવ રીડર એ એક મફત સાધન છે જે વાંચન અને લેખનને સુધારવા માટે સાબિત તકનીકોનો અમલ કરે છે"
+	},
+	"start": {
+		"message": "શરૂઆત"
+	},
+	"learn_more": {
+		"message": "વધુ શીખો"
+	},
+	"more": {
+		"message": "વધુ"
+	},
+	"editor_title": {
+		"message": "સંપાદક"
+	},
+	"editor_title_open": {
+		"message": "હેલ્પરબર્ડ્સ એડિટર ખોલો"
+	},
+	"logout": {
+		"message": "લૉગ આઉટ"
+	},
+	"signin": {
+		"message": "પ્રવેશ કરો"
+	},
+	"define_title": {
+		"message": "શબ્દકોશ"
+	},
+	"define_title_open": {
+		"message": "શબ્દકોશ ખોલો"
+	},
+	"define_empty_title": {
+		"message": "એક શબ્દ શોધો અને અમે તેનો અર્થ પરત કરીશું."
+	},
+	"define_search": {
+		"message": "શોધો......"
+	},
+	"define_antonyms": {
+		"message": "વિરોધી શબ્દો"
+	},
+	"define_synonyms": {
+		"message": "સમાનાર્થી"
+	},
+	"define_meanings": {
+		"message": "અર્થો"
+	},
+	"define_related": {
+		"message": "સંબંધિત"
+	},
+	"define_etymology": {
+		"message": "વ્યુત્પત્તિશાસ્ત્ર"
+	},
+	"export": {
+		"message": "નિકાસ કરો"
+	},
+	"export_word": {
+		"message": "વર્ડમાં નિકાસ કરો"
+	},
+	"export_docs": {
+		"message": "Google ડૉક્સ પર નિકાસ કરો"
+	},
+	"export_text": {
+		"message": "ટેક્સ્ટ ફાઇલમાં નિકાસ કરો"
+	},
+	"toolbar_pdf": {
+		"message": "પીડીએફ રીડર"
+	},
+	"toolbar_pdf_open": {
+		"message": "પીડીએફ રીડર ખોલો"
+	},
+	"menus": {
+		"message": "Google ડૉક્સ અને પીડીએફ"
+	},
+	"upgrade_message_title": {
+		"description": "હેલ્પરબર્ડ એક્સ્ટેંશન.",
+		"message": "$1 પર અપગ્રેડ કરો"
+	},
+	"upgrade_message_paragraph": {
+		"description": "હેલ્પરબર્ડ એક્સ્ટેંશન.",
+		"message": "રીડર મોડ અને $1 જેવી શક્તિશાળી સુવિધાઓને ઍક્સેસ કરો."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "હેલ્પરબર્ડ એક્સ્ટેંશન.",
+		"message": "30 થી વધુ સુવિધાઓ અને 24 કલાક સપોર્ટને અનલૉક કરવા માટે નીચેનો પ્લાન પસંદ કરો."
+	},
+	"alert_message": {
+		"message": "બધી પ્રો સુવિધાઓને ઍક્સેસ કરવા માટે અપગ્રેડ કરો અથવા લૉગિન કરો."
+	},
+	"alert_loading": {
+		"message": "લોડ કરી રહ્યું છે...."
+	},
+	"alert_clear": {
+		"message": "ચોખ્ખુ"
+	},
+	"alert_cleared": {
+		"message": "સાફ કર્યું"
+	},
+	"alert_download": {
+		"message": "ડાઉનલોડ કરો"
+	},
+	"alert_no_data": {
+		"message": "પરિણામ નથી"
+	},
+	"annotations_notes": {
+		"message": "નોંધો"
+	},
+	"import_annotations": {
+		"message": "નોંધો આયાત કરો"
+	},
+	"options": {
+		"message": "વિકલ્પો"
+	},
+	"open_document": {
+		"message": "દસ્તાવેજ ખોલો"
+	},
+	"select_document": {
+		"message": "તમારે એક દસ્તાવેજ પસંદ કરવાની જરૂર છે."
+	},
+	"copied_document": {
+		"message": "દસ્તાવેજની નકલ કરી"
+	},
+	"saved_document": {
+		"message": "દસ્તાવેજ સાચવ્યો"
+	},
+	"issue_saving": {
+		"message": "અંક બચત"
+	},
+	"show_updates": {
+		"message": "અપડેટ્સ બતાવો"
+	},
+	"new": {
+		"message": "નવી"
+	},
+	"pause": {
+		"message": "વિરામ"
+	},
+	"removed_document": {
+		"message": "દસ્તાવેજ દૂર કર્યો"
+	},
+	"opening_document": {
+		"message": "દસ્તાવેજ ખોલી રહ્યા છીએ"
+	},
+	"get_started": {
+		"message": "શરૂ કરો"
+	},
+	"saved_to_documents": {
+		"message": "તમારા દસ્તાવેજોમાં સાચવેલ."
+	},
+	"message_alert": {
+		"message": "જ્યારે પણ તમને જરૂર હોય ત્યારે હેલ્પરબર્ડ્સ સુવિધાઓ અને ગ્રાહક સપોર્ટની ઍક્સેસ મેળવો. 30 થી વધુ સુવિધાઓ."
+	},
+	"message_three_day": {
+		"message": "3 દિવસની અજમાયશ"
+	},
+	"feature_pdf_reader": {
+		"message": "પીડીએફ"
+	},
+	"check_inputs": {
+		"message": "તમારા ઇનપુટ્સ તપાસો"
+	},
+	"upgrade": {
+		"message": "અપગ્રેડ કરો"
+	},
+	"upgrade_": {
+		"message": "$1 પર અપગ્રેડ કરો"
+	},
+	"website": {
+		"message": "વેબસાઈટ"
+	},
+	"description": {
+		"message": "વર્ણન"
+	},
+	"capture": {
+		"message": "કેપ્ચર"
+	},
+	"category": {
+		"message": "શ્રેણી"
+	},
+	"error_found_label": {
+		"message": "એક ભૂલ છે"
+	},
+	"cancel": {
+		"message": "રદ કરો"
+	},
+	"readinglist_title": {
+		"message": "વાંચન સૂચિ"
+	},
+	"readinglist_title_open": {
+		"message": "વાંચન સૂચિ ખોલો"
+	},
+	"note_removed": {
+		"message": "નોંધ દૂર કરી."
+	},
+	"note_removed_error": {
+		"message": "નોંધ દૂર કરી શકાઈ નથી."
+	},
+	"readinglist_removed": {
+		"message": "વેબસાઇટ દૂર કરી"
+	},
+	"settings_saved": {
+		"message": "સેટિંગ્સ સાચવી"
+	},
+	"check_for_updates": {
+		"message": "અપડેટ માટે ચકાસો"
+	},
+	"show_highlights": {
+		"message": "પૃષ્ઠ પર હાઇલાઇટ્સ બતાવો."
+	},
+	"account_title": {
+		"message": "એકાઉન્ટ"
+	},
+	"account_description": {
+		"message": "તમે તમારા લોગિન તરીકે તમારા બ્રાઉઝરમાં સાઇન ઇન કરો છો તે જ ઇમેઇલનો અમે ઉપયોગ કરીએ છીએ."
+	},
+	"signed_in_as": {
+		"message": "તરીકે સાઇન ઇન કર્યું"
+	},
+	"subscription_title": {
+		"message": "સબ્સ્ક્રિપ્શન"
+	},
+	"current_plan": {
+		"message": "તમારી વર્તમાન યોજના"
+	},
+	"subscription_status": {
+		"message": "તમારી સબ્સ્ક્રિપ્શન સ્થિતિ:"
+	},
+	"check_subscription": {
+		"message": "સબ્સ્ક્રિપ્શન તપાસો"
+	},
+	"subscription_token_title": {
+		"message": "સબ્સ્ક્રિપ્શન કી"
+	},
+	"subscription_token_description": {
+		"message": "જો તમારી પાસે હેલ્પરબર્ડ પ્રો સબ્સ્ક્રિપ્શન છે, તો હેલ્પરબર્ડ પ્રોની તમામ સુવિધાઓને અનલૉક કરવા માટે તેને નીચે દાખલ કરો."
+	},
+	"themes": {
+		"message": "થીમ્સ"
+	},
+	"theme": {
+		"message": "થીમ"
+	},
+	"danger_zone_title": {
+		"message": "સંગ્રહ"
+	},
+	"danger_zone_description": {
+		"message": "નીચેનું બટન બધી સેટિંગ્સને સાફ કરશે અને એક્સ્ટેંશનને જાણે નવું હોય તેમ શરૂ કરશે. તેથી સાવચેત રહો કે તમે કાઢી નાખેલ કંઈપણ અમે પાછું મેળવી શકતા નથી."
+	},
+	"delete_everything": {
+		"message": "બધું કાઢી નાખો"
+	},
+	"delete_this_note": {
+		"message": "આ નોંધ કાઢી નાખો."
+	},
+	"visit_this_note": {
+		"message": "વિસ્ટ વેબસાઈટ આ નોંધ ચાલુ છે."
+	},
+	"everything_deleted": {
+		"message": "તમામ સેટિંગ્સ અને સ્ટોરેજ હવે કાઢી નાખવામાં આવ્યા છે."
+	},
+	"enter_email": {
+		"message": "તમારે ઇમેઇલ દાખલ કરવાની જરૂર છે."
+	},
+	"shortcuts": {
+		"message": "શૉર્ટકટ્સ"
+	},
+	"shortcuts_menu_on": {
+		"message": "શોર્ટકટ ચાલુ છે"
+	},
+	"shortcuts_menu_off": {
+		"message": "શૉર્ટકટ્સ બંધ છે"
+	},
+	"shortcuts_title": {
+		"message": "શૉર્ટકટ્સ"
+	},
+	"shortcuts_description": {
+		"message": "શૉર્ટકટ્સ"
+	},
+	"shortcuts_ocr": {
+		"message": "OCR સક્ષમ કરો"
+	},
+	"shortcuts_immsersive": {
+		"message": "ઇમર્સિવ રીડર ખોલો"
+	},
+	"shortcuts_reader_mode": {
+		"message": "રીડર મોડ ખોલો"
+	},
+	"annotate_page": {
+		"message": "ટીકા પૃષ્ઠ"
+	},
+	"pdf_viewer": {
+		"message": "પીડીએફ"
+	},
+	"open_pdf": {
+		"message": "PDF ખોલો"
+	},
+	"open_pdf_zoom_out": {
+		"message": "ઝૂમ આઉટ કરો"
+	},
+	"open_pdf_zoom_in": {
+		"message": "મોટું કરો"
+	},
+	"settings": {
+		"message": "સેટિંગ્સ"
+	},
+	"support_videos": {
+		"message": "સપોર્ટ વિડિઓઝ"
+	},
+	"review_us": {
+		"message": "અમારી સમીક્ષા કરો"
+	},
+	"view": {
+		"message": "જુઓ"
+	},
+	"views": {
+		"message": "દૃશ્યો"
+	},
+	"no_favorites": {
+		"message": "કોઈ મનપસંદ નથી"
+	},
+	"sorting_none": {
+		"message": "કશું મળી શક્યું નથી."
+	},
+	"sorting": {
+		"message": "વર્ગીકરણ...."
+	},
+	"showing_favorites": {
+		"message": "મનપસંદ બતાવી રહ્યાં છીએ"
+	},
+	"unpaid": {
+		"message": "તમારું સબ્સ્ક્રિપ્શન અવેતન છે."
+	},
+	"canceled": {
+		"message": "તમારું સબ્સ્ક્રિપ્શન રદ કરવામાં આવ્યું છે."
+	},
+	"message_nothing_found": {
+		"message": "અમે સબ્સ્ક્રિપ્શન શોધી શક્યાં નથી."
+	},
+	"couldnt_interact_with_page": {
+		"message": "અમને કોઈ ટેક્સ્ટ મળી શક્યું નથી. કૃપા કરીને ફરી પ્રયાસ કરો (તાજું કરો). અમારું PDF અથવા Google ડૉક્સ ઍડ-ઑન અજમાવી જુઓ."
+	},
+	"unpinned_favorite": {
+		"message": "મનપસંદ દૂર કર્યું"
+	},
+	"pin_favorite": {
+		"message": "મનપસંદ"
+	},
+	"setting_saved": {
+		"message": "સેટિંગ સાચવ્યું"
+	},
+	"favourite": {
+		"message": "મનપસંદ"
+	},
+	"un_favourite": {
+		"message": "મનપસંદ"
+	},
+	"how_to_use": {
+		"message": "કેવી રીતે વાપરવું"
+	},
+	"search": {
+		"message": "શોધો"
+	},
+	"search_feature": {
+		"message": "શોધ સુવિધાઓ"
+	},
+	"filter_productivity": {
+		"message": "સંશોધન"
+	},
+	"helperbird_apps": {
+		"message": "હેલ્પરબર્ડ એપ્સ"
+	},
+	"fav_message": {
+		"message": "એવું લાગે છે કે તમારી પાસે મનપસંદ કોઈપણ સુવિધાઓ નથી. મનપસંદ કરવા માટે, સુવિધાની બાજુમાં આવેલા ત્રણ બિંદુઓને ક્લિક કરો અને મનપસંદ પર ક્લિક કરો."
+	},
+	"filter_features": {
+		"message": "ફિલ્ટર સુવિધાઓ"
+	},
+	"student_offer": {
+		"message": "વિદ્યાર્થીઓ માટે હેલ્પરબર્ડ પ્રો મેળવે છે"
+	},
+	"filter_style": {
+		"message": "ડિસ્પ્લે"
+	},
+	"filter_text_to_speech": {
+		"message": "ટેક્સ્ટ ટુ સ્પીચ"
+	},
+	"filter_dyslexia": {
+		"message": "ડિસ્લેક્સીયા"
+	},
+	"filter_pro": {
+		"message": "પ્રો લક્ષણો"
+	},
+	"filter": {
+		"message": "ફિલ્ટર કરો"
+	},
+	"filter_writing": {
+		"message": "લેખન"
+	},
+	"highlighter_title": {
+		"message": "હાઇલાઇટર"
+	},
+	"filter_reading": {
+		"message": "વાંચન"
+	},
+	"filter_active": {
+		"message": "સક્રિય"
+	},
+	"filter_audio": {
+		"message": "ઓડિયો લક્ષણો"
+	},
+	"feature_blindness": {
+		"message": "રંગ અંધત્વ"
+	},
+	"feature_emphasize_links": {
+		"message": "લિંક્સ પર ભાર મૂકે છે"
+	},
+	"feature_emphasize_stroke": {
+		"message": "ટેક્સ્ટ સ્ટ્રોક"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "રંગ"
+	},
+	"color": {
+		"message": "રંગ"
+	},
+	"feature_specialized_font": {
+		"message": "વિશિષ્ટ ફોન્ટ"
+	},
+	"feature_specialized_font_options": {
+		"message": "ફોન્ટ વિકલ્પો"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "હાઇલાઇટ મેનૂ ચાલુ છે"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "હાઇલાઇટ મેનૂ બંધ છે"
+	},
+	"feature_highlight_menu": {
+		"message": "હાઇલાઇટ મેનુ"
+	},
+	"feature_highlight_menu_description": {
+		"message": "અમારું હાઇલાઇટ ટેક્સ્ટ મેનૂ બતાવે છે."
+	},
+	"show": {
+		"message": "બતાવો"
+	},
+	"welcome": {
+		"message": "હેલ્પરબર્ડમાં આપનું સ્વાગત છે"
+	},
+	"feature_immersive_reader": {
+		"message": "ઇમર્સિવ રીડર"
+	},
+	"create_a_new_note": {
+		"message": "નવી નોંધ બનાવો"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "આ પૃષ્ઠ પર Microsoft દ્વારા ઇમર્સિવ રીડરનો ઉપયોગ કરો."
+	},
+	"feature_toolbar_google": {
+		"message": "Google ડૉક્સ અને સ્લાઇડ્સ"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Google ડૉક ફાઇલો પર હેલ્પરબર્ડ ટૂલબાર ઉમેરે છે."
+	},
+	"feature_toolbar_pdf": {
+		"message": "પીડીએફ ટૂલબાર"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "પીડીએફ ફાઇલો પર હેલ્પરબર્ડ ટૂલબાર ઉમેરે છે."
+	},
+	"pause_helperbird": {
+		"message": "$1 થોભાવો"
+	},
+	"quick_action": {
+		"message": "ઝડપી ક્રિયાઓ"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 બંધ છે"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 ચાલુ છે"
+	},
+	"voice_typing_is_on": {
+		"message": "વૉઇસ ટાઇપિંગ ચાલુ છે"
+	},
+	"voice_typing_is_off": {
+		"message": "વૉઇસ ટાઇપિંગ બંધ છે"
+	},
+	"helperbird_paused": {
+		"message": "હેલ્પરબર્ડ બંધ"
+	},
+	"helperbird_running": {
+		"message": "હેલ્પરબર્ડ ચાલી રહ્યું છે"
+	},
+	"applying_settings": {
+		"message": "તમારી સેટિંગ્સ લાગુ કરી રહ્યાં છીએ"
+	},
+	"feature_favorites": {
+		"message": "મનપસંદ"
+	},
+	"all_feature_favorites": {
+		"message": "બધા"
+	},
+	"hide_feature_favorites": {
+		"message": "મનપસંદ છુપાવો"
+	},
+	"feature_favorites_description": {
+		"message": "ફક્ત મનપસંદ બતાવો."
+	},
+	"feature_print": {
+		"message": "છાપો"
+	},
+	"feature_print_description": {
+		"message": "વર્તમાન પૃષ્ઠ છાપો."
+	},
+	"feature_printing_success": {
+		"message": "ઓપનિંગ પ્રિન્ટિંગ"
+	},
+	"feature_reader_mode": {
+		"message": "રીડર મોડ"
+	},
+	"feature_readermode_opening": {
+		"message": "રીડર મોડ ખોલી રહ્યું છે"
+	},
+	"feature_readermode_closing": {
+		"message": "રીડર મોડ બંધ કરી રહ્યું છે"
+	},
+	"view_table": {
+		"message": "કોષ્ટક દૃશ્ય"
+	},
+	"view_time": {
+		"message": "સમયરેખા દૃશ્ય"
+	},
+	"view_card": {
+		"message": "કાર્ડ દૃશ્ય"
+	},
+	"feature_screenshot": {
+		"message": "સ્ક્રીનશોટ"
+	},
+	"feature_screenshot_description": {
+		"message": "વર્તમાન પૃષ્ઠનો સ્ક્રીનશોટ લો."
+	},
+	"feature_screenshot_error": {
+		"message": "સ્ક્રીનશૉટ કૅપ્ચર કરવામાં ભૂલ"
+	},
+	"feature_screenshot_success": {
+		"message": "સ્ક્રીનશૉટ કૅપ્ચર કરી રહ્યાં છીએ"
+	},
+	"feature_tooltip": {
+		"message": "છબી વર્ણનો"
+	},
+	"feature_tooltip_description": {
+		"message": "માઉસ ઓવર પર Alt અને શીર્ષક ટૅગ્સ બતાવો."
+	},
+	"feature_translate": {
+		"message": "અનુવાદ કરો"
+	},
+	"feature_language": {
+		"message": "ભાષાઓ"
+	},
+	"feature_magnifier": {
+		"message": "મેગ્નિફાયર"
+	},
+	"feature_magnifier_description": {
+		"message": "મેગ્નિફાયર"
+	},
+	"percentage": {
+		"message": "ટકાવારી"
+	},
+	"feature_analyze": {
+		"message": "શબ્દગણના"
+	},
+	"feature_analyze_description": {
+		"message": "વિશ્લેષણ કરો"
+	},
+	"feature_analyze_words": {
+		"message": "શબ્દો"
+	},
+	"feature_analyze_characters": {
+		"message": "પાત્રો"
+	},
+	"feature_annotations": {
+		"message": "નોંધો"
+	},
+	"feature_annotations_description": {
+		"message": "નવી સ્ટીકી નોટ છોડીને પેજ પર ટીકા કરો."
+	},
+	"feature_annotate_open": {
+		"message": "નવી નોંધ બનાવી રહ્યા છીએ"
+	},
+	"annotate": {
+		"message": "ટીકા"
+	},
+	"feature_cognitive_load": {
+		"message": "ઝડપ વાંચન"
+	},
+	"bold": {
+		"message": "હિંમત"
+	},
+	"feature_background_color": {
+		"message": "પૃષ્ઠભૂમિ રંગ"
+	},
+	"feature_font_color": {
+		"message": "ફોન્ટ રંગ"
+	},
+	"feature_highlight_menu_min": {
+		"message": "મેનુ"
+	},
+	"feature_highlight_color": {
+		"message": "હાઇલાઇટ રંગ"
+	},
+	"feature_link_color": {
+		"message": "લિંક રંગ"
+	},
+	"feature_cursor_size": {
+		"message": "કર્સરનું કદ"
+	},
+	"feature_font_size": {
+		"message": "ટેક્સ્ટનું કદ"
+	},
+	"feature_font_size_titles": {
+		"message": "હેડર્સનું કદ"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "ફકરાઓનું કદ"
+	},
+	"feature_gray_hue": {
+		"message": "ગ્રે રંગ"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "ફકરાઓને હાઇલાઇટ કરો"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "ફકરાનો રંગ હાઇલાઇટ કરો"
+	},
+	"feature_images_hide_title": {
+		"message": "છબીઓ છુપાવો"
+	},
+	"hide": {
+		"message": "છુપાવો"
+	},
+	"feature_images_hide": {
+		"message": "બધી છબીઓ છુપાવો"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Gifs છુપાવો"
+	},
+	"feature_high_contast": {
+		"message": "ઉચ્ચ વિપરીત"
+	},
+	"feature_text_adjustments": {
+		"message": "ટેક્સ્ટ ગોઠવણો"
+	},
+	"feature_text_align": {
+		"message": "ટેક્સ્ટ સંરેખિત કરો"
+	},
+	"feature_text_alignment": {
+		"message": "ગોઠવણી"
+	},
+	"feature_letter_spacing": {
+		"message": "અક્ષર અંતર"
+	},
+	"spacing": {
+		"message": "અંતર"
+	},
+	"feature_line_height_spacing": {
+		"message": "રેખા ઊંચાઇ"
+	},
+	"height": {
+		"message": "ઊંચાઈ"
+	},
+	"feature_line_focus": {
+		"message": "લાઇન ફોકસ"
+	},
+	"feature_line_focus_color": {
+		"message": "લાઇન ફોકસ રંગ"
+	},
+	"feature_line_focus_height": {
+		"message": "રેખા ફોકસ ઊંચાઈ"
+	},
+	"feature_mute": {
+		"message": "વીડિયો મ્યૂટ કરો"
+	},
+	"feature_mute_description": {
+		"message": "પૃષ્ઠોમાંથી વિડિઓઝ અને અવાજોને મ્યૂટ કરો."
+	},
+	"ocr_read_words": {
+		"message": "એક્સટેક્ટ કરેલ ટેક્સ્ટ વાંચો"
+	},
+	"text": {
+		"message": "ટેક્સ્ટ"
+	},
+	"ocr_read_words_save": {
+		"message": "એક્સટેક્ટ કરેલ ટેક્સ્ટ સાચવો"
+	},
+	"feature_extract_text": {
+		"message": "એક્સટ્રેક્ટ ટેક્સ્ટ (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "સક્ષમ કરો, સ્ક્રીન પરનો વિસ્તાર પસંદ કરો."
+	},
+	"feature_overlay": {
+		"message": "ઓવરલે"
+	},
+	"feature_overlay_color": {
+		"message": "ઓવરલે રંગ"
+	},
+	"feature_paragraph_width": {
+		"message": "ફકરાની પહોળાઈ"
+	},
+	"width": {
+		"message": "પહોળાઈ"
+	},
+	"highlighted_text": {
+		"message": "હાઇલાઇટ કરેલ ટેક્સ્ટ"
+	},
+	"issue_on_page": {
+		"message": "મુદ્દો"
+	},
+	"feature_reading_guide": {
+		"message": "વાંચન માર્ગદર્શિકા"
+	},
+	"feature_reading_guide_color": {
+		"message": "વાંચન માર્ગદર્શિકા રંગ"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "ડિસ્લેક્સિયા શાસક"
+	},
+	"feature_ruler_width": {
+		"message": "શાસક પહોળાઈ"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "ઊંચાઈ"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "પદ"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "રંગ"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "અનુસરો"
+	},
+	"feature_auto_scroll": {
+		"message": "ઓટો સ્ક્રોલ"
+	},
+	"speed": {
+		"message": "ઝડપ"
+	},
+	"subscription_deleted": {
+		"message": "સબ્સ્ક્રિપ્શન રદ કર્યું"
+	},
+	"title_enjoy_until": {
+		"message": "સુધી તમારી અજમાયશનો આનંદ માણો"
+	},
+	"incomplete_expired": {
+		"message": "અમે ચુકવણી પૂર્ણ કરી શક્યાં નથી."
+	},
+	"past_due": {
+		"message": "તમારું સબ્સ્ક્રિપ્શન બાકી છે."
+	},
+	"incomplete": {
+		"message": "અમે ચુકવણી પૂર્ણ કરી શક્યાં નથી."
+	},
+	"transparency": {
+		"message": "તેજ"
+	},
+	"title_message_full": {
+		"message": "હેલ્પરબર્ડ પ્રો સબ્સ્ક્રિપ્શન મળ્યું."
+	},
+	"contact_support": {
+		"message": "કૃપા કરીને સપોર્ટનો સંપર્ક કરો."
+	},
+	"buy": {
+		"message": "$1 ખરીદો"
+	},
+	"feature_voice_typing": {
+		"message": "વૉઇસ ટાઇપિંગ"
+	},
+	"feature_voice_typing_description": {
+		"message": "બધા ઇનપુટ્સ પર વૉઇસ ટાઇપિંગ ઉમેરે છે. ફક્ત ઇનપુટ પરના બટનને ક્લિક કરો."
+	},
+	"google_docs_notice": {
+		"message": "અમારી પાસે હવે Google Addon છે! હજી વધુ સમર્થન મેળવવા માટે ઇન્સ્ટોલ કરો."
+	},
+	"feature_spell_check": {
+		"message": "જોડણી ચકાસો"
+	},
+	"feature_summarize": {
+		"message": "પાનું સારાંશ"
+	},
+	"feature_summarize_description": {
+		"message": "આ પૃષ્ઠનો સારાંશ આપો."
+	},
+	"feature_text_to_speech_options": {
+		"message": "ટેક્સ્ટ ટુ સ્પીચ વિકલ્પો"
+	},
+	"feature_speech_voice": {
+		"message": "અવાજ"
+	},
+	"feature_speech_speed": {
+		"message": "ઝડપ"
+	},
+	"feature_speech_pitch": {
+		"message": "પીચ"
+	},
+	"feature_speech_volume": {
+		"message": "વોલ્યુમ"
+	},
+	"feature_speech_highlight_color": {
+		"message": "હાઇલાઇટ રંગ"
+	},
+	"feature_speech_reading_success": {
+		"message": "પસંદ કરેલ ટેક્સ્ટ વાંચી રહ્યા છીએ."
+	},
+	"feature_text_to_speech": {
+		"message": "ટેક્સ્ટ ટુ સ્પીચ"
+	},
+	"you_need_to_highlight": {
+		"message": "તમારે કેટલાક ટેક્સ્ટને હાઇલાઇટ કરવાની જરૂર છે."
+	},
+	"feature_word_prediction": {
+		"message": "શબ્દ અનુમાન"
+	},
+	"feature_word_prediction_description": {
+		"message": "ઇનપુટ્સ પર હેલ્પરબર્ડ્સ શબ્દ અનુમાન ચાલુ કરો."
+	},
+	"feature_word_spacing": {
+		"message": "શબ્દ અંતર"
+	},
+	"full_Screen": {
+		"message": "સંપૂર્ણ સ્ક્રીન"
+	},
+	"voice_typing_stop": {
+		"message": "વૉઇસ ટાઇપિંગ બંધ કરી રહ્યું છે."
+	},
+	"voice_typing_start": {
+		"message": "હવે બોલો."
+	},
+	"speak_word_on_hover": {
+		"message": "મોટેથી વાંચો."
+	},
+	"speak_word_on_hover_info": {
+		"message": "હોવર પર શબ્દ વાંચશે."
+	},
+	"speak": {
+		"message": "બોલો"
+	},
+	"auto_scroll_start": {
+		"message": "ઓટો સ્ક્રોલ શરૂ થયું."
+	},
+	"auto_scroll_stop": {
+		"message": "સ્વતઃ સ્ક્રોલ બંધ થયું."
+	},
+	"popup_immersive_success": {
+		"message": "ઇમર્સિવ રીડર લોડ કરી રહ્યું છે."
+	},
+	"popup_readermode_success": {
+		"message": "રીડર મોડ ખોલી રહ્યું છે."
+	},
+	"popup_printing_success": {
+		"message": "ઓપનિંગ પ્રિન્ટિંગ."
+	},
+	"ocr_select": {
+		"message": "પૃષ્ઠ પર વિસ્તાર પસંદ કરો."
+	},
+	"ocr_extracted": {
+		"message": "ટેક્સ્ટ કાઢવામાં આવ્યો."
+	},
+	"ocr_extracting": {
+		"message": "એક્સ્ટ્રેક્ટીંગ"
+	},
+	"ocr_copy": {
+		"message": "ઇમેજમાંથી ટેક્સ્ટ કૉપિ કરેલો. તમારા ક્લિપબોર્ડ પર સાચવેલ."
+	},
+	"ocr_no_text": {
+		"message": "કોઈ લખાણ મળ્યું નથી."
+	},
+	"popup_note_success": {
+		"message": "તમારી નોંધોમાં સાચવેલ."
+	},
+	"popup_immersive_error": {
+		"message": "ઇમર્સિવ રીડર લોડ કરવામાં ભૂલ"
+	},
+	"popup_summarize_error": {
+		"message": "પૃષ્ઠનો સારાંશ આપવામાં ભૂલ."
+	},
+	"popup_saving_error": {
+		"message": "સાચવવામાં ભૂલ"
+	},
+	"popup_summarize_success": {
+		"message": "સારાંશ પાનું"
+	},
+	"popup_readermode_closing": {
+		"message": "રીડર મોડ બંધ કરી રહ્યું છે"
+	},
+	"close": {
+		"message": "બંધ"
+	},
+	"your_note_was_saved": {
+		"message": "તમારી નોંધ સાચવવામાં આવી હતી."
+	},
+	"error_saving_your_note": {
+		"message": "તમારી નોંધ સાચવવામાં ભૂલ. મહેરબાની કરીને ફરીથી પ્રયતન કરો."
+	},
+	"popup_readinglist_error": {
+		"message": "વાંચન સૂચિમાં સાચવવામાં ભૂલ"
+	},
+	"popup_readinglist_success": {
+		"message": "વાંચન સૂચિમાં સાચવેલ"
+	},
+	"popup_screenshot_error": {
+		"message": "સ્ક્રીનશૉટ કૅપ્ચર કરવામાં ભૂલ"
+	},
+	"popup_screenshot_success": {
+		"message": "સ્ક્રીનશૉટ કૅપ્ચર કરી રહ્યાં છીએ"
+	},
+	"copied_text": {
+		"message": "કૉપિ કરેલ ટેક્સ્ટ"
+	},
+	"copied_text_error": {
+		"message": "ટેક્સ્ટની નકલ કરવામાં ભૂલ."
+	},
+	"ocr_loading": {
+		"message": "હેલ્પરબર્ડ્સ OCR લોડ કરી રહ્યું છે"
+	},
+	"ocr_save": {
+		"message": "તમારી નોંધોમાં સાચવેલ"
+	},
+	"popup_reading_success": {
+		"message": "પસંદ કરેલ ટેક્સ્ટ વાંચી રહ્યા છીએ"
+	},
+	"popup_reading_finished": {
+		"message": "વાંચન પૂરું કર્યું"
+	},
+	"popup_reading_error": {
+		"message": "રોકાઈ રહ્યું છે"
+	},
+	"popup_reading_stopping": {
+		"message": "રોકાઈ રહ્યું છે"
+	},
+	"popup_reading_pause": {
+		"message": "થોભાવ્યું"
+	},
+	"notifcations_upgrade_title": {
+		"message": "આ સુવિધાનો ઉપયોગ કરવા માટે તમારે હેલ્પરબર્ડ પ્રોને અપગ્રેડ કરવાની જરૂર છે."
+	},
+	"menu_define": {
+		"message": "શબ્દ વ્યાખ્યાયિત કરો"
+	},
+	"menu_website_readinglist": {
+		"message": "વાંચન સૂચિમાં વેબસાઇટ ઉમેરો"
+	},
+	"menu_readinglist": {
+		"message": "વાંચન સૂચિમાં ઉમેરો"
+	},
+	"menu_text_to_speech": {
+		"message": "ટેક્સ્ટ ટુ સ્પીચ"
+	},
+	"menu_play": {
+		"message": "રમ"
+	},
+	"menu_pause": {
+		"message": "વિરામ"
+	},
+	"menu_stop": {
+		"message": "બંધ"
+	},
+	"menu_resume": {
+		"message": "ફરી શરુ કરવું"
+	},
+	"menu_screenshot": {
+		"message": "સ્ક્રીનશોટ લો"
+	},
+	"menu_share": {
+		"message": "શેર કરો"
+	},
+	"menu_reader_mode": {
+		"message": "રીડર મોડમાં જુઓ"
+	},
+	"menu_translate": {
+		"message": "અનુવાદ કરો"
+	},
+	"road_map": {
+		"message": "રોડમેપ"
+	},
+	"menu_immersive_reader": {
+		"message": "ઇમર્સિવ રીડરમાં જુઓ"
+	},
+	"menu_summarize": {
+		"message": "પાનું સારાંશ"
+	},
+	"menu_summarize_page": {
+		"message": "પૃષ્ઠનો સારાંશ"
+	},
+	"menu_annotate_page": {
+		"message": "ટીકા પૃષ્ઠ"
+	}
+}

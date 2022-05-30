@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Chrome için Helperbird"
+	},
+	"appDescription": {
+		"message": "Her tür okuyucuyu, öğrenciyi ve yazarı desteklemek için oluşturulmuş 32'den fazla erişilebilirlik ve üretkenlik özelliği. Disleksi desteği içerir."
+	},
+	"helpGuide": {
+		"message": "Yardım kılavuzları"
+	},
+	"upgrade_title": {
+		"message": "Helperbird Pro özelliği"
+	},
+	"upgrade_description": {
+		"message": "Bu özelliği kullanmak için Helperbird Pro aboneliğine ihtiyacınız var. Endişelenmeyin, yılda 40 USD veya ayda 4.99 USD."
+	},
+	"plan_deal": {
+		"message": "Öğrenci teklifi"
+	},
+	"plan_month": {
+		"message": "Aylık teklif"
+	},
+	"plan_year": {
+		"message": "Yıllık teklif"
+	},
+	"upgrade_message": {
+		"message": "Tüm özelliklerin kilidini açmak için Helperbird Pro'ya yükseltin."
+	},
+	"column_title": {
+		"message": "Kolon"
+	},
+	"upgrade_now": {
+		"message": "Hemen Yükselt"
+	},
+	"upgrade_to_pro": {
+		"message": "Helperbird Pro'ya yükseltin"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Helperbird Pro'yu keşfedin"
+	},
+	"signin_message": {
+		"message": "Lütfen Helperbird'de oturum açın veya abonelik anahtarınızı girin."
+	},
+	"privacy": {
+		"message": "Mahremiyet"
+	},
+	"whats_new": {
+		"message": "Ne var ne yok"
+	},
+	"privacy_details": {
+		"message": "Gizliliğinize saygı duyuyoruz, bu yüzden burada açık ve basit bir dilde."
+	},
+	"privacy_details_one": {
+		"message": "Helperbird'de gizliliğinize saygı duyuyor ve son derece ciddiye alıyoruz. Bu yüzden hiçbir şey depolamıyoruz veya toplamıyoruz."
+	},
+	"privacy_details_two": {
+		"message": "Giriş yaptığınızda sadece e-postanızı isteyin. Okul veya işletme alan adınızın ödenip ödenmediğini veya Stripe'ta bir hesap için ödeme yapıp yapmadığınızı kontrol etmek için."
+	},
+	"privacy_details_three": {
+		"message": "Yaptığınız her şey ve kaydettiğiniz ayarlar yerel olarak tarayıcınızda kalır. Bilgisayarınızı asla terk etmez."
+	},
+	"free": {
+		"message": "Özgür"
+	},
+	"pro": {
+		"message": "profesyonel"
+	},
+	"on": {
+		"message": "Açık"
+	},
+	"on_lower": {
+		"message": "üzerinde"
+	},
+	"off": {
+		"message": "Kapalı"
+	},
+	"off_lower": {
+		"message": "kapalı"
+	},
+	"notes": {
+		"message": "notlar"
+	},
+	"open_notes": {
+		"message": "Notları aç"
+	},
+	"save": {
+		"message": "Kaydetmek"
+	},
+	"clear": {
+		"message": "Açık"
+	},
+	"manage": {
+		"message": "Üstesinden gelmek"
+	},
+	"open": {
+		"message": "Açık"
+	},
+	"copy": {
+		"message": "kopyala"
+	},
+	"delete": {
+		"message": "Silmek"
+	},
+	"documents": {
+		"message": "Belgeler"
+	},
+	"remove": {
+		"message": "Kaldırmak"
+	},
+	"version": {
+		"message": "sürüm"
+	},
+	"visit": {
+		"message": "Ziyaret etmek"
+	},
+	"no_results": {
+		"message": "Sonuç yok"
+	},
+	"reduce_motion": {
+		"message": "animasyonlar"
+	},
+	"maths_steps": {
+		"message": "matematik çözücü"
+	},
+	"tour": {
+		"message": "Yardımcı Kuş Turu"
+	},
+	"reduce_motion_description": {
+		"message": "Animasyonun Web sayfalarında görüntülenmesini önleyin."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Tam Ekran Okuyucu, okuma ve yazmayı geliştirmek için kanıtlanmış teknikleri uygulayan ücretsiz bir araçtır"
+	},
+	"start": {
+		"message": "Başlangıç"
+	},
+	"learn_more": {
+		"message": "Daha fazla bilgi edin"
+	},
+	"more": {
+		"message": "Daha"
+	},
+	"editor_title": {
+		"message": "Editör"
+	},
+	"editor_title_open": {
+		"message": "Helperbirds Düzenleyicisini Aç"
+	},
+	"logout": {
+		"message": "Çıkış Yap"
+	},
+	"signin": {
+		"message": "Giriş yapmak"
+	},
+	"define_title": {
+		"message": "Sözlük"
+	},
+	"define_title_open": {
+		"message": "Açık Sözlüğü"
+	},
+	"define_empty_title": {
+		"message": "Bir kelime arayın ve biz onun anlamını döndürelim."
+	},
+	"define_search": {
+		"message": "Aramak......"
+	},
+	"define_antonyms": {
+		"message": "zıt anlamlı kelimeler"
+	},
+	"define_synonyms": {
+		"message": "Eş anlamlı"
+	},
+	"define_meanings": {
+		"message": "anlamlar"
+	},
+	"define_related": {
+		"message": "İlişkili"
+	},
+	"define_etymology": {
+		"message": "etimoloji"
+	},
+	"export": {
+		"message": "İhracat"
+	},
+	"export_word": {
+		"message": "Word'e Aktar"
+	},
+	"export_docs": {
+		"message": "Google Dokümanlar'a aktar"
+	},
+	"export_text": {
+		"message": "Metin dosyasına aktar"
+	},
+	"toolbar_pdf": {
+		"message": "PDF okuyucu"
+	},
+	"toolbar_pdf_open": {
+		"message": "PDF okuyucuyu aç"
+	},
+	"menus": {
+		"message": "Google Dokümanlar ve Pdf'ler"
+	},
+	"upgrade_message_title": {
+		"description": "Helperbird uzantısı.",
+		"message": "$1'a yükseltin"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Helperbird uzantısı.",
+		"message": "Reader Modu ve $1 gibi güçlü özelliklere erişin."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Helperbird uzantısı.",
+		"message": "30'dan fazla özelliğin ve 24 saat desteğin kilidini açmak için aşağıdan bir plan seçin."
+	},
+	"alert_message": {
+		"message": "Tüm Pro özelliklerine erişmek için yükseltin veya oturum açın."
+	},
+	"alert_loading": {
+		"message": "Yükleniyor...."
+	},
+	"alert_clear": {
+		"message": "Açık"
+	},
+	"alert_cleared": {
+		"message": "temizlendi"
+	},
+	"alert_download": {
+		"message": "İndirmek"
+	},
+	"alert_no_data": {
+		"message": "Sonuç yok"
+	},
+	"annotations_notes": {
+		"message": "notlar"
+	},
+	"import_annotations": {
+		"message": "Notları içe aktar"
+	},
+	"options": {
+		"message": "Seçenekler"
+	},
+	"open_document": {
+		"message": "Belgeyi aç"
+	},
+	"select_document": {
+		"message": "Bir belge seçmeniz gerekiyor."
+	},
+	"copied_document": {
+		"message": "Belge kopyalandı"
+	},
+	"saved_document": {
+		"message": "Belge kaydedildi"
+	},
+	"issue_saving": {
+		"message": "Sorun kaydetme"
+	},
+	"show_updates": {
+		"message": "Güncellemeleri Göster"
+	},
+	"new": {
+		"message": "Yeni"
+	},
+	"pause": {
+		"message": "Duraklat"
+	},
+	"removed_document": {
+		"message": "Belge kaldırıldı"
+	},
+	"opening_document": {
+		"message": "Açılış belgesi"
+	},
+	"get_started": {
+		"message": "Başlamak"
+	},
+	"saved_to_documents": {
+		"message": "Belgelerinize kaydedildi."
+	},
+	"message_alert": {
+		"message": "Helperbirds'ün tüm özelliklerine ve müşteri desteğine ihtiyaç duyduğunuz her an erişin. 30'dan fazla özellik."
+	},
+	"message_three_day": {
+		"message": "3 günlük deneme"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Girişlerinizi kontrol edin"
+	},
+	"upgrade": {
+		"message": "Güncelleme"
+	},
+	"upgrade_": {
+		"message": "$1'a yükseltin"
+	},
+	"website": {
+		"message": "İnternet sitesi"
+	},
+	"description": {
+		"message": "Tanım"
+	},
+	"capture": {
+		"message": "Ele geçirmek"
+	},
+	"category": {
+		"message": "Kategori"
+	},
+	"error_found_label": {
+		"message": "Bir hata var"
+	},
+	"cancel": {
+		"message": "İptal etmek"
+	},
+	"readinglist_title": {
+		"message": "Okuma listesi"
+	},
+	"readinglist_title_open": {
+		"message": "Okuma listesini aç"
+	},
+	"note_removed": {
+		"message": "Not kaldırıldı."
+	},
+	"note_removed_error": {
+		"message": "Not kaldırılamadı."
+	},
+	"readinglist_removed": {
+		"message": "Web sitesi kaldırıldı"
+	},
+	"settings_saved": {
+		"message": "Ayarlar kaydedildi"
+	},
+	"check_for_updates": {
+		"message": "Güncellemeleri kontrol et"
+	},
+	"show_highlights": {
+		"message": "Sayfada öne çıkanları göster."
+	},
+	"account_title": {
+		"message": "Hesap"
+	},
+	"account_description": {
+		"message": "Tarayıcınızda oturum açtığınız aynı e-postayı, oturum açma bilgileriniz olarak kullanıyoruz."
+	},
+	"signed_in_as": {
+		"message": "Olarak giriş yapıldı"
+	},
+	"subscription_title": {
+		"message": "abonelik"
+	},
+	"current_plan": {
+		"message": "Mevcut planınız"
+	},
+	"subscription_status": {
+		"message": "Abonelik durumunuz:"
+	},
+	"check_subscription": {
+		"message": "Aboneliği kontrol et"
+	},
+	"subscription_token_title": {
+		"message": "abonelik anahtarı"
+	},
+	"subscription_token_description": {
+		"message": "Helperbird Pro aboneliğiniz varsa, Helperbird Pro'nun tüm özelliklerinin kilidini açmak için aşağıya girin."
+	},
+	"themes": {
+		"message": "Temalar"
+	},
+	"theme": {
+		"message": "Tema"
+	},
+	"danger_zone_title": {
+		"message": "Depolamak"
+	},
+	"danger_zone_description": {
+		"message": "Aşağıdaki düğme tüm ayarları silecek ve uzantıyı yeniymiş gibi başlatacaktır. Bu yüzden dikkatli olun, sildiğiniz hiçbir şeyi geri alamayız."
+	},
+	"delete_everything": {
+		"message": "Hepsini sil"
+	},
+	"delete_this_note": {
+		"message": "Bu notu silin."
+	},
+	"visit_this_note": {
+		"message": "Bu notun bulunduğu Vist web sitesi."
+	},
+	"everything_deleted": {
+		"message": "Tüm ayarlar ve depolama artık silinmiştir."
+	},
+	"enter_email": {
+		"message": "Bir e-posta girmeniz gerekiyor."
+	},
+	"shortcuts": {
+		"message": "Kısayollar"
+	},
+	"shortcuts_menu_on": {
+		"message": "Kısayollar açık"
+	},
+	"shortcuts_menu_off": {
+		"message": "Kısayollar kapalı"
+	},
+	"shortcuts_title": {
+		"message": "Kısayollar"
+	},
+	"shortcuts_description": {
+		"message": "Kısayollar"
+	},
+	"shortcuts_ocr": {
+		"message": "OCR'yi etkinleştir"
+	},
+	"shortcuts_immsersive": {
+		"message": "Sürükleyici okuyucuyu aç"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Okuyucu Modunu Aç"
+	},
+	"annotate_page": {
+		"message": "sayfaya açıklama ekle"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "PDF'yi aç"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Uzaklaştır"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Yakınlaştır"
+	},
+	"settings": {
+		"message": "Ayarlar"
+	},
+	"support_videos": {
+		"message": "Destek videoları"
+	},
+	"review_us": {
+		"message": "Bizi gözden geçirin"
+	},
+	"view": {
+		"message": "görüş"
+	},
+	"views": {
+		"message": "Görüntüleme"
+	},
+	"no_favorites": {
+		"message": "favori yok"
+	},
+	"sorting_none": {
+		"message": "Hiçbir şey bulunamadı."
+	},
+	"sorting": {
+		"message": "Sıralama..."
+	},
+	"showing_favorites": {
+		"message": "Favoriler gösteriliyor"
+	},
+	"unpaid": {
+		"message": "Aboneliğiniz ücretsiz."
+	},
+	"canceled": {
+		"message": "Aboneliğiniz iptal edildi."
+	},
+	"message_nothing_found": {
+		"message": "Abonelik bulamadık."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Herhangi bir metin alamadık. Lütfen tekrar deneyin (Yenile). PDF veya Google Dokümanlar eklentimizi deneyin."
+	},
+	"unpinned_favorite": {
+		"message": "Favoriler kaldırıldı"
+	},
+	"pin_favorite": {
+		"message": "favori"
+	},
+	"setting_saved": {
+		"message": "Ayar kaydedildi"
+	},
+	"favourite": {
+		"message": "Favori"
+	},
+	"un_favourite": {
+		"message": "favori olmayan"
+	},
+	"how_to_use": {
+		"message": "Nasıl kullanılır"
+	},
+	"search": {
+		"message": "Aramak"
+	},
+	"search_feature": {
+		"message": "Arama özellikleri"
+	},
+	"filter_productivity": {
+		"message": "Araştırma"
+	},
+	"helperbird_apps": {
+		"message": "Helperbird uygulamaları"
+	},
+	"fav_message": {
+		"message": "Sık kullanılan herhangi bir özelliğiniz yok gibi görünüyor. Favorilere eklemek için bir özelliğin yanındaki üç noktayı tıklayın ve favorilere tıklayın."
+	},
+	"filter_features": {
+		"message": "Filtre özellikleri"
+	},
+	"student_offer": {
+		"message": "Öğrenciler, aşağıdakiler için Helperbird Pro'yu edinir:"
+	},
+	"filter_style": {
+		"message": "Görüntülemek"
+	},
+	"filter_text_to_speech": {
+		"message": "Konuşma metni"
+	},
+	"filter_dyslexia": {
+		"message": "Disleksi"
+	},
+	"filter_pro": {
+		"message": "Profesyonel özellikler"
+	},
+	"filter": {
+		"message": "filtre"
+	},
+	"filter_writing": {
+		"message": "yazı"
+	},
+	"highlighter_title": {
+		"message": "fosforlu kalem"
+	},
+	"filter_reading": {
+		"message": "Okuma"
+	},
+	"filter_active": {
+		"message": "Aktif"
+	},
+	"filter_audio": {
+		"message": "Ses özellikleri"
+	},
+	"feature_blindness": {
+		"message": "Renk körlüğü"
+	},
+	"feature_emphasize_links": {
+		"message": "Bağlantıları vurgulayın"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Metin konturu"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Renk"
+	},
+	"color": {
+		"message": "Renk"
+	},
+	"feature_specialized_font": {
+		"message": "Özel Yazı Tipi"
+	},
+	"feature_specialized_font_options": {
+		"message": "Yazı tipi seçenekleri"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Vurgu menüsü açık"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Vurgu menüsü kapalı"
+	},
+	"feature_highlight_menu": {
+		"message": "Vurgu menüsü"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Vurgulanan metin menümüzü gösterir."
+	},
+	"show": {
+		"message": "Göstermek"
+	},
+	"welcome": {
+		"message": "Helperbird'e hoş geldiniz"
+	},
+	"feature_immersive_reader": {
+		"message": "Sürükleyici okuyucu"
+	},
+	"create_a_new_note": {
+		"message": "Yeni bir not oluştur"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Bu sayfada Microsoft'un Sürükleyici okuyucusunu kullanın."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Dokümanlar ve Slaytlar"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Google doküman dosyalarına bir Helperbird araç çubuğu ekler."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF araç çubuğu"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Pdf dosyalarına Helperbird araç çubuğu ekler."
+	},
+	"pause_helperbird": {
+		"message": "$1 duraklat"
+	},
+	"quick_action": {
+		"message": "Hızlı eylemler"
+	},
+	"feature_pause_helperbird": {
+		"message": "1 dolar kapalı"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "1 dolar açık"
+	},
+	"voice_typing_is_on": {
+		"message": "Sesle yazma açık"
+	},
+	"voice_typing_is_off": {
+		"message": "Sesle yazma kapalı"
+	},
+	"helperbird_paused": {
+		"message": "yardımcı kuş kapalı"
+	},
+	"helperbird_running": {
+		"message": "yardımcı kuş koşuyor"
+	},
+	"applying_settings": {
+		"message": "Ayarlarınızı uygulama"
+	},
+	"feature_favorites": {
+		"message": "Favoriler"
+	},
+	"all_feature_favorites": {
+		"message": "Herşey"
+	},
+	"hide_feature_favorites": {
+		"message": "Favorileri Gizle"
+	},
+	"feature_favorites_description": {
+		"message": "Yalnızca favorileri göster."
+	},
+	"feature_print": {
+		"message": "Yazdır"
+	},
+	"feature_print_description": {
+		"message": "Geçerli sayfayı yazdırın."
+	},
+	"feature_printing_success": {
+		"message": "Açılış baskısı"
+	},
+	"feature_reader_mode": {
+		"message": "Okuyucu Modu"
+	},
+	"feature_readermode_opening": {
+		"message": "Okuyucu modunu açma"
+	},
+	"feature_readermode_closing": {
+		"message": "Okuyucu modunu kapatma"
+	},
+	"view_table": {
+		"message": "Tablo görünümü"
+	},
+	"view_time": {
+		"message": "zaman çizelgesi görünümü"
+	},
+	"view_card": {
+		"message": "kart görünümü"
+	},
+	"feature_screenshot": {
+		"message": "Ekran görüntüsü"
+	},
+	"feature_screenshot_description": {
+		"message": "Geçerli sayfanın ekran görüntüsünü alın."
+	},
+	"feature_screenshot_error": {
+		"message": "Ekran görüntüsü alınırken hata oluştu"
+	},
+	"feature_screenshot_success": {
+		"message": "Ekran görüntüsü alma"
+	},
+	"feature_tooltip": {
+		"message": "Resim açıklamaları"
+	},
+	"feature_tooltip_description": {
+		"message": "Fareyle üzerine gelindiğinde alt ve başlık etiketlerini göster."
+	},
+	"feature_translate": {
+		"message": "Çevirmek"
+	},
+	"feature_language": {
+		"message": "Diller"
+	},
+	"feature_magnifier": {
+		"message": "büyüteç"
+	},
+	"feature_magnifier_description": {
+		"message": "büyüteç"
+	},
+	"percentage": {
+		"message": "Yüzde"
+	},
+	"feature_analyze": {
+		"message": "Sözcük sayısı"
+	},
+	"feature_analyze_description": {
+		"message": "analiz etmek"
+	},
+	"feature_analyze_words": {
+		"message": "sözler"
+	},
+	"feature_analyze_characters": {
+		"message": "karakterler"
+	},
+	"feature_annotations": {
+		"message": "notlar"
+	},
+	"feature_annotations_description": {
+		"message": "Yeni bir yapışkan not bırakarak sayfaya açıklama ekleyin."
+	},
+	"feature_annotate_open": {
+		"message": "Yeni bir not oluşturma"
+	},
+	"annotate": {
+		"message": "açıklama ekle"
+	},
+	"feature_cognitive_load": {
+		"message": "Hızlı Okuma"
+	},
+	"bold": {
+		"message": "cesaret"
+	},
+	"feature_background_color": {
+		"message": "Arka plan rengi"
+	},
+	"feature_font_color": {
+		"message": "Yazı rengi"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Menü"
+	},
+	"feature_highlight_color": {
+		"message": "Vurgu rengi"
+	},
+	"feature_link_color": {
+		"message": "Bağlantı rengi"
+	},
+	"feature_cursor_size": {
+		"message": "imleç boyutu"
+	},
+	"feature_font_size": {
+		"message": "Yazı Boyutu"
+	},
+	"feature_font_size_titles": {
+		"message": "Başlık boyutu"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "paragraf boyutu"
+	},
+	"feature_gray_hue": {
+		"message": "gri renk"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Paragrafları vurgula"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Paragrafların rengini vurgula"
+	},
+	"feature_images_hide_title": {
+		"message": "Resimleri gizle"
+	},
+	"hide": {
+		"message": "Saklamak"
+	},
+	"feature_images_hide": {
+		"message": "Tüm resimleri gizle"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Gifleri Gizle"
+	},
+	"feature_high_contast": {
+		"message": "Yüksek kontrast"
+	},
+	"feature_text_adjustments": {
+		"message": "Metin ayarlamaları"
+	},
+	"feature_text_align": {
+		"message": "Metin hizalama"
+	},
+	"feature_text_alignment": {
+		"message": "hizalama"
+	},
+	"feature_letter_spacing": {
+		"message": "Harf boşluğu"
+	},
+	"spacing": {
+		"message": "boşluk"
+	},
+	"feature_line_height_spacing": {
+		"message": "Satır yüksekliği"
+	},
+	"height": {
+		"message": "Yükseklik"
+	},
+	"feature_line_focus": {
+		"message": "Çizgi odak"
+	},
+	"feature_line_focus_color": {
+		"message": "Çizgi odak rengi"
+	},
+	"feature_line_focus_height": {
+		"message": "Çizgi odak yüksekliği"
+	},
+	"feature_mute": {
+		"message": "Videonun sesini kapat"
+	},
+	"feature_mute_description": {
+		"message": "Sayfalardaki videoları ve sesleri kapatın."
+	},
+	"ocr_read_words": {
+		"message": "Ayıklanan metni oku"
+	},
+	"text": {
+		"message": "Metin"
+	},
+	"ocr_read_words_save": {
+		"message": "Çıkarılan metni kaydet"
+	},
+	"feature_extract_text": {
+		"message": "Metin ayıkla (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Etkinleştir, ekrandaki alanı seçin."
+	},
+	"feature_overlay": {
+		"message": "Kaplama"
+	},
+	"feature_overlay_color": {
+		"message": "Kaplama rengi"
+	},
+	"feature_paragraph_width": {
+		"message": "paragraf genişliği"
+	},
+	"width": {
+		"message": "Genişlik"
+	},
+	"highlighted_text": {
+		"message": "Vurgulanan metin"
+	},
+	"issue_on_page": {
+		"message": "Sorun"
+	},
+	"feature_reading_guide": {
+		"message": "Okuma Kılavuzu"
+	},
+	"feature_reading_guide_color": {
+		"message": "Okuma Kılavuzu rengi"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "disleksi cetveli"
+	},
+	"feature_ruler_width": {
+		"message": "cetvel genişliği"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Yükseklik"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Konum"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Renk"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Takip etmek"
+	},
+	"feature_auto_scroll": {
+		"message": "Otomatik kaydırma"
+	},
+	"speed": {
+		"message": "Hız"
+	},
+	"subscription_deleted": {
+		"message": "abonelik iptal edildi"
+	},
+	"title_enjoy_until": {
+		"message": "Şu tarihe kadar denemenizin keyfini çıkarın:"
+	},
+	"incomplete_expired": {
+		"message": "Ödemeyi tamamlayamadık."
+	},
+	"past_due": {
+		"message": "Aboneliğinizin vadesi geçmiş."
+	},
+	"incomplete": {
+		"message": "Ödemeyi tamamlayamadık."
+	},
+	"transparency": {
+		"message": "Parlaklık"
+	},
+	"title_message_full": {
+		"message": "Helperbird Pro aboneliği bulundu."
+	},
+	"contact_support": {
+		"message": "Lütfen destek ile iletişime geçin."
+	},
+	"buy": {
+		"message": "1$ satın al"
+	},
+	"feature_voice_typing": {
+		"message": "Sesle yazma"
+	},
+	"feature_voice_typing_description": {
+		"message": "Tüm girişlere sesle yazma ekler. Girişteki düğmeyi tıklamanız yeterlidir."
+	},
+	"google_docs_notice": {
+		"message": "Artık bir Google Eklentimiz var! Daha da fazla destek almak için yükleyin."
+	},
+	"feature_spell_check": {
+		"message": "Yazım denetimi"
+	},
+	"feature_summarize": {
+		"message": "Sayfayı özetle"
+	},
+	"feature_summarize_description": {
+		"message": "Bu sayfayı özetleyin."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Metinden konuşmaya seçenekleri"
+	},
+	"feature_speech_voice": {
+		"message": "Ses"
+	},
+	"feature_speech_speed": {
+		"message": "Hız"
+	},
+	"feature_speech_pitch": {
+		"message": "Saha"
+	},
+	"feature_speech_volume": {
+		"message": "Ses"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Vurgu rengi"
+	},
+	"feature_speech_reading_success": {
+		"message": "Seçilen metni okuma."
+	},
+	"feature_text_to_speech": {
+		"message": "Konuşma metni"
+	},
+	"you_need_to_highlight": {
+		"message": "Bazı metinleri vurgulamanız gerekir."
+	},
+	"feature_word_prediction": {
+		"message": "Kelime tahmini"
+	},
+	"feature_word_prediction_description": {
+		"message": "Girişlerde Helperbirds kelime tahminini açın."
+	},
+	"feature_word_spacing": {
+		"message": "kelime aralığı"
+	},
+	"full_Screen": {
+		"message": "Tam ekran"
+	},
+	"voice_typing_stop": {
+		"message": "Sesle yazmayı durdurma."
+	},
+	"voice_typing_start": {
+		"message": "Şimdi konuş."
+	},
+	"speak_word_on_hover": {
+		"message": "Sesli oku."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Fareyle üzerine gelindiğinde kelimeyi okuyacaktır."
+	},
+	"speak": {
+		"message": "Konuşmak"
+	},
+	"auto_scroll_start": {
+		"message": "Otomatik kaydırma başladı."
+	},
+	"auto_scroll_stop": {
+		"message": "Otomatik kaydırma durduruldu."
+	},
+	"popup_immersive_success": {
+		"message": "Sürükleyici okuyucu yükleniyor."
+	},
+	"popup_readermode_success": {
+		"message": "Okuyucu modunu açma."
+	},
+	"popup_printing_success": {
+		"message": "Açılış baskısı."
+	},
+	"ocr_select": {
+		"message": "Sayfadaki alanı seçin."
+	},
+	"ocr_extracted": {
+		"message": "Metin çıkarıldı."
+	},
+	"ocr_extracting": {
+		"message": "Ayıklanıyor"
+	},
+	"ocr_copy": {
+		"message": "Görüntüden kopyalanan metin. Panonuza kaydedildi."
+	},
+	"ocr_no_text": {
+		"message": "Metin bulunamadı."
+	},
+	"popup_note_success": {
+		"message": "Notlarınıza kaydedildi."
+	},
+	"popup_immersive_error": {
+		"message": "Sürükleyici okuyucu yüklenirken hata oluştu"
+	},
+	"popup_summarize_error": {
+		"message": "Sayfa özetlenirken hata oluştu."
+	},
+	"popup_saving_error": {
+		"message": "kaydedilirken hata oluştu"
+	},
+	"popup_summarize_success": {
+		"message": "Özetleme sayfası"
+	},
+	"popup_readermode_closing": {
+		"message": "Okuyucu modunu kapatma"
+	},
+	"close": {
+		"message": "Kapat"
+	},
+	"your_note_was_saved": {
+		"message": "Notunuz kaydedildi."
+	},
+	"error_saving_your_note": {
+		"message": "Notunuz kaydedilirken hata oluştu. Lütfen tekrar deneyin."
+	},
+	"popup_readinglist_error": {
+		"message": "Okuma listesine kaydedilirken hata oluştu"
+	},
+	"popup_readinglist_success": {
+		"message": "Okuma listesine kaydedildi"
+	},
+	"popup_screenshot_error": {
+		"message": "Ekran görüntüsü alınırken hata oluştu"
+	},
+	"popup_screenshot_success": {
+		"message": "Ekran görüntüsü alma"
+	},
+	"copied_text": {
+		"message": "kopyalanan metin"
+	},
+	"copied_text_error": {
+		"message": "Metin kopyalanırken hata oluştu."
+	},
+	"ocr_loading": {
+		"message": "Helperbirds OCR Yükleniyor"
+	},
+	"ocr_save": {
+		"message": "Notlarınıza kaydedildi"
+	},
+	"popup_reading_success": {
+		"message": "Seçilen metni okuma"
+	},
+	"popup_reading_finished": {
+		"message": "okuma bitti"
+	},
+	"popup_reading_error": {
+		"message": "Durduruluyor"
+	},
+	"popup_reading_stopping": {
+		"message": "Durduruluyor"
+	},
+	"popup_reading_pause": {
+		"message": "duraklatıldı"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Bu özelliği kullanmak için Helperbird Pro'yu yükseltmeniz gerekir."
+	},
+	"menu_define": {
+		"message": "kelimeyi tanımla"
+	},
+	"menu_website_readinglist": {
+		"message": "Okuma listesine web sitesi ekle"
+	},
+	"menu_readinglist": {
+		"message": "Okuma listesine ekle"
+	},
+	"menu_text_to_speech": {
+		"message": "Konuşma metni"
+	},
+	"menu_play": {
+		"message": "Oyna"
+	},
+	"menu_pause": {
+		"message": "Duraklat"
+	},
+	"menu_stop": {
+		"message": "Durmak"
+	},
+	"menu_resume": {
+		"message": "Devam et"
+	},
+	"menu_screenshot": {
+		"message": "Ekran görüntüsü al"
+	},
+	"menu_share": {
+		"message": "Paylaşmak"
+	},
+	"menu_reader_mode": {
+		"message": "Okuyucu modunda görüntüle"
+	},
+	"menu_translate": {
+		"message": "Çevirmek"
+	},
+	"road_map": {
+		"message": "Yol Haritası"
+	},
+	"menu_immersive_reader": {
+		"message": "Sürükleyici okuyucuda görüntüle"
+	},
+	"menu_summarize": {
+		"message": "Sayfayı özetle"
+	},
+	"menu_summarize_page": {
+		"message": "Sayfa özetlendi"
+	},
+	"menu_annotate_page": {
+		"message": "sayfaya açıklama ekle"
+	}
+}

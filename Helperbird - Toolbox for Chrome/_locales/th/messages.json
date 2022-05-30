@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird สำหรับ Chrome"
+	},
+	"appDescription": {
+		"message": "คุณสมบัติการเข้าถึงและประสิทธิภาพการทำงานมากกว่า 32 รายการที่สร้างขึ้นเพื่อรองรับผู้อ่าน ผู้เรียน และนักเขียนทุกประเภท รวมถึงการสนับสนุน dyslexia"
+	},
+	"helpGuide": {
+		"message": "คู่มือช่วยเหลือ"
+	},
+	"upgrade_title": {
+		"message": "คุณสมบัติ Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "คุณต้องสมัครสมาชิก Helperbird Pro เพื่อใช้คุณสมบัตินี้ ไม่ต้องกังวล 40 USD ต่อปีหรือ 4.99 ต่อเดือน"
+	},
+	"plan_deal": {
+		"message": "ข้อเสนอนักศึกษา"
+	},
+	"plan_month": {
+		"message": "ข้อเสนอรายเดือน"
+	},
+	"plan_year": {
+		"message": "ข้อเสนอรายปี"
+	},
+	"upgrade_message": {
+		"message": "อัปเกรดเป็น Helperbird Pro เพื่อปลดล็อกคุณลักษณะทั้งหมด"
+	},
+	"column_title": {
+		"message": "คอลัมน์"
+	},
+	"upgrade_now": {
+		"message": "อัพเกรดเดี๋ยวนี้"
+	},
+	"upgrade_to_pro": {
+		"message": "อัปเกรดเป็น Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "ค้นพบ Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "โปรดลงชื่อเข้าใช้ Helperbird หรือป้อนรหัสการสมัครของคุณ"
+	},
+	"privacy": {
+		"message": "ความเป็นส่วนตัว"
+	},
+	"whats_new": {
+		"message": "มีอะไรใหม่"
+	},
+	"privacy_details": {
+		"message": "เราเคารพความเป็นส่วนตัวของคุณ ดังนั้นนี่คือภาษาที่ชัดเจนและเรียบง่าย"
+	},
+	"privacy_details_one": {
+		"message": "ที่ Helperbird เราเคารพและถือความเป็นส่วนตัวของคุณอย่างจริงจัง นั่นเป็นเหตุผลที่เราไม่เก็บหรือรวบรวมอะไร"
+	},
+	"privacy_details_two": {
+		"message": "ขอเพียงอีเมลของคุณเมื่อคุณเข้าสู่ระบบ เพื่อตรวจสอบว่าโดเมนของโรงเรียนหรือธุรกิจของคุณได้รับการชำระเงินหรือว่าคุณได้ชำระเงินสำหรับบัญชีใน Stripe แล้ว"
+	},
+	"privacy_details_three": {
+		"message": "ทุกสิ่งที่คุณทำและการตั้งค่าที่คุณบันทึกจะอยู่ในเบราว์เซอร์ของคุณ ไม่เคยออกจากคอมพิวเตอร์ของคุณ"
+	},
+	"free": {
+		"message": "ฟรี"
+	},
+	"pro": {
+		"message": "มือโปร"
+	},
+	"on": {
+		"message": "บน"
+	},
+	"on_lower": {
+		"message": "บน"
+	},
+	"off": {
+		"message": "ปิด"
+	},
+	"off_lower": {
+		"message": "ปิด"
+	},
+	"notes": {
+		"message": "หมายเหตุ"
+	},
+	"open_notes": {
+		"message": "เปิดบันทึก"
+	},
+	"save": {
+		"message": "บันทึก"
+	},
+	"clear": {
+		"message": "ชัดเจน"
+	},
+	"manage": {
+		"message": "จัดการ"
+	},
+	"open": {
+		"message": "เปิด"
+	},
+	"copy": {
+		"message": "สำเนา"
+	},
+	"delete": {
+		"message": "ลบ"
+	},
+	"documents": {
+		"message": "เอกสาร"
+	},
+	"remove": {
+		"message": "ลบ"
+	},
+	"version": {
+		"message": "เวอร์ชั่น"
+	},
+	"visit": {
+		"message": "เยี่ยม"
+	},
+	"no_results": {
+		"message": "ไม่มีผลลัพธ์"
+	},
+	"reduce_motion": {
+		"message": "แอนิเมชั่น"
+	},
+	"maths_steps": {
+		"message": "แก้คณิตศาสตร์"
+	},
+	"tour": {
+		"message": "ทัวร์ Helperbird"
+	},
+	"reduce_motion_description": {
+		"message": "ป้องกันไม่ให้แอนิเมชั่นแสดงบนเว็บเพจ"
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader เป็นเครื่องมือฟรีที่ใช้เทคนิคที่ได้รับการพิสูจน์แล้วเพื่อปรับปรุงการอ่านและการเขียน"
+	},
+	"start": {
+		"message": "เริ่ม"
+	},
+	"learn_more": {
+		"message": "เรียนรู้เพิ่มเติม"
+	},
+	"more": {
+		"message": "มากกว่า"
+	},
+	"editor_title": {
+		"message": "บรรณาธิการ"
+	},
+	"editor_title_open": {
+		"message": "เปิด Helperbirds Editor"
+	},
+	"logout": {
+		"message": "ออกจากระบบ"
+	},
+	"signin": {
+		"message": "เข้าสู่ระบบ"
+	},
+	"define_title": {
+		"message": "พจนานุกรม"
+	},
+	"define_title_open": {
+		"message": "เปิดพจนานุกรม"
+	},
+	"define_empty_title": {
+		"message": "ค้นหาคำและเราจะส่งคืนความหมายของมัน"
+	},
+	"define_search": {
+		"message": "ค้นหา......"
+	},
+	"define_antonyms": {
+		"message": "คำตรงข้าม"
+	},
+	"define_synonyms": {
+		"message": "คำพ้องความหมาย"
+	},
+	"define_meanings": {
+		"message": "ความหมาย"
+	},
+	"define_related": {
+		"message": "ที่เกี่ยวข้อง"
+	},
+	"define_etymology": {
+		"message": "นิรุกติศาสตร์"
+	},
+	"export": {
+		"message": "ส่งออก"
+	},
+	"export_word": {
+		"message": "ส่งออกไปยัง Word"
+	},
+	"export_docs": {
+		"message": "ส่งออกไปยัง Google เอกสาร"
+	},
+	"export_text": {
+		"message": "ส่งออกเป็นไฟล์ข้อความ"
+	},
+	"toolbar_pdf": {
+		"message": "โปรแกรมอ่าน PDF"
+	},
+	"toolbar_pdf_open": {
+		"message": "เปิดโปรแกรมอ่าน PDF"
+	},
+	"menus": {
+		"message": "Google Docs & Pdfs"
+	},
+	"upgrade_message_title": {
+		"description": "ส่วนขยาย Helperbird",
+		"message": "อัปเกรดเป็น $1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "ส่วนขยาย Helperbird",
+		"message": "เข้าถึงคุณสมบัติอันทรงพลังเช่น Reader Mode และ $1"
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "ส่วนขยาย Helperbird",
+		"message": "เลือกแผนด้านล่างเพื่อปลดล็อกคุณสมบัติมากกว่า 30 รายการและการสนับสนุนตลอด 24 ชั่วโมง"
+	},
+	"alert_message": {
+		"message": "อัปเกรดหรือเข้าสู่ระบบเพื่อเข้าถึงคุณสมบัติ Pro ทั้งหมด"
+	},
+	"alert_loading": {
+		"message": "กำลังโหลด...."
+	},
+	"alert_clear": {
+		"message": "ชัดเจน"
+	},
+	"alert_cleared": {
+		"message": "เคลียร์"
+	},
+	"alert_download": {
+		"message": "ดาวน์โหลด"
+	},
+	"alert_no_data": {
+		"message": "ไม่มีผลลัพธ์"
+	},
+	"annotations_notes": {
+		"message": "หมายเหตุ"
+	},
+	"import_annotations": {
+		"message": "บันทึกการนำเข้า"
+	},
+	"options": {
+		"message": "ตัวเลือก"
+	},
+	"open_document": {
+		"message": "เปิดเอกสาร"
+	},
+	"select_document": {
+		"message": "คุณต้องเลือกเอกสาร"
+	},
+	"copied_document": {
+		"message": "คัดลอกเอกสารแล้ว"
+	},
+	"saved_document": {
+		"message": "บันทึกเอกสารแล้ว"
+	},
+	"issue_saving": {
+		"message": "ปัญหาการบันทึก"
+	},
+	"show_updates": {
+		"message": "แสดงการอัปเดต"
+	},
+	"new": {
+		"message": "ใหม่"
+	},
+	"pause": {
+		"message": "หยุด"
+	},
+	"removed_document": {
+		"message": "เอกสารถูกลบ"
+	},
+	"opening_document": {
+		"message": "เปิดเอกสาร"
+	},
+	"get_started": {
+		"message": "เริ่ม"
+	},
+	"saved_to_documents": {
+		"message": "บันทึกลงในเอกสารของคุณแล้ว"
+	},
+	"message_alert": {
+		"message": "เข้าถึงฟีเจอร์ของ Helperbirds และการสนับสนุนลูกค้าทั้งหมดได้ทุกเมื่อที่คุณต้องการ กว่า 30 คุณสมบัติ"
+	},
+	"message_three_day": {
+		"message": "ทดลองใช้ 3 วัน"
+	},
+	"feature_pdf_reader": {
+		"message": "ไฟล์ PDF"
+	},
+	"check_inputs": {
+		"message": "ตรวจสอบอินพุตของคุณ"
+	},
+	"upgrade": {
+		"message": "อัพเกรด"
+	},
+	"upgrade_": {
+		"message": "อัปเกรดเป็น $1"
+	},
+	"website": {
+		"message": "เว็บไซต์"
+	},
+	"description": {
+		"message": "คำอธิบาย"
+	},
+	"capture": {
+		"message": "การจับกุม"
+	},
+	"category": {
+		"message": "หมวดหมู่"
+	},
+	"error_found_label": {
+		"message": "มีข้อผิดพลาด"
+	},
+	"cancel": {
+		"message": "ยกเลิก"
+	},
+	"readinglist_title": {
+		"message": "เรื่องรออ่าน"
+	},
+	"readinglist_title_open": {
+		"message": "เปิดรายการเรื่องรออ่าน"
+	},
+	"note_removed": {
+		"message": "นำโน้ตออกแล้ว"
+	},
+	"note_removed_error": {
+		"message": "ไม่สามารถนำโน้ตออก"
+	},
+	"readinglist_removed": {
+		"message": "เว็บไซต์ถูกลบ"
+	},
+	"settings_saved": {
+		"message": "การตั้งค่าที่บันทึกไว้"
+	},
+	"check_for_updates": {
+		"message": "ตรวจสอบสำหรับการอัพเดต"
+	},
+	"show_highlights": {
+		"message": "แสดงไฮไลท์ในหน้า"
+	},
+	"account_title": {
+		"message": "บัญชี"
+	},
+	"account_description": {
+		"message": "เราใช้อีเมลเดียวกันกับที่คุณลงชื่อเข้าใช้เบราว์เซอร์เป็นข้อมูลเข้าสู่ระบบ"
+	},
+	"signed_in_as": {
+		"message": "ลงชื่อเข้าใช้เป็น"
+	},
+	"subscription_title": {
+		"message": "สมัครสมาชิก"
+	},
+	"current_plan": {
+		"message": "แผนปัจจุบันของคุณ"
+	},
+	"subscription_status": {
+		"message": "สถานะการสมัครของคุณ:"
+	},
+	"check_subscription": {
+		"message": "ตรวจสอบการสมัครสมาชิก"
+	},
+	"subscription_token_title": {
+		"message": "รหัสสมัครสมาชิก"
+	},
+	"subscription_token_description": {
+		"message": "หากคุณมีการสมัครสมาชิก Helperbird Pro ให้ป้อนข้อมูลด้านล่างเพื่อปลดล็อกฟีเจอร์ทั้งหมดของ Helperbird Pro"
+	},
+	"themes": {
+		"message": "ธีม"
+	},
+	"theme": {
+		"message": "ธีม"
+	},
+	"danger_zone_title": {
+		"message": "พื้นที่จัดเก็บ"
+	},
+	"danger_zone_description": {
+		"message": "ปุ่มด้านล่างจะล้างการตั้งค่าทั้งหมดและเริ่มต้นส่วนขยายเสมือนเป็นรายการใหม่ ดังนั้นโปรดใช้ความระมัดระวังเราไม่สามารถนำสิ่งที่คุณลบกลับมาได้"
+	},
+	"delete_everything": {
+		"message": "ลบทุกอย่าง"
+	},
+	"delete_this_note": {
+		"message": "ลบบันทึกนี้"
+	},
+	"visit_this_note": {
+		"message": "Vist เว็บไซต์บันทึกนี้เปิดอยู่"
+	},
+	"everything_deleted": {
+		"message": "การตั้งค่าและที่เก็บข้อมูลทั้งหมดถูกลบไปแล้ว"
+	},
+	"enter_email": {
+		"message": "คุณต้องป้อนอีเมล"
+	},
+	"shortcuts": {
+		"message": "ทางลัด"
+	},
+	"shortcuts_menu_on": {
+		"message": "ทางลัดเปิดอยู่"
+	},
+	"shortcuts_menu_off": {
+		"message": "ทางลัดปิดอยู่"
+	},
+	"shortcuts_title": {
+		"message": "ทางลัด"
+	},
+	"shortcuts_description": {
+		"message": "ทางลัด"
+	},
+	"shortcuts_ocr": {
+		"message": "เปิดใช้งาน OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "เปิด Immersive reader"
+	},
+	"shortcuts_reader_mode": {
+		"message": "เปิดโหมดผู้อ่าน"
+	},
+	"annotate_page": {
+		"message": "ใส่คำอธิบายประกอบหน้า"
+	},
+	"pdf_viewer": {
+		"message": "ไฟล์ PDF"
+	},
+	"open_pdf": {
+		"message": "เปิด PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "ซูมออก"
+	},
+	"open_pdf_zoom_in": {
+		"message": "ขยายเข้า"
+	},
+	"settings": {
+		"message": "การตั้งค่า"
+	},
+	"support_videos": {
+		"message": "สนับสนุนวิดีโอ"
+	},
+	"review_us": {
+		"message": "รีวิวเรา"
+	},
+	"view": {
+		"message": "ดู"
+	},
+	"views": {
+		"message": "มุมมอง"
+	},
+	"no_favorites": {
+		"message": "ไม่มีรายการโปรด"
+	},
+	"sorting_none": {
+		"message": "ไม่พบสิ่งใดเลย"
+	},
+	"sorting": {
+		"message": "กำลังเรียงลำดับ...."
+	},
+	"showing_favorites": {
+		"message": "กำลังแสดงรายการโปรด"
+	},
+	"unpaid": {
+		"message": "การสมัครของคุณยังไม่ได้ชำระเงิน"
+	},
+	"canceled": {
+		"message": "การสมัครของคุณถูกยกเลิก"
+	},
+	"message_nothing_found": {
+		"message": "เราไม่พบการสมัครรับข้อมูล"
+	},
+	"couldnt_interact_with_page": {
+		"message": "เราไม่สามารถรับข้อความใดๆ โปรดลองอีกครั้ง (รีเฟรช) ลองใช้โปรแกรมเสริม PDF หรือ Google เอกสารของเรา"
+	},
+	"unpinned_favorite": {
+		"message": "ลบรายการโปรดแล้ว"
+	},
+	"pin_favorite": {
+		"message": "ที่ชื่นชอบ"
+	},
+	"setting_saved": {
+		"message": "บันทึกการตั้งค่าแล้ว"
+	},
+	"favourite": {
+		"message": "ที่ชื่นชอบ"
+	},
+	"un_favourite": {
+		"message": "ไม่ชอบ"
+	},
+	"how_to_use": {
+		"message": "วิธีใช้"
+	},
+	"search": {
+		"message": "ค้นหา"
+	},
+	"search_feature": {
+		"message": "คุณลักษณะการค้นหา"
+	},
+	"filter_productivity": {
+		"message": "การวิจัย"
+	},
+	"helperbird_apps": {
+		"message": "แอพ Helperbird"
+	},
+	"fav_message": {
+		"message": "ดูเหมือนว่าคุณไม่มีคุณลักษณะใด ๆ ที่ชื่นชอบ หากต้องการตั้งเป็นรายการโปรด ให้คลิกจุดสามจุดถัดจากจุดสนใจแล้วคลิกรายการโปรด"
+	},
+	"filter_features": {
+		"message": "คุณสมบัติตัวกรอง"
+	},
+	"student_offer": {
+		"message": "นักเรียนจะได้รับ Helperbird Pro สำหรับ"
+	},
+	"filter_style": {
+		"message": "แสดง"
+	},
+	"filter_text_to_speech": {
+		"message": "ข้อความเป็นคำพูด"
+	},
+	"filter_dyslexia": {
+		"message": "ดิสเล็กเซีย"
+	},
+	"filter_pro": {
+		"message": "คุณสมบัติระดับโปร"
+	},
+	"filter": {
+		"message": "กรอง"
+	},
+	"filter_writing": {
+		"message": "การเขียน"
+	},
+	"highlighter_title": {
+		"message": "ปากกาเน้นข้อความ"
+	},
+	"filter_reading": {
+		"message": "การอ่าน"
+	},
+	"filter_active": {
+		"message": "คล่องแคล่ว"
+	},
+	"filter_audio": {
+		"message": "คุณสมบัติเสียง"
+	},
+	"feature_blindness": {
+		"message": "ตาบอดสี"
+	},
+	"feature_emphasize_links": {
+		"message": "เน้นลิงค์"
+	},
+	"feature_emphasize_stroke": {
+		"message": "จังหวะข้อความ"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "สี"
+	},
+	"color": {
+		"message": "สี"
+	},
+	"feature_specialized_font": {
+		"message": "แบบอักษรพิเศษ"
+	},
+	"feature_specialized_font_options": {
+		"message": "ตัวเลือกแบบอักษร"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "เมนูไฮไลท์เปิดอยู่"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "เมนูไฮไลท์ปิดอยู่"
+	},
+	"feature_highlight_menu": {
+		"message": "เมนูไฮไลท์"
+	},
+	"feature_highlight_menu_description": {
+		"message": "แสดงเมนูข้อความไฮไลท์ของเรา"
+	},
+	"show": {
+		"message": "แสดง"
+	},
+	"welcome": {
+		"message": "ยินดีต้อนรับสู่ Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "ผู้อ่านที่ดื่มด่ำ"
+	},
+	"create_a_new_note": {
+		"message": "สร้างบันทึกใหม่"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "ใช้โปรแกรมช่วยอ่านโดย Microsoft ในหน้านี้"
+	},
+	"feature_toolbar_google": {
+		"message": "Google เอกสารและสไลด์"
+	},
+	"feature_toolbar_google_description": {
+		"message": "เพิ่มแถบเครื่องมือ Helperbird ในไฟล์ Google doc"
+	},
+	"feature_toolbar_pdf": {
+		"message": "แถบเครื่องมือ PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "เพิ่มแถบเครื่องมือ Helperbird ในไฟล์ PDF"
+	},
+	"pause_helperbird": {
+		"message": "หยุดชั่วคราว $1"
+	},
+	"quick_action": {
+		"message": "การดำเนินการด่วน"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 ปิดแล้ว"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 เปิดอยู่"
+	},
+	"voice_typing_is_on": {
+		"message": "เปิดการพิมพ์ด้วยเสียงอยู่"
+	},
+	"voice_typing_is_off": {
+		"message": "การพิมพ์ด้วยเสียงปิดอยู่"
+	},
+	"helperbird_paused": {
+		"message": "Helperbird ปิด"
+	},
+	"helperbird_running": {
+		"message": "Helperbird กำลังวิ่ง"
+	},
+	"applying_settings": {
+		"message": "กำลังใช้การตั้งค่าของคุณ"
+	},
+	"feature_favorites": {
+		"message": "รายการโปรด"
+	},
+	"all_feature_favorites": {
+		"message": "ทั้งหมด"
+	},
+	"hide_feature_favorites": {
+		"message": "ซ่อนรายการโปรด"
+	},
+	"feature_favorites_description": {
+		"message": "แสดงรายการโปรดเท่านั้น"
+	},
+	"feature_print": {
+		"message": "พิมพ์"
+	},
+	"feature_print_description": {
+		"message": "พิมพ์หน้าปัจจุบัน"
+	},
+	"feature_printing_success": {
+		"message": "เปิดพิมพ์"
+	},
+	"feature_reader_mode": {
+		"message": "โหมดผู้อ่าน"
+	},
+	"feature_readermode_opening": {
+		"message": "กำลังเปิดโหมดผู้อ่าน"
+	},
+	"feature_readermode_closing": {
+		"message": "การปิดโหมดผู้อ่าน"
+	},
+	"view_table": {
+		"message": "มุมมองตาราง"
+	},
+	"view_time": {
+		"message": "มุมมองไทม์ไลน์"
+	},
+	"view_card": {
+		"message": "มุมมองการ์ด"
+	},
+	"feature_screenshot": {
+		"message": "ภาพหน้าจอ"
+	},
+	"feature_screenshot_description": {
+		"message": "จับภาพหน้าจอของหน้าปัจจุบัน"
+	},
+	"feature_screenshot_error": {
+		"message": "เกิดข้อผิดพลาดในการจับภาพหน้าจอ"
+	},
+	"feature_screenshot_success": {
+		"message": "กำลังจับภาพหน้าจอ"
+	},
+	"feature_tooltip": {
+		"message": "คำอธิบายภาพ"
+	},
+	"feature_tooltip_description": {
+		"message": "แสดงแท็ก alt และชื่อเมื่อวางเมาส์ไว้เหนือ"
+	},
+	"feature_translate": {
+		"message": "แปลภาษา"
+	},
+	"feature_language": {
+		"message": "ภาษา"
+	},
+	"feature_magnifier": {
+		"message": "แว่นขยาย"
+	},
+	"feature_magnifier_description": {
+		"message": "แว่นขยาย"
+	},
+	"percentage": {
+		"message": "เปอร์เซ็นต์"
+	},
+	"feature_analyze": {
+		"message": "การนับจำนวนคำ"
+	},
+	"feature_analyze_description": {
+		"message": "วิเคราะห์"
+	},
+	"feature_analyze_words": {
+		"message": "คำ"
+	},
+	"feature_analyze_characters": {
+		"message": "ตัวอักษร"
+	},
+	"feature_annotations": {
+		"message": "หมายเหตุ"
+	},
+	"feature_annotations_description": {
+		"message": "ใส่คำอธิบายประกอบในหน้าโดยทิ้งบันทึกย่อช่วยเตือนใหม่"
+	},
+	"feature_annotate_open": {
+		"message": "สร้างบันทึกใหม่"
+	},
+	"annotate": {
+		"message": "ใส่คำอธิบายประกอบ"
+	},
+	"feature_cognitive_load": {
+		"message": "อ่านความเร็ว"
+	},
+	"bold": {
+		"message": "ความกล้า"
+	},
+	"feature_background_color": {
+		"message": "สีพื้นหลัง"
+	},
+	"feature_font_color": {
+		"message": "สีตัวอักษร"
+	},
+	"feature_highlight_menu_min": {
+		"message": "เมนู"
+	},
+	"feature_highlight_color": {
+		"message": "สีไฮไลท์"
+	},
+	"feature_link_color": {
+		"message": "ลิงค์สี"
+	},
+	"feature_cursor_size": {
+		"message": "ขนาดเคอร์เซอร์"
+	},
+	"feature_font_size": {
+		"message": "ขนาดตัวอักษร"
+	},
+	"feature_font_size_titles": {
+		"message": "ขนาดส่วนหัว"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "ขนาดย่อหน้า"
+	},
+	"feature_gray_hue": {
+		"message": "สีเทา"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "เน้นย่อหน้า"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "เน้นสีย่อหน้า"
+	},
+	"feature_images_hide_title": {
+		"message": "ซ่อนภาพ"
+	},
+	"hide": {
+		"message": "ซ่อน"
+	},
+	"feature_images_hide": {
+		"message": "ซ่อนภาพทั้งหมด"
+	},
+	"feature_images_hide_gifs": {
+		"message": "ซ่อน Gifs"
+	},
+	"feature_high_contast": {
+		"message": "ความเปรียบต่างสูง"
+	},
+	"feature_text_adjustments": {
+		"message": "การปรับข้อความ"
+	},
+	"feature_text_align": {
+		"message": "จัดข้อความ"
+	},
+	"feature_text_alignment": {
+		"message": "การจัดตำแหน่ง"
+	},
+	"feature_letter_spacing": {
+		"message": "ระยะห่างระหว่างตัวอักษร"
+	},
+	"spacing": {
+		"message": "ระยะห่าง"
+	},
+	"feature_line_height_spacing": {
+		"message": "ความสูงของเส้น"
+	},
+	"height": {
+		"message": "ส่วนสูง"
+	},
+	"feature_line_focus": {
+		"message": "เส้นโฟกัส"
+	},
+	"feature_line_focus_color": {
+		"message": "เส้นโฟกัสสี"
+	},
+	"feature_line_focus_height": {
+		"message": "ความสูงของเส้นโฟกัส"
+	},
+	"feature_mute": {
+		"message": "ปิดเสียงวิดีโอ"
+	},
+	"feature_mute_description": {
+		"message": "ปิดเสียงวิดีโอและเสียงจากเพจ"
+	},
+	"ocr_read_words": {
+		"message": "อ่านข้อความที่ขยายออก"
+	},
+	"text": {
+		"message": "ข้อความ"
+	},
+	"ocr_read_words_save": {
+		"message": "บันทึกข้อความที่ขยายออก"
+	},
+	"feature_extract_text": {
+		"message": "แยกข้อความ (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "เปิดใช้งาน เลือกพื้นที่บนหน้าจอ"
+	},
+	"feature_overlay": {
+		"message": "โอเวอร์เลย์"
+	},
+	"feature_overlay_color": {
+		"message": "สีซ้อนทับ"
+	},
+	"feature_paragraph_width": {
+		"message": "ความกว้างของย่อหน้า"
+	},
+	"width": {
+		"message": "ความกว้าง"
+	},
+	"highlighted_text": {
+		"message": "ข้อความไฮไลท์"
+	},
+	"issue_on_page": {
+		"message": "ปัญหา"
+	},
+	"feature_reading_guide": {
+		"message": "คู่มือการอ่าน"
+	},
+	"feature_reading_guide_color": {
+		"message": "สีคู่มือการอ่าน"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "ผู้ปกครองดิสเล็กเซีย"
+	},
+	"feature_ruler_width": {
+		"message": "ความกว้างของไม้บรรทัด"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "ส่วนสูง"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "ตำแหน่ง"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "สี"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "ติดตาม"
+	},
+	"feature_auto_scroll": {
+		"message": "เลื่อนอัตโนมัติ"
+	},
+	"speed": {
+		"message": "ความเร็ว"
+	},
+	"subscription_deleted": {
+		"message": "ยกเลิกการสมัครสมาชิกแล้ว"
+	},
+	"title_enjoy_until": {
+		"message": "เพลิดเพลินกับการทดลองใช้ของคุณจนถึง"
+	},
+	"incomplete_expired": {
+		"message": "เราไม่สามารถชำระเงินให้เสร็จสิ้นได้"
+	},
+	"past_due": {
+		"message": "การสมัครของคุณเลยกำหนด"
+	},
+	"incomplete": {
+		"message": "เราไม่สามารถชำระเงินให้เสร็จสิ้นได้"
+	},
+	"transparency": {
+		"message": "ความสว่าง"
+	},
+	"title_message_full": {
+		"message": "พบการสมัครสมาชิก Helperbird Pro"
+	},
+	"contact_support": {
+		"message": "โปรดติดต่อฝ่ายสนับสนุน"
+	},
+	"buy": {
+		"message": "ซื้อ $1"
+	},
+	"feature_voice_typing": {
+		"message": "พิมพ์ด้วยเสียง"
+	},
+	"feature_voice_typing_description": {
+		"message": "เพิ่มการพิมพ์ด้วยเสียงในทุกอินพุต เพียงคลิกปุ่มบนอินพุต"
+	},
+	"google_docs_notice": {
+		"message": "ตอนนี้เรามี Google Addon! ติดตั้งเพื่อรับการสนับสนุนที่มากยิ่งขึ้น"
+	},
+	"feature_spell_check": {
+		"message": "ตรวจสอบการสะกด"
+	},
+	"feature_summarize": {
+		"message": "สรุปหน้า"
+	},
+	"feature_summarize_description": {
+		"message": "สรุปหน้านี้"
+	},
+	"feature_text_to_speech_options": {
+		"message": "ตัวเลือกข้อความเป็นคำพูด"
+	},
+	"feature_speech_voice": {
+		"message": "เสียง"
+	},
+	"feature_speech_speed": {
+		"message": "ความเร็ว"
+	},
+	"feature_speech_pitch": {
+		"message": "ขว้าง"
+	},
+	"feature_speech_volume": {
+		"message": "ปริมาณ"
+	},
+	"feature_speech_highlight_color": {
+		"message": "สีไฮไลท์"
+	},
+	"feature_speech_reading_success": {
+		"message": "การอ่านข้อความที่เลือก"
+	},
+	"feature_text_to_speech": {
+		"message": "ข้อความเป็นคำพูด"
+	},
+	"you_need_to_highlight": {
+		"message": "คุณต้องเน้นข้อความ"
+	},
+	"feature_word_prediction": {
+		"message": "การทำนายคำ"
+	},
+	"feature_word_prediction_description": {
+		"message": "เปิดการคาดคะเนคำ Helperbirds บนอินพุต"
+	},
+	"feature_word_spacing": {
+		"message": "การเว้นวรรคคำ"
+	},
+	"full_Screen": {
+		"message": "เต็มจอ"
+	},
+	"voice_typing_stop": {
+		"message": "กำลังหยุดพิมพ์ด้วยเสียง"
+	},
+	"voice_typing_start": {
+		"message": "พูดสิ."
+	},
+	"speak_word_on_hover": {
+		"message": "อ่านออกเสียง."
+	},
+	"speak_word_on_hover_info": {
+		"message": "จะอ่านคำว่าโฮเวอร์"
+	},
+	"speak": {
+		"message": "พูด"
+	},
+	"auto_scroll_start": {
+		"message": "เริ่มการเลื่อนอัตโนมัติ"
+	},
+	"auto_scroll_stop": {
+		"message": "หยุดการเลื่อนอัตโนมัติ"
+	},
+	"popup_immersive_success": {
+		"message": "กำลังโหลดโปรแกรมอ่าน Immersive"
+	},
+	"popup_readermode_success": {
+		"message": "กำลังเปิดโหมดผู้อ่าน"
+	},
+	"popup_printing_success": {
+		"message": "เปิดพิมพ์."
+	},
+	"ocr_select": {
+		"message": "เลือกพื้นที่ในหน้า"
+	},
+	"ocr_extracted": {
+		"message": "ดึงข้อความแล้ว"
+	},
+	"ocr_extracting": {
+		"message": "การสกัด"
+	},
+	"ocr_copy": {
+		"message": "คัดลอกข้อความจากรูปภาพ บันทึกไปยังคลิปบอร์ดของคุณแล้ว"
+	},
+	"ocr_no_text": {
+		"message": "ไม่พบข้อความ"
+	},
+	"popup_note_success": {
+		"message": "บันทึกลงในบันทึกย่อของคุณ"
+	},
+	"popup_immersive_error": {
+		"message": "เกิดข้อผิดพลาดในการโหลด Immersive reader"
+	},
+	"popup_summarize_error": {
+		"message": "เกิดข้อผิดพลาดในการสรุปหน้า"
+	},
+	"popup_saving_error": {
+		"message": "เกิดข้อผิดพลาดในการบันทึก"
+	},
+	"popup_summarize_success": {
+		"message": "หน้าสรุป"
+	},
+	"popup_readermode_closing": {
+		"message": "การปิดโหมดผู้อ่าน"
+	},
+	"close": {
+		"message": "ปิด I"
+	},
+	"your_note_was_saved": {
+		"message": "บันทึกบันทึกของคุณแล้ว"
+	},
+	"error_saving_your_note": {
+		"message": "เกิดข้อผิดพลาดในการบันทึกบันทึกย่อของคุณ กรุณาลองอีกครั้ง."
+	},
+	"popup_readinglist_error": {
+		"message": "เกิดข้อผิดพลาดในการบันทึกไปยังรายการเรื่องรออ่าน"
+	},
+	"popup_readinglist_success": {
+		"message": "บันทึกไว้ในรายการเรื่องรออ่าน"
+	},
+	"popup_screenshot_error": {
+		"message": "เกิดข้อผิดพลาดในการจับภาพหน้าจอ"
+	},
+	"popup_screenshot_success": {
+		"message": "กำลังจับภาพหน้าจอ"
+	},
+	"copied_text": {
+		"message": "ข้อความที่คัดลอก"
+	},
+	"copied_text_error": {
+		"message": "เกิดข้อผิดพลาดในการคัดลอกข้อความ"
+	},
+	"ocr_loading": {
+		"message": "กำลังโหลด Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "บันทึกไว้ในบันทึกของคุณ"
+	},
+	"popup_reading_success": {
+		"message": "กำลังอ่านข้อความที่เลือก"
+	},
+	"popup_reading_finished": {
+		"message": "อ่านจบแล้ว"
+	},
+	"popup_reading_error": {
+		"message": "หยุด"
+	},
+	"popup_reading_stopping": {
+		"message": "หยุด"
+	},
+	"popup_reading_pause": {
+		"message": "หยุดชั่วคราว"
+	},
+	"notifcations_upgrade_title": {
+		"message": "คุณต้องอัปเกรด Helperbird Pro เพื่อใช้คุณสมบัตินี้"
+	},
+	"menu_define": {
+		"message": "กำหนดคำ"
+	},
+	"menu_website_readinglist": {
+		"message": "เพิ่มเว็บไซต์ในรายการเรื่องรออ่าน"
+	},
+	"menu_readinglist": {
+		"message": "เพิ่มในรายการเรื่องรออ่าน"
+	},
+	"menu_text_to_speech": {
+		"message": "ข้อความเป็นคำพูด"
+	},
+	"menu_play": {
+		"message": "เล่น"
+	},
+	"menu_pause": {
+		"message": "หยุด"
+	},
+	"menu_stop": {
+		"message": "หยุด"
+	},
+	"menu_resume": {
+		"message": "ประวัติย่อ"
+	},
+	"menu_screenshot": {
+		"message": "จับภาพหน้าจอ"
+	},
+	"menu_share": {
+		"message": "แบ่งปัน"
+	},
+	"menu_reader_mode": {
+		"message": "ดูในโหมดผู้อ่าน"
+	},
+	"menu_translate": {
+		"message": "แปลภาษา"
+	},
+	"road_map": {
+		"message": "แผนงาน"
+	},
+	"menu_immersive_reader": {
+		"message": "ดูในโปรแกรมอ่าน Immersive"
+	},
+	"menu_summarize": {
+		"message": "สรุปหน้า"
+	},
+	"menu_summarize_page": {
+		"message": "สรุปหน้า"
+	},
+	"menu_annotate_page": {
+		"message": "ใส่คำอธิบายประกอบหน้า"
+	}
+}

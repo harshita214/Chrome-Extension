@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird dành cho Chrome"
+	},
+	"appDescription": {
+		"message": "Hơn 32 tính năng trợ năng & năng suất được xây dựng để hỗ trợ mọi loại người đọc, người học và người viết. Bao gồm hỗ trợ chứng khó đọc."
+	},
+	"helpGuide": {
+		"message": "Hướng dẫn trợ giúp"
+	},
+	"upgrade_title": {
+		"message": "Tính năng Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "Bạn cần đăng ký Helperbird Pro để sử dụng tính năng này. Đừng lo lắng, nó là 40 USD một năm hoặc 4,99 một tháng."
+	},
+	"plan_deal": {
+		"message": "Ưu đãi dành cho sinh viên"
+	},
+	"plan_month": {
+		"message": "Ưu đãi hàng tháng"
+	},
+	"plan_year": {
+		"message": "Ưu đãi hàng năm"
+	},
+	"upgrade_message": {
+		"message": "Nâng cấp lên Helperbird Pro để mở khóa tất cả các tính năng."
+	},
+	"column_title": {
+		"message": "Cột"
+	},
+	"upgrade_now": {
+		"message": "Nâng cấp ngay bây giờ"
+	},
+	"upgrade_to_pro": {
+		"message": "Nâng cấp lên Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Khám phá Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Vui lòng đăng nhập vào Helperbird hoặc nhập khóa đăng ký của bạn."
+	},
+	"privacy": {
+		"message": "Sự riêng tư"
+	},
+	"whats_new": {
+		"message": "Có gì mới"
+	},
+	"privacy_details": {
+		"message": "Chúng tôi tôn trọng quyền riêng tư của bạn, vì vậy ở đây nó được viết bằng ngôn ngữ rõ ràng và đơn giản."
+	},
+	"privacy_details_one": {
+		"message": "Tại Helperbird, chúng tôi tôn trọng và cực kỳ coi trọng quyền riêng tư của bạn. Đó là lý do tại sao chúng tôi không lưu trữ hoặc thu thập bất cứ thứ gì."
+	},
+	"privacy_details_two": {
+		"message": "Người duy nhất yêu cầu email của bạn, khi bạn đăng nhập. Để kiểm tra xem trường học hoặc miền doanh nghiệp của bạn có được thanh toán hay không hoặc bạn đã thanh toán cho tài khoản trong Stripe hay chưa."
+	},
+	"privacy_details_three": {
+		"message": "Mọi thứ bạn làm và cài đặt bạn lưu vẫn ở cục bộ trên trình duyệt của bạn. Không bao giờ rời khỏi máy tính của bạn."
+	},
+	"free": {
+		"message": "Miễn phí"
+	},
+	"pro": {
+		"message": "Chuyên nghiệp"
+	},
+	"on": {
+		"message": "Trên"
+	},
+	"on_lower": {
+		"message": "trên"
+	},
+	"off": {
+		"message": "Tắt"
+	},
+	"off_lower": {
+		"message": "tắt"
+	},
+	"notes": {
+		"message": "Ghi chú"
+	},
+	"open_notes": {
+		"message": "Mở ghi chú"
+	},
+	"save": {
+		"message": "Cứu"
+	},
+	"clear": {
+		"message": "Thông thoáng"
+	},
+	"manage": {
+		"message": "Quản lý"
+	},
+	"open": {
+		"message": "Mở"
+	},
+	"copy": {
+		"message": "Sao chép"
+	},
+	"delete": {
+		"message": "Xóa bỏ"
+	},
+	"documents": {
+		"message": "Các tài liệu"
+	},
+	"remove": {
+		"message": "Tẩy"
+	},
+	"version": {
+		"message": "Phiên bản"
+	},
+	"visit": {
+		"message": "Chuyến thăm"
+	},
+	"no_results": {
+		"message": "Ko có kết quả"
+	},
+	"reduce_motion": {
+		"message": "Ảnh động"
+	},
+	"maths_steps": {
+		"message": "Giải toán"
+	},
+	"tour": {
+		"message": "Tham quan Helperbird"
+	},
+	"reduce_motion_description": {
+		"message": "Ngăn hoạt ảnh hiển thị trên các trang Web."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader là một công cụ miễn phí triển khai các kỹ thuật đã được chứng minh để cải thiện khả năng đọc và viết"
+	},
+	"start": {
+		"message": "Khởi đầu"
+	},
+	"learn_more": {
+		"message": "Tìm hiểu thêm"
+	},
+	"more": {
+		"message": "Hơn"
+	},
+	"editor_title": {
+		"message": "Biên tập viên"
+	},
+	"editor_title_open": {
+		"message": "Mở Helperbirds Editor"
+	},
+	"logout": {
+		"message": "Đăng xuất"
+	},
+	"signin": {
+		"message": "Đăng nhập"
+	},
+	"define_title": {
+		"message": "Từ điển"
+	},
+	"define_title_open": {
+		"message": "Mở từ điển"
+	},
+	"define_empty_title": {
+		"message": "Tìm kiếm một từ và chúng tôi sẽ trả về nghĩa của từ đó."
+	},
+	"define_search": {
+		"message": "Tìm kiếm......"
+	},
+	"define_antonyms": {
+		"message": "Từ trái nghĩa"
+	},
+	"define_synonyms": {
+		"message": "Từ đồng nghĩa"
+	},
+	"define_meanings": {
+		"message": "Ý nghĩa"
+	},
+	"define_related": {
+		"message": "Có liên quan"
+	},
+	"define_etymology": {
+		"message": "Từ nguyên"
+	},
+	"export": {
+		"message": "Xuất khẩu"
+	},
+	"export_word": {
+		"message": "Xuất sang Word"
+	},
+	"export_docs": {
+		"message": "Xuất sang Google Tài liệu"
+	},
+	"export_text": {
+		"message": "Xuất sang tệp văn bản"
+	},
+	"toolbar_pdf": {
+		"message": "Trình đọc PDF"
+	},
+	"toolbar_pdf_open": {
+		"message": "Mở trình đọc PDF"
+	},
+	"menus": {
+		"message": "Google Tài liệu & Pdf"
+	},
+	"upgrade_message_title": {
+		"description": "Phần mở rộng Helperbird.",
+		"message": "Nâng cấp lên $ 1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Phần mở rộng Helperbird.",
+		"message": "Truy cập các tính năng mạnh mẽ như Chế độ đọc và $ 1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Phần mở rộng Helperbird.",
+		"message": "Chọn một gói bên dưới để mở khóa hơn 30 tính năng và hỗ trợ 24 giờ."
+	},
+	"alert_message": {
+		"message": "Nâng cấp hoặc đăng nhập để truy cập tất cả các tính năng Pro."
+	},
+	"alert_loading": {
+		"message": "Đang tải...."
+	},
+	"alert_clear": {
+		"message": "Thông thoáng"
+	},
+	"alert_cleared": {
+		"message": "Đã xóa"
+	},
+	"alert_download": {
+		"message": "Tải xuống"
+	},
+	"alert_no_data": {
+		"message": "Ko có kết quả"
+	},
+	"annotations_notes": {
+		"message": "Ghi chú"
+	},
+	"import_annotations": {
+		"message": "Nhập ghi chú"
+	},
+	"options": {
+		"message": "Tùy chọn"
+	},
+	"open_document": {
+		"message": "Mở tài liệu"
+	},
+	"select_document": {
+		"message": "Bạn cần chọn một tài liệu."
+	},
+	"copied_document": {
+		"message": "Đã sao chép tài liệu"
+	},
+	"saved_document": {
+		"message": "Đã lưu tài liệu"
+	},
+	"issue_saving": {
+		"message": "Sự cố lưu"
+	},
+	"show_updates": {
+		"message": "Hiển thị cập nhật"
+	},
+	"new": {
+		"message": "Mới mẻ"
+	},
+	"pause": {
+		"message": "Tạm ngừng"
+	},
+	"removed_document": {
+		"message": "Tài liệu đã bị xóa"
+	},
+	"opening_document": {
+		"message": "Mở tài liệu"
+	},
+	"get_started": {
+		"message": "Bắt đầu"
+	},
+	"saved_to_documents": {
+		"message": "Đã lưu vào tài liệu của bạn."
+	},
+	"message_alert": {
+		"message": "Nhận quyền truy cập vào tất cả các tính năng của Helperbirds và hỗ trợ khách hàng bất cứ khi nào bạn cần. Hơn 30 tính năng."
+	},
+	"message_three_day": {
+		"message": "3 ngày dùng thử"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Kiểm tra đầu vào của bạn"
+	},
+	"upgrade": {
+		"message": "Nâng cấp"
+	},
+	"upgrade_": {
+		"message": "Nâng cấp lên $ 1"
+	},
+	"website": {
+		"message": "Trang mạng"
+	},
+	"description": {
+		"message": "Sự miêu tả"
+	},
+	"capture": {
+		"message": "Chiếm lấy"
+	},
+	"category": {
+		"message": "Danh mục"
+	},
+	"error_found_label": {
+		"message": "Có một lỗi"
+	},
+	"cancel": {
+		"message": "Hủy bỏ"
+	},
+	"readinglist_title": {
+		"message": "Danh sách đọc"
+	},
+	"readinglist_title_open": {
+		"message": "Mở danh sách Đọc"
+	},
+	"note_removed": {
+		"message": "Đã xóa ghi chú."
+	},
+	"note_removed_error": {
+		"message": "Không thể xóa ghi chú."
+	},
+	"readinglist_removed": {
+		"message": "Trang web đã bị xóa"
+	},
+	"settings_saved": {
+		"message": "Đã lưu cài đặt"
+	},
+	"check_for_updates": {
+		"message": "Kiểm tra cập nhật"
+	},
+	"show_highlights": {
+		"message": "Hiển thị các điểm nổi bật trên trang."
+	},
+	"account_title": {
+		"message": "Tài khoản"
+	},
+	"account_description": {
+		"message": "Chúng tôi sử dụng cùng một email mà bạn đăng nhập vào trình duyệt của mình làm thông tin đăng nhập của bạn."
+	},
+	"signed_in_as": {
+		"message": "Đăng ký với tư cách là"
+	},
+	"subscription_title": {
+		"message": "Đăng ký"
+	},
+	"current_plan": {
+		"message": "Kế hoạch hiện tại của bạn"
+	},
+	"subscription_status": {
+		"message": "Trạng thái đăng ký của bạn:"
+	},
+	"check_subscription": {
+		"message": "Kiểm tra đăng ký"
+	},
+	"subscription_token_title": {
+		"message": "Khóa đăng ký"
+	},
+	"subscription_token_description": {
+		"message": "Nếu bạn có đăng ký Helperbird Pro, hãy nhập đăng ký đó vào bên dưới để mở khóa tất cả các tính năng của Helperbird Pro."
+	},
+	"themes": {
+		"message": "Chủ đề"
+	},
+	"theme": {
+		"message": "Chủ đề"
+	},
+	"danger_zone_title": {
+		"message": "Kho"
+	},
+	"danger_zone_description": {
+		"message": "Nút bên dưới sẽ xóa tất cả cài đặt và khởi động tiện ích mở rộng như thể nó mới. Vì vậy, hãy cẩn thận, chúng tôi không thể lấy lại bất cứ thứ gì bạn xóa."
+	},
+	"delete_everything": {
+		"message": "Xóa mọi thứ"
+	},
+	"delete_this_note": {
+		"message": "Xóa ghi chú này."
+	},
+	"visit_this_note": {
+		"message": "Vist trang web ghi chú này là trên."
+	},
+	"everything_deleted": {
+		"message": "Tất cả cài đặt và bộ nhớ hiện đã bị xóa."
+	},
+	"enter_email": {
+		"message": "Bạn cần nhập một email."
+	},
+	"shortcuts": {
+		"message": "Các phím tắt"
+	},
+	"shortcuts_menu_on": {
+		"message": "Các phím tắt đang bật"
+	},
+	"shortcuts_menu_off": {
+		"message": "Các phím tắt đang tắt"
+	},
+	"shortcuts_title": {
+		"message": "Các phím tắt"
+	},
+	"shortcuts_description": {
+		"message": "Các phím tắt"
+	},
+	"shortcuts_ocr": {
+		"message": "Bật OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Mở trình đọc nhập vai"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Mở chế độ đọc"
+	},
+	"annotate_page": {
+		"message": "Chú thích trang"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Mở PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Thu nhỏ"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Phóng to"
+	},
+	"settings": {
+		"message": "Cài đặt"
+	},
+	"support_videos": {
+		"message": "Hỗ trợ video"
+	},
+	"review_us": {
+		"message": "Đánh giá chúng tôi"
+	},
+	"view": {
+		"message": "Lượt xem"
+	},
+	"views": {
+		"message": "Lượt xem"
+	},
+	"no_favorites": {
+		"message": "Không có mục yêu thích"
+	},
+	"sorting_none": {
+		"message": "Không có gì có thể được tìm thấy."
+	},
+	"sorting": {
+		"message": "Sắp xếp ...."
+	},
+	"showing_favorites": {
+		"message": "Hiển thị các mục yêu thích"
+	},
+	"unpaid": {
+		"message": "Đăng ký của bạn là chưa thanh toán."
+	},
+	"canceled": {
+		"message": "Đăng ký của bạn đã bị hủy."
+	},
+	"message_nothing_found": {
+		"message": "Chúng tôi không thể tìm thấy một đăng ký."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Chúng tôi không thể nhận được bất kỳ văn bản nào. Vui lòng thử lại (Làm mới). Hãy thử tiện ích bổ sung PDF hoặc Google Tài liệu của chúng tôi."
+	},
+	"unpinned_favorite": {
+		"message": "Đã xóa yêu thích"
+	},
+	"pin_favorite": {
+		"message": "Được yêu thích"
+	},
+	"setting_saved": {
+		"message": "Đã lưu cài đặt"
+	},
+	"favourite": {
+		"message": "Yêu thích"
+	},
+	"un_favourite": {
+		"message": "Hủy ghi nhớ"
+	},
+	"how_to_use": {
+		"message": "Cách sử dụng"
+	},
+	"search": {
+		"message": "Tìm kiếm"
+	},
+	"search_feature": {
+		"message": "Tìm kiếm các tính năng"
+	},
+	"filter_productivity": {
+		"message": "Tìm kiếm"
+	},
+	"helperbird_apps": {
+		"message": "Ứng dụng Helperbird"
+	},
+	"fav_message": {
+		"message": "Có vẻ như bạn không có bất kỳ tính năng nào được yêu thích. Để yêu thích, hãy nhấp vào ba dấu chấm bên cạnh một tính năng và nhấp vào yêu thích."
+	},
+	"filter_features": {
+		"message": "Tính năng lọc"
+	},
+	"student_offer": {
+		"message": "Sinh viên nhận được Helperbird Pro cho"
+	},
+	"filter_style": {
+		"message": "Trưng bày"
+	},
+	"filter_text_to_speech": {
+		"message": "Chuyển văn bản thành giọng nói"
+	},
+	"filter_dyslexia": {
+		"message": "Chứng khó đọc"
+	},
+	"filter_pro": {
+		"message": "Các tính năng chuyên nghiệp"
+	},
+	"filter": {
+		"message": "Lọc"
+	},
+	"filter_writing": {
+		"message": "Viết"
+	},
+	"highlighter_title": {
+		"message": "Bút đánh dấu"
+	},
+	"filter_reading": {
+		"message": "Đọc"
+	},
+	"filter_active": {
+		"message": "Tích cực"
+	},
+	"filter_audio": {
+		"message": "Tính năng âm thanh"
+	},
+	"feature_blindness": {
+		"message": "Mù màu"
+	},
+	"feature_emphasize_links": {
+		"message": "Nhấn mạnh các liên kết"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Nét văn bản"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Màu sắc"
+	},
+	"color": {
+		"message": "Màu sắc"
+	},
+	"feature_specialized_font": {
+		"message": "Phông chữ chuyên dụng"
+	},
+	"feature_specialized_font_options": {
+		"message": "Tùy chọn phông chữ"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Menu đánh dấu đang bật"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Menu đánh dấu đang tắt"
+	},
+	"feature_highlight_menu": {
+		"message": "Làm nổi bật menu"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Hiển thị menu văn bản nổi bật của chúng tôi."
+	},
+	"show": {
+		"message": "Thể hiện"
+	},
+	"welcome": {
+		"message": "Chào mừng đến với Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Người đọc nhập vai"
+	},
+	"create_a_new_note": {
+		"message": "Tạo ghi chú mới"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Sử dụng trình đọc nhập vai của Microsoft trên trang này."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Tài liệu & Trang trình bày"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Thêm thanh công cụ Helperbird trên các tệp tài liệu của Google."
+	},
+	"feature_toolbar_pdf": {
+		"message": "Thanh công cụ PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Thêm thanh công cụ Helperbird trên các tệp Pdf."
+	},
+	"pause_helperbird": {
+		"message": "Tạm dừng $ 1"
+	},
+	"quick_action": {
+		"message": "Hành động nhanh chóng"
+	},
+	"feature_pause_helperbird": {
+		"message": "$ 1 đã giảm giá"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$ 1 đang bật"
+	},
+	"voice_typing_is_on": {
+		"message": "Nhập bằng giọng nói đang bật"
+	},
+	"voice_typing_is_off": {
+		"message": "Nhập bằng giọng nói đã tắt"
+	},
+	"helperbird_paused": {
+		"message": "Helperbird tắt"
+	},
+	"helperbird_running": {
+		"message": "Helperbird đang chạy"
+	},
+	"applying_settings": {
+		"message": "Áp dụng cài đặt của bạn"
+	},
+	"feature_favorites": {
+		"message": "Yêu thích"
+	},
+	"all_feature_favorites": {
+		"message": "Tất cả các"
+	},
+	"hide_feature_favorites": {
+		"message": "Ẩn Mục yêu thích"
+	},
+	"feature_favorites_description": {
+		"message": "Chỉ hiển thị mục yêu thích."
+	},
+	"feature_print": {
+		"message": "In"
+	},
+	"feature_print_description": {
+		"message": "In trang hiện tại."
+	},
+	"feature_printing_success": {
+		"message": "Mở bản in"
+	},
+	"feature_reader_mode": {
+		"message": "Chế độ đọc"
+	},
+	"feature_readermode_opening": {
+		"message": "Mở chế độ đọc"
+	},
+	"feature_readermode_closing": {
+		"message": "Đóng chế độ đọc"
+	},
+	"view_table": {
+		"message": "Bảng xem"
+	},
+	"view_time": {
+		"message": "Chế độ xem dòng thời gian"
+	},
+	"view_card": {
+		"message": "Xem thẻ"
+	},
+	"feature_screenshot": {
+		"message": "Ảnh chụp màn hình"
+	},
+	"feature_screenshot_description": {
+		"message": "Chụp ảnh màn hình của trang hiện tại."
+	},
+	"feature_screenshot_error": {
+		"message": "Lỗi khi chụp ảnh màn hình"
+	},
+	"feature_screenshot_success": {
+		"message": "Chụp ảnh màn hình"
+	},
+	"feature_tooltip": {
+		"message": "Mô tả hình ảnh"
+	},
+	"feature_tooltip_description": {
+		"message": "Hiển thị thẻ alt và tiêu đề khi di chuột qua."
+	},
+	"feature_translate": {
+		"message": "Dịch"
+	},
+	"feature_language": {
+		"message": "Ngôn ngữ"
+	},
+	"feature_magnifier": {
+		"message": "Kính lúp"
+	},
+	"feature_magnifier_description": {
+		"message": "Kính lúp"
+	},
+	"percentage": {
+		"message": "Phần trăm"
+	},
+	"feature_analyze": {
+		"message": "Số từ"
+	},
+	"feature_analyze_description": {
+		"message": "phân tích"
+	},
+	"feature_analyze_words": {
+		"message": "từ ngữ"
+	},
+	"feature_analyze_characters": {
+		"message": "nhân vật"
+	},
+	"feature_annotations": {
+		"message": "Ghi chú"
+	},
+	"feature_annotations_description": {
+		"message": "Chú thích trang bằng cách để lại một ghi chú dính mới."
+	},
+	"feature_annotate_open": {
+		"message": "Tạo ghi chú mới"
+	},
+	"annotate": {
+		"message": "Chú thích"
+	},
+	"feature_cognitive_load": {
+		"message": "Đọc nhanh"
+	},
+	"bold": {
+		"message": "Bolodness"
+	},
+	"feature_background_color": {
+		"message": "Màu nền"
+	},
+	"feature_font_color": {
+		"message": "Màu chữ"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Thực đơn"
+	},
+	"feature_highlight_color": {
+		"message": "Màu nổi bật"
+	},
+	"feature_link_color": {
+		"message": "Màu sắc liên kết"
+	},
+	"feature_cursor_size": {
+		"message": "Kích thước con trỏ"
+	},
+	"feature_font_size": {
+		"message": "Cỡ chữ"
+	},
+	"feature_font_size_titles": {
+		"message": "Kích thước tiêu đề"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Kích thước đoạn văn"
+	},
+	"feature_gray_hue": {
+		"message": "Màu xám"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Đánh dấu các đoạn văn"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Đánh dấu màu của đoạn văn"
+	},
+	"feature_images_hide_title": {
+		"message": "Ẩn hình ảnh"
+	},
+	"hide": {
+		"message": "Trốn"
+	},
+	"feature_images_hide": {
+		"message": "Ẩn tất cả hình ảnh"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Ẩn Gifs"
+	},
+	"feature_high_contast": {
+		"message": "Độ tương phản cao"
+	},
+	"feature_text_adjustments": {
+		"message": "Điều chỉnh văn bản"
+	},
+	"feature_text_align": {
+		"message": "Căn chỉnh văn bản"
+	},
+	"feature_text_alignment": {
+		"message": "Căn chỉnh"
+	},
+	"feature_letter_spacing": {
+		"message": "Khoảng cách giữa các chữ cái"
+	},
+	"spacing": {
+		"message": "khoảng cách"
+	},
+	"feature_line_height_spacing": {
+		"message": "Chiều cao giữa các dòng"
+	},
+	"height": {
+		"message": "Chiều cao"
+	},
+	"feature_line_focus": {
+		"message": "Tiêu điểm dòng"
+	},
+	"feature_line_focus_color": {
+		"message": "Màu tiêu điểm dòng"
+	},
+	"feature_line_focus_height": {
+		"message": "Chiều cao tiêu điểm dòng"
+	},
+	"feature_mute": {
+		"message": "Tắt tiếng video"
+	},
+	"feature_mute_description": {
+		"message": "Tắt tiếng video và âm thanh khỏi các trang."
+	},
+	"ocr_read_words": {
+		"message": "Đọc văn bản ngoại vi"
+	},
+	"text": {
+		"message": "Bản văn"
+	},
+	"ocr_read_words_save": {
+		"message": "Lưu văn bản ngoại vi"
+	},
+	"feature_extract_text": {
+		"message": "Trích xuất văn bản (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Bật, chọn vùng trên màn hình."
+	},
+	"feature_overlay": {
+		"message": "Lớp phủ"
+	},
+	"feature_overlay_color": {
+		"message": "Lớp phủ màu"
+	},
+	"feature_paragraph_width": {
+		"message": "Chiều rộng đoạn văn"
+	},
+	"width": {
+		"message": "Chiều rộng"
+	},
+	"highlighted_text": {
+		"message": "Văn bản được đánh dấu"
+	},
+	"issue_on_page": {
+		"message": "Phát hành"
+	},
+	"feature_reading_guide": {
+		"message": "Hướng dẫn đọc"
+	},
+	"feature_reading_guide_color": {
+		"message": "Màu hướng dẫn đọc"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Người cai trị chứng khó đọc"
+	},
+	"feature_ruler_width": {
+		"message": "Chiều rộng thước"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Chiều cao"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Chức vụ"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Màu sắc"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Theo dõi"
+	},
+	"feature_auto_scroll": {
+		"message": "Tự động cuộn"
+	},
+	"speed": {
+		"message": "Tốc độ"
+	},
+	"subscription_deleted": {
+		"message": "Đăng ký bị hủy"
+	},
+	"title_enjoy_until": {
+		"message": "Tận hưởng bản dùng thử của bạn cho đến khi"
+	},
+	"incomplete_expired": {
+		"message": "Chúng tôi không thể hoàn tất thanh toán."
+	},
+	"past_due": {
+		"message": "Đăng ký của bạn đã quá hạn."
+	},
+	"incomplete": {
+		"message": "Chúng tôi không thể hoàn tất thanh toán."
+	},
+	"transparency": {
+		"message": "độ sáng"
+	},
+	"title_message_full": {
+		"message": "Đã tìm thấy đăng ký Helperbird Pro."
+	},
+	"contact_support": {
+		"message": "Vui lòng liên hệ với bộ phận hỗ trợ."
+	},
+	"buy": {
+		"message": "Mua $ 1"
+	},
+	"feature_voice_typing": {
+		"message": "Nhập liệu bằng giọng nói"
+	},
+	"feature_voice_typing_description": {
+		"message": "Thêm nhập liệu bằng giọng nói trên tất cả các đầu vào. Chỉ cần nhấp vào nút trên đầu vào."
+	},
+	"google_docs_notice": {
+		"message": "Bây giờ chúng tôi có một Addon của Google! Cài đặt để nhận được nhiều hỗ trợ hơn nữa."
+	},
+	"feature_spell_check": {
+		"message": "Kiểm tra chính tả"
+	},
+	"feature_summarize": {
+		"message": "Trang tóm tắt"
+	},
+	"feature_summarize_description": {
+		"message": "Tóm tắt trang này."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Tùy chọn chuyển văn bản thành giọng nói"
+	},
+	"feature_speech_voice": {
+		"message": "Tiếng nói"
+	},
+	"feature_speech_speed": {
+		"message": "Tốc độ"
+	},
+	"feature_speech_pitch": {
+		"message": "Sân bóng đá"
+	},
+	"feature_speech_volume": {
+		"message": "Âm lượng"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Màu nổi bật"
+	},
+	"feature_speech_reading_success": {
+		"message": "Đọc văn bản đã chọn."
+	},
+	"feature_text_to_speech": {
+		"message": "Chuyển văn bản thành giọng nói"
+	},
+	"you_need_to_highlight": {
+		"message": "Bạn cần đánh dấu một số văn bản."
+	},
+	"feature_word_prediction": {
+		"message": "Dự đoán từ"
+	},
+	"feature_word_prediction_description": {
+		"message": "Bật dự đoán từ Helperbirds trên đầu vào."
+	},
+	"feature_word_spacing": {
+		"message": "Khoảng cách từ"
+	},
+	"full_Screen": {
+		"message": "Toàn màn hình"
+	},
+	"voice_typing_stop": {
+		"message": "Đang dừng nhập liệu bằng giọng nói."
+	},
+	"voice_typing_start": {
+		"message": "Nói đi."
+	},
+	"speak_word_on_hover": {
+		"message": "Đọc to."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Sẽ đọc từ khi di chuột."
+	},
+	"speak": {
+		"message": "Nói"
+	},
+	"auto_scroll_start": {
+		"message": "Đã bắt đầu cuộn tự động."
+	},
+	"auto_scroll_stop": {
+		"message": "Tự động cuộn đã dừng."
+	},
+	"popup_immersive_success": {
+		"message": "Đang tải Trình đọc nhập vai."
+	},
+	"popup_readermode_success": {
+		"message": "Đang mở chế độ Trình đọc."
+	},
+	"popup_printing_success": {
+		"message": "Đang mở bản in."
+	},
+	"ocr_select": {
+		"message": "Chọn khu vực trên trang."
+	},
+	"ocr_extracted": {
+		"message": "Đã trích xuất văn bản."
+	},
+	"ocr_extracting": {
+		"message": "Giải nén"
+	},
+	"ocr_copy": {
+		"message": "Đã sao chép văn bản từ hình ảnh. Đã lưu vào khay nhớ tạm của bạn."
+	},
+	"ocr_no_text": {
+		"message": "Không có văn bản nào được tìm thấy."
+	},
+	"popup_note_success": {
+		"message": "Đã lưu vào ghi chú của bạn."
+	},
+	"popup_immersive_error": {
+		"message": "Lỗi khi tải Trình đọc chìm"
+	},
+	"popup_summarize_error": {
+		"message": "Lỗi khi tổng hợp trang."
+	},
+	"popup_saving_error": {
+		"message": "Lỗi khi lưu"
+	},
+	"popup_summarize_success": {
+		"message": "Trang tổng hợp"
+	},
+	"popup_readermode_closing": {
+		"message": "Đóng chế độ đọc"
+	},
+	"close": {
+		"message": "Đóng"
+	},
+	"your_note_was_saved": {
+		"message": "Ghi chú của bạn đã được lưu."
+	},
+	"error_saving_your_note": {
+		"message": "Lỗi khi lưu ghi chú của bạn. Vui lòng thử lại."
+	},
+	"popup_readinglist_error": {
+		"message": "Lỗi khi lưu vào danh sách Đọc"
+	},
+	"popup_readinglist_success": {
+		"message": "Đã lưu vào danh sách Đọc"
+	},
+	"popup_screenshot_error": {
+		"message": "Lỗi khi chụp ảnh màn hình"
+	},
+	"popup_screenshot_success": {
+		"message": "Chụp ảnh màn hình"
+	},
+	"copied_text": {
+		"message": "Đã sao chép văn bản"
+	},
+	"copied_text_error": {
+		"message": "Lỗi khi sao chép văn bản."
+	},
+	"ocr_loading": {
+		"message": "Đang tải Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "Đã lưu vào ghi chú của bạn"
+	},
+	"popup_reading_success": {
+		"message": "Đọc văn bản đã chọn"
+	},
+	"popup_reading_finished": {
+		"message": "Đã đọc xong"
+	},
+	"popup_reading_error": {
+		"message": "Đang dừng lại"
+	},
+	"popup_reading_stopping": {
+		"message": "Đang dừng lại"
+	},
+	"popup_reading_pause": {
+		"message": "Bị tạm dừng"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Bạn cần nâng cấp Helperbird Pro để sử dụng tính năng này."
+	},
+	"menu_define": {
+		"message": "Xác định từ"
+	},
+	"menu_website_readinglist": {
+		"message": "Thêm trang web vào danh sách Đọc"
+	},
+	"menu_readinglist": {
+		"message": "Thêm vào danh sách Đọc"
+	},
+	"menu_text_to_speech": {
+		"message": "Chuyển văn bản thành giọng nói"
+	},
+	"menu_play": {
+		"message": "Chơi"
+	},
+	"menu_pause": {
+		"message": "Tạm ngừng"
+	},
+	"menu_stop": {
+		"message": "Ngừng lại"
+	},
+	"menu_resume": {
+		"message": "Bản tóm tắt"
+	},
+	"menu_screenshot": {
+		"message": "Chụp màn hình"
+	},
+	"menu_share": {
+		"message": "Đăng lại"
+	},
+	"menu_reader_mode": {
+		"message": "Xem ở chế độ Reader"
+	},
+	"menu_translate": {
+		"message": "Dịch"
+	},
+	"road_map": {
+		"message": "Lộ trình"
+	},
+	"menu_immersive_reader": {
+		"message": "Xem trong trình đọc nhập vai"
+	},
+	"menu_summarize": {
+		"message": "Trang tóm tắt"
+	},
+	"menu_summarize_page": {
+		"message": "Trang tóm tắt"
+	},
+	"menu_annotate_page": {
+		"message": "Chú thích trang"
+	}
+}

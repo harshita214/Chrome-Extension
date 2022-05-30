@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird per a Chrome"
+	},
+	"appDescription": {
+		"message": "Més de 32 funcions d'accessibilitat i productivitat creades per donar suport a tots els tipus de lectors, aprenents i escriptors. Inclou suport per a la dislèxia."
+	},
+	"helpGuide": {
+		"message": "Guies d'ajuda"
+	},
+	"upgrade_title": {
+		"message": "Funció Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "Necessites una subscripció a Helperbird Pro per utilitzar aquesta funció. No us preocupeu, són 40 USD a l'any o 4,99 al mes."
+	},
+	"plan_deal": {
+		"message": "Oferta estudiantil"
+	},
+	"plan_month": {
+		"message": "Oferta mensual"
+	},
+	"plan_year": {
+		"message": "Oferta anual"
+	},
+	"upgrade_message": {
+		"message": "Actualitzeu a Helperbird Pro per desbloquejar totes les funcions."
+	},
+	"column_title": {
+		"message": "Columna"
+	},
+	"upgrade_now": {
+		"message": "Actualitza ara"
+	},
+	"upgrade_to_pro": {
+		"message": "Actualitzeu a Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Descobreix Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Si us plau, inicieu la sessió a Helperbird o introduïu la vostra clau de subscripció."
+	},
+	"privacy": {
+		"message": "Privadesa"
+	},
+	"whats_new": {
+		"message": "Que hi ha de nou"
+	},
+	"privacy_details": {
+		"message": "Respectem la vostra privadesa, així que aquí teniu un llenguatge clar i senzill."
+	},
+	"privacy_details_one": {
+		"message": "Aquí a Helperbird respectem i ens prenem la vostra privadesa molt seriosament. Per això no emmagatzemem ni recollim res."
+	},
+	"privacy_details_two": {
+		"message": "L'únic que demaneu el vostre correu electrònic quan inicieu sessió. Per comprovar si el vostre domini escolar o empresarial està pagat o si heu pagat un compte a Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Tot el que feu i la configuració que deseu es mantenen localment al vostre navegador. No surt mai del teu ordinador."
+	},
+	"free": {
+		"message": "Gratuït"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "Encès"
+	},
+	"on_lower": {
+		"message": "activat"
+	},
+	"off": {
+		"message": "Apagat"
+	},
+	"off_lower": {
+		"message": "apagat"
+	},
+	"notes": {
+		"message": "Notes"
+	},
+	"open_notes": {
+		"message": "Obriu les notes"
+	},
+	"save": {
+		"message": "Desa"
+	},
+	"clear": {
+		"message": "Clar"
+	},
+	"manage": {
+		"message": "Gestionar"
+	},
+	"open": {
+		"message": "Obert"
+	},
+	"copy": {
+		"message": "Còpia"
+	},
+	"delete": {
+		"message": "Suprimeix"
+	},
+	"documents": {
+		"message": "Documents"
+	},
+	"remove": {
+		"message": "Eliminar"
+	},
+	"version": {
+		"message": "Versió"
+	},
+	"visit": {
+		"message": "Visita"
+	},
+	"no_results": {
+		"message": "Sense resultats"
+	},
+	"reduce_motion": {
+		"message": "Animacions"
+	},
+	"maths_steps": {
+		"message": "Solucionador de matemàtiques"
+	},
+	"tour": {
+		"message": "Tour d'ocells ajudants"
+	},
+	"reduce_motion_description": {
+		"message": "Eviteu que l'animació es mostri a les pàgines web."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader és una eina gratuïta que implementa tècniques provades per millorar la lectura i l'escriptura"
+	},
+	"start": {
+		"message": "Començar"
+	},
+	"learn_more": {
+		"message": "Aprèn més"
+	},
+	"more": {
+		"message": "Més"
+	},
+	"editor_title": {
+		"message": "Editor"
+	},
+	"editor_title_open": {
+		"message": "Obriu l'editor Helperbirds"
+	},
+	"logout": {
+		"message": "Tancar sessió"
+	},
+	"signin": {
+		"message": "iniciar Sessió"
+	},
+	"define_title": {
+		"message": "Diccionari"
+	},
+	"define_title_open": {
+		"message": "Diccionari obert"
+	},
+	"define_empty_title": {
+		"message": "Busca una paraula i li tornarem el significat."
+	},
+	"define_search": {
+		"message": "Cerca......"
+	},
+	"define_antonyms": {
+		"message": "Antònims"
+	},
+	"define_synonyms": {
+		"message": "Sinònims"
+	},
+	"define_meanings": {
+		"message": "Significats"
+	},
+	"define_related": {
+		"message": "Relacionats"
+	},
+	"define_etymology": {
+		"message": "Etimologia"
+	},
+	"export": {
+		"message": "Exporta"
+	},
+	"export_word": {
+		"message": "Exporta a Word"
+	},
+	"export_docs": {
+		"message": "Exporta a Google Docs"
+	},
+	"export_text": {
+		"message": "Exporta a un fitxer de text"
+	},
+	"toolbar_pdf": {
+		"message": "Lector de PDF"
+	},
+	"toolbar_pdf_open": {
+		"message": "Obre el lector de PDF"
+	},
+	"menus": {
+		"message": "Google Docs i Pdfs"
+	},
+	"upgrade_message_title": {
+		"description": "Extensió Helperbird.",
+		"message": "Actualitza a 1 $"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Extensió Helperbird.",
+		"message": "Accediu a funcions potents com el mode lector i 1 $."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Extensió Helperbird.",
+		"message": "Trieu un pla a continuació per desbloquejar més de 30 funcions i assistència les 24 hores."
+	},
+	"alert_message": {
+		"message": "Actualitza o inicia sessió per accedir a totes les funcions Pro."
+	},
+	"alert_loading": {
+		"message": "Carregant...."
+	},
+	"alert_clear": {
+		"message": "Clar"
+	},
+	"alert_cleared": {
+		"message": "Esborrat"
+	},
+	"alert_download": {
+		"message": "descarregar"
+	},
+	"alert_no_data": {
+		"message": "Sense resultats"
+	},
+	"annotations_notes": {
+		"message": "Notes"
+	},
+	"import_annotations": {
+		"message": "Importa notes"
+	},
+	"options": {
+		"message": "Opcions"
+	},
+	"open_document": {
+		"message": "Document obert"
+	},
+	"select_document": {
+		"message": "Heu de seleccionar un document."
+	},
+	"copied_document": {
+		"message": "Document copiat"
+	},
+	"saved_document": {
+		"message": "Document desat"
+	},
+	"issue_saving": {
+		"message": "Problema desa"
+	},
+	"show_updates": {
+		"message": "Mostra les actualitzacions"
+	},
+	"new": {
+		"message": "Nou"
+	},
+	"pause": {
+		"message": "Pausa"
+	},
+	"removed_document": {
+		"message": "Document eliminat"
+	},
+	"opening_document": {
+		"message": "Document d'obertura"
+	},
+	"get_started": {
+		"message": "Començar"
+	},
+	"saved_to_documents": {
+		"message": "Desat als vostres documents."
+	},
+	"message_alert": {
+		"message": "Aconsegueix accés a totes les funcions i assistència al client de Helperbirds sempre que ho necessitis. Més de 30 funcions."
+	},
+	"message_three_day": {
+		"message": "Prova de 3 dies"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Comproveu les vostres entrades"
+	},
+	"upgrade": {
+		"message": "Actualitza"
+	},
+	"upgrade_": {
+		"message": "Actualitza a 1 $"
+	},
+	"website": {
+		"message": "Lloc web"
+	},
+	"description": {
+		"message": "Descripció"
+	},
+	"capture": {
+		"message": "Captura"
+	},
+	"category": {
+		"message": "Categoria"
+	},
+	"error_found_label": {
+		"message": "Hi ha un error"
+	},
+	"cancel": {
+		"message": "Cancel · lar"
+	},
+	"readinglist_title": {
+		"message": "Llista de lectura"
+	},
+	"readinglist_title_open": {
+		"message": "Obre Llista de lectura"
+	},
+	"note_removed": {
+		"message": "S'ha eliminat la nota."
+	},
+	"note_removed_error": {
+		"message": "No s'ha pogut eliminar la nota."
+	},
+	"readinglist_removed": {
+		"message": "Lloc web eliminat"
+	},
+	"settings_saved": {
+		"message": "S'ha desat la configuració"
+	},
+	"check_for_updates": {
+		"message": "Buscar actualitzacions"
+	},
+	"show_highlights": {
+		"message": "Mostra els aspectes més destacats a la pàgina."
+	},
+	"account_title": {
+		"message": "Compte"
+	},
+	"account_description": {
+		"message": "Utilitzem el mateix correu electrònic que inicieu sessió al vostre navegador com a inici de sessió."
+	},
+	"signed_in_as": {
+		"message": "Inicieu sessió com a"
+	},
+	"subscription_title": {
+		"message": "Subscripció"
+	},
+	"current_plan": {
+		"message": "El teu pla actual"
+	},
+	"subscription_status": {
+		"message": "Estat de la teva subscripció:"
+	},
+	"check_subscription": {
+		"message": "Consulta la subscripció"
+	},
+	"subscription_token_title": {
+		"message": "Clau de subscripció"
+	},
+	"subscription_token_description": {
+		"message": "Si teniu una subscripció a Helperbird Pro, introduïu-la a continuació per desbloquejar totes les funcions de Helperbird Pro."
+	},
+	"themes": {
+		"message": "Temes"
+	},
+	"theme": {
+		"message": "Tema"
+	},
+	"danger_zone_title": {
+		"message": "Emmagatzematge"
+	},
+	"danger_zone_description": {
+		"message": "El botó següent esborrarà tota la configuració i iniciarà l'extensió com si fos nova. Així que aneu amb compte que no podem recuperar res que suprimiu."
+	},
+	"delete_everything": {
+		"message": "Esborra tot"
+	},
+	"delete_this_note": {
+		"message": "Suprimeix aquesta nota."
+	},
+	"visit_this_note": {
+		"message": "Visiteu el lloc web on es troba aquesta nota."
+	},
+	"everything_deleted": {
+		"message": "Ara s'han suprimit tota la configuració i l'emmagatzematge."
+	},
+	"enter_email": {
+		"message": "Heu d'introduir un correu electrònic."
+	},
+	"shortcuts": {
+		"message": "Dreceres"
+	},
+	"shortcuts_menu_on": {
+		"message": "Les dreceres estan activades"
+	},
+	"shortcuts_menu_off": {
+		"message": "Les dreceres estan desactivades"
+	},
+	"shortcuts_title": {
+		"message": "Dreceres"
+	},
+	"shortcuts_description": {
+		"message": "Dreceres"
+	},
+	"shortcuts_ocr": {
+		"message": "Activa l'OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Obre el lector immersiu"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Obriu el mode lector"
+	},
+	"annotate_page": {
+		"message": "Anotar pàgina"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Obre PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Disminuir el zoom"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Ampliar"
+	},
+	"settings": {
+		"message": "Configuració"
+	},
+	"support_videos": {
+		"message": "Vídeos de suport"
+	},
+	"review_us": {
+		"message": "Revisa'ns"
+	},
+	"view": {
+		"message": "Veure"
+	},
+	"views": {
+		"message": "Vistes"
+	},
+	"no_favorites": {
+		"message": "Sense favorits"
+	},
+	"sorting_none": {
+		"message": "No s'ha pogut trobar res."
+	},
+	"sorting": {
+		"message": "Classificació...."
+	},
+	"showing_favorites": {
+		"message": "Es mostren els preferits"
+	},
+	"unpaid": {
+		"message": "La teva subscripció no es paga."
+	},
+	"canceled": {
+		"message": "La teva subscripció s'ha cancel·lat."
+	},
+	"message_nothing_found": {
+		"message": "No hem trobat cap subscripció."
+	},
+	"couldnt_interact_with_page": {
+		"message": "No hem pogut rebre cap text. Si us plau, torna-ho a provar (Actualitza). Proveu el nostre complement PDF o Google Docs."
+	},
+	"unpinned_favorite": {
+		"message": "S'ha eliminat com a preferit"
+	},
+	"pin_favorite": {
+		"message": "Preferit"
+	},
+	"setting_saved": {
+		"message": "S'ha desat la configuració"
+	},
+	"favourite": {
+		"message": "Favorit"
+	},
+	"un_favourite": {
+		"message": "Desfavorit"
+	},
+	"how_to_use": {
+		"message": "Com utilitzar"
+	},
+	"search": {
+		"message": "Cerca"
+	},
+	"search_feature": {
+		"message": "Funcions de cerca"
+	},
+	"filter_productivity": {
+		"message": "Recerca"
+	},
+	"helperbird_apps": {
+		"message": "Aplicacions Helperbird"
+	},
+	"fav_message": {
+		"message": "Sembla que no teniu cap funció preferida. A favorit, feu clic als tres punts al costat d'una funció i feu clic a preferit."
+	},
+	"filter_features": {
+		"message": "Característiques del filtre"
+	},
+	"student_offer": {
+		"message": "Els estudiants obtenen Helperbird Pro per"
+	},
+	"filter_style": {
+		"message": "Mostra"
+	},
+	"filter_text_to_speech": {
+		"message": "Text a veu"
+	},
+	"filter_dyslexia": {
+		"message": "Dislèxia"
+	},
+	"filter_pro": {
+		"message": "Funcions professionals"
+	},
+	"filter": {
+		"message": "Filtre"
+	},
+	"filter_writing": {
+		"message": "Escriptura"
+	},
+	"highlighter_title": {
+		"message": "Resaltador"
+	},
+	"filter_reading": {
+		"message": "Lectura"
+	},
+	"filter_active": {
+		"message": "Actiu"
+	},
+	"filter_audio": {
+		"message": "Funcions d'àudio"
+	},
+	"feature_blindness": {
+		"message": "Daltonisme"
+	},
+	"feature_emphasize_links": {
+		"message": "Emfatitzar els enllaços"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Traç de text"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Color"
+	},
+	"color": {
+		"message": "Color"
+	},
+	"feature_specialized_font": {
+		"message": "Font especialitzada"
+	},
+	"feature_specialized_font_options": {
+		"message": "Opcions de lletra"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "El menú destacat està activat"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "El menú destacat està desactivat"
+	},
+	"feature_highlight_menu": {
+		"message": "Menú destacat"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Mostra el nostre menú de text destacat."
+	},
+	"show": {
+		"message": "Espectacle"
+	},
+	"welcome": {
+		"message": "Benvingut a Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Lector immersiu"
+	},
+	"create_a_new_note": {
+		"message": "Crea una nota nova"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Utilitzeu el lector immersiu de Microsoft en aquesta pàgina."
+	},
+	"feature_toolbar_google": {
+		"message": "Documents i diapositives de Google"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Afegeix una barra d'eines Helperbird als fitxers de documents de Google."
+	},
+	"feature_toolbar_pdf": {
+		"message": "Barra d'eines PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Afegeix una barra d'eines Helperbird als fitxers PDF."
+	},
+	"pause_helperbird": {
+		"message": "Pausa $1"
+	},
+	"quick_action": {
+		"message": "Accions ràpides"
+	},
+	"feature_pause_helperbird": {
+		"message": "1 $ està de descompte"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 està activat"
+	},
+	"voice_typing_is_on": {
+		"message": "L'escriptura per veu està activada"
+	},
+	"voice_typing_is_off": {
+		"message": "L'escriptura per veu està desactivada"
+	},
+	"helperbird_paused": {
+		"message": "Helperbird apagat"
+	},
+	"helperbird_running": {
+		"message": "Ocell ajudant corrent"
+	},
+	"applying_settings": {
+		"message": "Aplicant la vostra configuració"
+	},
+	"feature_favorites": {
+		"message": "Preferits"
+	},
+	"all_feature_favorites": {
+		"message": "Tots"
+	},
+	"hide_feature_favorites": {
+		"message": "Amaga els preferits"
+	},
+	"feature_favorites_description": {
+		"message": "Mostra només els preferits."
+	},
+	"feature_print": {
+		"message": "Imprimir"
+	},
+	"feature_print_description": {
+		"message": "Imprimeix la pàgina actual."
+	},
+	"feature_printing_success": {
+		"message": "Impressió d'obertura"
+	},
+	"feature_reader_mode": {
+		"message": "Mode lector"
+	},
+	"feature_readermode_opening": {
+		"message": "Obertura del mode Lector"
+	},
+	"feature_readermode_closing": {
+		"message": "Tancant el mode lector"
+	},
+	"view_table": {
+		"message": "Vista de taula"
+	},
+	"view_time": {
+		"message": "Vista cronològica"
+	},
+	"view_card": {
+		"message": "Vista de la targeta"
+	},
+	"feature_screenshot": {
+		"message": "Captura de pantalla"
+	},
+	"feature_screenshot_description": {
+		"message": "Feu una captura de pantalla de la pàgina actual."
+	},
+	"feature_screenshot_error": {
+		"message": "S'ha produït un error en capturar la captura de pantalla"
+	},
+	"feature_screenshot_success": {
+		"message": "Captura de pantalla"
+	},
+	"feature_tooltip": {
+		"message": "Descripcions d'imatges"
+	},
+	"feature_tooltip_description": {
+		"message": "Mostra les etiquetes alt i títol al ratolí."
+	},
+	"feature_translate": {
+		"message": "Traduir"
+	},
+	"feature_language": {
+		"message": "Idiomes"
+	},
+	"feature_magnifier": {
+		"message": "Lupa"
+	},
+	"feature_magnifier_description": {
+		"message": "Lupa"
+	},
+	"percentage": {
+		"message": "Percentatge"
+	},
+	"feature_analyze": {
+		"message": "Nombre de paraules"
+	},
+	"feature_analyze_description": {
+		"message": "analitzar"
+	},
+	"feature_analyze_words": {
+		"message": "paraules"
+	},
+	"feature_analyze_characters": {
+		"message": "personatges"
+	},
+	"feature_annotations": {
+		"message": "Notes"
+	},
+	"feature_annotations_description": {
+		"message": "Anoteu la pàgina deixant una nota adhesiva nova."
+	},
+	"feature_annotate_open": {
+		"message": "Creació d'una nota nova"
+	},
+	"annotate": {
+		"message": "Anotar"
+	},
+	"feature_cognitive_load": {
+		"message": "Lectura ràpida"
+	},
+	"bold": {
+		"message": "Audacia"
+	},
+	"feature_background_color": {
+		"message": "Color de fons"
+	},
+	"feature_font_color": {
+		"message": "Color de la lletra"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Menú"
+	},
+	"feature_highlight_color": {
+		"message": "Ressaltar el color"
+	},
+	"feature_link_color": {
+		"message": "Color de l'enllaç"
+	},
+	"feature_cursor_size": {
+		"message": "Mida del cursor"
+	},
+	"feature_font_size": {
+		"message": "Mida del text"
+	},
+	"feature_font_size_titles": {
+		"message": "Mida de les capçaleres"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Mida dels paràgrafs"
+	},
+	"feature_gray_hue": {
+		"message": "Tons grisos"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Ressaltar paràgrafs"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Ressalteu el color dels paràgrafs"
+	},
+	"feature_images_hide_title": {
+		"message": "Amaga imatges"
+	},
+	"hide": {
+		"message": "Amaga"
+	},
+	"feature_images_hide": {
+		"message": "Amaga totes les imatges"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Amaga els gifs"
+	},
+	"feature_high_contast": {
+		"message": "Alt contrast"
+	},
+	"feature_text_adjustments": {
+		"message": "Ajustaments de text"
+	},
+	"feature_text_align": {
+		"message": "Alineació de text"
+	},
+	"feature_text_alignment": {
+		"message": "Alineació"
+	},
+	"feature_letter_spacing": {
+		"message": "Espaiat entre lletres"
+	},
+	"spacing": {
+		"message": "Espaiat"
+	},
+	"feature_line_height_spacing": {
+		"message": "Alçada de la línia"
+	},
+	"height": {
+		"message": "Alçada"
+	},
+	"feature_line_focus": {
+		"message": "Enfocament de la línia"
+	},
+	"feature_line_focus_color": {
+		"message": "Color de focus de línia"
+	},
+	"feature_line_focus_height": {
+		"message": "Alçada del focus de línia"
+	},
+	"feature_mute": {
+		"message": "Silencia el vídeo"
+	},
+	"feature_mute_description": {
+		"message": "Silencia els vídeos i els sons de les pàgines."
+	},
+	"ocr_read_words": {
+		"message": "Llegir el text extirpat"
+	},
+	"text": {
+		"message": "Text"
+	},
+	"ocr_read_words_save": {
+		"message": "Desa el text extirpat"
+	},
+	"feature_extract_text": {
+		"message": "Extreu text (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Activa, selecciona l'àrea de la pantalla."
+	},
+	"feature_overlay": {
+		"message": "Superposició"
+	},
+	"feature_overlay_color": {
+		"message": "Color de superposició"
+	},
+	"feature_paragraph_width": {
+		"message": "Amplada del paràgraf"
+	},
+	"width": {
+		"message": "Amplada"
+	},
+	"highlighted_text": {
+		"message": "Text destacat"
+	},
+	"issue_on_page": {
+		"message": "Assumpte"
+	},
+	"feature_reading_guide": {
+		"message": "Guia de lectura"
+	},
+	"feature_reading_guide_color": {
+		"message": "Color de la guia de lectura"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Regla de dislèxia"
+	},
+	"feature_ruler_width": {
+		"message": "Amplada del regle"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Alçada"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Posició"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Color"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Seguiu"
+	},
+	"feature_auto_scroll": {
+		"message": "Desplaçament automàtic"
+	},
+	"speed": {
+		"message": "Velocitat"
+	},
+	"subscription_deleted": {
+		"message": "Subscripció cancel·lada"
+	},
+	"title_enjoy_until": {
+		"message": "Gaudeix de la prova fins"
+	},
+	"incomplete_expired": {
+		"message": "No hem pogut completar el pagament."
+	},
+	"past_due": {
+		"message": "La teva subscripció està vençuda."
+	},
+	"incomplete": {
+		"message": "No hem pogut completar el pagament."
+	},
+	"transparency": {
+		"message": "Brillantor"
+	},
+	"title_message_full": {
+		"message": "S'ha trobat la subscripció a Helperbird Pro."
+	},
+	"contact_support": {
+		"message": "Poseu-vos en contacte amb el servei d'assistència."
+	},
+	"buy": {
+		"message": "Compra 1 $"
+	},
+	"feature_voice_typing": {
+		"message": "Mecanografia per veu"
+	},
+	"feature_voice_typing_description": {
+		"message": "Afegeix l'escriptura de veu a totes les entrades. Només cal que feu clic al botó de l'entrada."
+	},
+	"google_docs_notice": {
+		"message": "Ara tenim un complement de Google! Instal·leu per obtenir encara més suport."
+	},
+	"feature_spell_check": {
+		"message": "Corrector ortogràfic"
+	},
+	"feature_summarize": {
+		"message": "Pàgina de resum"
+	},
+	"feature_summarize_description": {
+		"message": "Resumeix aquesta pàgina."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Opcions de text a veu"
+	},
+	"feature_speech_voice": {
+		"message": "veu"
+	},
+	"feature_speech_speed": {
+		"message": "Velocitat"
+	},
+	"feature_speech_pitch": {
+		"message": "Brea"
+	},
+	"feature_speech_volume": {
+		"message": "Volum"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Ressaltar el color"
+	},
+	"feature_speech_reading_success": {
+		"message": "Lectura del text seleccionat."
+	},
+	"feature_text_to_speech": {
+		"message": "Text a veu"
+	},
+	"you_need_to_highlight": {
+		"message": "Cal destacar algun text."
+	},
+	"feature_word_prediction": {
+		"message": "Predicció de paraules"
+	},
+	"feature_word_prediction_description": {
+		"message": "Activa la predicció de paraules Helperbirds a les entrades."
+	},
+	"feature_word_spacing": {
+		"message": "Espaiat de paraules"
+	},
+	"full_Screen": {
+		"message": "Pantalla completa"
+	},
+	"voice_typing_stop": {
+		"message": "Aturant l'escriptura de veu."
+	},
+	"voice_typing_start": {
+		"message": "Parla ara."
+	},
+	"speak_word_on_hover": {
+		"message": "Llegeix en veu alta."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Llegirà la paraula al passar el cursor."
+	},
+	"speak": {
+		"message": "Parla"
+	},
+	"auto_scroll_start": {
+		"message": "S'ha iniciat el desplaçament automàtic."
+	},
+	"auto_scroll_stop": {
+		"message": "El desplaçament automàtic s'ha aturat."
+	},
+	"popup_immersive_success": {
+		"message": "S'està carregant el lector immersiu."
+	},
+	"popup_readermode_success": {
+		"message": "Obertura del mode Lector."
+	},
+	"popup_printing_success": {
+		"message": "Impressió d'obertura."
+	},
+	"ocr_select": {
+		"message": "Seleccioneu l'àrea de la pàgina."
+	},
+	"ocr_extracted": {
+		"message": "Text extret."
+	},
+	"ocr_extracting": {
+		"message": "Extracció"
+	},
+	"ocr_copy": {
+		"message": "Text copiat de la imatge. S'ha desat al porta-retalls."
+	},
+	"ocr_no_text": {
+		"message": "No s'ha trobat cap text."
+	},
+	"popup_note_success": {
+		"message": "Desat a les teves notes."
+	},
+	"popup_immersive_error": {
+		"message": "S'ha produït un error en carregar el lector immersiu"
+	},
+	"popup_summarize_error": {
+		"message": "Error en resumir la pàgina."
+	},
+	"popup_saving_error": {
+		"message": "S'ha produït un error en desar"
+	},
+	"popup_summarize_success": {
+		"message": "Pàgina de resum"
+	},
+	"popup_readermode_closing": {
+		"message": "Tancant el mode lector"
+	},
+	"close": {
+		"message": "Tanca"
+	},
+	"your_note_was_saved": {
+		"message": "La teva nota s'ha desat."
+	},
+	"error_saving_your_note": {
+		"message": "S'ha produït un error en desar la nota. Siusplau torna-ho a provar."
+	},
+	"popup_readinglist_error": {
+		"message": "S'ha produït un error en desar a la llista de lectura"
+	},
+	"popup_readinglist_success": {
+		"message": "Desat a la llista de lectura"
+	},
+	"popup_screenshot_error": {
+		"message": "S'ha produït un error en capturar la captura de pantalla"
+	},
+	"popup_screenshot_success": {
+		"message": "Captura de pantalla"
+	},
+	"copied_text": {
+		"message": "Text copiat"
+	},
+	"copied_text_error": {
+		"message": "S'ha produït un error en copiar el text."
+	},
+	"ocr_loading": {
+		"message": "S'està carregant Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "Desat a les teves notes"
+	},
+	"popup_reading_success": {
+		"message": "Lectura del text seleccionat"
+	},
+	"popup_reading_finished": {
+		"message": "Acabada la lectura"
+	},
+	"popup_reading_error": {
+		"message": "Aturant"
+	},
+	"popup_reading_stopping": {
+		"message": "Aturant"
+	},
+	"popup_reading_pause": {
+		"message": "En pausa"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Heu d'actualitzar Helperbird Pro per utilitzar aquesta funció."
+	},
+	"menu_define": {
+		"message": "Definir paraula"
+	},
+	"menu_website_readinglist": {
+		"message": "Afegeix un lloc web a la llista de lectura"
+	},
+	"menu_readinglist": {
+		"message": "Afegeix a la llista de lectura"
+	},
+	"menu_text_to_speech": {
+		"message": "Text a veu"
+	},
+	"menu_play": {
+		"message": "Jugar"
+	},
+	"menu_pause": {
+		"message": "Pausa"
+	},
+	"menu_stop": {
+		"message": "Atura"
+	},
+	"menu_resume": {
+		"message": "Resum"
+	},
+	"menu_screenshot": {
+		"message": "Fes una captura de pantalla"
+	},
+	"menu_share": {
+		"message": "Compartir"
+	},
+	"menu_reader_mode": {
+		"message": "Veure en mode Lector"
+	},
+	"menu_translate": {
+		"message": "Traduir"
+	},
+	"road_map": {
+		"message": "Full de ruta"
+	},
+	"menu_immersive_reader": {
+		"message": "Veure al lector immersiu"
+	},
+	"menu_summarize": {
+		"message": "Pàgina de resum"
+	},
+	"menu_summarize_page": {
+		"message": "Pàgina resumida"
+	},
+	"menu_annotate_page": {
+		"message": "Anotar pàgina"
+	}
+}

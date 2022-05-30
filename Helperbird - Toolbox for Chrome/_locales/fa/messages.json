@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird برای کروم"
+	},
+	"appDescription": {
+		"message": "بیش از 32 ویژگی دسترسی و بهره وری که برای پشتیبانی از هر نوع خواننده، یادگیرنده و نویسنده ساخته شده است. شامل حمایت از نارساخوانی است."
+	},
+	"helpGuide": {
+		"message": "راهنماها"
+	},
+	"upgrade_title": {
+		"message": "ویژگی Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "برای استفاده از این ویژگی به اشتراک Helperbird Pro نیاز دارید. نگران نباشید، 40 دلار در سال یا 4.99 در ماه است."
+	},
+	"plan_deal": {
+		"message": "پیشنهاد دانشجویی"
+	},
+	"plan_month": {
+		"message": "پیشنهاد ماهانه"
+	},
+	"plan_year": {
+		"message": "پیشنهاد سالانه"
+	},
+	"upgrade_message": {
+		"message": "برای باز کردن قفل همه ویژگی ها، به Helperbird Pro ارتقا دهید."
+	},
+	"column_title": {
+		"message": "ستون"
+	},
+	"upgrade_now": {
+		"message": "اکنون ارتقا دهید"
+	},
+	"upgrade_to_pro": {
+		"message": "به Helperbird Pro ارتقا دهید"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Helperbird Pro را کشف کنید"
+	},
+	"signin_message": {
+		"message": "لطفاً وارد Helperbird شوید یا کلید اشتراک خود را وارد کنید."
+	},
+	"privacy": {
+		"message": "حریم خصوصی"
+	},
+	"whats_new": {
+		"message": "چه خبر"
+	},
+	"privacy_details": {
+		"message": "ما به حریم خصوصی شما احترام می گذاریم، بنابراین در اینجا به زبانی واضح و ساده است."
+	},
+	"privacy_details_one": {
+		"message": "اینجا در Helperbird، ما به حریم خصوصی شما احترام می گذاریم و بسیار جدی می گیریم. به همین دلیل است که ما چیزی را ذخیره یا جمع آوری نمی کنیم."
+	},
+	"privacy_details_two": {
+		"message": "تنها درخواست ایمیل شما، هنگام ورود به سیستم. برای بررسی اینکه آیا دامنه مدرسه یا کسب و کار شما برای یک حساب در Stripe پرداخت شده است یا خیر."
+	},
+	"privacy_details_three": {
+		"message": "هر کاری که انجام می دهید و تنظیماتی که ذخیره می کنید به صورت محلی در مرورگر شما باقی می مانند. هرگز کامپیوتر خود را ترک نمی کند."
+	},
+	"free": {
+		"message": "رایگان"
+	},
+	"pro": {
+		"message": "حرفه ای"
+	},
+	"on": {
+		"message": "بر"
+	},
+	"on_lower": {
+		"message": "بر"
+	},
+	"off": {
+		"message": "خاموش"
+	},
+	"off_lower": {
+		"message": "خاموش"
+	},
+	"notes": {
+		"message": "یادداشت"
+	},
+	"open_notes": {
+		"message": "یادداشت ها را باز کنید"
+	},
+	"save": {
+		"message": "صرفه جویی"
+	},
+	"clear": {
+		"message": "پاک کردن"
+	},
+	"manage": {
+		"message": "مدیریت کنید"
+	},
+	"open": {
+		"message": "باز کن"
+	},
+	"copy": {
+		"message": "کپی 🀄"
+	},
+	"delete": {
+		"message": "حذف"
+	},
+	"documents": {
+		"message": "اسناد"
+	},
+	"remove": {
+		"message": "برداشتن"
+	},
+	"version": {
+		"message": "نسخه"
+	},
+	"visit": {
+		"message": "بازدید کنید"
+	},
+	"no_results": {
+		"message": "هیچ نتیجه ای"
+	},
+	"reduce_motion": {
+		"message": "تصاوير متحرك"
+	},
+	"maths_steps": {
+		"message": "حل کننده ریاضی"
+	},
+	"tour": {
+		"message": "تور پرنده یاور"
+	},
+	"reduce_motion_description": {
+		"message": "از نمایش انیمیشن در صفحات وب جلوگیری کنید."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader یک ابزار رایگان است که تکنیک های اثبات شده ای را برای بهبود خواندن و نوشتن پیاده سازی می کند"
+	},
+	"start": {
+		"message": "شروع کنید"
+	},
+	"learn_more": {
+		"message": "بیشتر بدانید"
+	},
+	"more": {
+		"message": "بیشتر"
+	},
+	"editor_title": {
+		"message": "ویرایشگر"
+	},
+	"editor_title_open": {
+		"message": "Helperbirds Editor را باز کنید"
+	},
+	"logout": {
+		"message": "خروج"
+	},
+	"signin": {
+		"message": "وارد شدن"
+	},
+	"define_title": {
+		"message": "فرهنگ لغت"
+	},
+	"define_title_open": {
+		"message": "دیکشنری را باز کنید"
+	},
+	"define_empty_title": {
+		"message": "یک کلمه را جستجو کنید و ما معنای آن را برمی گردانیم."
+	},
+	"define_search": {
+		"message": "جستجو کردن......"
+	},
+	"define_antonyms": {
+		"message": "متضادها"
+	},
+	"define_synonyms": {
+		"message": "مترادف ها"
+	},
+	"define_meanings": {
+		"message": "معانی"
+	},
+	"define_related": {
+		"message": "مربوط"
+	},
+	"define_etymology": {
+		"message": "علم اشتقاق لغات"
+	},
+	"export": {
+		"message": "صادرات"
+	},
+	"export_word": {
+		"message": "صادرات به Word"
+	},
+	"export_docs": {
+		"message": "صادرات به Google Docs"
+	},
+	"export_text": {
+		"message": "صادرات به فایل متنی"
+	},
+	"toolbar_pdf": {
+		"message": "پی دی اف خوان"
+	},
+	"toolbar_pdf_open": {
+		"message": "PDF Reader را باز کنید"
+	},
+	"menus": {
+		"message": "Google Docs & Pdfs"
+	},
+	"upgrade_message_title": {
+		"description": "افزونه Helperbird.",
+		"message": "به 1 دلار ارتقا دهید"
+	},
+	"upgrade_message_paragraph": {
+		"description": "افزونه Helperbird.",
+		"message": "به ویژگی های قدرتمندی مانند حالت Reader و $1 دسترسی داشته باشید."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "افزونه Helperbird.",
+		"message": "برای باز کردن قفل بیش از 30 ویژگی و پشتیبانی 24 ساعته، طرح زیر را انتخاب کنید."
+	},
+	"alert_message": {
+		"message": "برای دسترسی به همه ویژگی های Pro، ارتقا دهید یا وارد شوید."
+	},
+	"alert_loading": {
+		"message": "بارگذاری...."
+	},
+	"alert_clear": {
+		"message": "پاک کردن"
+	},
+	"alert_cleared": {
+		"message": "پاک شد"
+	},
+	"alert_download": {
+		"message": "دانلود"
+	},
+	"alert_no_data": {
+		"message": "هیچ نتیجه ای"
+	},
+	"annotations_notes": {
+		"message": "یادداشت"
+	},
+	"import_annotations": {
+		"message": "یادداشت ها را وارد کنید"
+	},
+	"options": {
+		"message": "گزینه ها"
+	},
+	"open_document": {
+		"message": "باز کردن سند"
+	},
+	"select_document": {
+		"message": "شما باید یک سند را انتخاب کنید."
+	},
+	"copied_document": {
+		"message": "سند کپی شد"
+	},
+	"saved_document": {
+		"message": "سند ذخیره شد"
+	},
+	"issue_saving": {
+		"message": "مشکل ذخیره"
+	},
+	"show_updates": {
+		"message": "نمایش به روز رسانی ها"
+	},
+	"new": {
+		"message": "جدید"
+	},
+	"pause": {
+		"message": "مکث کنید"
+	},
+	"removed_document": {
+		"message": "سند حذف شد"
+	},
+	"opening_document": {
+		"message": "سند افتتاحیه"
+	},
+	"get_started": {
+		"message": "شروع کنید"
+	},
+	"saved_to_documents": {
+		"message": "در اسناد شما ذخیره شد."
+	},
+	"message_alert": {
+		"message": "هر زمان که به آن نیاز داشتید به همه ویژگی های Helperbirds و پشتیبانی مشتری دسترسی پیدا کنید. بیش از 30 ویژگی"
+	},
+	"message_three_day": {
+		"message": "آزمایشی 3 روزه"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "ورودی های خود را بررسی کنید"
+	},
+	"upgrade": {
+		"message": "ارتقا دهید"
+	},
+	"upgrade_": {
+		"message": "به 1 دلار ارتقا دهید"
+	},
+	"website": {
+		"message": "سایت اینترنتی"
+	},
+	"description": {
+		"message": "شرح"
+	},
+	"capture": {
+		"message": "گرفتن"
+	},
+	"category": {
+		"message": "دسته بندی"
+	},
+	"error_found_label": {
+		"message": "خطایی وجود دارد"
+	},
+	"cancel": {
+		"message": "لغو کنید"
+	},
+	"readinglist_title": {
+		"message": "لیست خواندن"
+	},
+	"readinglist_title_open": {
+		"message": "لیست خواندن را باز کنید"
+	},
+	"note_removed": {
+		"message": "یادداشت حذف شد"
+	},
+	"note_removed_error": {
+		"message": "یادداشت حذف نشد."
+	},
+	"readinglist_removed": {
+		"message": "وب سایت حذف شد"
+	},
+	"settings_saved": {
+		"message": "تنظیمات ذخیره شد"
+	},
+	"check_for_updates": {
+		"message": "به روز رسانی را بررسی کنید"
+	},
+	"show_highlights": {
+		"message": "نمایش نکات برجسته در صفحه"
+	},
+	"account_title": {
+		"message": "حساب"
+	},
+	"account_description": {
+		"message": "ما از همان ایمیلی که شما وارد مرورگر خود می‌شوید به عنوان ورود به سیستم خود استفاده می‌کنیم."
+	},
+	"signed_in_as": {
+		"message": "به عنوان وارد شده است"
+	},
+	"subscription_title": {
+		"message": "اشتراک، ابونمان"
+	},
+	"current_plan": {
+		"message": "طرح فعلی شما"
+	},
+	"subscription_status": {
+		"message": "وضعیت اشتراک شما:"
+	},
+	"check_subscription": {
+		"message": "اشتراک را بررسی کنید"
+	},
+	"subscription_token_title": {
+		"message": "کلید اشتراک"
+	},
+	"subscription_token_description": {
+		"message": "اگر اشتراک Helperbird Pro دارید، آن را در زیر وارد کنید تا تمام ویژگی های Helperbird Pro باز شود."
+	},
+	"themes": {
+		"message": "تم ها"
+	},
+	"theme": {
+		"message": "موضوع"
+	},
+	"danger_zone_title": {
+		"message": "ذخیره سازی"
+	},
+	"danger_zone_description": {
+		"message": "دکمه زیر همه تنظیمات را پاک می کند و برنامه افزودنی را مانند جدید بودن شروع می کند. بنابراین مراقب باشید که نمی‌توانیم هر چیزی را که حذف کرده‌اید برگردانیم."
+	},
+	"delete_everything": {
+		"message": "همه چیز را حذف کنید"
+	},
+	"delete_this_note": {
+		"message": "این یادداشت را حذف کنید"
+	},
+	"visit_this_note": {
+		"message": "وب سایت ویست این یادداشت در آن است."
+	},
+	"everything_deleted": {
+		"message": "اکنون همه تنظیمات و فضای ذخیره سازی حذف شده است."
+	},
+	"enter_email": {
+		"message": "باید یک ایمیل وارد کنید."
+	},
+	"shortcuts": {
+		"message": "میانبرها"
+	},
+	"shortcuts_menu_on": {
+		"message": "میانبرها روشن هستند"
+	},
+	"shortcuts_menu_off": {
+		"message": "میانبرها خاموش هستند"
+	},
+	"shortcuts_title": {
+		"message": "میانبرها"
+	},
+	"shortcuts_description": {
+		"message": "میانبرها"
+	},
+	"shortcuts_ocr": {
+		"message": "OCR را فعال کنید"
+	},
+	"shortcuts_immsersive": {
+		"message": "خواننده Immersive را باز کنید"
+	},
+	"shortcuts_reader_mode": {
+		"message": "حالت Reader را باز کنید"
+	},
+	"annotate_page": {
+		"message": "حاشیه نویسی صفحه"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "PDF را باز کنید"
+	},
+	"open_pdf_zoom_out": {
+		"message": "کوچک نمایی"
+	},
+	"open_pdf_zoom_in": {
+		"message": "بزرگنمایی"
+	},
+	"settings": {
+		"message": "تنظیمات"
+	},
+	"support_videos": {
+		"message": "پشتیبانی از ویدیوها"
+	},
+	"review_us": {
+		"message": "ما را مرور کنید"
+	},
+	"view": {
+		"message": "چشم انداز"
+	},
+	"views": {
+		"message": "بازدیدها"
+	},
+	"no_favorites": {
+		"message": "موارد دلخواه وجود ندارد"
+	},
+	"sorting_none": {
+		"message": "چیزی پیدا نشد"
+	},
+	"sorting": {
+		"message": "مرتب سازی...."
+	},
+	"showing_favorites": {
+		"message": "نمایش موارد دلخواه"
+	},
+	"unpaid": {
+		"message": "اشتراک شما پرداخت نشده است."
+	},
+	"canceled": {
+		"message": "اشتراک شما لغو شده است."
+	},
+	"message_nothing_found": {
+		"message": "ما نتوانستیم اشتراکی پیدا کنیم."
+	},
+	"couldnt_interact_with_page": {
+		"message": "ما نتوانستیم هیچ متنی دریافت کنیم. لطفا دوباره امتحان کنید (Refresh). افزونه PDF یا Google Docs ما را امتحان کنید."
+	},
+	"unpinned_favorite": {
+		"message": "برگزیده حذف شد"
+	},
+	"pin_favorite": {
+		"message": "مورد علاقه"
+	},
+	"setting_saved": {
+		"message": "تنظیم ذخیره شد"
+	},
+	"favourite": {
+		"message": "مورد علاقه"
+	},
+	"un_favourite": {
+		"message": "نامطلوب"
+	},
+	"how_to_use": {
+		"message": "نحوه استفاده"
+	},
+	"search": {
+		"message": "جستجو کردن"
+	},
+	"search_feature": {
+		"message": "ویژگی های جستجو"
+	},
+	"filter_productivity": {
+		"message": "پژوهش"
+	},
+	"helperbird_apps": {
+		"message": "برنامه های پرنده کمکی"
+	},
+	"fav_message": {
+		"message": "به نظر می‌رسد هیچ ویژگی دلخواه ندارید. برای موارد دلخواه، روی سه نقطه کنار یک ویژگی کلیک کنید و بر روی دلخواه کلیک کنید."
+	},
+	"filter_features": {
+		"message": "ویژگی های فیلتر"
+	},
+	"student_offer": {
+		"message": "دانش آموزان Helperbird Pro را دریافت می کنند"
+	},
+	"filter_style": {
+		"message": "نمایش دادن"
+	},
+	"filter_text_to_speech": {
+		"message": "متن به گفتار"
+	},
+	"filter_dyslexia": {
+		"message": "نارساخوانی"
+	},
+	"filter_pro": {
+		"message": "ویژگی های حرفه ای"
+	},
+	"filter": {
+		"message": "فیلتر کنید"
+	},
+	"filter_writing": {
+		"message": "نوشتن"
+	},
+	"highlighter_title": {
+		"message": "هایلایتر"
+	},
+	"filter_reading": {
+		"message": "خواندن"
+	},
+	"filter_active": {
+		"message": "فعال"
+	},
+	"filter_audio": {
+		"message": "ویژگی های صوتی"
+	},
+	"feature_blindness": {
+		"message": "کور رنگی"
+	},
+	"feature_emphasize_links": {
+		"message": "روی پیوندها تاکید کنید"
+	},
+	"feature_emphasize_stroke": {
+		"message": "سکته مغزی متن"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "رنگ"
+	},
+	"color": {
+		"message": "رنگ"
+	},
+	"feature_specialized_font": {
+		"message": "فونت تخصصی"
+	},
+	"feature_specialized_font_options": {
+		"message": "گزینه های فونت"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "منوی برجسته روشن است"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "منوی برجسته خاموش است"
+	},
+	"feature_highlight_menu": {
+		"message": "منوی هایلایت"
+	},
+	"feature_highlight_menu_description": {
+		"message": "منوی متن برجسته ما را نشان می دهد."
+	},
+	"show": {
+		"message": "نمایش دهید"
+	},
+	"welcome": {
+		"message": "به Helperbird خوش آمدید"
+	},
+	"feature_immersive_reader": {
+		"message": "خواننده همهجانبه"
+	},
+	"create_a_new_note": {
+		"message": "یک یادداشت جدید ایجاد کنید"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "در این صفحه از خواننده Immersive توسط Microsoft استفاده کنید."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Docs & Slides"
+	},
+	"feature_toolbar_google_description": {
+		"message": "نوار ابزار Helperbird را به فایل‌های Google Doc اضافه می‌کند."
+	},
+	"feature_toolbar_pdf": {
+		"message": "نوار ابزار PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "نوار ابزار Helperbird را بر روی فایل های پی دی اف اضافه می کند."
+	},
+	"pause_helperbird": {
+		"message": "توقف 1 دلار"
+	},
+	"quick_action": {
+		"message": "اقدامات سریع"
+	},
+	"feature_pause_helperbird": {
+		"message": "1 دلار تخفیف دارد"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "1 دلار روشن است"
+	},
+	"voice_typing_is_on": {
+		"message": "تایپ صوتی روشن است"
+	},
+	"voice_typing_is_off": {
+		"message": "تایپ صوتی خاموش است"
+	},
+	"helperbird_paused": {
+		"message": "پرنده کمکی خاموش است"
+	},
+	"helperbird_running": {
+		"message": "پرنده کمکی در حال دویدن"
+	},
+	"applying_settings": {
+		"message": "اعمال تنظیمات شما"
+	},
+	"feature_favorites": {
+		"message": "موارد دلخواه"
+	},
+	"all_feature_favorites": {
+		"message": "همه"
+	},
+	"hide_feature_favorites": {
+		"message": "موارد دلخواه را مخفی کنید"
+	},
+	"feature_favorites_description": {
+		"message": "فقط موارد دلخواه را نشان دهید."
+	},
+	"feature_print": {
+		"message": "چاپ"
+	},
+	"feature_print_description": {
+		"message": "صفحه فعلی را چاپ کنید."
+	},
+	"feature_printing_success": {
+		"message": "باز کردن چاپ"
+	},
+	"feature_reader_mode": {
+		"message": "حالت خواننده"
+	},
+	"feature_readermode_opening": {
+		"message": "باز کردن حالت Reader"
+	},
+	"feature_readermode_closing": {
+		"message": "بستن حالت Reader"
+	},
+	"view_table": {
+		"message": "نمای جدول"
+	},
+	"view_time": {
+		"message": "نمای خط زمانی"
+	},
+	"view_card": {
+		"message": "نمای کارت"
+	},
+	"feature_screenshot": {
+		"message": "اسکرین شات"
+	},
+	"feature_screenshot_description": {
+		"message": "از صفحه فعلی اسکرین شات بگیرید."
+	},
+	"feature_screenshot_error": {
+		"message": "خطا در گرفتن اسکرین شات"
+	},
+	"feature_screenshot_success": {
+		"message": "گرفتن اسکرین شات"
+	},
+	"feature_tooltip": {
+		"message": "توضیحات تصویر"
+	},
+	"feature_tooltip_description": {
+		"message": "تگ های alt و title را روی ماوس نشان دهید."
+	},
+	"feature_translate": {
+		"message": "ترجمه کردن"
+	},
+	"feature_language": {
+		"message": "زبان ها"
+	},
+	"feature_magnifier": {
+		"message": "ذره بین"
+	},
+	"feature_magnifier_description": {
+		"message": "ذره بین"
+	},
+	"percentage": {
+		"message": "درصد"
+	},
+	"feature_analyze": {
+		"message": "تعداد کلمه"
+	},
+	"feature_analyze_description": {
+		"message": "تجزیه و تحلیل"
+	},
+	"feature_analyze_words": {
+		"message": "کلمات"
+	},
+	"feature_analyze_characters": {
+		"message": "شخصیت ها"
+	},
+	"feature_annotations": {
+		"message": "یادداشت"
+	},
+	"feature_annotations_description": {
+		"message": "با گذاشتن یک یادداشت چسبناک جدید، صفحه را حاشیه نویسی کنید."
+	},
+	"feature_annotate_open": {
+		"message": "ایجاد یک یادداشت جدید"
+	},
+	"annotate": {
+		"message": "حاشیه نویسی کنید"
+	},
+	"feature_cognitive_load": {
+		"message": "تندخوانی"
+	},
+	"bold": {
+		"message": "جسارت"
+	},
+	"feature_background_color": {
+		"message": "رنگ پس زمینه"
+	},
+	"feature_font_color": {
+		"message": "رنگ فونت"
+	},
+	"feature_highlight_menu_min": {
+		"message": "منو"
+	},
+	"feature_highlight_color": {
+		"message": "رنگ برجسته کنید"
+	},
+	"feature_link_color": {
+		"message": "رنگ پیوند"
+	},
+	"feature_cursor_size": {
+		"message": "اندازه مکان نما"
+	},
+	"feature_font_size": {
+		"message": "اندازه متن"
+	},
+	"feature_font_size_titles": {
+		"message": "اندازه سرصفحه ها"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "اندازه پاراگراف ها"
+	},
+	"feature_gray_hue": {
+		"message": "رنگ خاکستری"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "پاراگراف ها را برجسته کنید"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "رنگ پاراگراف ها را برجسته کنید"
+	},
+	"feature_images_hide_title": {
+		"message": "مخفی کردن تصاویر"
+	},
+	"hide": {
+		"message": "پنهان شدن"
+	},
+	"feature_images_hide": {
+		"message": "همه تصاویر را مخفی کنید"
+	},
+	"feature_images_hide_gifs": {
+		"message": "گیف ها را مخفی کنید"
+	},
+	"feature_high_contast": {
+		"message": "کنتراست بالا"
+	},
+	"feature_text_adjustments": {
+		"message": "تنظیمات متن"
+	},
+	"feature_text_align": {
+		"message": "تراز کردن متن"
+	},
+	"feature_text_alignment": {
+		"message": "هم ترازی"
+	},
+	"feature_letter_spacing": {
+		"message": "فاصله بین حروف"
+	},
+	"spacing": {
+		"message": "فاصله گذاری"
+	},
+	"feature_line_height_spacing": {
+		"message": "ارتفاع خط"
+	},
+	"height": {
+		"message": "ارتفاع"
+	},
+	"feature_line_focus": {
+		"message": "فوکوس خط"
+	},
+	"feature_line_focus_color": {
+		"message": "رنگ فوکوس خط"
+	},
+	"feature_line_focus_height": {
+		"message": "ارتفاع فوکوس خط"
+	},
+	"feature_mute": {
+		"message": "ویدیو را بی صدا کنید"
+	},
+	"feature_mute_description": {
+		"message": "ویدیوها و صداها را از صفحات بی صدا کنید."
+	},
+	"ocr_read_words": {
+		"message": "متن استخراج شده را بخوانید"
+	},
+	"text": {
+		"message": "متن"
+	},
+	"ocr_read_words_save": {
+		"message": "ذخیره متن استخراج شده"
+	},
+	"feature_extract_text": {
+		"message": "استخراج متن (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "فعال کنید، ناحیه روی صفحه را انتخاب کنید."
+	},
+	"feature_overlay": {
+		"message": "پوشش"
+	},
+	"feature_overlay_color": {
+		"message": "رنگ روکش"
+	},
+	"feature_paragraph_width": {
+		"message": "عرض پاراگراف"
+	},
+	"width": {
+		"message": "عرض"
+	},
+	"highlighted_text": {
+		"message": "متن هایلایت شده"
+	},
+	"issue_on_page": {
+		"message": "موضوع"
+	},
+	"feature_reading_guide": {
+		"message": "راهنمای خواندن"
+	},
+	"feature_reading_guide_color": {
+		"message": "رنگ راهنمای خواندن"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "خط کش نارساخوانی"
+	},
+	"feature_ruler_width": {
+		"message": "عرض خط کش"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "ارتفاع"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "موقعیت"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "رنگ"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "دنبال کردن"
+	},
+	"feature_auto_scroll": {
+		"message": "اسکرول خودکار"
+	},
+	"speed": {
+		"message": "سرعت"
+	},
+	"subscription_deleted": {
+		"message": "اشتراک لغو شد"
+	},
+	"title_enjoy_until": {
+		"message": "از آزمایش خود لذت ببرید تا زمانی که"
+	},
+	"incomplete_expired": {
+		"message": "ما نتوانستیم پرداخت را تکمیل کنیم."
+	},
+	"past_due": {
+		"message": "سررسید اشتراک شما تمام شده است."
+	},
+	"incomplete": {
+		"message": "ما نتوانستیم پرداخت را تکمیل کنیم."
+	},
+	"transparency": {
+		"message": "روشنایی"
+	},
+	"title_message_full": {
+		"message": "اشتراک Helperbird Pro پیدا شد."
+	},
+	"contact_support": {
+		"message": "لطفا با پشتیبانی تماس بگیرید."
+	},
+	"buy": {
+		"message": "۱ دلار بخرید"
+	},
+	"feature_voice_typing": {
+		"message": "تایپ صوتی"
+	},
+	"feature_voice_typing_description": {
+		"message": "تایپ صوتی را در همه ورودی ها اضافه می کند. فقط روی دکمه ورودی کلیک کنید."
+	},
+	"google_docs_notice": {
+		"message": "ما اکنون یک Google Addon داریم! برای دریافت پشتیبانی بیشتر، نصب کنید."
+	},
+	"feature_spell_check": {
+		"message": "بررسی املا"
+	},
+	"feature_summarize": {
+		"message": "صفحه خلاصه کردن"
+	},
+	"feature_summarize_description": {
+		"message": "این صفحه را خلاصه کنید"
+	},
+	"feature_text_to_speech_options": {
+		"message": "گزینه های متن به گفتار"
+	},
+	"feature_speech_voice": {
+		"message": "صدا"
+	},
+	"feature_speech_speed": {
+		"message": "سرعت"
+	},
+	"feature_speech_pitch": {
+		"message": "گام صدا"
+	},
+	"feature_speech_volume": {
+		"message": "جلد"
+	},
+	"feature_speech_highlight_color": {
+		"message": "رنگ برجسته کنید"
+	},
+	"feature_speech_reading_success": {
+		"message": "خواندن متن انتخاب شده"
+	},
+	"feature_text_to_speech": {
+		"message": "متن به گفتار"
+	},
+	"you_need_to_highlight": {
+		"message": "باید متنی را هایلایت کنید."
+	},
+	"feature_word_prediction": {
+		"message": "پیش بینی کلمه"
+	},
+	"feature_word_prediction_description": {
+		"message": "پیش‌بینی کلمه Helperbirds را در ورودی‌ها روشن کنید."
+	},
+	"feature_word_spacing": {
+		"message": "فاصله کلمات"
+	},
+	"full_Screen": {
+		"message": "تمام صفحه"
+	},
+	"voice_typing_stop": {
+		"message": "توقف تایپ صوتی"
+	},
+	"voice_typing_start": {
+		"message": "الان صحبت کن."
+	},
+	"speak_word_on_hover": {
+		"message": "بلند خواندن."
+	},
+	"speak_word_on_hover_info": {
+		"message": "کلمه را در حالت شناور می خواند."
+	},
+	"speak": {
+		"message": "صحبت"
+	},
+	"auto_scroll_start": {
+		"message": "پیمایش خودکار شروع شد."
+	},
+	"auto_scroll_stop": {
+		"message": "پیمایش خودکار متوقف شد."
+	},
+	"popup_immersive_success": {
+		"message": "در حال بارگیری خواننده همه جانبه."
+	},
+	"popup_readermode_success": {
+		"message": "باز کردن حالت Reader."
+	},
+	"popup_printing_success": {
+		"message": "باز کردن چاپ"
+	},
+	"ocr_select": {
+		"message": "منطقه را در صفحه انتخاب کنید."
+	},
+	"ocr_extracted": {
+		"message": "متن استخراج شد"
+	},
+	"ocr_extracting": {
+		"message": "استخراج کردن"
+	},
+	"ocr_copy": {
+		"message": "متن کپی شده از تصویر در کلیپ بورد شما ذخیره شد."
+	},
+	"ocr_no_text": {
+		"message": "متنی پیدا نشد"
+	},
+	"popup_note_success": {
+		"message": "در یادداشت های شما ذخیره شد."
+	},
+	"popup_immersive_error": {
+		"message": "خطا در بارگیری خواننده Immersive"
+	},
+	"popup_summarize_error": {
+		"message": "خطا در خلاصه‌سازی صفحه."
+	},
+	"popup_saving_error": {
+		"message": "خطا در ذخیره"
+	},
+	"popup_summarize_success": {
+		"message": "صفحه جمع بندی"
+	},
+	"popup_readermode_closing": {
+		"message": "بستن حالت Reader"
+	},
+	"close": {
+		"message": "نزدیک"
+	},
+	"your_note_was_saved": {
+		"message": "یادداشت شما ذخیره شد."
+	},
+	"error_saving_your_note": {
+		"message": "خطا در ذخیره یادداشت شما. لطفا دوباره تلاش کنید."
+	},
+	"popup_readinglist_error": {
+		"message": "خطا در ذخیره در لیست خواندن"
+	},
+	"popup_readinglist_success": {
+		"message": "در لیست خواندن ذخیره شد"
+	},
+	"popup_screenshot_error": {
+		"message": "خطا در گرفتن اسکرین شات"
+	},
+	"popup_screenshot_success": {
+		"message": "گرفتن اسکرین شات"
+	},
+	"copied_text": {
+		"message": "متن کپی شده"
+	},
+	"copied_text_error": {
+		"message": "خطا در کپی کردن متن"
+	},
+	"ocr_loading": {
+		"message": "در حال بارگیری Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "در یادداشت های شما ذخیره شد"
+	},
+	"popup_reading_success": {
+		"message": "خواندن متن انتخاب شده"
+	},
+	"popup_reading_finished": {
+		"message": "خواندن تمام شد"
+	},
+	"popup_reading_error": {
+		"message": "توقف"
+	},
+	"popup_reading_stopping": {
+		"message": "توقف"
+	},
+	"popup_reading_pause": {
+		"message": "مکث شد"
+	},
+	"notifcations_upgrade_title": {
+		"message": "برای استفاده از این ویژگی باید Helperbird Pro را ارتقا دهید."
+	},
+	"menu_define": {
+		"message": "کلمه را تعریف کنید"
+	},
+	"menu_website_readinglist": {
+		"message": "وب سایت را به لیست خواندن اضافه کنید"
+	},
+	"menu_readinglist": {
+		"message": "به لیست خواندن اضافه کنید"
+	},
+	"menu_text_to_speech": {
+		"message": "متن به گفتار"
+	},
+	"menu_play": {
+		"message": "بازی"
+	},
+	"menu_pause": {
+		"message": "مکث کنید"
+	},
+	"menu_stop": {
+		"message": "متوقف کردن"
+	},
+	"menu_resume": {
+		"message": "از سرگیری"
+	},
+	"menu_screenshot": {
+		"message": "عکسبرداری از صفحه مانیتور"
+	},
+	"menu_share": {
+		"message": "اشتراک گذاری"
+	},
+	"menu_reader_mode": {
+		"message": "در حالت Reader مشاهده کنید"
+	},
+	"menu_translate": {
+		"message": "ترجمه کردن"
+	},
+	"road_map": {
+		"message": "نقشه راه"
+	},
+	"menu_immersive_reader": {
+		"message": "مشاهده در خواننده Immersive"
+	},
+	"menu_summarize": {
+		"message": "صفحه خلاصه کردن"
+	},
+	"menu_summarize_page": {
+		"message": "صفحه خلاصه شد"
+	},
+	"menu_annotate_page": {
+		"message": "حاشیه نویسی صفحه"
+	}
+}

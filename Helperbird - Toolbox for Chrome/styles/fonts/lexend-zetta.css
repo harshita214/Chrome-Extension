@@ -1,0 +1,97 @@
+@font-face {
+	font-family: 'Lexend Zetta';
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2'),
+		url('moz-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2'),
+		url('safari-web-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Lexend Zetta';
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2'),
+		url('moz-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2'),
+		url('safari-web-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2');
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'Lexend Zetta';
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2'),
+		url('moz-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2'),
+		url('safari-web-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Lexend Zetta';
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2'),
+		url('moz-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2'),
+		url('safari-web-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Lexend Zetta';
+	src: url('chrome-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2'),
+		url('moz-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2'),
+		url('safari-web-extension://__MSG_@@extension_id__/fonts/custom/lexend/lexend-zetta.woff2')
+			format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+
+:root {
+	--helperbird-font: 'Lexend Zetta', serif, Elusive-Icons, FontAwesome,
+		'Glyphicons Halflings', sans-serif, docons, 'AzureDevOpsMDL2Assets',
+		trellicons, 'Material Icons', 'Material Icons Extended', 'Bol Symbols',
+		Graphik, controlIcons, FontAwesome3, 'controlIcons', 'FontAwesome4',
+		'symbolFont', 'ms-Icon', 'FontAwesome5', 'nf-icon', 'icon-font',
+		'Segoe UI Web (West European)', 'Segoe UI', 'FabricMDL2Icons', 'FabAppIcons',
+		'Segoe UI Web (West European)', 'Segoe UI', -apple-system,
+		BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', sans-serif,
+		'FabricMDL2Icons-0', 'FabricMDL2Icons-1', 'FabricMDL2Icons-2',
+		'FabricMDL2Icons-15';
+}
+
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+input,
+ul,
+span,
+strong,
+th,
+td,
+ul,
+li,
+ol,
+button,
+::slotted(*),
+:host,
+#helperbird-reader-js > *,
+#helperbird-reader-js {
+	font-family: var(--helperbird-font) !important;
+}

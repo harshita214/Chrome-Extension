@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird pārlūkam Chrome"
+	},
+	"appDescription": {
+		"message": "Vairāk nekā 32 pieejamības un produktivitātes līdzekļi, kas izstrādāti, lai atbalstītu visa veida lasītājus, izglītojamos un rakstītājus. Ietver disleksijas atbalstu."
+	},
+	"helpGuide": {
+		"message": "Palīdzības ceļveži"
+	},
+	"upgrade_title": {
+		"message": "Helperbird Pro funkcija"
+	},
+	"upgrade_description": {
+		"message": "Lai izmantotu šo funkciju, jums ir nepieciešams Helperbird Pro abonements. Neuztraucieties, tas ir 40 USD gadā vai 4,99 mēnesī."
+	},
+	"plan_deal": {
+		"message": "Studentu piedāvājums"
+	},
+	"plan_month": {
+		"message": "Mēneša piedāvājums"
+	},
+	"plan_year": {
+		"message": "Gada piedāvājums"
+	},
+	"upgrade_message": {
+		"message": "Jauniniet uz Helperbird Pro, lai atbloķētu visas funkcijas."
+	},
+	"column_title": {
+		"message": "Kolonna"
+	},
+	"upgrade_now": {
+		"message": "Uzlabot tagad"
+	},
+	"upgrade_to_pro": {
+		"message": "Jauniniet uz Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Atklājiet Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Lūdzu, pierakstieties Helperbird vai ievadiet savu abonēšanas atslēgu."
+	},
+	"privacy": {
+		"message": "Privātums"
+	},
+	"whats_new": {
+		"message": "Kas jauns"
+	},
+	"privacy_details": {
+		"message": "Mēs cienām jūsu privātumu, tāpēc šeit tas ir skaidrā un vienkāršā valodā."
+	},
+	"privacy_details_one": {
+		"message": "Uzņēmums Helperbird ļoti nopietni cienām un uztveram jūsu privātumu. Tāpēc mēs neko neglabājam un nevācam."
+	},
+	"privacy_details_two": {
+		"message": "Vienīgais, pieprasot savu e-pastu, kad piesakāties. Lai pārbaudītu, vai jūsu skolas vai uzņēmuma domēns ir apmaksāts vai esat samaksājis par kontu Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Viss, ko darāt, un saglabātie iestatījumi paliek lokāli jūsu pārlūkprogrammā. Nekad neatstāj savu datoru."
+	},
+	"free": {
+		"message": "Bezmaksas"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "Ieslēgts"
+	},
+	"on_lower": {
+		"message": "ieslēgts"
+	},
+	"off": {
+		"message": "Izslēgts"
+	},
+	"off_lower": {
+		"message": "izslēgts"
+	},
+	"notes": {
+		"message": "Piezīmes"
+	},
+	"open_notes": {
+		"message": "Atvērt piezīmes"
+	},
+	"save": {
+		"message": "Saglabāt"
+	},
+	"clear": {
+		"message": "Skaidrs"
+	},
+	"manage": {
+		"message": "Pārvaldīt"
+	},
+	"open": {
+		"message": "Atvērt"
+	},
+	"copy": {
+		"message": "Kopēt"
+	},
+	"delete": {
+		"message": "Dzēst"
+	},
+	"documents": {
+		"message": "Dokumenti"
+	},
+	"remove": {
+		"message": "Noņemt"
+	},
+	"version": {
+		"message": "Versija"
+	},
+	"visit": {
+		"message": "Vizīte"
+	},
+	"no_results": {
+		"message": "Nav rezultātu"
+	},
+	"reduce_motion": {
+		"message": "Animācijas"
+	},
+	"maths_steps": {
+		"message": "Matemātikas risinātājs"
+	},
+	"tour": {
+		"message": "Palīdzības putnu tūre"
+	},
+	"reduce_motion_description": {
+		"message": "Novērst animācijas rādīšanu Web lapās."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader ir bezmaksas rīks, kas ievieš pārbaudītas metodes lasīšanas un rakstīšanas uzlabošanai"
+	},
+	"start": {
+		"message": "Sākt"
+	},
+	"learn_more": {
+		"message": "Uzzināt vairāk"
+	},
+	"more": {
+		"message": "Vairāk"
+	},
+	"editor_title": {
+		"message": "Redaktors"
+	},
+	"editor_title_open": {
+		"message": "Atveriet Helperbirds redaktoru"
+	},
+	"logout": {
+		"message": "Izlogoties"
+	},
+	"signin": {
+		"message": "Pieslēgties"
+	},
+	"define_title": {
+		"message": "Vārdnīca"
+	},
+	"define_title_open": {
+		"message": "Atvērt vārdnīcu"
+	},
+	"define_empty_title": {
+		"message": "Meklējiet vārdu, un mēs atgriezīsim tā nozīmi."
+	},
+	"define_search": {
+		"message": "Meklēt......"
+	},
+	"define_antonyms": {
+		"message": "Antonīmus"
+	},
+	"define_synonyms": {
+		"message": "Sinonīmi"
+	},
+	"define_meanings": {
+		"message": "Nozīmes"
+	},
+	"define_related": {
+		"message": "Saistīts"
+	},
+	"define_etymology": {
+		"message": "Etimoloģija"
+	},
+	"export": {
+		"message": "Eksportēt"
+	},
+	"export_word": {
+		"message": "Eksportēt uz Word"
+	},
+	"export_docs": {
+		"message": "Eksportēt uz Google dokumentiem"
+	},
+	"export_text": {
+		"message": "Eksportēt uz teksta failu"
+	},
+	"toolbar_pdf": {
+		"message": "PDF lasītājs"
+	},
+	"toolbar_pdf_open": {
+		"message": "Atveriet PDF lasītāju"
+	},
+	"menus": {
+		"message": "Google dokumenti un PDF"
+	},
+	"upgrade_message_title": {
+		"description": "Helperbird paplašinājums.",
+		"message": "Jauniniet uz $1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Helperbird paplašinājums.",
+		"message": "Piekļūstiet jaudīgām funkcijām, piemēram, lasītāja režīmam un 1 $."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Helperbird paplašinājums.",
+		"message": "Izvēlieties tālāk esošo plānu, lai atbloķētu vairāk nekā 30 funkcijas un 24 stundu atbalstu."
+	},
+	"alert_message": {
+		"message": "Jauniniet vai piesakieties, lai piekļūtu visām Pro funkcijām."
+	},
+	"alert_loading": {
+		"message": "Notiek ielāde..."
+	},
+	"alert_clear": {
+		"message": "Skaidrs"
+	},
+	"alert_cleared": {
+		"message": "Notīrīts"
+	},
+	"alert_download": {
+		"message": "Lejupielādēt"
+	},
+	"alert_no_data": {
+		"message": "Nav rezultātu"
+	},
+	"annotations_notes": {
+		"message": "Piezīmes"
+	},
+	"import_annotations": {
+		"message": "Importēt piezīmes"
+	},
+	"options": {
+		"message": "Iespējas"
+	},
+	"open_document": {
+		"message": "Atvērt dokumentu"
+	},
+	"select_document": {
+		"message": "Jums ir jāizvēlas dokuments."
+	},
+	"copied_document": {
+		"message": "Dokuments nokopēts"
+	},
+	"saved_document": {
+		"message": "Dokuments saglabāts"
+	},
+	"issue_saving": {
+		"message": "Problēmas saglabāšana"
+	},
+	"show_updates": {
+		"message": "Rādīt atjauninājumus"
+	},
+	"new": {
+		"message": "Jauns"
+	},
+	"pause": {
+		"message": "Pauze"
+	},
+	"removed_document": {
+		"message": "Dokuments noņemts"
+	},
+	"opening_document": {
+		"message": "Dokumenta atvēršana"
+	},
+	"get_started": {
+		"message": "Sāc"
+	},
+	"saved_to_documents": {
+		"message": "Saglabāts jūsu dokumentos."
+	},
+	"message_alert": {
+		"message": "Piekļūstiet visām Helperbird funkcijām un klientu atbalstam, kad vien tas nepieciešams. Vairāk nekā 30 funkcijas."
+	},
+	"message_three_day": {
+		"message": "3 dienu izmēģinājums"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Pārbaudiet ievadītos datus"
+	},
+	"upgrade": {
+		"message": "Jaunināt"
+	},
+	"upgrade_": {
+		"message": "Jauniniet uz $1"
+	},
+	"website": {
+		"message": "Tīmekļa vietne"
+	},
+	"description": {
+		"message": "Apraksts"
+	},
+	"capture": {
+		"message": "Uzņemt"
+	},
+	"category": {
+		"message": "Kategorija"
+	},
+	"error_found_label": {
+		"message": "Ir radusies kļūda"
+	},
+	"cancel": {
+		"message": "Atcelt"
+	},
+	"readinglist_title": {
+		"message": "Lasīšanas saraksts"
+	},
+	"readinglist_title_open": {
+		"message": "Atveriet lasīšanas sarakstu"
+	},
+	"note_removed": {
+		"message": "Piezīme noņemta."
+	},
+	"note_removed_error": {
+		"message": "Nevarēja noņemt piezīmi."
+	},
+	"readinglist_removed": {
+		"message": "Vietne noņemta"
+	},
+	"settings_saved": {
+		"message": "Iestatījumi saglabāti"
+	},
+	"check_for_updates": {
+		"message": "Meklēt atjauninājumus"
+	},
+	"show_highlights": {
+		"message": "Rādīt svarīgākos punktus lapā."
+	},
+	"account_title": {
+		"message": "Konts"
+	},
+	"account_description": {
+		"message": "Mēs izmantojam to pašu e-pastu, ar kuru jūs pierakstāties savā pārlūkprogrammā, kā savu pieteikšanos."
+	},
+	"signed_in_as": {
+		"message": "Pierakstījies kā"
+	},
+	"subscription_title": {
+		"message": "Abonēšana"
+	},
+	"current_plan": {
+		"message": "Jūsu pašreizējais plāns"
+	},
+	"subscription_status": {
+		"message": "Jūsu abonementa statuss:"
+	},
+	"check_subscription": {
+		"message": "Pārbaudiet abonementu"
+	},
+	"subscription_token_title": {
+		"message": "Abonēšanas atslēga"
+	},
+	"subscription_token_description": {
+		"message": "Ja jums ir Helperbird Pro abonements, ievadiet to tālāk, lai atbloķētu visas Helperbird Pro funkcijas."
+	},
+	"themes": {
+		"message": "Tēmas"
+	},
+	"theme": {
+		"message": "Tēma"
+	},
+	"danger_zone_title": {
+		"message": "Uzglabāšana"
+	},
+	"danger_zone_description": {
+		"message": "Tālāk esošā poga notīrīs visus iestatījumus un sāks paplašinājumu tā, it kā tas būtu jauns. Tāpēc esiet piesardzīgs, mēs nevaram atgūt neko, ko izdzēsāt."
+	},
+	"delete_everything": {
+		"message": "Dzēst visu"
+	},
+	"delete_this_note": {
+		"message": "Dzēst šo piezīmi."
+	},
+	"visit_this_note": {
+		"message": "Apmeklējiet vietni, kurā šī piezīme ir ieslēgta."
+	},
+	"everything_deleted": {
+		"message": "Visi iestatījumi un krātuve tagad ir izdzēsti."
+	},
+	"enter_email": {
+		"message": "Jums jāievada e-pasts."
+	},
+	"shortcuts": {
+		"message": "Īsceļi"
+	},
+	"shortcuts_menu_on": {
+		"message": "Īsceļi ir ieslēgti"
+	},
+	"shortcuts_menu_off": {
+		"message": "Īsceļi ir izslēgti"
+	},
+	"shortcuts_title": {
+		"message": "Īsceļi"
+	},
+	"shortcuts_description": {
+		"message": "Īsceļi"
+	},
+	"shortcuts_ocr": {
+		"message": "Iespējot OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Atveriet ieskaujošo lasītāju"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Atveriet lasītāja režīmu"
+	},
+	"annotate_page": {
+		"message": "Anotācijas lapa"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Atveriet PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Attālināt"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Pietuvināt"
+	},
+	"settings": {
+		"message": "Iestatījumi"
+	},
+	"support_videos": {
+		"message": "Atbalsta video"
+	},
+	"review_us": {
+		"message": "Pārskatiet mūs"
+	},
+	"view": {
+		"message": "Skatīt"
+	},
+	"views": {
+		"message": "Skati"
+	},
+	"no_favorites": {
+		"message": "Nav favorītu"
+	},
+	"sorting_none": {
+		"message": "Neko nevarēja atrast."
+	},
+	"sorting": {
+		"message": "Šķirošana..."
+	},
+	"showing_favorites": {
+		"message": "Rāda izlases"
+	},
+	"unpaid": {
+		"message": "Jūsu abonements ir neapmaksāts."
+	},
+	"canceled": {
+		"message": "Jūsu abonements ir atcelts."
+	},
+	"message_nothing_found": {
+		"message": "Mēs nevarējām atrast abonementu."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Mēs nevarējām saņemt īsziņu. Lūdzu, mēģiniet vēlreiz (atsvaidzināt). Izmēģiniet mūsu PDF vai Google dokumentu papildinājumu."
+	},
+	"unpinned_favorite": {
+		"message": "Noņemts no izlases"
+	},
+	"pin_favorite": {
+		"message": "Izlase"
+	},
+	"setting_saved": {
+		"message": "Iestatījums saglabāts"
+	},
+	"favourite": {
+		"message": "Mīļākais"
+	},
+	"un_favourite": {
+		"message": "Neiecienīts"
+	},
+	"how_to_use": {
+		"message": "Kā izmantot"
+	},
+	"search": {
+		"message": "Meklēt"
+	},
+	"search_feature": {
+		"message": "Meklēšanas iespējas"
+	},
+	"filter_productivity": {
+		"message": "Pētījumi"
+	},
+	"helperbird_apps": {
+		"message": "Helperbird lietotnes"
+	},
+	"fav_message": {
+		"message": "Šķiet, ka jums nav nevienas iecienītas funkcijas. Lai pievienotu izlasei, noklikšķiniet uz trim punktiem blakus objektam un noklikšķiniet uz izlases."
+	},
+	"filter_features": {
+		"message": "Filtra funkcijas"
+	},
+	"student_offer": {
+		"message": "Studenti saņem Helperbird Pro par"
+	},
+	"filter_style": {
+		"message": "Displejs"
+	},
+	"filter_text_to_speech": {
+		"message": "No teksta uz izrunu"
+	},
+	"filter_dyslexia": {
+		"message": "Disleksija"
+	},
+	"filter_pro": {
+		"message": "Pro funkcijas"
+	},
+	"filter": {
+		"message": "Filtrs"
+	},
+	"filter_writing": {
+		"message": "Rakstīšana"
+	},
+	"highlighter_title": {
+		"message": "Izcēlājs"
+	},
+	"filter_reading": {
+		"message": "Lasīšana"
+	},
+	"filter_active": {
+		"message": "Aktīvs"
+	},
+	"filter_audio": {
+		"message": "Audio funkcijas"
+	},
+	"feature_blindness": {
+		"message": "Krāsu aklums"
+	},
+	"feature_emphasize_links": {
+		"message": "Uzsveriet saites"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Teksta triepiens"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Krāsa"
+	},
+	"color": {
+		"message": "Krāsa"
+	},
+	"feature_specialized_font": {
+		"message": "Specializēts fonts"
+	},
+	"feature_specialized_font_options": {
+		"message": "Fonta iespējas"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Izcelšanas izvēlne ir ieslēgta"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Izcelšanas izvēlne ir izslēgta"
+	},
+	"feature_highlight_menu": {
+		"message": "Izcelt izvēlni"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Parāda mūsu izceltā teksta izvēlni."
+	},
+	"show": {
+		"message": "Rādīt"
+	},
+	"welcome": {
+		"message": "Laipni lūdzam Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Iespaidīgs lasītājs"
+	},
+	"create_a_new_note": {
+		"message": "Izveidojiet jaunu piezīmi"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Izmantojiet Microsoft Immersive Reader šajā lapā."
+	},
+	"feature_toolbar_google": {
+		"message": "Google dokumenti un prezentācijas"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Google doc failiem pievieno Helperbird rīkjoslu."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF rīkjosla"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Pdf failiem pievieno Helperbird rīkjoslu."
+	},
+	"pause_helperbird": {
+		"message": "Pārtraukt $1"
+	},
+	"quick_action": {
+		"message": "Ātras darbības"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 ir izslēgts"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 ir ieslēgts"
+	},
+	"voice_typing_is_on": {
+		"message": "Balss rakstīšana ir ieslēgta"
+	},
+	"voice_typing_is_off": {
+		"message": "Rakstīšana ar balsi ir izslēgta"
+	},
+	"helperbird_paused": {
+		"message": "Helperbird off"
+	},
+	"helperbird_running": {
+		"message": "Palīdzības putns skrien"
+	},
+	"applying_settings": {
+		"message": "Jūsu iestatījumu piemērošana"
+	},
+	"feature_favorites": {
+		"message": "Izlase"
+	},
+	"all_feature_favorites": {
+		"message": "Visi"
+	},
+	"hide_feature_favorites": {
+		"message": "Slēpt izlasi"
+	},
+	"feature_favorites_description": {
+		"message": "Rādīt tikai izlasi."
+	},
+	"feature_print": {
+		"message": "Drukāt"
+	},
+	"feature_print_description": {
+		"message": "Izdrukājiet pašreizējo lapu."
+	},
+	"feature_printing_success": {
+		"message": "Atvēršanas drukāšana"
+	},
+	"feature_reader_mode": {
+		"message": "Lasītāja režīms"
+	},
+	"feature_readermode_opening": {
+		"message": "Tiek atvērts lasītāja režīms"
+	},
+	"feature_readermode_closing": {
+		"message": "Lasītāja režīma aizvēršana"
+	},
+	"view_table": {
+		"message": "Tabulas skats"
+	},
+	"view_time": {
+		"message": "Laika skalas skats"
+	},
+	"view_card": {
+		"message": "Kartes skats"
+	},
+	"feature_screenshot": {
+		"message": "Ekrānuzņēmums"
+	},
+	"feature_screenshot_description": {
+		"message": "Uzņemiet pašreizējās lapas ekrānuzņēmumu."
+	},
+	"feature_screenshot_error": {
+		"message": "Tverot ekrānuzņēmumu, radās kļūda"
+	},
+	"feature_screenshot_success": {
+		"message": "Notiek ekrānuzņēmuma tveršana"
+	},
+	"feature_tooltip": {
+		"message": "Attēlu apraksti"
+	},
+	"feature_tooltip_description": {
+		"message": "Rādīt alt un virsraksta tagus, novietojot kursoru virs."
+	},
+	"feature_translate": {
+		"message": "Tulkot"
+	},
+	"feature_language": {
+		"message": "Valodas"
+	},
+	"feature_magnifier": {
+		"message": "Lupa"
+	},
+	"feature_magnifier_description": {
+		"message": "Lupa"
+	},
+	"percentage": {
+		"message": "Procenti"
+	},
+	"feature_analyze": {
+		"message": "Vārdu skaits"
+	},
+	"feature_analyze_description": {
+		"message": "analizēt"
+	},
+	"feature_analyze_words": {
+		"message": "vārdus"
+	},
+	"feature_analyze_characters": {
+		"message": "rakstzīmes"
+	},
+	"feature_annotations": {
+		"message": "Piezīmes"
+	},
+	"feature_annotations_description": {
+		"message": "Anotējiet lapu, atstājot jaunu līmlapiņu."
+	},
+	"feature_annotate_open": {
+		"message": "Jaunas piezīmes izveide"
+	},
+	"annotate": {
+		"message": "Anotēt"
+	},
+	"feature_cognitive_load": {
+		"message": "Ātrlasīšana"
+	},
+	"bold": {
+		"message": "Drosme"
+	},
+	"feature_background_color": {
+		"message": "Fona krāsa"
+	},
+	"feature_font_color": {
+		"message": "Fonta krāsa"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Izvēlne"
+	},
+	"feature_highlight_color": {
+		"message": "Izcelt krāsu"
+	},
+	"feature_link_color": {
+		"message": "Saites krāsa"
+	},
+	"feature_cursor_size": {
+		"message": "Kursora izmērs"
+	},
+	"feature_font_size": {
+		"message": "Teksta lielums"
+	},
+	"feature_font_size_titles": {
+		"message": "Virsrakstu izmērs"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Rindkopu lielums"
+	},
+	"feature_gray_hue": {
+		"message": "Pelēks tonis"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Iezīmējiet rindkopas"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Iezīmējiet rindkopu krāsu"
+	},
+	"feature_images_hide_title": {
+		"message": "Slēpt attēlus"
+	},
+	"hide": {
+		"message": "Slēpt"
+	},
+	"feature_images_hide": {
+		"message": "Slēpt visus attēlus"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Slēpt Gifus"
+	},
+	"feature_high_contast": {
+		"message": "Augsts kontrasts"
+	},
+	"feature_text_adjustments": {
+		"message": "Teksta korekcijas"
+	},
+	"feature_text_align": {
+		"message": "Teksta līdzināšana"
+	},
+	"feature_text_alignment": {
+		"message": "Izlīdzināšana"
+	},
+	"feature_letter_spacing": {
+		"message": "Burtu atstarpes"
+	},
+	"spacing": {
+		"message": "Atstarpes"
+	},
+	"feature_line_height_spacing": {
+		"message": "Līnijas augstums"
+	},
+	"height": {
+		"message": "Augstums"
+	},
+	"feature_line_focus": {
+		"message": "Līnijas fokuss"
+	},
+	"feature_line_focus_color": {
+		"message": "Līnijas fokusa krāsa"
+	},
+	"feature_line_focus_height": {
+		"message": "Līnijas fokusa augstums"
+	},
+	"feature_mute": {
+		"message": "Izslēgt video"
+	},
+	"feature_mute_description": {
+		"message": "Izslēdziet video un skaņas no lapām."
+	},
+	"ocr_read_words": {
+		"message": "Lasīt izvērstu tekstu"
+	},
+	"text": {
+		"message": "Teksts"
+	},
+	"ocr_read_words_save": {
+		"message": "Saglabājiet izvilkto tekstu"
+	},
+	"feature_extract_text": {
+		"message": "Izvilkt tekstu (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Iespējot, atlasiet apgabalu ekrānā."
+	},
+	"feature_overlay": {
+		"message": "Pārklājums"
+	},
+	"feature_overlay_color": {
+		"message": "Pārklājuma krāsa"
+	},
+	"feature_paragraph_width": {
+		"message": "Rindkopas platums"
+	},
+	"width": {
+		"message": "Platums"
+	},
+	"highlighted_text": {
+		"message": "Izcelts teksts"
+	},
+	"issue_on_page": {
+		"message": "Izdevums"
+	},
+	"feature_reading_guide": {
+		"message": "Lasīšanas rokasgrāmata"
+	},
+	"feature_reading_guide_color": {
+		"message": "Lasīšanas rokasgrāmatas krāsa"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Disleksijas valdnieks"
+	},
+	"feature_ruler_width": {
+		"message": "Lineāla platums"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Augstums"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Pozīcija"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Krāsa"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Sekojiet"
+	},
+	"feature_auto_scroll": {
+		"message": "Automātiska ritināšana"
+	},
+	"speed": {
+		"message": "Ātrums"
+	},
+	"subscription_deleted": {
+		"message": "Abonements atcelts"
+	},
+	"title_enjoy_until": {
+		"message": "Izbaudiet izmēģinājuma periodu līdz"
+	},
+	"incomplete_expired": {
+		"message": "Mēs nevarējām pabeigt maksājumu."
+	},
+	"past_due": {
+		"message": "Jūsu abonementa termiņš ir nokavēts."
+	},
+	"incomplete": {
+		"message": "Mēs nevarējām pabeigt maksājumu."
+	},
+	"transparency": {
+		"message": "Spilgtums"
+	},
+	"title_message_full": {
+		"message": "Atrasts Helperbird Pro abonements."
+	},
+	"contact_support": {
+		"message": "Lūdzu, sazinieties ar atbalsta dienestu."
+	},
+	"buy": {
+		"message": "Pērciet $ 1"
+	},
+	"feature_voice_typing": {
+		"message": "Rakstīšana ar balsi"
+	},
+	"feature_voice_typing_description": {
+		"message": "Visām ievadēm pievieno balss ierakstīšanu. Vienkārši noklikšķiniet uz pogas uz ievades."
+	},
+	"google_docs_notice": {
+		"message": "Tagad mums ir Google papildinājums! Instalējiet, lai saņemtu vēl lielāku atbalstu."
+	},
+	"feature_spell_check": {
+		"message": "Pareizrakstības pārbaude"
+	},
+	"feature_summarize": {
+		"message": "Kopsavilkuma lapa"
+	},
+	"feature_summarize_description": {
+		"message": "Apkopojiet šo lapu."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Teksta pārvēršanas runas opcijas"
+	},
+	"feature_speech_voice": {
+		"message": "Balss"
+	},
+	"feature_speech_speed": {
+		"message": "Ātrums"
+	},
+	"feature_speech_pitch": {
+		"message": "Piķis"
+	},
+	"feature_speech_volume": {
+		"message": "Skaļums"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Izcelt krāsu"
+	},
+	"feature_speech_reading_success": {
+		"message": "Notiek atlasītā teksta lasīšana."
+	},
+	"feature_text_to_speech": {
+		"message": "No teksta uz izrunu"
+	},
+	"you_need_to_highlight": {
+		"message": "Ir nepieciešams izcelt kādu tekstu."
+	},
+	"feature_word_prediction": {
+		"message": "Vārdu pareģošana"
+	},
+	"feature_word_prediction_description": {
+		"message": "Ieslēdziet Helperbirds vārdu paredzēšanu ievadēs."
+	},
+	"feature_word_spacing": {
+		"message": "Vārdu atstarpes"
+	},
+	"full_Screen": {
+		"message": "Pilnekrāna režīms"
+	},
+	"voice_typing_stop": {
+		"message": "Balss rakstīšanas pārtraukšana."
+	},
+	"voice_typing_start": {
+		"message": "Runā tagad."
+	},
+	"speak_word_on_hover": {
+		"message": "Lasiet skaļi."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Nolasīs vārdu, novietojot kursoru."
+	},
+	"speak": {
+		"message": "Runājiet"
+	},
+	"auto_scroll_start": {
+		"message": "Sākta automātiskā ritināšana."
+	},
+	"auto_scroll_stop": {
+		"message": "Automātiskā ritināšana apturēta."
+	},
+	"popup_immersive_success": {
+		"message": "Notiek ieskaujošā lasītāja ielāde."
+	},
+	"popup_readermode_success": {
+		"message": "Tiek atvērts lasītāja režīms."
+	},
+	"popup_printing_success": {
+		"message": "Atvēršanas drukāšana."
+	},
+	"ocr_select": {
+		"message": "Lapā atlasiet apgabalu."
+	},
+	"ocr_extracted": {
+		"message": "Teksts izvilkts."
+	},
+	"ocr_extracting": {
+		"message": "Izvilkšana"
+	},
+	"ocr_copy": {
+		"message": "Kopēts teksts no attēla. Saglabāts starpliktuvē."
+	},
+	"ocr_no_text": {
+		"message": "Teksts netika atrasts."
+	},
+	"popup_note_success": {
+		"message": "Saglabāts jūsu piezīmēs."
+	},
+	"popup_immersive_error": {
+		"message": "Ielādējot visaptverošo lasītāju, radās kļūda"
+	},
+	"popup_summarize_error": {
+		"message": "Kļūda apkopojot lapu."
+	},
+	"popup_saving_error": {
+		"message": "Saglabājot, radās kļūda"
+	},
+	"popup_summarize_success": {
+		"message": "Kopsavilkuma lapa"
+	},
+	"popup_readermode_closing": {
+		"message": "Lasītāja režīma aizvēršana"
+	},
+	"close": {
+		"message": "Aizvērt"
+	},
+	"your_note_was_saved": {
+		"message": "Jūsu piezīme tika saglabāta."
+	},
+	"error_saving_your_note": {
+		"message": "Saglabājot piezīmi, radās kļūda. Lūdzu mēģiniet vēlreiz."
+	},
+	"popup_readinglist_error": {
+		"message": "Saglabājot lasīšanas sarakstā, radās kļūda"
+	},
+	"popup_readinglist_success": {
+		"message": "Saglabāts lasīšanas sarakstā"
+	},
+	"popup_screenshot_error": {
+		"message": "Tverot ekrānuzņēmumu, radās kļūda"
+	},
+	"popup_screenshot_success": {
+		"message": "Notiek ekrānuzņēmuma tveršana"
+	},
+	"copied_text": {
+		"message": "Kopēts teksts"
+	},
+	"copied_text_error": {
+		"message": "Kopējot tekstu, radās kļūda."
+	},
+	"ocr_loading": {
+		"message": "Notiek Helperbirds OCR ielāde"
+	},
+	"ocr_save": {
+		"message": "Saglabāts jūsu piezīmēs"
+	},
+	"popup_reading_success": {
+		"message": "Notiek atlasītā teksta lasīšana"
+	},
+	"popup_reading_finished": {
+		"message": "Pabeigts lasīt"
+	},
+	"popup_reading_error": {
+		"message": "Apstāšanās"
+	},
+	"popup_reading_stopping": {
+		"message": "Apstāšanās"
+	},
+	"popup_reading_pause": {
+		"message": "Pauzēts"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Lai izmantotu šo funkciju, ir jājaunina Helperbird Pro."
+	},
+	"menu_define": {
+		"message": "Definējiet vārdu"
+	},
+	"menu_website_readinglist": {
+		"message": "Pievienojiet vietni lasīšanas sarakstam"
+	},
+	"menu_readinglist": {
+		"message": "Pievienot lasīšanas sarakstam"
+	},
+	"menu_text_to_speech": {
+		"message": "No teksta uz izrunu"
+	},
+	"menu_play": {
+		"message": "Spēlēt"
+	},
+	"menu_pause": {
+		"message": "Pauze"
+	},
+	"menu_stop": {
+		"message": "Stop"
+	},
+	"menu_resume": {
+		"message": "Turpināt"
+	},
+	"menu_screenshot": {
+		"message": "Uzņemiet ekrānuzņēmumu"
+	},
+	"menu_share": {
+		"message": "Dalīties"
+	},
+	"menu_reader_mode": {
+		"message": "Skatīt lasītāja režīmā"
+	},
+	"menu_translate": {
+		"message": "Tulkot"
+	},
+	"road_map": {
+		"message": "Ceļvedis"
+	},
+	"menu_immersive_reader": {
+		"message": "Skatīt ieskaujošajā lasītājā"
+	},
+	"menu_summarize": {
+		"message": "Kopsavilkuma lapa"
+	},
+	"menu_summarize_page": {
+		"message": "Lapa apkopota"
+	},
+	"menu_annotate_page": {
+		"message": "Anotācijas lapa"
+	}
+}

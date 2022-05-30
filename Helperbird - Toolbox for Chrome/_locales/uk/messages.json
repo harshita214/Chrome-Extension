@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird для Chrome"
+	},
+	"appDescription": {
+		"message": "Понад 32 функції доступності та продуктивності, створені для підтримки будь-якого типу читачів, учнів і письменників. Включає підтримку дислексії."
+	},
+	"helpGuide": {
+		"message": "Довідники"
+	},
+	"upgrade_title": {
+		"message": "Функція Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "Для використання цієї функції потрібна підписка Helperbird Pro. Не хвилюйтеся, це 40 доларів США на рік або 4,99 на місяць."
+	},
+	"plan_deal": {
+		"message": "Студентська пропозиція"
+	},
+	"plan_month": {
+		"message": "Щомісячна пропозиція"
+	},
+	"plan_year": {
+		"message": "Річна пропозиція"
+	},
+	"upgrade_message": {
+		"message": "Оновіть до Helperbird Pro, щоб розблокувати всі функції."
+	},
+	"column_title": {
+		"message": "Колонка"
+	},
+	"upgrade_now": {
+		"message": "Оновити зараз"
+	},
+	"upgrade_to_pro": {
+		"message": "Оновіть до Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Відкрийте для себе Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Увійдіть у Helperbird або введіть ключ підписки."
+	},
+	"privacy": {
+		"message": "Конфіденційність"
+	},
+	"whats_new": {
+		"message": "Що нового"
+	},
+	"privacy_details": {
+		"message": "Ми поважаємо вашу конфіденційність, тому тут вона викладена зрозумілою та простою мовою."
+	},
+	"privacy_details_one": {
+		"message": "Тут, у Helperbird, ми поважаємо та дуже серйозно ставимося до вашої конфіденційності. Тому ми нічого не зберігаємо і не збираємо."
+	},
+	"privacy_details_two": {
+		"message": "Єдине запитайте вашу електронну пошту, коли ви входите. Щоб перевірити, чи оплачено домен вашої школи чи компанії, чи ви заплатили за обліковий запис у Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Усе, що ви робите, і налаштування, які ви зберігаєте, зберігаються локально у вашому браузері. Ніколи не залишає комп’ютер."
+	},
+	"free": {
+		"message": "Безкоштовно"
+	},
+	"pro": {
+		"message": "професіонал"
+	},
+	"on": {
+		"message": "Увімкнено"
+	},
+	"on_lower": {
+		"message": "на"
+	},
+	"off": {
+		"message": "Вимкнено"
+	},
+	"off_lower": {
+		"message": "вимкнено"
+	},
+	"notes": {
+		"message": "Примітки"
+	},
+	"open_notes": {
+		"message": "Відкрийте нотатки"
+	},
+	"save": {
+		"message": "Зберегти"
+	},
+	"clear": {
+		"message": "Ясно"
+	},
+	"manage": {
+		"message": "Керувати"
+	},
+	"open": {
+		"message": "ВІДЧИНЕНО"
+	},
+	"copy": {
+		"message": "Копія"
+	},
+	"delete": {
+		"message": "Видалити"
+	},
+	"documents": {
+		"message": "Документи"
+	},
+	"remove": {
+		"message": "Видалити"
+	},
+	"version": {
+		"message": "Версія"
+	},
+	"visit": {
+		"message": "Відвідати"
+	},
+	"no_results": {
+		"message": "Немає результатів"
+	},
+	"reduce_motion": {
+		"message": "Анімації"
+	},
+	"maths_steps": {
+		"message": "Розв'язувач математики"
+	},
+	"tour": {
+		"message": "Екскурсія по птахам-помічникам"
+	},
+	"reduce_motion_description": {
+		"message": "Заборонити відображення анімації на веб-сторінках."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader — це безкоштовний інструмент, який реалізує перевірені методи для покращення читання та письма"
+	},
+	"start": {
+		"message": "Почніть"
+	},
+	"learn_more": {
+		"message": "Вчи більше"
+	},
+	"more": {
+		"message": "Більше"
+	},
+	"editor_title": {
+		"message": "Редактор"
+	},
+	"editor_title_open": {
+		"message": "Відкрийте редактор Helperbirds"
+	},
+	"logout": {
+		"message": "Вийти"
+	},
+	"signin": {
+		"message": "Увійти"
+	},
+	"define_title": {
+		"message": "словник"
+	},
+	"define_title_open": {
+		"message": "Відкрити словник"
+	},
+	"define_empty_title": {
+		"message": "Знайдіть слово, і ми повернемо його значення."
+	},
+	"define_search": {
+		"message": "Шукати......"
+	},
+	"define_antonyms": {
+		"message": "Антоніми"
+	},
+	"define_synonyms": {
+		"message": "Синоніми"
+	},
+	"define_meanings": {
+		"message": "Значення"
+	},
+	"define_related": {
+		"message": "Пов'язані"
+	},
+	"define_etymology": {
+		"message": "Етимологія"
+	},
+	"export": {
+		"message": "Експорт"
+	},
+	"export_word": {
+		"message": "Експортувати в Word"
+	},
+	"export_docs": {
+		"message": "Експортувати в Google Docs"
+	},
+	"export_text": {
+		"message": "Експортувати в текстовий файл"
+	},
+	"toolbar_pdf": {
+		"message": "Програма для читання PDF"
+	},
+	"toolbar_pdf_open": {
+		"message": "Відкрийте програму для читання PDF"
+	},
+	"menus": {
+		"message": "Google Docs & PDFs"
+	},
+	"upgrade_message_title": {
+		"description": "Розширення Helperbird.",
+		"message": "Оновіть до $1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Розширення Helperbird.",
+		"message": "Отримайте доступ до потужних функцій, таких як режим читання та $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Розширення Helperbird.",
+		"message": "Виберіть план нижче, щоб розблокувати понад 30 функцій і цілодобову підтримку."
+	},
+	"alert_message": {
+		"message": "Оновіть або увійдіть, щоб отримати доступ до всіх функцій Pro."
+	},
+	"alert_loading": {
+		"message": "Завантаження...."
+	},
+	"alert_clear": {
+		"message": "Ясно"
+	},
+	"alert_cleared": {
+		"message": "Очищено"
+	},
+	"alert_download": {
+		"message": "Завантажити"
+	},
+	"alert_no_data": {
+		"message": "Немає результатів"
+	},
+	"annotations_notes": {
+		"message": "Примітки"
+	},
+	"import_annotations": {
+		"message": "Імпортні нотатки"
+	},
+	"options": {
+		"message": "Параметри"
+	},
+	"open_document": {
+		"message": "Відкрити документ"
+	},
+	"select_document": {
+		"message": "Потрібно вибрати документ."
+	},
+	"copied_document": {
+		"message": "Документ скопійовано"
+	},
+	"saved_document": {
+		"message": "Документ збережено"
+	},
+	"issue_saving": {
+		"message": "Збереження проблеми"
+	},
+	"show_updates": {
+		"message": "Показати оновлення"
+	},
+	"new": {
+		"message": "Новий"
+	},
+	"pause": {
+		"message": "Пауза"
+	},
+	"removed_document": {
+		"message": "Документ видалено"
+	},
+	"opening_document": {
+		"message": "Документ відкриття"
+	},
+	"get_started": {
+		"message": "Розпочати"
+	},
+	"saved_to_documents": {
+		"message": "Збережено у ваших документах."
+	},
+	"message_alert": {
+		"message": "Отримайте доступ до всіх функцій Helperbirds та підтримки клієнтів, коли вам це потрібно. Більше 30 функцій."
+	},
+	"message_three_day": {
+		"message": "3-денна пробна версія"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Перевірте свої введення"
+	},
+	"upgrade": {
+		"message": "Оновлення"
+	},
+	"upgrade_": {
+		"message": "Оновіть до $1"
+	},
+	"website": {
+		"message": "веб-сайт"
+	},
+	"description": {
+		"message": "Опис"
+	},
+	"capture": {
+		"message": "Захоплення"
+	},
+	"category": {
+		"message": "Категорія"
+	},
+	"error_found_label": {
+		"message": "Виникла помилка"
+	},
+	"cancel": {
+		"message": "Скасувати"
+	},
+	"readinglist_title": {
+		"message": "Список читання"
+	},
+	"readinglist_title_open": {
+		"message": "Відкрийте список читання"
+	},
+	"note_removed": {
+		"message": "Примітка видалена."
+	},
+	"note_removed_error": {
+		"message": "Не вдалося видалити нотатку."
+	},
+	"readinglist_removed": {
+		"message": "Веб-сайт видалено"
+	},
+	"settings_saved": {
+		"message": "Налаштування збережено"
+	},
+	"check_for_updates": {
+		"message": "Перевірити наявність оновлень"
+	},
+	"show_highlights": {
+		"message": "Показати основні моменти на сторінці."
+	},
+	"account_title": {
+		"message": "Рахунок"
+	},
+	"account_description": {
+		"message": "Ми використовуємо ту саму електронну пошту, на яку ви входите у свій веб-переглядач, що й для входу."
+	},
+	"signed_in_as": {
+		"message": "Увійшов як"
+	},
+	"subscription_title": {
+		"message": "Підписка"
+	},
+	"current_plan": {
+		"message": "Ваш поточний план"
+	},
+	"subscription_status": {
+		"message": "Ваш статус підписки:"
+	},
+	"check_subscription": {
+		"message": "Перевірити підписку"
+	},
+	"subscription_token_title": {
+		"message": "Ключ підписки"
+	},
+	"subscription_token_description": {
+		"message": "Якщо у вас є підписка Helperbird Pro, введіть її нижче, щоб розблокувати всі функції Helperbird Pro."
+	},
+	"themes": {
+		"message": "Теми"
+	},
+	"theme": {
+		"message": "Тема"
+	},
+	"danger_zone_title": {
+		"message": "Зберігання"
+	},
+	"danger_zone_description": {
+		"message": "Кнопка нижче видалить усі налаштування та запустить розширення, як ніби воно нове. Тому будьте обережні, ми не зможемо повернути те, що ви видаляєте."
+	},
+	"delete_everything": {
+		"message": "Видалити все"
+	},
+	"delete_this_note": {
+		"message": "Видалити цю нотатку."
+	},
+	"visit_this_note": {
+		"message": "Перегляньте веб-сайт, на якому розміщено цю нотатку."
+	},
+	"everything_deleted": {
+		"message": "Усі налаштування та сховище тепер видалено."
+	},
+	"enter_email": {
+		"message": "Вам потрібно ввести електронну адресу."
+	},
+	"shortcuts": {
+		"message": "Ярлики"
+	},
+	"shortcuts_menu_on": {
+		"message": "Ярлики ввімкнено"
+	},
+	"shortcuts_menu_off": {
+		"message": "Ярлики вимкнено"
+	},
+	"shortcuts_title": {
+		"message": "Ярлики"
+	},
+	"shortcuts_description": {
+		"message": "Ярлики"
+	},
+	"shortcuts_ocr": {
+		"message": "Увімкнути OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Відкрийте Immersive Reader"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Відкрийте режим читання"
+	},
+	"annotate_page": {
+		"message": "Коментувати сторінку"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Відкрийте PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Зменшення"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Приближувати"
+	},
+	"settings": {
+		"message": "Налаштування"
+	},
+	"support_videos": {
+		"message": "Підтримка відео"
+	},
+	"review_us": {
+		"message": "Перегляньте нас"
+	},
+	"view": {
+		"message": "Переглянути"
+	},
+	"views": {
+		"message": "Перегляди"
+	},
+	"no_favorites": {
+		"message": "Немає улюблених"
+	},
+	"sorting_none": {
+		"message": "Нічого не вдалося знайти."
+	},
+	"sorting": {
+		"message": "Сортування...."
+	},
+	"showing_favorites": {
+		"message": "Показ обраного"
+	},
+	"unpaid": {
+		"message": "Ваша підписка не оплачена."
+	},
+	"canceled": {
+		"message": "Ваша підписка скасована."
+	},
+	"message_nothing_found": {
+		"message": "Ми не змогли знайти підписку."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Ми не змогли отримати жодного тексту. Будь ласка, спробуйте ще раз (оновити). Спробуйте наше доповнення PDF або Документи Google."
+	},
+	"unpinned_favorite": {
+		"message": "Вилучено у вибране"
+	},
+	"pin_favorite": {
+		"message": "Вибране"
+	},
+	"setting_saved": {
+		"message": "Налаштування збережено"
+	},
+	"favourite": {
+		"message": "Улюблений"
+	},
+	"un_favourite": {
+		"message": "Неулюблений"
+	},
+	"how_to_use": {
+		"message": "Як використовувати"
+	},
+	"search": {
+		"message": "Пошук"
+	},
+	"search_feature": {
+		"message": "Функції пошуку"
+	},
+	"filter_productivity": {
+		"message": "Дослідження"
+	},
+	"helperbird_apps": {
+		"message": "Програми Helperbird"
+	},
+	"fav_message": {
+		"message": "Здається, у вас немає жодної функції у вибраних. Щоб вибрати вибране, клацніть три крапки поруч із об’єктом і натисніть вибране."
+	},
+	"filter_features": {
+		"message": "Функції фільтра"
+	},
+	"student_offer": {
+		"message": "Студенти отримують Helperbird Pro для"
+	},
+	"filter_style": {
+		"message": "Дисплей"
+	},
+	"filter_text_to_speech": {
+		"message": "Текст в мовлення"
+	},
+	"filter_dyslexia": {
+		"message": "дислексія"
+	},
+	"filter_pro": {
+		"message": "Профільні функції"
+	},
+	"filter": {
+		"message": "Фільтр"
+	},
+	"filter_writing": {
+		"message": "Письмо"
+	},
+	"highlighter_title": {
+		"message": "Маркер"
+	},
+	"filter_reading": {
+		"message": "Читання"
+	},
+	"filter_active": {
+		"message": "Активний"
+	},
+	"filter_audio": {
+		"message": "Функції аудіо"
+	},
+	"feature_blindness": {
+		"message": "Дальтонізм"
+	},
+	"feature_emphasize_links": {
+		"message": "Підкресліть посилання"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Текстовий штрих"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Колір"
+	},
+	"color": {
+		"message": "Колір"
+	},
+	"feature_specialized_font": {
+		"message": "Спеціалізований шрифт"
+	},
+	"feature_specialized_font_options": {
+		"message": "Параметри шрифту"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Увімкнено меню виділення"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Меню виділення вимкнено"
+	},
+	"feature_highlight_menu": {
+		"message": "Виділіть меню"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Показує наше виділене текстове меню."
+	},
+	"show": {
+		"message": "Показати"
+	},
+	"welcome": {
+		"message": "Ласкаво просимо до Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Захоплюючий читач"
+	},
+	"create_a_new_note": {
+		"message": "Створіть нову нотатку"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Використовуйте Immersive Reader від Microsoft на цій сторінці."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Документи та Презентації"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Додає панель інструментів Helperbird до файлів документів Google."
+	},
+	"feature_toolbar_pdf": {
+		"message": "Панель інструментів PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Додає панель інструментів Helperbird до файлів PDF."
+	},
+	"pause_helperbird": {
+		"message": "Пауза $1"
+	},
+	"quick_action": {
+		"message": "Швидкі дії"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 знижено"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 увімкнено"
+	},
+	"voice_typing_is_on": {
+		"message": "Голосовий введення ввімкнено"
+	},
+	"voice_typing_is_off": {
+		"message": "Голосовий введення вимкнено"
+	},
+	"helperbird_paused": {
+		"message": "Помічник відключений"
+	},
+	"helperbird_running": {
+		"message": "Помічник біг"
+	},
+	"applying_settings": {
+		"message": "Застосування ваших налаштувань"
+	},
+	"feature_favorites": {
+		"message": "Вибране"
+	},
+	"all_feature_favorites": {
+		"message": "всі"
+	},
+	"hide_feature_favorites": {
+		"message": "Сховати вибране"
+	},
+	"feature_favorites_description": {
+		"message": "Показати лише вибране."
+	},
+	"feature_print": {
+		"message": "Друк"
+	},
+	"feature_print_description": {
+		"message": "Роздрукувати поточну сторінку."
+	},
+	"feature_printing_success": {
+		"message": "Відкриття друку"
+	},
+	"feature_reader_mode": {
+		"message": "Режим читання"
+	},
+	"feature_readermode_opening": {
+		"message": "Відкриття режиму Reader"
+	},
+	"feature_readermode_closing": {
+		"message": "Закриття режиму читання"
+	},
+	"view_table": {
+		"message": "Вид таблиці"
+	},
+	"view_time": {
+		"message": "Перегляд хронології"
+	},
+	"view_card": {
+		"message": "Перегляд картки"
+	},
+	"feature_screenshot": {
+		"message": "Скріншот"
+	},
+	"feature_screenshot_description": {
+		"message": "Зробіть знімок екрана поточної сторінки."
+	},
+	"feature_screenshot_error": {
+		"message": "Помилка зйомки екрана"
+	},
+	"feature_screenshot_success": {
+		"message": "Зйомка скріншота"
+	},
+	"feature_tooltip": {
+		"message": "Описи зображень"
+	},
+	"feature_tooltip_description": {
+		"message": "Показувати теги alt і title при наведенні курсора."
+	},
+	"feature_translate": {
+		"message": "Перекладіть"
+	},
+	"feature_language": {
+		"message": "Мови"
+	},
+	"feature_magnifier": {
+		"message": "Лупа"
+	},
+	"feature_magnifier_description": {
+		"message": "Лупа"
+	},
+	"percentage": {
+		"message": "Процент"
+	},
+	"feature_analyze": {
+		"message": "Підрахунок слів"
+	},
+	"feature_analyze_description": {
+		"message": "аналізувати"
+	},
+	"feature_analyze_words": {
+		"message": "слова"
+	},
+	"feature_analyze_characters": {
+		"message": "символів"
+	},
+	"feature_annotations": {
+		"message": "Примітки"
+	},
+	"feature_annotations_description": {
+		"message": "Додайте анотації до сторінки, залишивши нову нотатку."
+	},
+	"feature_annotate_open": {
+		"message": "Створення нової нотатки"
+	},
+	"annotate": {
+		"message": "Анотувати"
+	},
+	"feature_cognitive_load": {
+		"message": "Швидке читання"
+	},
+	"bold": {
+		"message": "Сміливість"
+	},
+	"feature_background_color": {
+		"message": "Колір фону"
+	},
+	"feature_font_color": {
+		"message": "Колір шрифту"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Меню"
+	},
+	"feature_highlight_color": {
+		"message": "Колір виділення"
+	},
+	"feature_link_color": {
+		"message": "Колір посилання"
+	},
+	"feature_cursor_size": {
+		"message": "Розмір курсора"
+	},
+	"feature_font_size": {
+		"message": "Розмір тексту"
+	},
+	"feature_font_size_titles": {
+		"message": "Розмір заголовків"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Розмір абзаців"
+	},
+	"feature_gray_hue": {
+		"message": "Сірий відтінок"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Виділіть абзаци"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Виділіть абзаци кольором"
+	},
+	"feature_images_hide_title": {
+		"message": "Приховати зображення"
+	},
+	"hide": {
+		"message": "Сховати"
+	},
+	"feature_images_hide": {
+		"message": "Приховати всі зображення"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Приховати GIF-файли"
+	},
+	"feature_high_contast": {
+		"message": "Висока контрастність"
+	},
+	"feature_text_adjustments": {
+		"message": "Коригування тексту"
+	},
+	"feature_text_align": {
+		"message": "Вирівнювання тексту"
+	},
+	"feature_text_alignment": {
+		"message": "Вирівнювання"
+	},
+	"feature_letter_spacing": {
+		"message": "Міжбуквенний інтервал"
+	},
+	"spacing": {
+		"message": "Інтервал"
+	},
+	"feature_line_height_spacing": {
+		"message": "Висота лінії"
+	},
+	"height": {
+		"message": "Висота"
+	},
+	"feature_line_focus": {
+		"message": "Лінійний фокус"
+	},
+	"feature_line_focus_color": {
+		"message": "Колір фокусу лінії"
+	},
+	"feature_line_focus_height": {
+		"message": "Висота фокусування лінії"
+	},
+	"feature_mute": {
+		"message": "Вимкнути відео"
+	},
+	"feature_mute_description": {
+		"message": "Вимкнути відео та звуки зі сторінок."
+	},
+	"ocr_read_words": {
+		"message": "Прочитайте витягнутий текст"
+	},
+	"text": {
+		"message": "Текст"
+	},
+	"ocr_read_words_save": {
+		"message": "Зберегти витягнутий текст"
+	},
+	"feature_extract_text": {
+		"message": "Витяг тексту (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Увімкніть, виберіть область на екрані."
+	},
+	"feature_overlay": {
+		"message": "Накладення"
+	},
+	"feature_overlay_color": {
+		"message": "Колір накладання"
+	},
+	"feature_paragraph_width": {
+		"message": "Ширина абзацу"
+	},
+	"width": {
+		"message": "Ширина"
+	},
+	"highlighted_text": {
+		"message": "Виділений текст"
+	},
+	"issue_on_page": {
+		"message": "Проблема"
+	},
+	"feature_reading_guide": {
+		"message": "Посібник з читання"
+	},
+	"feature_reading_guide_color": {
+		"message": "Колір посібника для читання"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Правитель дислексії"
+	},
+	"feature_ruler_width": {
+		"message": "Ширина лінійки"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Висота"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Позиція"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Колір"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Слідкуйте"
+	},
+	"feature_auto_scroll": {
+		"message": "Автоматична прокрутка"
+	},
+	"speed": {
+		"message": "Швидкість"
+	},
+	"subscription_deleted": {
+		"message": "Підписку скасовано"
+	},
+	"title_enjoy_until": {
+		"message": "Насолоджуйтесь випробуванням доки"
+	},
+	"incomplete_expired": {
+		"message": "Нам не вдалося завершити платіж."
+	},
+	"past_due": {
+		"message": "Ваша підписка прострочена."
+	},
+	"incomplete": {
+		"message": "Нам не вдалося завершити платіж."
+	},
+	"transparency": {
+		"message": "Яскравість"
+	},
+	"title_message_full": {
+		"message": "Знайдено підписку Helperbird Pro."
+	},
+	"contact_support": {
+		"message": "Зверніться до служби підтримки."
+	},
+	"buy": {
+		"message": "Купіть $1"
+	},
+	"feature_voice_typing": {
+		"message": "Введення голосом"
+	},
+	"feature_voice_typing_description": {
+		"message": "Додає голосовий ввод для всіх вводів. Просто натисніть кнопку на вході."
+	},
+	"google_docs_notice": {
+		"message": "Тепер у нас є додаток Google! Установіть, щоб отримати ще більше підтримки."
+	},
+	"feature_spell_check": {
+		"message": "Перевірка орфографії"
+	},
+	"feature_summarize": {
+		"message": "Сторінка підсумків"
+	},
+	"feature_summarize_description": {
+		"message": "Підсумуйте цю сторінку."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Параметри перетворення тексту в мовлення"
+	},
+	"feature_speech_voice": {
+		"message": "Голос"
+	},
+	"feature_speech_speed": {
+		"message": "Швидкість"
+	},
+	"feature_speech_pitch": {
+		"message": "Висота"
+	},
+	"feature_speech_volume": {
+		"message": "Обсяг"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Колір виділення"
+	},
+	"feature_speech_reading_success": {
+		"message": "Читання виділеного тексту."
+	},
+	"feature_text_to_speech": {
+		"message": "Текст в мовлення"
+	},
+	"you_need_to_highlight": {
+		"message": "Вам потрібно виділити деякий текст."
+	},
+	"feature_word_prediction": {
+		"message": "Передбачення слова"
+	},
+	"feature_word_prediction_description": {
+		"message": "Увімкніть передбачення слів Helperbirds на входах."
+	},
+	"feature_word_spacing": {
+		"message": "Міжслововий інтервал"
+	},
+	"full_Screen": {
+		"message": "Повноекранний"
+	},
+	"voice_typing_stop": {
+		"message": "Зупинка голосового введення."
+	},
+	"voice_typing_start": {
+		"message": "Говори зараз."
+	},
+	"speak_word_on_hover": {
+		"message": "Прочитайте вголос."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Буде читати слово при наведенні."
+	},
+	"speak": {
+		"message": "Говоріть"
+	},
+	"auto_scroll_start": {
+		"message": "Розпочато автоматичне прокручування."
+	},
+	"auto_scroll_stop": {
+		"message": "Автоматичне прокручування зупинено."
+	},
+	"popup_immersive_success": {
+		"message": "Завантаження Immersive Reader."
+	},
+	"popup_readermode_success": {
+		"message": "Відкриття режиму Reader."
+	},
+	"popup_printing_success": {
+		"message": "Відкриття друку."
+	},
+	"ocr_select": {
+		"message": "Виберіть область на сторінці."
+	},
+	"ocr_extracted": {
+		"message": "Текст витягнутий."
+	},
+	"ocr_extracting": {
+		"message": "Видобуток"
+	},
+	"ocr_copy": {
+		"message": "Скопійований текст із зображення. Збережено в буфері обміну."
+	},
+	"ocr_no_text": {
+		"message": "Текст не знайдено."
+	},
+	"popup_note_success": {
+		"message": "Збережено у ваших нотатках."
+	},
+	"popup_immersive_error": {
+		"message": "Помилка завантаження Immersive Reader"
+	},
+	"popup_summarize_error": {
+		"message": "Помилка підведення підсумків сторінки."
+	},
+	"popup_saving_error": {
+		"message": "Помилка збереження"
+	},
+	"popup_summarize_success": {
+		"message": "Сторінка підсумків"
+	},
+	"popup_readermode_closing": {
+		"message": "Закриття режиму читання"
+	},
+	"close": {
+		"message": "Закрити"
+	},
+	"your_note_was_saved": {
+		"message": "Вашу нотатку збережено."
+	},
+	"error_saving_your_note": {
+		"message": "Помилка збереження вашої нотатки. Будь ласка спробуйте ще раз."
+	},
+	"popup_readinglist_error": {
+		"message": "Помилка збереження в списку читання"
+	},
+	"popup_readinglist_success": {
+		"message": "Збережено в списку читання"
+	},
+	"popup_screenshot_error": {
+		"message": "Помилка зйомки екрана"
+	},
+	"popup_screenshot_success": {
+		"message": "Зйомка скріншота"
+	},
+	"copied_text": {
+		"message": "Скопійований текст"
+	},
+	"copied_text_error": {
+		"message": "Помилка копіювання тексту."
+	},
+	"ocr_loading": {
+		"message": "Завантаження Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "Збережено у ваших нотатках"
+	},
+	"popup_reading_success": {
+		"message": "Читання виділеного тексту"
+	},
+	"popup_reading_finished": {
+		"message": "Закінчив читання"
+	},
+	"popup_reading_error": {
+		"message": "Зупинка"
+	},
+	"popup_reading_stopping": {
+		"message": "Зупинка"
+	},
+	"popup_reading_pause": {
+		"message": "Призупинено"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Щоб використовувати цю функцію, вам потрібно оновити Helperbird Pro."
+	},
+	"menu_define": {
+		"message": "Визначте слово"
+	},
+	"menu_website_readinglist": {
+		"message": "Додати веб-сайт до списку читання"
+	},
+	"menu_readinglist": {
+		"message": "Додати до списку для читання"
+	},
+	"menu_text_to_speech": {
+		"message": "Текст в мовлення"
+	},
+	"menu_play": {
+		"message": "Грати"
+	},
+	"menu_pause": {
+		"message": "Пауза"
+	},
+	"menu_stop": {
+		"message": "СТОП"
+	},
+	"menu_resume": {
+		"message": "Резюме"
+	},
+	"menu_screenshot": {
+		"message": "Зробити скріншот"
+	},
+	"menu_share": {
+		"message": "Поділіться"
+	},
+	"menu_reader_mode": {
+		"message": "Перегляд у режимі Reader"
+	},
+	"menu_translate": {
+		"message": "Перекладіть"
+	},
+	"road_map": {
+		"message": "Дорожня карта"
+	},
+	"menu_immersive_reader": {
+		"message": "Переглянути в Immersive Reader"
+	},
+	"menu_summarize": {
+		"message": "Сторінка підсумків"
+	},
+	"menu_summarize_page": {
+		"message": "Сторінка підсумована"
+	},
+	"menu_annotate_page": {
+		"message": "Коментувати сторінку"
+	}
+}

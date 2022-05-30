@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Chrome용 헬퍼버드"
+	},
+	"appDescription": {
+		"message": "모든 종류의 독자, 학습자 및 작가를 지원하도록 구축된 32개 이상의 접근성 및 생산성 기능. 난독증 지원이 포함됩니다."
+	},
+	"helpGuide": {
+		"message": "도움말 안내"
+	},
+	"upgrade_title": {
+		"message": "헬퍼버드 프로 기능"
+	},
+	"upgrade_description": {
+		"message": "이 기능을 사용하려면 Helperbird Pro 구독이 필요합니다. 걱정하지 마십시오. 연간 40달러 또는 월 4.99달러입니다."
+	},
+	"plan_deal": {
+		"message": "학생 제안"
+	},
+	"plan_month": {
+		"message": "월간 제안"
+	},
+	"plan_year": {
+		"message": "연간 제안"
+	},
+	"upgrade_message": {
+		"message": "모든 기능을 잠금 해제하려면 Helperbird Pro로 업그레이드하세요."
+	},
+	"column_title": {
+		"message": "열"
+	},
+	"upgrade_now": {
+		"message": "지금 업그레이드"
+	},
+	"upgrade_to_pro": {
+		"message": "헬퍼버드 프로로 업그레이드"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Helperbird Pro 살펴보기"
+	},
+	"signin_message": {
+		"message": "Helperbird에 로그인하거나 구독 키를 입력하세요."
+	},
+	"privacy": {
+		"message": "은둔"
+	},
+	"whats_new": {
+		"message": "새로운 소식"
+	},
+	"privacy_details": {
+		"message": "우리는 귀하의 개인 정보를 존중하므로 여기에 명확하고 간단한 언어로 되어 있습니다."
+	},
+	"privacy_details_one": {
+		"message": "Helperbird에서는 귀하의 개인 정보를 매우 중요하게 생각하고 존중합니다. 그렇기 때문에 우리는 아무것도 저장하거나 수집하지 않습니다."
+	},
+	"privacy_details_two": {
+		"message": "로그인할 때만 이메일을 요청하세요. 학교 또는 비즈니스 도메인에 대한 비용이 지불되었는지 또는 Stripe에서 계정에 대한 비용을 지불했는지 확인하기 위해."
+	},
+	"privacy_details_three": {
+		"message": "수행하는 모든 작업과 저장한 설정은 브라우저에 로컬로 유지됩니다. 컴퓨터를 떠나지 마십시오."
+	},
+	"free": {
+		"message": "무료"
+	},
+	"pro": {
+		"message": "찬성"
+	},
+	"on": {
+		"message": "에"
+	},
+	"on_lower": {
+		"message": "~에"
+	},
+	"off": {
+		"message": "끄다"
+	},
+	"off_lower": {
+		"message": "끄다"
+	},
+	"notes": {
+		"message": "노트"
+	},
+	"open_notes": {
+		"message": "메모 열기"
+	},
+	"save": {
+		"message": "구하다"
+	},
+	"clear": {
+		"message": "분명한"
+	},
+	"manage": {
+		"message": "관리하다"
+	},
+	"open": {
+		"message": "열려 있는"
+	},
+	"copy": {
+		"message": "복사"
+	},
+	"delete": {
+		"message": "삭제"
+	},
+	"documents": {
+		"message": "서류"
+	},
+	"remove": {
+		"message": "제거하다"
+	},
+	"version": {
+		"message": "버전"
+	},
+	"visit": {
+		"message": "방문"
+	},
+	"no_results": {
+		"message": "결과 없음"
+	},
+	"reduce_motion": {
+		"message": "애니메이션"
+	},
+	"maths_steps": {
+		"message": "수학 해결사"
+	},
+	"tour": {
+		"message": "헬퍼버드 투어"
+	},
+	"reduce_motion_description": {
+		"message": "웹 페이지에 애니메이션이 표시되지 않도록 합니다."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader는 읽기와 쓰기를 향상시키기 위해 입증된 기술을 구현하는 무료 도구입니다."
+	},
+	"start": {
+		"message": "시작"
+	},
+	"learn_more": {
+		"message": "더 알아보기"
+	},
+	"more": {
+		"message": "더"
+	},
+	"editor_title": {
+		"message": "편집자"
+	},
+	"editor_title_open": {
+		"message": "Helperbirds 편집기 열기"
+	},
+	"logout": {
+		"message": "로그 아웃"
+	},
+	"signin": {
+		"message": "로그인"
+	},
+	"define_title": {
+		"message": "사전"
+	},
+	"define_title_open": {
+		"message": "사전 열기"
+	},
+	"define_empty_title": {
+		"message": "단어를 검색하면 해당 단어의 의미를 반환합니다."
+	},
+	"define_search": {
+		"message": "검색......"
+	},
+	"define_antonyms": {
+		"message": "반의어"
+	},
+	"define_synonyms": {
+		"message": "동의어"
+	},
+	"define_meanings": {
+		"message": "의미"
+	},
+	"define_related": {
+		"message": "관련된"
+	},
+	"define_etymology": {
+		"message": "어원"
+	},
+	"export": {
+		"message": "내보내다"
+	},
+	"export_word": {
+		"message": "워드로 내보내기"
+	},
+	"export_docs": {
+		"message": "Google 문서로 내보내기"
+	},
+	"export_text": {
+		"message": "텍스트 파일로 내보내기"
+	},
+	"toolbar_pdf": {
+		"message": "PDF 리더"
+	},
+	"toolbar_pdf_open": {
+		"message": "PDF 리더 열기"
+	},
+	"menus": {
+		"message": "Google 문서 및 PDF"
+	},
+	"upgrade_message_title": {
+		"description": "헬퍼버드 확장.",
+		"message": "$1로 업그레이드"
+	},
+	"upgrade_message_paragraph": {
+		"description": "헬퍼버드 확장.",
+		"message": "리더 모드 및 $1와 같은 강력한 기능에 액세스하십시오."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "헬퍼버드 확장.",
+		"message": "아래에서 계획을 선택하여 30개 이상의 기능과 24시간 지원을 잠금 해제하십시오."
+	},
+	"alert_message": {
+		"message": "모든 Pro 기능에 액세스하려면 업그레이드하거나 로그인하세요."
+	},
+	"alert_loading": {
+		"message": "로드 중...."
+	},
+	"alert_clear": {
+		"message": "분명한"
+	},
+	"alert_cleared": {
+		"message": "클리어"
+	},
+	"alert_download": {
+		"message": "다운로드"
+	},
+	"alert_no_data": {
+		"message": "결과 없음"
+	},
+	"annotations_notes": {
+		"message": "노트"
+	},
+	"import_annotations": {
+		"message": "메모 가져오기"
+	},
+	"options": {
+		"message": "옵션"
+	},
+	"open_document": {
+		"message": "문서 열기"
+	},
+	"select_document": {
+		"message": "문서를 선택해야 합니다."
+	},
+	"copied_document": {
+		"message": "문서 복사됨"
+	},
+	"saved_document": {
+		"message": "문서 저장됨"
+	},
+	"issue_saving": {
+		"message": "문제 저장"
+	},
+	"show_updates": {
+		"message": "업데이트 표시"
+	},
+	"new": {
+		"message": "새로운"
+	},
+	"pause": {
+		"message": "정지시키다"
+	},
+	"removed_document": {
+		"message": "문서가 제거됨"
+	},
+	"opening_document": {
+		"message": "문서 열기"
+	},
+	"get_started": {
+		"message": "시작하다"
+	},
+	"saved_to_documents": {
+		"message": "문서에 저장되었습니다."
+	},
+	"message_alert": {
+		"message": "필요할 때마다 Helperbirds의 모든 기능과 고객 지원에 액세스하세요. 30개 이상의 기능."
+	},
+	"message_three_day": {
+		"message": "3일 평가판"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "입력 확인"
+	},
+	"upgrade": {
+		"message": "업그레이드"
+	},
+	"upgrade_": {
+		"message": "$1로 업그레이드"
+	},
+	"website": {
+		"message": "웹사이트"
+	},
+	"description": {
+		"message": "설명"
+	},
+	"capture": {
+		"message": "포착"
+	},
+	"category": {
+		"message": "범주"
+	},
+	"error_found_label": {
+		"message": "오류가 있습니다"
+	},
+	"cancel": {
+		"message": "취소"
+	},
+	"readinglist_title": {
+		"message": "읽기 목록"
+	},
+	"readinglist_title_open": {
+		"message": "읽기 목록 열기"
+	},
+	"note_removed": {
+		"message": "메모가 제거되었습니다."
+	},
+	"note_removed_error": {
+		"message": "메모를 삭제할 수 없습니다."
+	},
+	"readinglist_removed": {
+		"message": "웹사이트가 삭제됨"
+	},
+	"settings_saved": {
+		"message": "설정이 저장되었습니다"
+	},
+	"check_for_updates": {
+		"message": "업데이트 확인"
+	},
+	"show_highlights": {
+		"message": "페이지에 하이라이트를 표시합니다."
+	},
+	"account_title": {
+		"message": "계정"
+	},
+	"account_description": {
+		"message": "귀하가 브라우저에 로그인하는 것과 동일한 이메일을 로그인으로 사용합니다."
+	},
+	"signed_in_as": {
+		"message": "다음으로 로그인"
+	},
+	"subscription_title": {
+		"message": "신청"
+	},
+	"current_plan": {
+		"message": "현재 계획"
+	},
+	"subscription_status": {
+		"message": "구독 상태:"
+	},
+	"check_subscription": {
+		"message": "구독 확인"
+	},
+	"subscription_token_title": {
+		"message": "구독 키"
+	},
+	"subscription_token_description": {
+		"message": "Helperbird Pro 구독이 있는 경우 아래에 입력하여 Helperbird Pro의 모든 기능을 잠금 해제하십시오."
+	},
+	"themes": {
+		"message": "테마"
+	},
+	"theme": {
+		"message": "주제"
+	},
+	"danger_zone_title": {
+		"message": "저장"
+	},
+	"danger_zone_description": {
+		"message": "아래 버튼은 모든 설정을 지우고 새로운 확장 프로그램인 것처럼 시작합니다. 따라서 삭제한 항목을 다시 가져올 수 없습니다."
+	},
+	"delete_everything": {
+		"message": "모두 삭제"
+	},
+	"delete_this_note": {
+		"message": "이 메모를 삭제합니다."
+	},
+	"visit_this_note": {
+		"message": "이 메모는 Vist 웹사이트에 있습니다."
+	},
+	"everything_deleted": {
+		"message": "이제 모든 설정과 저장소가 삭제됩니다."
+	},
+	"enter_email": {
+		"message": "이메일을 입력해야 합니다."
+	},
+	"shortcuts": {
+		"message": "바로가기"
+	},
+	"shortcuts_menu_on": {
+		"message": "바로가기가 켜져 있습니다."
+	},
+	"shortcuts_menu_off": {
+		"message": "바로가기 사용 중지됨"
+	},
+	"shortcuts_title": {
+		"message": "바로가기"
+	},
+	"shortcuts_description": {
+		"message": "바로가기"
+	},
+	"shortcuts_ocr": {
+		"message": "OCR 활성화"
+	},
+	"shortcuts_immsersive": {
+		"message": "몰입형 리더 열기"
+	},
+	"shortcuts_reader_mode": {
+		"message": "리더 모드 열기"
+	},
+	"annotate_page": {
+		"message": "페이지에 주석 달기"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "PDF 열기"
+	},
+	"open_pdf_zoom_out": {
+		"message": "축소"
+	},
+	"open_pdf_zoom_in": {
+		"message": "확대"
+	},
+	"settings": {
+		"message": "설정"
+	},
+	"support_videos": {
+		"message": "지원 비디오"
+	},
+	"review_us": {
+		"message": "우리를 검토"
+	},
+	"view": {
+		"message": "보다"
+	},
+	"views": {
+		"message": "견해"
+	},
+	"no_favorites": {
+		"message": "즐겨찾기 없음"
+	},
+	"sorting_none": {
+		"message": "아무것도 찾을 수 없습니다."
+	},
+	"sorting": {
+		"message": "정렬...."
+	},
+	"showing_favorites": {
+		"message": "즐겨찾기 표시"
+	},
+	"unpaid": {
+		"message": "구독이 미결제입니다."
+	},
+	"canceled": {
+		"message": "구독이 취소되었습니다."
+	},
+	"message_nothing_found": {
+		"message": "구독을 찾을 수 없습니다."
+	},
+	"couldnt_interact_with_page": {
+		"message": "문자를 받지 못했습니다. 다시 시도하십시오(새로 고침). PDF 또는 Google 문서 추가 기능을 사용해 보세요."
+	},
+	"unpinned_favorite": {
+		"message": "제거된 즐겨찾기"
+	},
+	"pin_favorite": {
+		"message": "즐겨찾기"
+	},
+	"setting_saved": {
+		"message": "설정 저장됨"
+	},
+	"favourite": {
+		"message": "가장 좋아하는"
+	},
+	"un_favourite": {
+		"message": "마음에 들지 않는"
+	},
+	"how_to_use": {
+		"message": "사용하는 방법"
+	},
+	"search": {
+		"message": "검색"
+	},
+	"search_feature": {
+		"message": "검색 기능"
+	},
+	"filter_productivity": {
+		"message": "연구"
+	},
+	"helperbird_apps": {
+		"message": "헬퍼버드 앱"
+	},
+	"fav_message": {
+		"message": "즐겨찾는 기능이 없는 것 같습니다. 즐겨찾기를 하려면 기능 옆에 있는 점 세 개를 클릭하고 즐겨찾기를 클릭하세요."
+	},
+	"filter_features": {
+		"message": "필터 기능"
+	},
+	"student_offer": {
+		"message": "학생들은 다음을 위해 Helperbird Pro를 받습니다."
+	},
+	"filter_style": {
+		"message": "표시하다"
+	},
+	"filter_text_to_speech": {
+		"message": "텍스트 음성 변환"
+	},
+	"filter_dyslexia": {
+		"message": "난독증"
+	},
+	"filter_pro": {
+		"message": "프로 기능"
+	},
+	"filter": {
+		"message": "필터"
+	},
+	"filter_writing": {
+		"message": "쓰기"
+	},
+	"highlighter_title": {
+		"message": "형광펜"
+	},
+	"filter_reading": {
+		"message": "독서"
+	},
+	"filter_active": {
+		"message": "활동적인"
+	},
+	"filter_audio": {
+		"message": "오디오 기능"
+	},
+	"feature_blindness": {
+		"message": "색맹"
+	},
+	"feature_emphasize_links": {
+		"message": "링크 강조"
+	},
+	"feature_emphasize_stroke": {
+		"message": "텍스트 스트로크"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "색깔"
+	},
+	"color": {
+		"message": "색깔"
+	},
+	"feature_specialized_font": {
+		"message": "특수 글꼴"
+	},
+	"feature_specialized_font_options": {
+		"message": "글꼴 옵션"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "하이라이트 메뉴가 켜져 있습니다."
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "하이라이트 메뉴가 꺼져 있습니다"
+	},
+	"feature_highlight_menu": {
+		"message": "하이라이트 메뉴"
+	},
+	"feature_highlight_menu_description": {
+		"message": "하이라이트 텍스트 메뉴를 보여줍니다."
+	},
+	"show": {
+		"message": "보여주다"
+	},
+	"welcome": {
+		"message": "헬퍼버드에 오신 것을 환영합니다"
+	},
+	"feature_immersive_reader": {
+		"message": "몰입형 리더"
+	},
+	"create_a_new_note": {
+		"message": "새 메모 만들기"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "이 페이지에서 Microsoft의 몰입형 리더를 사용하세요."
+	},
+	"feature_toolbar_google": {
+		"message": "Google 문서 및 프레젠테이션"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Google 문서 파일에 Helperbird 도구 모음을 추가합니다."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF 도구 모음"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "PDF 파일에 Helperbird 도구 모음을 추가합니다."
+	},
+	"pause_helperbird": {
+		"message": "일시중지 $1"
+	},
+	"quick_action": {
+		"message": "빠른 작업"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 할인"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "1달러가 켜져 있습니다"
+	},
+	"voice_typing_is_on": {
+		"message": "음성 입력이 켜져 있습니다."
+	},
+	"voice_typing_is_off": {
+		"message": "음성 입력이 꺼져 있습니다."
+	},
+	"helperbird_paused": {
+		"message": "헬퍼버드 꺼짐"
+	},
+	"helperbird_running": {
+		"message": "달리는 헬퍼버드"
+	},
+	"applying_settings": {
+		"message": "설정 적용"
+	},
+	"feature_favorites": {
+		"message": "즐겨찾기"
+	},
+	"all_feature_favorites": {
+		"message": "모두"
+	},
+	"hide_feature_favorites": {
+		"message": "즐겨찾기 숨기기"
+	},
+	"feature_favorites_description": {
+		"message": "즐겨찾기만 표시합니다."
+	},
+	"feature_print": {
+		"message": "인쇄"
+	},
+	"feature_print_description": {
+		"message": "현재 페이지를 인쇄합니다."
+	},
+	"feature_printing_success": {
+		"message": "인쇄 열기"
+	},
+	"feature_reader_mode": {
+		"message": "리더 모드"
+	},
+	"feature_readermode_opening": {
+		"message": "리더 모드 열기"
+	},
+	"feature_readermode_closing": {
+		"message": "리더 모드 닫기"
+	},
+	"view_table": {
+		"message": "테이블 보기"
+	},
+	"view_time": {
+		"message": "타임라인 보기"
+	},
+	"view_card": {
+		"message": "카드 보기"
+	},
+	"feature_screenshot": {
+		"message": "스크린샷"
+	},
+	"feature_screenshot_description": {
+		"message": "현재 페이지의 스크린샷을 찍습니다."
+	},
+	"feature_screenshot_error": {
+		"message": "스크린샷 캡처 오류"
+	},
+	"feature_screenshot_success": {
+		"message": "스크린샷 캡처"
+	},
+	"feature_tooltip": {
+		"message": "이미지 설명"
+	},
+	"feature_tooltip_description": {
+		"message": "마우스 오버 시 Alt 및 제목 태그를 표시합니다."
+	},
+	"feature_translate": {
+		"message": "번역하다"
+	},
+	"feature_language": {
+		"message": "언어"
+	},
+	"feature_magnifier": {
+		"message": "돋보기"
+	},
+	"feature_magnifier_description": {
+		"message": "돋보기"
+	},
+	"percentage": {
+		"message": "백분율"
+	},
+	"feature_analyze": {
+		"message": "단어 수"
+	},
+	"feature_analyze_description": {
+		"message": "분석하다"
+	},
+	"feature_analyze_words": {
+		"message": "단어"
+	},
+	"feature_analyze_characters": {
+		"message": "캐릭터"
+	},
+	"feature_annotations": {
+		"message": "노트"
+	},
+	"feature_annotations_description": {
+		"message": "새 스티커 메모를 남겨 페이지에 주석을 추가합니다."
+	},
+	"feature_annotate_open": {
+		"message": "새 메모 만들기"
+	},
+	"annotate": {
+		"message": "주석 달기"
+	},
+	"feature_cognitive_load": {
+		"message": "속도 읽기"
+	},
+	"bold": {
+		"message": "대담함"
+	},
+	"feature_background_color": {
+		"message": "배경색"
+	},
+	"feature_font_color": {
+		"message": "폰트 색상"
+	},
+	"feature_highlight_menu_min": {
+		"message": "메뉴"
+	},
+	"feature_highlight_color": {
+		"message": "하이라이트 색상"
+	},
+	"feature_link_color": {
+		"message": "링크 색상"
+	},
+	"feature_cursor_size": {
+		"message": "커서 크기"
+	},
+	"feature_font_size": {
+		"message": "텍스트 크기"
+	},
+	"feature_font_size_titles": {
+		"message": "헤더 크기"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "단락 크기"
+	},
+	"feature_gray_hue": {
+		"message": "그레이 색조"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "단락 강조 표시"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "단락 색상 강조 표시"
+	},
+	"feature_images_hide_title": {
+		"message": "이미지 숨기기"
+	},
+	"hide": {
+		"message": "숨다"
+	},
+	"feature_images_hide": {
+		"message": "모든 이미지 숨기기"
+	},
+	"feature_images_hide_gifs": {
+		"message": "GIF 숨기기"
+	},
+	"feature_high_contast": {
+		"message": "고대비"
+	},
+	"feature_text_adjustments": {
+		"message": "텍스트 조정"
+	},
+	"feature_text_align": {
+		"message": "텍스트 정렬"
+	},
+	"feature_text_alignment": {
+		"message": "조정"
+	},
+	"feature_letter_spacing": {
+		"message": "문자 간격"
+	},
+	"spacing": {
+		"message": "간격"
+	},
+	"feature_line_height_spacing": {
+		"message": "줄 높이"
+	},
+	"height": {
+		"message": "키"
+	},
+	"feature_line_focus": {
+		"message": "라인 포커스"
+	},
+	"feature_line_focus_color": {
+		"message": "라인 포커스 색상"
+	},
+	"feature_line_focus_height": {
+		"message": "라인 포커스 높이"
+	},
+	"feature_mute": {
+		"message": "동영상 음소거"
+	},
+	"feature_mute_description": {
+		"message": "페이지에서 비디오 및 사운드를 음소거합니다."
+	},
+	"ocr_read_words": {
+		"message": "정확한 텍스트 읽기"
+	},
+	"text": {
+		"message": "텍스트"
+	},
+	"ocr_read_words_save": {
+		"message": "추출된 텍스트 저장"
+	},
+	"feature_extract_text": {
+		"message": "텍스트 추출(OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "활성화, 화면에서 영역을 선택합니다."
+	},
+	"feature_overlay": {
+		"message": "위에 까는 것"
+	},
+	"feature_overlay_color": {
+		"message": "오버레이 색상"
+	},
+	"feature_paragraph_width": {
+		"message": "단락 너비"
+	},
+	"width": {
+		"message": "너비"
+	},
+	"highlighted_text": {
+		"message": "강조 표시된 텍스트"
+	},
+	"issue_on_page": {
+		"message": "문제"
+	},
+	"feature_reading_guide": {
+		"message": "독서 가이드"
+	},
+	"feature_reading_guide_color": {
+		"message": "읽기 가이드 색상"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "난독증 통치자"
+	},
+	"feature_ruler_width": {
+		"message": "눈금자 너비"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "키"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "위치"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "색깔"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "따르다"
+	},
+	"feature_auto_scroll": {
+		"message": "자동 스크롤"
+	},
+	"speed": {
+		"message": "속도"
+	},
+	"subscription_deleted": {
+		"message": "구독 취소됨"
+	},
+	"title_enjoy_until": {
+		"message": "까지 평가판을 즐기십시오."
+	},
+	"incomplete_expired": {
+		"message": "결제를 완료할 수 없습니다."
+	},
+	"past_due": {
+		"message": "구독 기한이 지났습니다."
+	},
+	"incomplete": {
+		"message": "결제를 완료할 수 없습니다."
+	},
+	"transparency": {
+		"message": "명도"
+	},
+	"title_message_full": {
+		"message": "Helperbird Pro 구독을 찾았습니다."
+	},
+	"contact_support": {
+		"message": "지원팀에 문의하세요."
+	},
+	"buy": {
+		"message": "$1 구매"
+	},
+	"feature_voice_typing": {
+		"message": "음성 입력"
+	},
+	"feature_voice_typing_description": {
+		"message": "모든 입력에 음성 입력을 추가합니다. 입력에서 버튼을 클릭하기만 하면 됩니다."
+	},
+	"google_docs_notice": {
+		"message": "이제 Google 애드온이 생겼습니다! 더 많은 지원을 받으려면 설치하십시오."
+	},
+	"feature_spell_check": {
+		"message": "맞춤법 검사"
+	},
+	"feature_summarize": {
+		"message": "페이지 요약"
+	},
+	"feature_summarize_description": {
+		"message": "이 페이지를 요약합니다."
+	},
+	"feature_text_to_speech_options": {
+		"message": "텍스트 음성 변환 옵션"
+	},
+	"feature_speech_voice": {
+		"message": "목소리"
+	},
+	"feature_speech_speed": {
+		"message": "속도"
+	},
+	"feature_speech_pitch": {
+		"message": "정점"
+	},
+	"feature_speech_volume": {
+		"message": "용량"
+	},
+	"feature_speech_highlight_color": {
+		"message": "하이라이트 색상"
+	},
+	"feature_speech_reading_success": {
+		"message": "선택한 텍스트를 읽고 있습니다."
+	},
+	"feature_text_to_speech": {
+		"message": "텍스트 음성 변환"
+	},
+	"you_need_to_highlight": {
+		"message": "일부 텍스트를 강조 표시해야 합니다."
+	},
+	"feature_word_prediction": {
+		"message": "단어 예측"
+	},
+	"feature_word_prediction_description": {
+		"message": "입력에서 Helperbirds 단어 예측을 켭니다."
+	},
+	"feature_word_spacing": {
+		"message": "단어 간격"
+	},
+	"full_Screen": {
+		"message": "전체 화면"
+	},
+	"voice_typing_stop": {
+		"message": "음성 입력을 중지합니다."
+	},
+	"voice_typing_start": {
+		"message": "지금 말하세요."
+	},
+	"speak_word_on_hover": {
+		"message": "소리 내어 읽으십시오."
+	},
+	"speak_word_on_hover_info": {
+		"message": "호버에 단어를 읽습니다."
+	},
+	"speak": {
+		"message": "말하다"
+	},
+	"auto_scroll_start": {
+		"message": "자동 스크롤이 시작되었습니다."
+	},
+	"auto_scroll_stop": {
+		"message": "자동 스크롤이 중지되었습니다."
+	},
+	"popup_immersive_success": {
+		"message": "몰입형 리더를 로드 중입니다."
+	},
+	"popup_readermode_success": {
+		"message": "리더 모드를 엽니다."
+	},
+	"popup_printing_success": {
+		"message": "인쇄 열기."
+	},
+	"ocr_select": {
+		"message": "페이지에서 영역을 선택합니다."
+	},
+	"ocr_extracted": {
+		"message": "텍스트가 추출되었습니다."
+	},
+	"ocr_extracting": {
+		"message": "적출"
+	},
+	"ocr_copy": {
+		"message": "이미지에서 텍스트를 복사했습니다. 클립보드에 저장되었습니다."
+	},
+	"ocr_no_text": {
+		"message": "텍스트가 없습니다."
+	},
+	"popup_note_success": {
+		"message": "메모에 저장되었습니다."
+	},
+	"popup_immersive_error": {
+		"message": "몰입형 리더를 로드하는 동안 오류가 발생했습니다."
+	},
+	"popup_summarize_error": {
+		"message": "페이지를 요약하는 동안 오류가 발생했습니다."
+	},
+	"popup_saving_error": {
+		"message": "저장 중 오류 발생"
+	},
+	"popup_summarize_success": {
+		"message": "요약 페이지"
+	},
+	"popup_readermode_closing": {
+		"message": "리더 모드 닫기"
+	},
+	"close": {
+		"message": "닫다"
+	},
+	"your_note_was_saved": {
+		"message": "메모가 저장되었습니다."
+	},
+	"error_saving_your_note": {
+		"message": "메모를 저장하는 중에 오류가 발생했습니다. 다시 시도해 주세요."
+	},
+	"popup_readinglist_error": {
+		"message": "읽기 목록에 저장하는 동안 오류가 발생했습니다."
+	},
+	"popup_readinglist_success": {
+		"message": "읽기 목록에 저장됨"
+	},
+	"popup_screenshot_error": {
+		"message": "스크린샷 캡처 오류"
+	},
+	"popup_screenshot_success": {
+		"message": "스크린샷 캡처"
+	},
+	"copied_text": {
+		"message": "복사된 텍스트"
+	},
+	"copied_text_error": {
+		"message": "텍스트를 복사하는 동안 오류가 발생했습니다."
+	},
+	"ocr_loading": {
+		"message": "Helperbirds OCR 로드 중"
+	},
+	"ocr_save": {
+		"message": "메모에 저장됨"
+	},
+	"popup_reading_success": {
+		"message": "선택한 텍스트 읽기"
+	},
+	"popup_reading_finished": {
+		"message": "읽기 완료"
+	},
+	"popup_reading_error": {
+		"message": "멎는"
+	},
+	"popup_reading_stopping": {
+		"message": "멎는"
+	},
+	"popup_reading_pause": {
+		"message": "일시중지됨"
+	},
+	"notifcations_upgrade_title": {
+		"message": "이 기능을 사용하려면 Helperbird Pro를 업그레이드해야 합니다."
+	},
+	"menu_define": {
+		"message": "단어 정의"
+	},
+	"menu_website_readinglist": {
+		"message": "읽기 목록에 웹사이트 추가"
+	},
+	"menu_readinglist": {
+		"message": "읽기 목록에 추가"
+	},
+	"menu_text_to_speech": {
+		"message": "텍스트 음성 변환"
+	},
+	"menu_play": {
+		"message": "놀다"
+	},
+	"menu_pause": {
+		"message": "정지시키다"
+	},
+	"menu_stop": {
+		"message": "중지"
+	},
+	"menu_resume": {
+		"message": "이력서"
+	},
+	"menu_screenshot": {
+		"message": "스크린 샷을 찍다"
+	},
+	"menu_share": {
+		"message": "공유하다"
+	},
+	"menu_reader_mode": {
+		"message": "리더 모드에서 보기"
+	},
+	"menu_translate": {
+		"message": "번역하다"
+	},
+	"road_map": {
+		"message": "로드맵"
+	},
+	"menu_immersive_reader": {
+		"message": "몰입형 리더에서 보기"
+	},
+	"menu_summarize": {
+		"message": "페이지 요약"
+	},
+	"menu_summarize_page": {
+		"message": "페이지 요약"
+	},
+	"menu_annotate_page": {
+		"message": "페이지에 주석 달기"
+	}
+}

@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Chrome కోసం హెల్పర్‌బర్డ్"
+	},
+	"appDescription": {
+		"message": "32కి పైగా యాక్సెసిబిలిటీ & ఉత్పాదకత ఫీచర్‌లు ప్రతి రకమైన రీడర్, లెర్నర్ మరియు రైటర్‌కు మద్దతిచ్చేలా నిర్మించబడ్డాయి. డైస్లెక్సియా మద్దతును కలిగి ఉంటుంది."
+	},
+	"helpGuide": {
+		"message": "మార్గదర్శకులకు సహాయం చేయండి"
+	},
+	"upgrade_title": {
+		"message": "హెల్పర్‌బర్డ్ ప్రో ఫీచర్"
+	},
+	"upgrade_description": {
+		"message": "ఈ ఫీచర్‌ని ఉపయోగించడానికి మీకు హెల్పర్‌బర్డ్ ప్రో సబ్‌స్క్రిప్షన్ అవసరం. చింతించకండి, ఇది సంవత్సరానికి 40 USD లేదా నెలకు 4.99."
+	},
+	"plan_deal": {
+		"message": "విద్యార్థి ఆఫర్"
+	},
+	"plan_month": {
+		"message": "నెలవారీ ఆఫర్"
+	},
+	"plan_year": {
+		"message": "వార్షిక ఆఫర్"
+	},
+	"upgrade_message": {
+		"message": "అన్ని ఫీచర్‌లను అన్‌లాక్ చేయడానికి, హెల్పర్‌బర్డ్ ప్రోకి అప్‌గ్రేడ్ చేయండి."
+	},
+	"column_title": {
+		"message": "కాలమ్"
+	},
+	"upgrade_now": {
+		"message": "ఇప్పుడే అప్‌గ్రేడ్ చేయండి"
+	},
+	"upgrade_to_pro": {
+		"message": "హెల్పర్‌బర్డ్ ప్రోకి అప్‌గ్రేడ్ చేయండి"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "హెల్పర్‌బర్డ్ ప్రోని కనుగొనండి"
+	},
+	"signin_message": {
+		"message": "దయచేసి Helperbirdకి సైన్ ఇన్ చేయండి లేదా మీ సబ్‌స్క్రిప్షన్ కీని నమోదు చేయండి."
+	},
+	"privacy": {
+		"message": "గోప్యత"
+	},
+	"whats_new": {
+		"message": "కొత్తగా ఏమి ఉంది"
+	},
+	"privacy_details": {
+		"message": "మేము మీ గోప్యతను గౌరవిస్తాము, కనుక ఇది స్పష్టమైన మరియు సరళమైన భాషలో ఉంది."
+	},
+	"privacy_details_one": {
+		"message": "ఇక్కడ హెల్పర్‌బర్డ్‌లో, మేము మీ గోప్యతను చాలా సీరియస్‌గా గౌరవిస్తాము మరియు తీసుకుంటాము. అందుకే మేము దేనినీ నిల్వ చేయము లేదా సేకరించము."
+	},
+	"privacy_details_two": {
+		"message": "మీరు లాగిన్ చేసినప్పుడు మీ ఇమెయిల్ కోసం మాత్రమే అడగండి. మీ పాఠశాల లేదా వ్యాపార డొమైన్‌కు చెల్లించబడిందా లేదా మీరు స్ట్రైప్‌లో ఖాతా కోసం చెల్లించారా అని తనిఖీ చేయడానికి."
+	},
+	"privacy_details_three": {
+		"message": "మీరు చేసే ప్రతిదీ మరియు మీరు సేవ్ చేసే సెట్టింగ్‌లు మీ బ్రౌజర్‌లో స్థానికంగా ఉంటాయి. మీ కంప్యూటర్‌ను ఎప్పటికీ వదిలిపెట్టవద్దు."
+	},
+	"free": {
+		"message": "ఉచిత"
+	},
+	"pro": {
+		"message": "ప్రో"
+	},
+	"on": {
+		"message": "పై"
+	},
+	"on_lower": {
+		"message": "పై"
+	},
+	"off": {
+		"message": "ఆఫ్"
+	},
+	"off_lower": {
+		"message": "ఆఫ్"
+	},
+	"notes": {
+		"message": "గమనికలు"
+	},
+	"open_notes": {
+		"message": "గమనికలను తెరవండి"
+	},
+	"save": {
+		"message": "సేవ్ చేయండి"
+	},
+	"clear": {
+		"message": "క్లియర్"
+	},
+	"manage": {
+		"message": "నిర్వహించడానికి"
+	},
+	"open": {
+		"message": "తెరవండి"
+	},
+	"copy": {
+		"message": "కాపీ చేయండి"
+	},
+	"delete": {
+		"message": "తొలగించు"
+	},
+	"documents": {
+		"message": "పత్రాలు"
+	},
+	"remove": {
+		"message": "తొలగించు"
+	},
+	"version": {
+		"message": "సంస్కరణ: Telugu"
+	},
+	"visit": {
+		"message": "సందర్శించండి"
+	},
+	"no_results": {
+		"message": "ఫలితాలు లేవు"
+	},
+	"reduce_motion": {
+		"message": "యానిమేషన్లు"
+	},
+	"maths_steps": {
+		"message": "గణిత పరిష్కర్త"
+	},
+	"tour": {
+		"message": "హెల్పర్‌బర్డ్ టూర్"
+	},
+	"reduce_motion_description": {
+		"message": "వెబ్ పేజీలలో యానిమేషన్ ప్రదర్శించబడకుండా నిరోధించండి."
+	},
+	"feature_immersive_reader_description": {
+		"message": "ఇమ్మర్సివ్ రీడర్ అనేది చదవడం మరియు రాయడం మెరుగుపరచడానికి నిరూపితమైన పద్ధతులను అమలు చేసే ఉచిత సాధనం"
+	},
+	"start": {
+		"message": "ప్రారంభించండి"
+	},
+	"learn_more": {
+		"message": "ఇంకా నేర్చుకో"
+	},
+	"more": {
+		"message": "మరింత"
+	},
+	"editor_title": {
+		"message": "ఎడిటర్"
+	},
+	"editor_title_open": {
+		"message": "హెల్పర్‌బర్డ్స్ ఎడిటర్‌ని తెరవండి"
+	},
+	"logout": {
+		"message": "లాగ్అవుట్"
+	},
+	"signin": {
+		"message": "ప్రవేశించండి"
+	},
+	"define_title": {
+		"message": "నిఘంటువు"
+	},
+	"define_title_open": {
+		"message": "నిఘంటువును తెరవండి"
+	},
+	"define_empty_title": {
+		"message": "ఒక పదాన్ని శోధించండి మరియు మేము దాని అర్థాన్ని తిరిగి ఇస్తాము."
+	},
+	"define_search": {
+		"message": "వెతకండి......"
+	},
+	"define_antonyms": {
+		"message": "వ్యతిరేకపదాలు"
+	},
+	"define_synonyms": {
+		"message": "పర్యాయపదాలు"
+	},
+	"define_meanings": {
+		"message": "అర్థాలు"
+	},
+	"define_related": {
+		"message": "సంబంధిత"
+	},
+	"define_etymology": {
+		"message": "వ్యుత్పత్తి శాస్త్రం"
+	},
+	"export": {
+		"message": "ఎగుమతి చేయండి"
+	},
+	"export_word": {
+		"message": "Wordకి ఎగుమతి చేయండి"
+	},
+	"export_docs": {
+		"message": "Google డాక్స్‌కు ఎగుమతి చేయండి"
+	},
+	"export_text": {
+		"message": "టెక్స్ట్ ఫైల్‌కి ఎగుమతి చేయండి"
+	},
+	"toolbar_pdf": {
+		"message": "PDF రీడర్"
+	},
+	"toolbar_pdf_open": {
+		"message": "PDF రీడర్‌ని తెరవండి"
+	},
+	"menus": {
+		"message": "Google డాక్స్ & Pdfలు"
+	},
+	"upgrade_message_title": {
+		"description": "హెల్పర్‌బర్డ్ పొడిగింపు.",
+		"message": "$1కి అప్‌గ్రేడ్ చేయండి"
+	},
+	"upgrade_message_paragraph": {
+		"description": "హెల్పర్‌బర్డ్ పొడిగింపు.",
+		"message": "రీడర్ మోడ్ మరియు $1 వంటి శక్తివంతమైన ఫీచర్‌లను యాక్సెస్ చేయండి."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "హెల్పర్‌బర్డ్ పొడిగింపు.",
+		"message": "30కి పైగా ఫీచర్‌లు మరియు 24 గంటల మద్దతును అన్‌లాక్ చేయడానికి దిగువన ఉన్న ప్లాన్‌ను ఎంచుకోండి."
+	},
+	"alert_message": {
+		"message": "అన్ని ప్రో ఫీచర్‌లను యాక్సెస్ చేయడానికి అప్‌గ్రేడ్ చేయండి లేదా లాగిన్ చేయండి."
+	},
+	"alert_loading": {
+		"message": "లోడ్...."
+	},
+	"alert_clear": {
+		"message": "క్లియర్"
+	},
+	"alert_cleared": {
+		"message": "క్లియర్ చేయబడింది"
+	},
+	"alert_download": {
+		"message": "డౌన్‌లోడ్ చేయండి"
+	},
+	"alert_no_data": {
+		"message": "ఫలితాలు లేవు"
+	},
+	"annotations_notes": {
+		"message": "గమనికలు"
+	},
+	"import_annotations": {
+		"message": "నోట్లను దిగుమతి చేయండి"
+	},
+	"options": {
+		"message": "ఎంపికలు"
+	},
+	"open_document": {
+		"message": "పత్రాన్ని తెరవండి"
+	},
+	"select_document": {
+		"message": "మీరు పత్రాన్ని ఎంచుకోవాలి."
+	},
+	"copied_document": {
+		"message": "పత్రం కాపీ చేయబడింది"
+	},
+	"saved_document": {
+		"message": "పత్రం సేవ్ చేయబడింది"
+	},
+	"issue_saving": {
+		"message": "సమస్య పొదుపు"
+	},
+	"show_updates": {
+		"message": "నవీకరణలను చూపు"
+	},
+	"new": {
+		"message": "కొత్తది"
+	},
+	"pause": {
+		"message": "పాజ్ చేయండి"
+	},
+	"removed_document": {
+		"message": "పత్రం తీసివేయబడింది"
+	},
+	"opening_document": {
+		"message": "పత్రాన్ని తెరుస్తోంది"
+	},
+	"get_started": {
+		"message": "ప్రారంభించడానికి"
+	},
+	"saved_to_documents": {
+		"message": "మీ పత్రాలకు సేవ్ చేయబడింది."
+	},
+	"message_alert": {
+		"message": "మీకు అవసరమైనప్పుడు హెల్పర్‌బర్డ్స్ ఫీచర్‌లు మరియు కస్టమర్ సపోర్ట్‌లన్నింటికి యాక్సెస్ పొందండి. 30కి పైగా ఫీచర్లు."
+	},
+	"message_three_day": {
+		"message": "3 రోజుల ట్రయల్"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "మీ ఇన్‌పుట్‌లను తనిఖీ చేయండి"
+	},
+	"upgrade": {
+		"message": "అప్‌గ్రేడ్ చేయండి"
+	},
+	"upgrade_": {
+		"message": "$1కి అప్‌గ్రేడ్ చేయండి"
+	},
+	"website": {
+		"message": "వెబ్సైట్"
+	},
+	"description": {
+		"message": "వివరణ"
+	},
+	"capture": {
+		"message": "సంగ్రహించు"
+	},
+	"category": {
+		"message": "వర్గం"
+	},
+	"error_found_label": {
+		"message": "ఒక లోపం ఉంది"
+	},
+	"cancel": {
+		"message": "రద్దు చేయండి"
+	},
+	"readinglist_title": {
+		"message": "పఠన జాబితా"
+	},
+	"readinglist_title_open": {
+		"message": "పఠన జాబితాను తెరవండి"
+	},
+	"note_removed": {
+		"message": "గమనిక తీసివేయబడింది."
+	},
+	"note_removed_error": {
+		"message": "గమనికను తీసివేయడం సాధ్యపడలేదు."
+	},
+	"readinglist_removed": {
+		"message": "వెబ్‌సైట్ తీసివేయబడింది"
+	},
+	"settings_saved": {
+		"message": "సెట్టింగ్‌లు సేవ్ చేయబడ్డాయి"
+	},
+	"check_for_updates": {
+		"message": "తాజాకరణలకోసం ప్రయత్నించండి"
+	},
+	"show_highlights": {
+		"message": "పేజీలో హైలైట్‌లను చూపించు."
+	},
+	"account_title": {
+		"message": "ఖాతా"
+	},
+	"account_description": {
+		"message": "మీరు మీ బ్రౌజర్‌కి సైన్ ఇన్ చేసిన ఇమెయిల్‌నే మేము మీ లాగిన్‌గా ఉపయోగిస్తాము."
+	},
+	"signed_in_as": {
+		"message": "గా సైన్ ఇన్ చేసారు"
+	},
+	"subscription_title": {
+		"message": "చందా"
+	},
+	"current_plan": {
+		"message": "మీ ప్రస్తుత ప్లాన్"
+	},
+	"subscription_status": {
+		"message": "మీ సభ్యత్వ స్థితి:"
+	},
+	"check_subscription": {
+		"message": "సభ్యత్వాన్ని తనిఖీ చేయండి"
+	},
+	"subscription_token_title": {
+		"message": "సబ్‌స్క్రిప్షన్ కీ"
+	},
+	"subscription_token_description": {
+		"message": "మీకు హెల్పర్‌బర్డ్ ప్రో సబ్‌స్క్రిప్షన్ ఉంటే, హెల్పర్‌బర్డ్ ప్రో యొక్క అన్ని ఫీచర్‌లను అన్‌లాక్ చేయడానికి దిగువన నమోదు చేయండి."
+	},
+	"themes": {
+		"message": "థీమ్స్"
+	},
+	"theme": {
+		"message": "థీమ్"
+	},
+	"danger_zone_title": {
+		"message": "నిల్వ"
+	},
+	"danger_zone_description": {
+		"message": "దిగువన ఉన్న బటన్ అన్ని సెట్టింగ్‌లను క్లియర్ చేస్తుంది మరియు పొడిగింపును కొత్తగా ఉన్నట్లుగా ప్రారంభిస్తుంది. కాబట్టి జాగ్రత్తగా ఉండండి, మీరు తొలగించిన వాటిని మేము తిరిగి పొందలేము."
+	},
+	"delete_everything": {
+		"message": "అన్నింటినీ తొలగించండి"
+	},
+	"delete_this_note": {
+		"message": "ఈ గమనికను తొలగించండి."
+	},
+	"visit_this_note": {
+		"message": "వెబ్‌సైట్‌ను సందర్శించండి ఈ గమనిక ఆన్‌లో ఉంది."
+	},
+	"everything_deleted": {
+		"message": "అన్ని సెట్టింగ్‌లు మరియు నిల్వ ఇప్పుడు తొలగించబడ్డాయి."
+	},
+	"enter_email": {
+		"message": "మీరు ఇమెయిల్‌ను నమోదు చేయాలి."
+	},
+	"shortcuts": {
+		"message": "సత్వరమార్గాలు"
+	},
+	"shortcuts_menu_on": {
+		"message": "సత్వరమార్గాలు ఆన్‌లో ఉన్నాయి"
+	},
+	"shortcuts_menu_off": {
+		"message": "సత్వరమార్గాలు ఆఫ్ చేయబడ్డాయి"
+	},
+	"shortcuts_title": {
+		"message": "సత్వరమార్గాలు"
+	},
+	"shortcuts_description": {
+		"message": "సత్వరమార్గాలు"
+	},
+	"shortcuts_ocr": {
+		"message": "OCRని ప్రారంభించండి"
+	},
+	"shortcuts_immsersive": {
+		"message": "లీనమయ్యే రీడర్‌ని తెరవండి"
+	},
+	"shortcuts_reader_mode": {
+		"message": "రీడర్ మోడ్‌ని తెరవండి"
+	},
+	"annotate_page": {
+		"message": "ఉల్లేఖన పేజీ"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "PDFని తెరవండి"
+	},
+	"open_pdf_zoom_out": {
+		"message": "పెద్దది చెయ్యి"
+	},
+	"open_pdf_zoom_in": {
+		"message": "పెద్దదిగా చూపు"
+	},
+	"settings": {
+		"message": "సెట్టింగ్‌లు"
+	},
+	"support_videos": {
+		"message": "మద్దతు వీడియోలు"
+	},
+	"review_us": {
+		"message": "మమ్మల్ని సమీక్షించండి"
+	},
+	"view": {
+		"message": "చూడండి"
+	},
+	"views": {
+		"message": "వీక్షణలు"
+	},
+	"no_favorites": {
+		"message": "ఇష్టమైనవి లేవు"
+	},
+	"sorting_none": {
+		"message": "ఏమీ దొరకలేదు."
+	},
+	"sorting": {
+		"message": "క్రమబద్ధీకరణ...."
+	},
+	"showing_favorites": {
+		"message": "ఇష్టమైన వాటిని చూపుతోంది"
+	},
+	"unpaid": {
+		"message": "మీ సభ్యత్వం చెల్లించబడలేదు."
+	},
+	"canceled": {
+		"message": "మీ సభ్యత్వం రద్దు చేయబడింది."
+	},
+	"message_nothing_found": {
+		"message": "మేము సభ్యత్వాన్ని కనుగొనలేకపోయాము."
+	},
+	"couldnt_interact_with_page": {
+		"message": "మేము ఏ వచనాన్ని పొందలేకపోయాము. దయచేసి మళ్లీ ప్రయత్నించండి (రిఫ్రెష్ చేయండి). మా PDF లేదా Google డాక్స్ యాడ్-ఆన్‌ని ప్రయత్నించండి."
+	},
+	"unpinned_favorite": {
+		"message": "ఇష్టమైనవి తీసివేయబడ్డాయి"
+	},
+	"pin_favorite": {
+		"message": "ఇష్టమైనవి"
+	},
+	"setting_saved": {
+		"message": "సెట్టింగ్ సేవ్ చేయబడింది"
+	},
+	"favourite": {
+		"message": "ఇష్టమైన"
+	},
+	"un_favourite": {
+		"message": "నచ్చనిది"
+	},
+	"how_to_use": {
+		"message": "ఎలా ఉపయోగించాలి"
+	},
+	"search": {
+		"message": "వెతకండి"
+	},
+	"search_feature": {
+		"message": "శోధన లక్షణాలు"
+	},
+	"filter_productivity": {
+		"message": "పరిశోధన"
+	},
+	"helperbird_apps": {
+		"message": "హెల్పర్‌బర్డ్ యాప్‌లు"
+	},
+	"fav_message": {
+		"message": "మీకు ఇష్టమైన ఫీచర్లు ఏవీ లేవు. ఇష్టమైనవి చేయడానికి, ఫీచర్ పక్కన ఉన్న మూడు చుక్కలను క్లిక్ చేసి, ఇష్టమైనవి క్లిక్ చేయండి."
+	},
+	"filter_features": {
+		"message": "ఫిల్టర్ ఫీచర్లు"
+	},
+	"student_offer": {
+		"message": "విద్యార్థులు హెల్పర్‌బర్డ్ ప్రోని పొందుతారు"
+	},
+	"filter_style": {
+		"message": "ప్రదర్శన"
+	},
+	"filter_text_to_speech": {
+		"message": "వచనం నుండి ప్రసంగం"
+	},
+	"filter_dyslexia": {
+		"message": "డిస్లెక్సియా"
+	},
+	"filter_pro": {
+		"message": "ప్రో లక్షణాలు"
+	},
+	"filter": {
+		"message": "వడపోత"
+	},
+	"filter_writing": {
+		"message": "రాయడం"
+	},
+	"highlighter_title": {
+		"message": "హైలైటర్"
+	},
+	"filter_reading": {
+		"message": "చదవడం"
+	},
+	"filter_active": {
+		"message": "చురుకుగా"
+	},
+	"filter_audio": {
+		"message": "ఆడియో ఫీచర్లు"
+	},
+	"feature_blindness": {
+		"message": "వర్ణాంధత్వం"
+	},
+	"feature_emphasize_links": {
+		"message": "లింక్‌లను నొక్కి చెప్పండి"
+	},
+	"feature_emphasize_stroke": {
+		"message": "టెక్స్ట్ స్ట్రోక్"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "రంగు"
+	},
+	"color": {
+		"message": "రంగు"
+	},
+	"feature_specialized_font": {
+		"message": "ప్రత్యేక ఫాంట్"
+	},
+	"feature_specialized_font_options": {
+		"message": "ఫాంట్ ఎంపికలు"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "హైలైట్ మెను ఆన్‌లో ఉంది"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "హైలైట్ మెను ఆఫ్‌లో ఉంది"
+	},
+	"feature_highlight_menu": {
+		"message": "హైలైట్ మెను"
+	},
+	"feature_highlight_menu_description": {
+		"message": "మా హైలైట్ టెక్స్ట్ మెనుని చూపుతుంది."
+	},
+	"show": {
+		"message": "చూపించు"
+	},
+	"welcome": {
+		"message": "హెల్పర్‌బర్డ్‌కి స్వాగతం"
+	},
+	"feature_immersive_reader": {
+		"message": "లీనమయ్యే రీడర్"
+	},
+	"create_a_new_note": {
+		"message": "కొత్త గమనికను సృష్టించండి"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "ఈ పేజీలో Microsoft ద్వారా లీనమయ్యే రీడర్‌ని ఉపయోగించండి."
+	},
+	"feature_toolbar_google": {
+		"message": "Google డాక్స్ & స్లయిడ్‌లు"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Google డాక్ ఫైల్‌లలో హెల్పర్‌బర్డ్ టూల్‌బార్‌ని జోడిస్తుంది."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF టూల్‌బార్"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Pdf ఫైల్‌లపై హెల్పర్‌బర్డ్ టూల్‌బార్‌ని జోడిస్తుంది."
+	},
+	"pause_helperbird": {
+		"message": "$1ని పాజ్ చేయండి"
+	},
+	"quick_action": {
+		"message": "త్వరిత చర్యలు"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 ఆఫ్ చేయబడింది"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 ఆన్‌లో ఉంది"
+	},
+	"voice_typing_is_on": {
+		"message": "వాయిస్ టైపింగ్ ఆన్‌లో ఉంది"
+	},
+	"voice_typing_is_off": {
+		"message": "వాయిస్ టైపింగ్ ఆఫ్‌లో ఉంది"
+	},
+	"helperbird_paused": {
+		"message": "హెల్పర్‌బర్డ్ ఆఫ్"
+	},
+	"helperbird_running": {
+		"message": "హెల్పర్‌బర్డ్ పరుగు"
+	},
+	"applying_settings": {
+		"message": "మీ సెట్టింగ్‌లను వర్తింపజేస్తోంది"
+	},
+	"feature_favorites": {
+		"message": "ఇష్టమైనవి"
+	},
+	"all_feature_favorites": {
+		"message": "అన్నీ"
+	},
+	"hide_feature_favorites": {
+		"message": "ఇష్టమైనవి దాచు"
+	},
+	"feature_favorites_description": {
+		"message": "ఇష్టమైనవి మాత్రమే చూపించు."
+	},
+	"feature_print": {
+		"message": "ముద్రణ"
+	},
+	"feature_print_description": {
+		"message": "ప్రస్తుత పేజీని ముద్రించండి."
+	},
+	"feature_printing_success": {
+		"message": "ముద్రణ తెరవడం"
+	},
+	"feature_reader_mode": {
+		"message": "రీడర్ మోడ్"
+	},
+	"feature_readermode_opening": {
+		"message": "రీడర్ మోడ్‌ని తెరుస్తోంది"
+	},
+	"feature_readermode_closing": {
+		"message": "రీడర్ మోడ్‌ను మూసివేస్తోంది"
+	},
+	"view_table": {
+		"message": "టేబుల్ వీక్షణ"
+	},
+	"view_time": {
+		"message": "కాలక్రమం వీక్షణ"
+	},
+	"view_card": {
+		"message": "కార్డ్ వీక్షణ"
+	},
+	"feature_screenshot": {
+		"message": "స్క్రీన్షాట్"
+	},
+	"feature_screenshot_description": {
+		"message": "ప్రస్తుత పేజీ యొక్క స్క్రీన్ షాట్ తీసుకోండి."
+	},
+	"feature_screenshot_error": {
+		"message": "స్క్రీన్‌షాట్‌ను క్యాప్చర్ చేయడంలో లోపం"
+	},
+	"feature_screenshot_success": {
+		"message": "స్క్రీన్‌షాట్‌ని సంగ్రహిస్తోంది"
+	},
+	"feature_tooltip": {
+		"message": "చిత్ర వివరణలు"
+	},
+	"feature_tooltip_description": {
+		"message": "మౌస్‌పై ఆల్ట్ మరియు టైటిల్ ట్యాగ్‌లను చూపండి."
+	},
+	"feature_translate": {
+		"message": "అనువదించు"
+	},
+	"feature_language": {
+		"message": "భాషలు"
+	},
+	"feature_magnifier": {
+		"message": "మాగ్నిఫైయర్"
+	},
+	"feature_magnifier_description": {
+		"message": "మాగ్నిఫైయర్"
+	},
+	"percentage": {
+		"message": "శాతం"
+	},
+	"feature_analyze": {
+		"message": "పదాల లెక్క"
+	},
+	"feature_analyze_description": {
+		"message": "విశ్లేషించడానికి"
+	},
+	"feature_analyze_words": {
+		"message": "పదాలు"
+	},
+	"feature_analyze_characters": {
+		"message": "పాత్రలు"
+	},
+	"feature_annotations": {
+		"message": "గమనికలు"
+	},
+	"feature_annotations_description": {
+		"message": "కొత్త స్టిక్కీ నోట్‌ని వదిలివేయడం ద్వారా పేజీని ఉల్లేఖించండి."
+	},
+	"feature_annotate_open": {
+		"message": "కొత్త నోట్‌ని సృష్టిస్తోంది"
+	},
+	"annotate": {
+		"message": "వ్యాఖ్యానించండి"
+	},
+	"feature_cognitive_load": {
+		"message": "స్పీడ్ రీడింగ్"
+	},
+	"bold": {
+		"message": "బోల్డ్నెస్"
+	},
+	"feature_background_color": {
+		"message": "నేపథ్య రంగు"
+	},
+	"feature_font_color": {
+		"message": "ఫాంట్ రంగు"
+	},
+	"feature_highlight_menu_min": {
+		"message": "మెను"
+	},
+	"feature_highlight_color": {
+		"message": "హైలైట్ రంగు"
+	},
+	"feature_link_color": {
+		"message": "లింక్ రంగు"
+	},
+	"feature_cursor_size": {
+		"message": "కర్సర్ పరిమాణం"
+	},
+	"feature_font_size": {
+		"message": "వచన పరిమాణం"
+	},
+	"feature_font_size_titles": {
+		"message": "శీర్షికల పరిమాణం"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "పేరాగ్రాఫ్‌ల పరిమాణం"
+	},
+	"feature_gray_hue": {
+		"message": "బూడిద రంగు"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "పేరాగ్రాఫ్‌లను హైలైట్ చేయండి"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "పేరాగ్రాఫ్‌ల రంగును హైలైట్ చేయండి"
+	},
+	"feature_images_hide_title": {
+		"message": "చిత్రాలను దాచండి"
+	},
+	"hide": {
+		"message": "దాచు"
+	},
+	"feature_images_hide": {
+		"message": "అన్ని చిత్రాలను దాచండి"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Gifలను దాచండి"
+	},
+	"feature_high_contast": {
+		"message": "అధిక కాంట్రాస్ట్"
+	},
+	"feature_text_adjustments": {
+		"message": "టెక్స్ట్ సర్దుబాట్లు"
+	},
+	"feature_text_align": {
+		"message": "టెక్స్ట్ సమలేఖనం"
+	},
+	"feature_text_alignment": {
+		"message": "అమరిక"
+	},
+	"feature_letter_spacing": {
+		"message": "అక్షర అంతరం"
+	},
+	"spacing": {
+		"message": "అంతరం"
+	},
+	"feature_line_height_spacing": {
+		"message": "లైన్ ఎత్తు"
+	},
+	"height": {
+		"message": "ఎత్తు"
+	},
+	"feature_line_focus": {
+		"message": "లైన్ దృష్టి"
+	},
+	"feature_line_focus_color": {
+		"message": "లైన్ దృష్టి రంగు"
+	},
+	"feature_line_focus_height": {
+		"message": "లైన్ ఫోకస్ ఎత్తు"
+	},
+	"feature_mute": {
+		"message": "వీడియోను మ్యూట్ చేయండి"
+	},
+	"feature_mute_description": {
+		"message": "పేజీల నుండి వీడియోలు మరియు శబ్దాలను మ్యూట్ చేయండి."
+	},
+	"ocr_read_words": {
+		"message": "సేకరించిన వచనాన్ని చదవండి"
+	},
+	"text": {
+		"message": "వచనం"
+	},
+	"ocr_read_words_save": {
+		"message": "సేకరించిన వచనాన్ని సేవ్ చేయండి"
+	},
+	"feature_extract_text": {
+		"message": "ఎక్స్‌ట్రాక్ట్ టెక్స్ట్ (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "ప్రారంభించు, స్క్రీన్‌పై ప్రాంతాన్ని ఎంచుకోండి."
+	},
+	"feature_overlay": {
+		"message": "అతివ్యాప్తి"
+	},
+	"feature_overlay_color": {
+		"message": "అతివ్యాప్తి రంగు"
+	},
+	"feature_paragraph_width": {
+		"message": "పేరా వెడల్పు"
+	},
+	"width": {
+		"message": "వెడల్పు"
+	},
+	"highlighted_text": {
+		"message": "హైలైట్ చేసిన వచనం"
+	},
+	"issue_on_page": {
+		"message": "సమస్య"
+	},
+	"feature_reading_guide": {
+		"message": "రీడింగ్ గైడ్"
+	},
+	"feature_reading_guide_color": {
+		"message": "రీడింగ్ గైడ్ రంగు"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "డైస్లెక్సియా పాలకుడు"
+	},
+	"feature_ruler_width": {
+		"message": "పాలకుడు వెడల్పు"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "ఎత్తు"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "స్థానం"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "రంగు"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "అనుసరించండి"
+	},
+	"feature_auto_scroll": {
+		"message": "ఆటో స్క్రోల్"
+	},
+	"speed": {
+		"message": "వేగం"
+	},
+	"subscription_deleted": {
+		"message": "సభ్యత్వం రద్దు చేయబడింది"
+	},
+	"title_enjoy_until": {
+		"message": "వరకు మీ ట్రయల్ ఆనందించండి"
+	},
+	"incomplete_expired": {
+		"message": "మేము చెల్లింపును పూర్తి చేయలేకపోయాము."
+	},
+	"past_due": {
+		"message": "మీ సభ్యత్వం గడువు ముగిసింది."
+	},
+	"incomplete": {
+		"message": "మేము చెల్లింపును పూర్తి చేయలేకపోయాము."
+	},
+	"transparency": {
+		"message": "ప్రకాశం"
+	},
+	"title_message_full": {
+		"message": "హెల్పర్‌బర్డ్ ప్రో సబ్‌స్క్రిప్షన్ కనుగొనబడింది."
+	},
+	"contact_support": {
+		"message": "దయచేసి మద్దతును సంప్రదించండి."
+	},
+	"buy": {
+		"message": "$1 కొనండి"
+	},
+	"feature_voice_typing": {
+		"message": "వాయిస్ టైపింగ్"
+	},
+	"feature_voice_typing_description": {
+		"message": "అన్ని ఇన్‌పుట్‌లలో వాయిస్ టైపింగ్‌ను జోడిస్తుంది. ఇన్‌పుట్‌లోని బటన్‌ను క్లిక్ చేయండి."
+	},
+	"google_docs_notice": {
+		"message": "మాకు ఇప్పుడు Google యాడ్ఆన్ ఉంది! మరింత మద్దతు పొందడానికి ఇన్‌స్టాల్ చేయండి."
+	},
+	"feature_spell_check": {
+		"message": "అక్షరక్రమ తనిఖీ"
+	},
+	"feature_summarize": {
+		"message": "పేజీని సంగ్రహించండి"
+	},
+	"feature_summarize_description": {
+		"message": "ఈ పేజీని సంగ్రహించండి."
+	},
+	"feature_text_to_speech_options": {
+		"message": "వచనం నుండి ప్రసంగం ఎంపికలు"
+	},
+	"feature_speech_voice": {
+		"message": "వాయిస్"
+	},
+	"feature_speech_speed": {
+		"message": "వేగం"
+	},
+	"feature_speech_pitch": {
+		"message": "పిచ్"
+	},
+	"feature_speech_volume": {
+		"message": "వాల్యూమ్"
+	},
+	"feature_speech_highlight_color": {
+		"message": "హైలైట్ రంగు"
+	},
+	"feature_speech_reading_success": {
+		"message": "ఎంచుకున్న వచనాన్ని చదవడం."
+	},
+	"feature_text_to_speech": {
+		"message": "వచనం నుండి ప్రసంగం"
+	},
+	"you_need_to_highlight": {
+		"message": "మీరు కొంత వచనాన్ని హైలైట్ చేయాలి."
+	},
+	"feature_word_prediction": {
+		"message": "వర్డ్ ప్రిడిక్షన్"
+	},
+	"feature_word_prediction_description": {
+		"message": "ఇన్‌పుట్‌లపై హెల్పర్‌బర్డ్స్ వర్డ్ ప్రిడిక్షన్‌ని ఆన్ చేయండి."
+	},
+	"feature_word_spacing": {
+		"message": "పదాల అంతరం"
+	},
+	"full_Screen": {
+		"message": "పూర్తి స్క్రీన్"
+	},
+	"voice_typing_stop": {
+		"message": "వాయిస్ టైపింగ్ ఆపివేయడం."
+	},
+	"voice_typing_start": {
+		"message": "ఇప్పుడు మాట్లాడు."
+	},
+	"speak_word_on_hover": {
+		"message": "గట్టిగా చదువు."
+	},
+	"speak_word_on_hover_info": {
+		"message": "హోవర్‌లో పదాన్ని చదువుతుంది."
+	},
+	"speak": {
+		"message": "మాట్లాడండి"
+	},
+	"auto_scroll_start": {
+		"message": "ఆటో స్క్రోల్ ప్రారంభమైంది."
+	},
+	"auto_scroll_stop": {
+		"message": "ఆటో స్క్రోల్ ఆగిపోయింది."
+	},
+	"popup_immersive_success": {
+		"message": "లీనమయ్యే రీడర్ లోడ్ అవుతోంది."
+	},
+	"popup_readermode_success": {
+		"message": "రీడర్ మోడ్‌ని తెరుస్తోంది."
+	},
+	"popup_printing_success": {
+		"message": "ముద్రణ తెరవడం."
+	},
+	"ocr_select": {
+		"message": "పేజీలో ప్రాంతాన్ని ఎంచుకోండి."
+	},
+	"ocr_extracted": {
+		"message": "వచనం సంగ్రహించబడింది."
+	},
+	"ocr_extracting": {
+		"message": "సంగ్రహించడం"
+	},
+	"ocr_copy": {
+		"message": "చిత్రం నుండి వచనం కాపీ చేయబడింది. మీ క్లిప్‌బోర్డ్‌లో సేవ్ చేయబడింది."
+	},
+	"ocr_no_text": {
+		"message": "వచనం ఏదీ కనుగొనబడలేదు."
+	},
+	"popup_note_success": {
+		"message": "మీ గమనికలకు సేవ్ చేయబడింది."
+	},
+	"popup_immersive_error": {
+		"message": "ఇమ్మర్సివ్ రీడర్‌ని లోడ్ చేయడంలో లోపం"
+	},
+	"popup_summarize_error": {
+		"message": "పేజీని సంగ్రహించడంలో లోపం."
+	},
+	"popup_saving_error": {
+		"message": "సేవ్ చేయడంలో లోపం"
+	},
+	"popup_summarize_success": {
+		"message": "సారాంశం పేజీ"
+	},
+	"popup_readermode_closing": {
+		"message": "రీడర్ మోడ్‌ను మూసివేస్తోంది"
+	},
+	"close": {
+		"message": "దగ్గరగా"
+	},
+	"your_note_was_saved": {
+		"message": "మీ గమనిక సేవ్ చేయబడింది."
+	},
+	"error_saving_your_note": {
+		"message": "మీ గమనికను సేవ్ చేయడంలో లోపం. దయచేసి మళ్లీ ప్రయత్నించండి."
+	},
+	"popup_readinglist_error": {
+		"message": "పఠన జాబితాకు సేవ్ చేయడంలో లోపం"
+	},
+	"popup_readinglist_success": {
+		"message": "పఠన జాబితాకు సేవ్ చేయబడింది"
+	},
+	"popup_screenshot_error": {
+		"message": "స్క్రీన్‌షాట్‌ని సంగ్రహించడంలో లోపం"
+	},
+	"popup_screenshot_success": {
+		"message": "స్క్రీన్‌షాట్‌ని సంగ్రహిస్తోంది"
+	},
+	"copied_text": {
+		"message": "టెక్స్ట్ కాపీ చేయబడింది"
+	},
+	"copied_text_error": {
+		"message": "వచనాన్ని కాపీ చేయడంలో లోపం."
+	},
+	"ocr_loading": {
+		"message": "హెల్పర్‌బర్డ్స్ OCR లోడ్ అవుతోంది"
+	},
+	"ocr_save": {
+		"message": "మీ గమనికలకు సేవ్ చేయబడింది"
+	},
+	"popup_reading_success": {
+		"message": "ఎంచుకున్న వచనాన్ని చదవడం"
+	},
+	"popup_reading_finished": {
+		"message": "చదవడం పూర్తయింది"
+	},
+	"popup_reading_error": {
+		"message": "ఆగుతోంది"
+	},
+	"popup_reading_stopping": {
+		"message": "ఆగుతోంది"
+	},
+	"popup_reading_pause": {
+		"message": "పాజ్ చేయబడింది"
+	},
+	"notifcations_upgrade_title": {
+		"message": "ఈ ఫీచర్‌ని ఉపయోగించడానికి మీరు హెల్పర్‌బర్డ్ ప్రోని అప్‌గ్రేడ్ చేయాలి."
+	},
+	"menu_define": {
+		"message": "పదాన్ని నిర్వచించండి"
+	},
+	"menu_website_readinglist": {
+		"message": "వెబ్‌సైట్‌ను పఠన జాబితాకు జోడించండి"
+	},
+	"menu_readinglist": {
+		"message": "పఠన జాబితాకు జోడించండి"
+	},
+	"menu_text_to_speech": {
+		"message": "వచనం నుండి ప్రసంగం"
+	},
+	"menu_play": {
+		"message": "ఆడండి"
+	},
+	"menu_pause": {
+		"message": "పాజ్ చేయండి"
+	},
+	"menu_stop": {
+		"message": "ఆపు"
+	},
+	"menu_resume": {
+		"message": "పునఃప్రారంభం"
+	},
+	"menu_screenshot": {
+		"message": "స్క్రీన్షాట్ తీసుకో"
+	},
+	"menu_share": {
+		"message": "షేర్ చేయండి"
+	},
+	"menu_reader_mode": {
+		"message": "రీడర్ మోడ్‌లో వీక్షించండి"
+	},
+	"menu_translate": {
+		"message": "అనువదించు"
+	},
+	"road_map": {
+		"message": "రోడ్‌మ్యాప్"
+	},
+	"menu_immersive_reader": {
+		"message": "లీనమయ్యే రీడర్‌లో వీక్షించండి"
+	},
+	"menu_summarize": {
+		"message": "పేజీని సంగ్రహించండి"
+	},
+	"menu_summarize_page": {
+		"message": "పేజీ సారాంశం"
+	},
+	"menu_annotate_page": {
+		"message": "ఉల్లేఖన పేజీ"
+	}
+}

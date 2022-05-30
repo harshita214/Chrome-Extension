@@ -1,0 +1,400 @@
+@-webkit-keyframes helperbird-editor-image-loading {
+	0% {
+		-webkit-transform: scale(0);
+		transform: scale(0);
+	}
+	100% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+}
+
+@keyframes helperbird-editor-image-loading {
+	0% {
+		-webkit-transform: scale(0);
+		transform: scale(0);
+	}
+	100% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+}
+
+@-webkit-keyframes helperbird-editor-pop-upwards {
+	0% {
+		opacity: 0;
+		-webkit-transform: matrix(0.97, 0, 0, 1, 0, 12);
+		transform: matrix(0.97, 0, 0, 1, 0, 12);
+	}
+	20% {
+		opacity: 0.7;
+		-webkit-transform: matrix(0.99, 0, 0, 1, 0, 2);
+		transform: matrix(0.99, 0, 0, 1, 0, 2);
+	}
+	40% {
+		opacity: 1;
+		-webkit-transform: matrix(1, 0, 0, 1, 0, -1);
+		transform: matrix(1, 0, 0, 1, 0, -1);
+	}
+	100% {
+		-webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+}
+
+@keyframes helperbird-editor-pop-upwards {
+	0% {
+		opacity: 0;
+		-webkit-transform: matrix(0.97, 0, 0, 1, 0, 12);
+		transform: matrix(0.97, 0, 0, 1, 0, 12);
+	}
+	20% {
+		opacity: 0.7;
+		-webkit-transform: matrix(0.99, 0, 0, 1, 0, 2);
+		transform: matrix(0.99, 0, 0, 1, 0, 2);
+	}
+	40% {
+		opacity: 1;
+		-webkit-transform: matrix(1, 0, 0, 1, 0, -1);
+		transform: matrix(1, 0, 0, 1, 0, -1);
+	}
+	100% {
+		-webkit-transform: matrix(1, 0, 0, 1, 0, 0);
+		transform: matrix(1, 0, 0, 1, 0, 0);
+	}
+}
+
+.helperbird-editor-anchor-preview {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	left: 0;
+	line-height: 1.4;
+	max-width: 280px;
+	position: absolute;
+	text-align: center;
+	top: 0;
+	word-break: break-all;
+	word-wrap: break-word;
+	visibility: hidden;
+	z-index: 2000;
+}
+.helperbird-editor-anchor-preview a {
+	color: #fff;
+	display: inline-block;
+	margin: 5px 5px 10px;
+}
+
+.helperbird-editor-anchor-preview-active {
+	visibility: visible;
+}
+
+.helperbird-editor-dragover {
+	background: #ddd;
+}
+
+.helperbird-editor-image-loading {
+	-webkit-animation: helperbird-editor-image-loading 1s infinite ease-in-out;
+	animation: helperbird-editor-image-loading 1s infinite ease-in-out;
+	background-color: #333;
+
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+}
+
+.helperbird-editor-placeholder {
+	position: relative;
+}
+.helperbird-editor-placeholder:after {
+	content: attr(data-placeholder) !important;
+	font-style: italic;
+	position: absolute;
+	left: 0;
+	top: 0;
+	white-space: pre;
+	padding: inherit;
+	margin: inherit;
+}
+
+.helperbird-editor-placeholder-relative {
+	position: relative;
+}
+.helperbird-editor-placeholder-relative:after {
+	content: attr(data-placeholder) !important;
+	font-style: italic;
+	position: relative;
+	white-space: pre;
+	padding: inherit;
+	margin: inherit;
+}
+
+.medium-toolbar-arrow-under:after,
+.medium-toolbar-arrow-over:before {
+	border-style: solid;
+	content: '';
+	display: block;
+	height: 0;
+	left: 50%;
+	margin-left: -8px;
+	position: absolute;
+	width: 0;
+}
+
+.medium-toolbar-arrow-under:after {
+	border-width: 8px 8px 0 8px;
+}
+
+.medium-toolbar-arrow-over:before {
+	border-width: 0 8px 8px 8px;
+	top: -8px;
+}
+
+.helperbird-word-prediction-toolbar {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	z-index: 2000;
+	border-radius: 0px !important;
+}
+.helperbird-word-prediction-toolbar ul {
+	margin: 0;
+	padding: 0;
+}
+.helperbird-word-prediction-toolbar li {
+	float: left;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	margin-right: 1rem;
+}
+.helperbird-word-prediction-toolbar li button {
+	cursor: pointer !important;
+	color: #fff;
+	fill: #fff;
+
+	margin-right: 1rem;
+	padding-left: 1rem !important;
+	padding-right: 1rem !important;
+	padding-top: 0.5rem !important;
+	padding-bottom: 0.5rem !important;
+	font-weight: 600 !important;
+	border-width: 1px !important;
+	background-color: transparent !important;
+	cursor: pointer;
+	line-height: 1.15;
+	margin: 0;
+	border-color: transparent !important;
+}
+.helperbird-word-prediction-toolbar li button:focus {
+	outline: none;
+}
+.helperbird-word-prediction-toolbar li .helperbird-editor-action-underline {
+	text-decoration: underline;
+}
+.helperbird-word-prediction-toolbar li .helperbird-editor-action-pre {
+	font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+	font-size: 12px;
+	font-weight: 100;
+	padding: 15px 0;
+}
+
+.helperbird-word-prediction-toolbar-active {
+	visibility: visible;
+}
+
+.helperbird-editor-sticky-toolbar {
+	position: fixed;
+	top: 1px;
+}
+
+.helperbird-editor-relative-toolbar {
+	position: relative;
+}
+
+.helperbird-word-prediction-toolbar-active.helperbird-editor-stalker-toolbar {
+	-webkit-animation: helperbird-editor-pop-upwards 160ms forwards linear;
+	animation: helperbird-editor-pop-upwards 160ms forwards linear;
+}
+
+.helperbird-editor-action-bold {
+	font-weight: bolder;
+}
+
+.helperbird-editor-action-italic {
+	font-style: italic;
+}
+
+.helperbird-word-prediction-toolbar-form {
+	display: none;
+}
+.helperbird-word-prediction-toolbar-form input,
+.helperbird-word-prediction-toolbar-form a {
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.helperbird-word-prediction-toolbar-form
+	.helperbird-word-prediction-toolbar-form-row {
+	line-height: 14px;
+	margin-left: 5px;
+	padding-bottom: 5px;
+}
+.helperbird-word-prediction-toolbar-form
+	.helperbird-word-prediction-toolbar-input,
+.helperbird-word-prediction-toolbar-form label {
+	border: none;
+	box-sizing: border-box;
+	font-size: 14px;
+	margin: 0;
+	padding: 6px;
+	width: 316px;
+	display: inline-block;
+}
+.helperbird-word-prediction-toolbar-form
+	.helperbird-word-prediction-toolbar-input:focus,
+.helperbird-word-prediction-toolbar-form label:focus {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	border: none;
+	box-shadow: none;
+	outline: 0;
+}
+.helperbird-word-prediction-toolbar-form a {
+	display: inline-block;
+	font-size: 24px;
+	font-weight: bolder;
+	margin: 0 10px;
+	text-decoration: none;
+}
+
+.helperbird-word-prediction-toolbar-form-active {
+	display: block;
+}
+
+.helperbird-word-prediction-toolbar-actions:after {
+	clear: both;
+	content: '';
+	display: table;
+}
+
+@media (max-width: 600px) {
+	.md-small-hide,
+	.md-xsmall-hide {
+		display: none !important;
+	}
+}
+
+.white-close-button {
+	fill: white;
+	color: #fff;
+	cursor: pointer;
+	padding: 6px !important;
+	border-color: transparent !important;
+}
+
+.white-close-button:active {
+	fill: #ddd;
+	color: #ddd;
+}
+
+.helperbird-word-prediction-toolbar {
+	background-color: #2e2858;
+	border: none;
+	border-radius: 50px;
+}
+.helperbird-word-prediction-toolbar li button {
+	cursor: pointer !important;
+	color: #fff;
+	fill: #fff;
+
+	margin-right: 1rem;
+	padding-left: 1rem !important;
+	padding-right: 1rem !important;
+	padding-top: 0.5rem !important;
+	padding-bottom: 0.5rem !important;
+	font-weight: 600 !important;
+	border-width: 1px !important;
+	background-color: transparent !important;
+	cursor: pointer;
+	line-height: 1.15;
+	margin: 0;
+	border-color: #cbd5e0 !important;
+	border-color: rgba(203, 213, 224, var(1)) !important;
+}
+.helperbird-word-prediction-toolbar li button:hover {
+	color: #fff !important;
+	color: rgba(255, 255, 255, var(1)) !important;
+
+	background-color: #4299e1 !important;
+	background-color: rgba(66, 153, 225, var(1)) !important;
+}
+
+.helperbird-word-prediction-toolbar li .helperbird-editor-button-first {
+	border-bottom-left-radius: 50px;
+	border-top-left-radius: 50px;
+	padding-left: 24px;
+}
+.helperbird-word-prediction-toolbar li .helperbird-editor-button-last {
+	border-bottom-right-radius: 50px;
+	border-right: none;
+	border-top-right-radius: 50px;
+	padding-right: 24px;
+}
+.helperbird-word-prediction-toolbar li .helperbird-editor-button-active {
+	background-color: #2e2858;
+	color: #a2d7c7;
+}
+
+.helperbird-word-prediction-toolbar-form {
+	background: #2e2858;
+	color: #ccc;
+	overflow: hidden;
+}
+.helperbird-word-prediction-toolbar-form
+	.helperbird-word-prediction-toolbar-input {
+	background: #2e2858;
+	box-sizing: border-box;
+	color: #ccc;
+	height: 40px;
+	padding-left: 16px;
+	width: 220px;
+}
+.helperbird-word-prediction-toolbar-form
+	.helperbird-word-prediction-toolbar-input::-webkit-input-placeholder {
+	color: #f8f5f3;
+	color: rgba(248, 245, 243, 0.8);
+}
+.helperbird-word-prediction-toolbar-form
+	.helperbird-word-prediction-toolbar-input:-moz-placeholder {
+	/* Firefox 18- */
+	color: #f8f5f3;
+	color: rgba(248, 245, 243, 0.8);
+}
+.helperbird-word-prediction-toolbar-form
+	.helperbird-word-prediction-toolbar-input::-moz-placeholder {
+	/* Firefox 19+ */
+	color: #f8f5f3;
+	color: rgba(248, 245, 243, 0.8);
+}
+.helperbird-word-prediction-toolbar-form
+	.helperbird-word-prediction-toolbar-input:-ms-input-placeholder {
+	color: #f8f5f3;
+	color: rgba(248, 245, 243, 0.8);
+}
+.helperbird-word-prediction-toolbar-form a {
+	color: #ccc;
+	-webkit-transform: translateY(2px);
+	transform: translateY(2px);
+}
+.helperbird-word-prediction-toolbar-form
+	.helperbird-word-prediction-toolbar-close {
+	margin-right: 16px;
+}
+
+.helperbird-word-prediction-toolbar-anchor-preview {
+	background: #2e2858;
+
+	padding: 5px 12px;
+}
+
+.helperbird-editor-anchor-preview a {
+	color: #ccc;
+	text-decoration: none;
+}

@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird za Chrome"
+	},
+	"appDescription": {
+		"message": "Več kot 32 funkcij za dostopnost in produktivnost, ustvarjenih za podporo vsem vrstam bralcev, učencev in piscev. Vključuje podporo za disleksijo."
+	},
+	"helpGuide": {
+		"message": "Vodniki za pomoč"
+	},
+	"upgrade_title": {
+		"message": "Funkcija Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "Za uporabo te funkcije potrebujete naročnino Helperbird Pro. Brez skrbi, 40 USD na leto ali 4,99 na mesec."
+	},
+	"plan_deal": {
+		"message": "Študentska ponudba"
+	},
+	"plan_month": {
+		"message": "Mesečna ponudba"
+	},
+	"plan_year": {
+		"message": "Letna ponudba"
+	},
+	"upgrade_message": {
+		"message": "Nadgradite na Helperbird Pro, da odklenete vse funkcije."
+	},
+	"column_title": {
+		"message": "Stolpec"
+	},
+	"upgrade_now": {
+		"message": "Nadgradi zdaj"
+	},
+	"upgrade_to_pro": {
+		"message": "Nadgradite na Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Odkrijte Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Prijavite se v Helperbird ali vnesite svoj naročniški ključ."
+	},
+	"privacy": {
+		"message": "Zasebnost"
+	},
+	"whats_new": {
+		"message": "Kaj je novega"
+	},
+	"privacy_details": {
+		"message": "Spoštujemo vašo zasebnost, zato je tukaj v jasnem in preprostem jeziku."
+	},
+	"privacy_details_one": {
+		"message": "Pri Helperbirdu spoštujemo vašo zasebnost in jo jemljemo zelo resno. Zato ničesar ne skladiščimo in ne zbiramo."
+	},
+	"privacy_details_two": {
+		"message": "Edina zahteva za vaš e-poštni naslov, ko se prijavite. Če želite preveriti, ali je vaša šola ali poslovna domena plačana ali ali ste plačali račun v Stripeu."
+	},
+	"privacy_details_three": {
+		"message": "Vse, kar počnete, in nastavitve, ki jih shranite, ostanejo lokalno v vašem brskalniku. Nikoli ne zapusti računalnika."
+	},
+	"free": {
+		"message": "prost"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "Vklopljeno"
+	},
+	"on_lower": {
+		"message": "na"
+	},
+	"off": {
+		"message": "Izklopljeno"
+	},
+	"off_lower": {
+		"message": "izklopljen"
+	},
+	"notes": {
+		"message": "Opombe"
+	},
+	"open_notes": {
+		"message": "Odprite zapiske"
+	},
+	"save": {
+		"message": "Shrani"
+	},
+	"clear": {
+		"message": "Jasno"
+	},
+	"manage": {
+		"message": "Upravljaj"
+	},
+	"open": {
+		"message": "Odprto"
+	},
+	"copy": {
+		"message": "Kopirati"
+	},
+	"delete": {
+		"message": "Izbriši"
+	},
+	"documents": {
+		"message": "dokumenti"
+	},
+	"remove": {
+		"message": "Odstrani"
+	},
+	"version": {
+		"message": "Različica"
+	},
+	"visit": {
+		"message": "Obiščite"
+	},
+	"no_results": {
+		"message": "Ni rezultatov"
+	},
+	"reduce_motion": {
+		"message": "Animacije"
+	},
+	"maths_steps": {
+		"message": "Reševalec matematike"
+	},
+	"tour": {
+		"message": "Ogled ptic pomočnikov"
+	},
+	"reduce_motion_description": {
+		"message": "Preprečite prikazovanje animacij na spletnih straneh."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader je brezplačno orodje, ki uporablja preizkušene tehnike za izboljšanje branja in pisanja"
+	},
+	"start": {
+		"message": "Začni"
+	},
+	"learn_more": {
+		"message": "Nauči se več"
+	},
+	"more": {
+		"message": "Več"
+	},
+	"editor_title": {
+		"message": "Urednik"
+	},
+	"editor_title_open": {
+		"message": "Odprite Helperbirds Editor"
+	},
+	"logout": {
+		"message": "Odjava"
+	},
+	"signin": {
+		"message": "Vpiši se"
+	},
+	"define_title": {
+		"message": "Slovar"
+	},
+	"define_title_open": {
+		"message": "Odprite slovar"
+	},
+	"define_empty_title": {
+		"message": "Poiščite besedo in vrnili vam bomo pomen."
+	},
+	"define_search": {
+		"message": "Iskanje......"
+	},
+	"define_antonyms": {
+		"message": "Protipomenke"
+	},
+	"define_synonyms": {
+		"message": "Sopomenke"
+	},
+	"define_meanings": {
+		"message": "Pomeni"
+	},
+	"define_related": {
+		"message": "Povezano"
+	},
+	"define_etymology": {
+		"message": "Etimologija"
+	},
+	"export": {
+		"message": "Izvozi"
+	},
+	"export_word": {
+		"message": "Izvozi v Word"
+	},
+	"export_docs": {
+		"message": "Izvozi v Google Dokumente"
+	},
+	"export_text": {
+		"message": "Izvozi v besedilno datoteko"
+	},
+	"toolbar_pdf": {
+		"message": "bralnik PDF"
+	},
+	"toolbar_pdf_open": {
+		"message": "Odprite bralnik PDF"
+	},
+	"menus": {
+		"message": "Google Dokumenti in PDF-ji"
+	},
+	"upgrade_message_title": {
+		"description": "Razširitev Helperbird.",
+		"message": "Nadgradite na 1 $"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Razširitev Helperbird.",
+		"message": "Dostopajte do zmogljivih funkcij, kot sta način branja in $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Razširitev Helperbird.",
+		"message": "Spodaj izberite načrt, da odklenete več kot 30 funkcij in 24-urno podporo."
+	},
+	"alert_message": {
+		"message": "Nadgradite ali se prijavite za dostop do vseh funkcij Pro."
+	},
+	"alert_loading": {
+		"message": "Nalaganje...."
+	},
+	"alert_clear": {
+		"message": "Jasno"
+	},
+	"alert_cleared": {
+		"message": "Očiščeno"
+	},
+	"alert_download": {
+		"message": "Prenesi"
+	},
+	"alert_no_data": {
+		"message": "Ni rezultatov"
+	},
+	"annotations_notes": {
+		"message": "Opombe"
+	},
+	"import_annotations": {
+		"message": "Opombe o uvozu"
+	},
+	"options": {
+		"message": "Opcije"
+	},
+	"open_document": {
+		"message": "Odpri dokument"
+	},
+	"select_document": {
+		"message": "Izbrati morate dokument."
+	},
+	"copied_document": {
+		"message": "Dokument je kopiran"
+	},
+	"saved_document": {
+		"message": "Dokument shranjen"
+	},
+	"issue_saving": {
+		"message": "Problem varčevanja"
+	},
+	"show_updates": {
+		"message": "Pokaži posodobitve"
+	},
+	"new": {
+		"message": "Novo"
+	},
+	"pause": {
+		"message": "Pavza"
+	},
+	"removed_document": {
+		"message": "Dokument odstranjen"
+	},
+	"opening_document": {
+		"message": "Odpiranje dokumenta"
+	},
+	"get_started": {
+		"message": "Začeti"
+	},
+	"saved_to_documents": {
+		"message": "Shranjeno v vaše dokumente."
+	},
+	"message_alert": {
+		"message": "Pridobite dostop do vseh funkcij Helperbirds in podpore za stranke, kadar koli jo potrebujete. Več kot 30 funkcij."
+	},
+	"message_three_day": {
+		"message": "3-dnevni preizkus"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Preverite svoje vnose"
+	},
+	"upgrade": {
+		"message": "Nadgradnja"
+	},
+	"upgrade_": {
+		"message": "Nadgradite na 1 $"
+	},
+	"website": {
+		"message": "Spletna stran"
+	},
+	"description": {
+		"message": "Opis"
+	},
+	"capture": {
+		"message": "Zajemi"
+	},
+	"category": {
+		"message": "Kategorija"
+	},
+	"error_found_label": {
+		"message": "Prišlo je do napake"
+	},
+	"cancel": {
+		"message": "Prekliči"
+	},
+	"readinglist_title": {
+		"message": "Seznam za branje"
+	},
+	"readinglist_title_open": {
+		"message": "Odprite seznam za branje"
+	},
+	"note_removed": {
+		"message": "Opomba je odstranjena."
+	},
+	"note_removed_error": {
+		"message": "Opombe ni bilo mogoče odstraniti."
+	},
+	"readinglist_removed": {
+		"message": "Spletno mesto je odstranjeno"
+	},
+	"settings_saved": {
+		"message": "Nastavitve so shranjene"
+	},
+	"check_for_updates": {
+		"message": "Preveri za posodobitve"
+	},
+	"show_highlights": {
+		"message": "Pokaži poudarke na strani."
+	},
+	"account_title": {
+		"message": "račun"
+	},
+	"account_description": {
+		"message": "Za prijavo uporabljamo isti e-poštni naslov, s katerim se prijavite v brskalnik."
+	},
+	"signed_in_as": {
+		"message": "Prijavljen kot"
+	},
+	"subscription_title": {
+		"message": "Naročnina"
+	},
+	"current_plan": {
+		"message": "Vaš trenutni načrt"
+	},
+	"subscription_status": {
+		"message": "Vaše stanje naročnine:"
+	},
+	"check_subscription": {
+		"message": "Preverite naročnino"
+	},
+	"subscription_token_title": {
+		"message": "Naročniški ključ"
+	},
+	"subscription_token_description": {
+		"message": "Če imate naročnino Helperbird Pro, jo vnesite spodaj, da odklenete vse funkcije Helperbird Pro."
+	},
+	"themes": {
+		"message": "Teme"
+	},
+	"theme": {
+		"message": "Tema"
+	},
+	"danger_zone_title": {
+		"message": "Skladiščenje"
+	},
+	"danger_zone_description": {
+		"message": "Spodnji gumb bo počistil vse nastavitve in zagnal razširitev, kot da je nova. Zato bodite previdni, da ničesar, kar ste izbrisali, ne moremo dobiti nazaj."
+	},
+	"delete_everything": {
+		"message": "Izbriši vse"
+	},
+	"delete_this_note": {
+		"message": "Izbriši to opombo."
+	},
+	"visit_this_note": {
+		"message": "Obiščite spletno mesto, na katerem je ta opomba."
+	},
+	"everything_deleted": {
+		"message": "Vse nastavitve in shranjevanje so zdaj izbrisane."
+	},
+	"enter_email": {
+		"message": "Vnesti morate e-pošto."
+	},
+	"shortcuts": {
+		"message": "Bližnjice"
+	},
+	"shortcuts_menu_on": {
+		"message": "Bližnjice so vklopljene"
+	},
+	"shortcuts_menu_off": {
+		"message": "Bližnjice so izklopljene"
+	},
+	"shortcuts_title": {
+		"message": "Bližnjice"
+	},
+	"shortcuts_description": {
+		"message": "Bližnjice"
+	},
+	"shortcuts_ocr": {
+		"message": "Omogoči OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Odprite Immersive reader"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Odprite način branja"
+	},
+	"annotate_page": {
+		"message": "Označi stran"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Odpri PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Pomanjšanje"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Približaj"
+	},
+	"settings": {
+		"message": "Nastavitve"
+	},
+	"support_videos": {
+		"message": "Podporni videoposnetki"
+	},
+	"review_us": {
+		"message": "Preglejte nas"
+	},
+	"view": {
+		"message": "Ogled"
+	},
+	"views": {
+		"message": "Pogledi"
+	},
+	"no_favorites": {
+		"message": "Brez priljubljenih"
+	},
+	"sorting_none": {
+		"message": "Nič ni bilo mogoče najti."
+	},
+	"sorting": {
+		"message": "Razvrščanje...."
+	},
+	"showing_favorites": {
+		"message": "Prikaz priljubljenih"
+	},
+	"unpaid": {
+		"message": "Vaša naročnina ni plačana."
+	},
+	"canceled": {
+		"message": "Vaša naročnina je preklicana."
+	},
+	"message_nothing_found": {
+		"message": "Nismo mogli najti naročnine."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Nismo mogli dobiti nobenega besedila. Poskusite znova (Osveži). Preizkusite naš dodatek PDF ali Google Dokumenti."
+	},
+	"unpinned_favorite": {
+		"message": "Odstranjeno med priljubljene"
+	},
+	"pin_favorite": {
+		"message": "Priljubljeno"
+	},
+	"setting_saved": {
+		"message": "Nastavitev je shranjena"
+	},
+	"favourite": {
+		"message": "Najljubši"
+	},
+	"un_favourite": {
+		"message": "Neljubi"
+	},
+	"how_to_use": {
+		"message": "Kako uporabiti"
+	},
+	"search": {
+		"message": "Iskanje"
+	},
+	"search_feature": {
+		"message": "Funkcije iskanja"
+	},
+	"filter_productivity": {
+		"message": "Raziskave"
+	},
+	"helperbird_apps": {
+		"message": "Helperbird aplikacije"
+	},
+	"fav_message": {
+		"message": "Zdi se, da nimate nobene funkcije med priljubljenimi. Za priljubljeno kliknite tri pike poleg funkcije in kliknite priljubljeno."
+	},
+	"filter_features": {
+		"message": "Funkcije filtra"
+	},
+	"student_offer": {
+		"message": "Študentje dobijo Helperbird Pro za"
+	},
+	"filter_style": {
+		"message": "Zaslon"
+	},
+	"filter_text_to_speech": {
+		"message": "Besedilo v govor"
+	},
+	"filter_dyslexia": {
+		"message": "disleksija"
+	},
+	"filter_pro": {
+		"message": "Pro funkcije"
+	},
+	"filter": {
+		"message": "Filter"
+	},
+	"filter_writing": {
+		"message": "Pisanje"
+	},
+	"highlighter_title": {
+		"message": "Označevalnik"
+	},
+	"filter_reading": {
+		"message": "Branje"
+	},
+	"filter_active": {
+		"message": "Aktiven"
+	},
+	"filter_audio": {
+		"message": "Zvočne funkcije"
+	},
+	"feature_blindness": {
+		"message": "Barvna slepota"
+	},
+	"feature_emphasize_links": {
+		"message": "Poudarite povezave"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Besedilni udarec"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Barva"
+	},
+	"color": {
+		"message": "Barva"
+	},
+	"feature_specialized_font": {
+		"message": "Specializirana pisava"
+	},
+	"feature_specialized_font_options": {
+		"message": "Možnosti pisave"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Označeni meni je vklopljen"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Označeni meni je izklopljen"
+	},
+	"feature_highlight_menu": {
+		"message": "Označite meni"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Prikaže naš poudarjeni besedilni meni."
+	},
+	"show": {
+		"message": "Pokaži"
+	},
+	"welcome": {
+		"message": "Dobrodošli v Helperbirdu"
+	},
+	"feature_immersive_reader": {
+		"message": "Poglobljeni bralec"
+	},
+	"create_a_new_note": {
+		"message": "Ustvarite novo opombo"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Na tej strani uporabite Microsoftov Immersive Reader."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Dokumenti in Predstavitve"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Doda orodno vrstico Helperbird v datotekah Google doc."
+	},
+	"feature_toolbar_pdf": {
+		"message": "Orodna vrstica PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Doda orodno vrstico Helperbird v datotekah PDF."
+	},
+	"pause_helperbird": {
+		"message": "Pavza 1 $"
+	},
+	"quick_action": {
+		"message": "Hitra dejanja"
+	},
+	"feature_pause_helperbird": {
+		"message": "1 $ je popust"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 je vklopljen"
+	},
+	"voice_typing_is_on": {
+		"message": "Glasovno tipkanje je vklopljeno"
+	},
+	"voice_typing_is_off": {
+		"message": "Glasovno tipkanje je izklopljeno"
+	},
+	"helperbird_paused": {
+		"message": "Ptica pomočnica izklopljena"
+	},
+	"helperbird_running": {
+		"message": "Pomočnik teče"
+	},
+	"applying_settings": {
+		"message": "Uporaba vaših nastavitev"
+	},
+	"feature_favorites": {
+		"message": "Priljubljene"
+	},
+	"all_feature_favorites": {
+		"message": "vse"
+	},
+	"hide_feature_favorites": {
+		"message": "Skrij priljubljene"
+	},
+	"feature_favorites_description": {
+		"message": "Pokaži samo priljubljene."
+	},
+	"feature_print": {
+		"message": "Tiskanje"
+	},
+	"feature_print_description": {
+		"message": "Natisnite trenutno stran."
+	},
+	"feature_printing_success": {
+		"message": "Odpiranje tiska"
+	},
+	"feature_reader_mode": {
+		"message": "Način branja"
+	},
+	"feature_readermode_opening": {
+		"message": "Odpiranje načina bralnika"
+	},
+	"feature_readermode_closing": {
+		"message": "Zapiranje načina branja"
+	},
+	"view_table": {
+		"message": "Pogled tabele"
+	},
+	"view_time": {
+		"message": "Pogled na časovnico"
+	},
+	"view_card": {
+		"message": "Pogled kartice"
+	},
+	"feature_screenshot": {
+		"message": "Posnetek zaslona"
+	},
+	"feature_screenshot_description": {
+		"message": "Naredite posnetek zaslona trenutne strani."
+	},
+	"feature_screenshot_error": {
+		"message": "Napaka pri zajemanju posnetka zaslona"
+	},
+	"feature_screenshot_success": {
+		"message": "Zajemanje posnetka zaslona"
+	},
+	"feature_tooltip": {
+		"message": "Opisi slik"
+	},
+	"feature_tooltip_description": {
+		"message": "Pokažite oznake alt in naslov, ko miško postavite."
+	},
+	"feature_translate": {
+		"message": "Prevesti"
+	},
+	"feature_language": {
+		"message": "jeziki"
+	},
+	"feature_magnifier": {
+		"message": "Povečevalnik"
+	},
+	"feature_magnifier_description": {
+		"message": "Povečevalnik"
+	},
+	"percentage": {
+		"message": "Odstotek"
+	},
+	"feature_analyze": {
+		"message": "Število besed"
+	},
+	"feature_analyze_description": {
+		"message": "analizirati"
+	},
+	"feature_analyze_words": {
+		"message": "besede"
+	},
+	"feature_analyze_characters": {
+		"message": "znakov"
+	},
+	"feature_annotations": {
+		"message": "Opombe"
+	},
+	"feature_annotations_description": {
+		"message": "Označite stran tako, da pustite nov samolepilni list."
+	},
+	"feature_annotate_open": {
+		"message": "Ustvarjanje nove beležke"
+	},
+	"annotate": {
+		"message": "Označi"
+	},
+	"feature_cognitive_load": {
+		"message": "Hitro branje"
+	},
+	"bold": {
+		"message": "Bolodness"
+	},
+	"feature_background_color": {
+		"message": "Barva ozadja"
+	},
+	"feature_font_color": {
+		"message": "Barva pisave"
+	},
+	"feature_highlight_menu_min": {
+		"message": "meni"
+	},
+	"feature_highlight_color": {
+		"message": "Barva poudarka"
+	},
+	"feature_link_color": {
+		"message": "Barva povezave"
+	},
+	"feature_cursor_size": {
+		"message": "Velikost kazalca"
+	},
+	"feature_font_size": {
+		"message": "Velikost besedila"
+	},
+	"feature_font_size_titles": {
+		"message": "Velikost glave"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Velikost odstavkov"
+	},
+	"feature_gray_hue": {
+		"message": "Sivi odtenek"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Označite odstavke"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Označite barvo odstavkov"
+	},
+	"feature_images_hide_title": {
+		"message": "Skrij slike"
+	},
+	"hide": {
+		"message": "skrij"
+	},
+	"feature_images_hide": {
+		"message": "Skrij vse slike"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Skrij GIF-e"
+	},
+	"feature_high_contast": {
+		"message": "Visok kontrast"
+	},
+	"feature_text_adjustments": {
+		"message": "Prilagoditve besedila"
+	},
+	"feature_text_align": {
+		"message": "Poravnaj besedilo"
+	},
+	"feature_text_alignment": {
+		"message": "Poravnava"
+	},
+	"feature_letter_spacing": {
+		"message": "Razmik med črkami"
+	},
+	"spacing": {
+		"message": "Razmik"
+	},
+	"feature_line_height_spacing": {
+		"message": "Višina vrstice"
+	},
+	"height": {
+		"message": "Višina"
+	},
+	"feature_line_focus": {
+		"message": "Fokus linije"
+	},
+	"feature_line_focus_color": {
+		"message": "Barva ostrenja črte"
+	},
+	"feature_line_focus_height": {
+		"message": "Višina fokusa črte"
+	},
+	"feature_mute": {
+		"message": "Utišaj video"
+	},
+	"feature_mute_description": {
+		"message": "Utišajte videoposnetke in zvoke s strani."
+	},
+	"ocr_read_words": {
+		"message": "Preberite izvlečeno besedilo"
+	},
+	"text": {
+		"message": "Besedilo"
+	},
+	"ocr_read_words_save": {
+		"message": "Shrani izvlečeno besedilo"
+	},
+	"feature_extract_text": {
+		"message": "Izvleček besedila (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Omogoči, izberite območje na zaslonu."
+	},
+	"feature_overlay": {
+		"message": "Prekrivanje"
+	},
+	"feature_overlay_color": {
+		"message": "Barva prekrivanja"
+	},
+	"feature_paragraph_width": {
+		"message": "Širina odstavka"
+	},
+	"width": {
+		"message": "Premer"
+	},
+	"highlighted_text": {
+		"message": "Poudarjeno besedilo"
+	},
+	"issue_on_page": {
+		"message": "Težava"
+	},
+	"feature_reading_guide": {
+		"message": "Vodnik za branje"
+	},
+	"feature_reading_guide_color": {
+		"message": "Barva vodnika za branje"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Vladar disleksije"
+	},
+	"feature_ruler_width": {
+		"message": "Širina ravnila"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Višina"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Položaj"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Barva"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Sledite"
+	},
+	"feature_auto_scroll": {
+		"message": "Samodejno pomikanje"
+	},
+	"speed": {
+		"message": "Hitrost"
+	},
+	"subscription_deleted": {
+		"message": "Naročnina je preklicana"
+	},
+	"title_enjoy_until": {
+		"message": "Uživajte v preizkusu do"
+	},
+	"incomplete_expired": {
+		"message": "Plačila nismo mogli dokončati."
+	},
+	"past_due": {
+		"message": "Vaša naročnina je zapadla."
+	},
+	"incomplete": {
+		"message": "Plačila nismo mogli dokončati."
+	},
+	"transparency": {
+		"message": "Svetlost"
+	},
+	"title_message_full": {
+		"message": "Najdena je bila naročnina Helperbird Pro."
+	},
+	"contact_support": {
+		"message": "Obrnite se na podporo."
+	},
+	"buy": {
+		"message": "Kupi 1 $"
+	},
+	"feature_voice_typing": {
+		"message": "Glasovno tipkanje"
+	},
+	"feature_voice_typing_description": {
+		"message": "Vsem vhodom doda glasovno tipkanje. Samo kliknite gumb na vhodu."
+	},
+	"google_docs_notice": {
+		"message": "Zdaj imamo Google Addon! Namestite za še večjo podporo."
+	},
+	"feature_spell_check": {
+		"message": "Preverjanje črkovanja"
+	},
+	"feature_summarize": {
+		"message": "Stran s povzetkom"
+	},
+	"feature_summarize_description": {
+		"message": "Povzemite to stran."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Možnosti besedila v govor"
+	},
+	"feature_speech_voice": {
+		"message": "Glas"
+	},
+	"feature_speech_speed": {
+		"message": "Hitrost"
+	},
+	"feature_speech_pitch": {
+		"message": "Višina tona"
+	},
+	"feature_speech_volume": {
+		"message": "Glasnost"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Barva poudarka"
+	},
+	"feature_speech_reading_success": {
+		"message": "Branje izbranega besedila."
+	},
+	"feature_text_to_speech": {
+		"message": "Besedilo v govor"
+	},
+	"you_need_to_highlight": {
+		"message": "Poudariti morate nekaj besedila."
+	},
+	"feature_word_prediction": {
+		"message": "Napoved besed"
+	},
+	"feature_word_prediction_description": {
+		"message": "Vklopite predvidevanje besed Helperbirds na vhodih."
+	},
+	"feature_word_spacing": {
+		"message": "Razmik med besedami"
+	},
+	"full_Screen": {
+		"message": "Celozaslonski način"
+	},
+	"voice_typing_stop": {
+		"message": "Ustavitev glasovnega tipkanja."
+	},
+	"voice_typing_start": {
+		"message": "Govori zdaj."
+	},
+	"speak_word_on_hover": {
+		"message": "Preberite na glas."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Besedo bo prebral pri lebdenju."
+	},
+	"speak": {
+		"message": "Govoriti"
+	},
+	"auto_scroll_start": {
+		"message": "Samodejno pomikanje se je začelo."
+	},
+	"auto_scroll_stop": {
+		"message": "Samodejno pomikanje je ustavljeno."
+	},
+	"popup_immersive_success": {
+		"message": "Nalaganje Poglobljenega bralnika."
+	},
+	"popup_readermode_success": {
+		"message": "Odpiranje načina bralnika."
+	},
+	"popup_printing_success": {
+		"message": "Odpiranje tiska."
+	},
+	"ocr_select": {
+		"message": "Izberite območje na strani."
+	},
+	"ocr_extracted": {
+		"message": "Besedilo izvlečeno."
+	},
+	"ocr_extracting": {
+		"message": "Ekstrahiranje"
+	},
+	"ocr_copy": {
+		"message": "Kopirano besedilo iz slike. Shranjeno v odložišče."
+	},
+	"ocr_no_text": {
+		"message": "Nobenega besedila ni bilo mogoče najti."
+	},
+	"popup_note_success": {
+		"message": "Shranjeno v vaše zapiske."
+	},
+	"popup_immersive_error": {
+		"message": "Napaka pri nalaganju Poglobljenega bralnika"
+	},
+	"popup_summarize_error": {
+		"message": "Napaka pri povzetku strani."
+	},
+	"popup_saving_error": {
+		"message": "Napaka pri shranjevanju"
+	},
+	"popup_summarize_success": {
+		"message": "Stran s povzetkom"
+	},
+	"popup_readermode_closing": {
+		"message": "Zapiranje načina branja"
+	},
+	"close": {
+		"message": "Zapri"
+	},
+	"your_note_was_saved": {
+		"message": "Vaš zapisek je bil shranjen."
+	},
+	"error_saving_your_note": {
+		"message": "Napaka pri shranjevanju zapiska. Prosim poskusite ponovno."
+	},
+	"popup_readinglist_error": {
+		"message": "Napaka pri shranjevanju na seznam za branje"
+	},
+	"popup_readinglist_success": {
+		"message": "Shranjeno na seznam za branje"
+	},
+	"popup_screenshot_error": {
+		"message": "Napaka pri zajemanju posnetka zaslona"
+	},
+	"popup_screenshot_success": {
+		"message": "Zajemanje posnetka zaslona"
+	},
+	"copied_text": {
+		"message": "Kopirano besedilo"
+	},
+	"copied_text_error": {
+		"message": "Napaka pri kopiranju besedila."
+	},
+	"ocr_loading": {
+		"message": "Nalaganje Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "Shranjeno v vaše zapiske"
+	},
+	"popup_reading_success": {
+		"message": "Branje izbranega besedila"
+	},
+	"popup_reading_finished": {
+		"message": "Končano branje"
+	},
+	"popup_reading_error": {
+		"message": "Ustavljanje"
+	},
+	"popup_reading_stopping": {
+		"message": "Ustavljanje"
+	},
+	"popup_reading_pause": {
+		"message": "Zaustavljeno"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Za uporabo te funkcije morate nadgraditi Helperbird Pro."
+	},
+	"menu_define": {
+		"message": "Določite besedo"
+	},
+	"menu_website_readinglist": {
+		"message": "Dodajte spletno mesto na seznam za branje"
+	},
+	"menu_readinglist": {
+		"message": "Dodaj na seznam za branje"
+	},
+	"menu_text_to_speech": {
+		"message": "Besedilo v govor"
+	},
+	"menu_play": {
+		"message": "Igraj"
+	},
+	"menu_pause": {
+		"message": "Pavza"
+	},
+	"menu_stop": {
+		"message": "Ustavi se"
+	},
+	"menu_resume": {
+		"message": "Nadaljuj"
+	},
+	"menu_screenshot": {
+		"message": "Naredi posnetek zaslona"
+	},
+	"menu_share": {
+		"message": "Deliti"
+	},
+	"menu_reader_mode": {
+		"message": "Oglejte si v načinu Bralnik"
+	},
+	"menu_translate": {
+		"message": "Prevesti"
+	},
+	"road_map": {
+		"message": "Načrt"
+	},
+	"menu_immersive_reader": {
+		"message": "Oglejte si v Immersive Reader"
+	},
+	"menu_summarize": {
+		"message": "Stran s povzetkom"
+	},
+	"menu_summarize_page": {
+		"message": "Stran povzeta"
+	},
+	"menu_annotate_page": {
+		"message": "Označi stran"
+	}
+}

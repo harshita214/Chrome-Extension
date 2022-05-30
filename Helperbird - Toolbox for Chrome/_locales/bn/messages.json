@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "ক্রোমের জন্য হেল্পারবার্ড"
+	},
+	"appDescription": {
+		"message": "প্রতিটি ধরণের পাঠক, শিক্ষার্থী এবং লেখককে সমর্থন করার জন্য নির্মিত 32টিরও বেশি অ্যাক্সেসযোগ্যতা এবং উত্পাদনশীলতা বৈশিষ্ট্য। ডিসলেক্সিয়া সমর্থন অন্তর্ভুক্ত।"
+	},
+	"helpGuide": {
+		"message": "সাহায্য গাইড"
+	},
+	"upgrade_title": {
+		"message": "হেল্পারবার্ড প্রো বৈশিষ্ট্য"
+	},
+	"upgrade_description": {
+		"message": "এই বৈশিষ্ট্যটি ব্যবহার করতে আপনার একটি হেল্পারবার্ড প্রো সদস্যতা প্রয়োজন৷ চিন্তা করবেন না, এটি বছরে 40 USD বা মাসে 4.99।"
+	},
+	"plan_deal": {
+		"message": "ছাত্র অফার"
+	},
+	"plan_month": {
+		"message": "মাসিক অফার"
+	},
+	"plan_year": {
+		"message": "বার্ষিক অফার"
+	},
+	"upgrade_message": {
+		"message": "সমস্ত বৈশিষ্ট্য আনলক করতে Helperbird Pro-তে আপগ্রেড করুন।"
+	},
+	"column_title": {
+		"message": "কলাম"
+	},
+	"upgrade_now": {
+		"message": "এখন উন্নতি কর"
+	},
+	"upgrade_to_pro": {
+		"message": "Helperbird Pro-তে আপগ্রেড করুন"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "হেল্পারবার্ড প্রো আবিষ্কার করুন"
+	},
+	"signin_message": {
+		"message": "অনুগ্রহ করে হেল্পারবার্ডে সাইন ইন করুন বা আপনার সাবস্ক্রিপশন কী লিখুন।"
+	},
+	"privacy": {
+		"message": "গোপনীয়তা"
+	},
+	"whats_new": {
+		"message": "নতুন কি"
+	},
+	"privacy_details": {
+		"message": "আমরা আপনার গোপনীয়তাকে সম্মান করি, তাই এখানে এটি পরিষ্কার এবং সহজ ভাষায়।"
+	},
+	"privacy_details_one": {
+		"message": "এখানে হেল্পারবার্ডে, আমরা আপনার গোপনীয়তাকে অত্যন্ত গুরুত্ব সহকারে সম্মান করি এবং গ্রহণ করি। তাই আমরা কিছু সঞ্চয় বা সংগ্রহ করি না।"
+	},
+	"privacy_details_two": {
+		"message": "আপনি লগইন করার সময় শুধুমাত্র আপনার ইমেলের জন্য জিজ্ঞাসা করুন। আপনার স্কুল বা ব্যবসার ডোমেনের জন্য অর্থপ্রদান করা হয়েছে কিনা বা আপনি স্ট্রাইপে একটি অ্যাকাউন্টের জন্য অর্থপ্রদান করেছেন কিনা তা পরীক্ষা করতে।"
+	},
+	"privacy_details_three": {
+		"message": "আপনি যা কিছু করেন এবং আপনার সেভ করা সেটিংস আপনার ব্রাউজারে স্থানীয়ভাবে থাকে। আপনার কম্পিউটার ছেড়ে না."
+	},
+	"free": {
+		"message": "বিনামূল্যে"
+	},
+	"pro": {
+		"message": "প্রো"
+	},
+	"on": {
+		"message": "চালু"
+	},
+	"on_lower": {
+		"message": "চালু"
+	},
+	"off": {
+		"message": "বন্ধ"
+	},
+	"off_lower": {
+		"message": "বন্ধ"
+	},
+	"notes": {
+		"message": "মন্তব্য"
+	},
+	"open_notes": {
+		"message": "নোট খুলুন"
+	},
+	"save": {
+		"message": "সংরক্ষণ"
+	},
+	"clear": {
+		"message": "পরিষ্কার"
+	},
+	"manage": {
+		"message": "পরিচালনা করুন"
+	},
+	"open": {
+		"message": "খোলা"
+	},
+	"copy": {
+		"message": "কপি"
+	},
+	"delete": {
+		"message": "মুছে ফেলা"
+	},
+	"documents": {
+		"message": "নথিপত্র"
+	},
+	"remove": {
+		"message": "অপসারণ"
+	},
+	"version": {
+		"message": "সংস্করণ"
+	},
+	"visit": {
+		"message": "ভিজিট করুন"
+	},
+	"no_results": {
+		"message": "কোন ফলাফল নেই"
+	},
+	"reduce_motion": {
+		"message": "অ্যানিমেশন"
+	},
+	"maths_steps": {
+		"message": "গণিত সমাধানকারী"
+	},
+	"tour": {
+		"message": "হেল্পারবার্ড ট্যুর"
+	},
+	"reduce_motion_description": {
+		"message": "ওয়েব পৃষ্ঠাগুলিতে প্রদর্শিত হওয়া থেকে অ্যানিমেশন প্রতিরোধ করুন।"
+	},
+	"feature_immersive_reader_description": {
+		"message": "ইমারসিভ রিডার হল একটি বিনামূল্যের টুল যা পড়া এবং লেখার উন্নতি করতে প্রমাণিত কৌশল প্রয়োগ করে"
+	},
+	"start": {
+		"message": "শুরু করুন"
+	},
+	"learn_more": {
+		"message": "আরও জানুন"
+	},
+	"more": {
+		"message": "আরো"
+	},
+	"editor_title": {
+		"message": "সম্পাদক"
+	},
+	"editor_title_open": {
+		"message": "হেল্পারবার্ডস এডিটর খুলুন"
+	},
+	"logout": {
+		"message": "প্রস্থান"
+	},
+	"signin": {
+		"message": "প্রবেশ করুন"
+	},
+	"define_title": {
+		"message": "অভিধান"
+	},
+	"define_title_open": {
+		"message": "অভিধান খুলুন"
+	},
+	"define_empty_title": {
+		"message": "একটি শব্দ অনুসন্ধান করুন এবং আমরা এটির অর্থ ফিরিয়ে দেব।"
+	},
+	"define_search": {
+		"message": "অনুসন্ধান......"
+	},
+	"define_antonyms": {
+		"message": "বিপরীতার্থক শব্দ"
+	},
+	"define_synonyms": {
+		"message": "সমার্থক শব্দ"
+	},
+	"define_meanings": {
+		"message": "অর্থ"
+	},
+	"define_related": {
+		"message": "সম্পর্কিত"
+	},
+	"define_etymology": {
+		"message": "ব্যুৎপত্তি"
+	},
+	"export": {
+		"message": "রপ্তানি"
+	},
+	"export_word": {
+		"message": "Word এ রপ্তানি করুন"
+	},
+	"export_docs": {
+		"message": "Google ডক্সে রপ্তানি করুন"
+	},
+	"export_text": {
+		"message": "টেক্সট ফাইলে রপ্তানি করুন"
+	},
+	"toolbar_pdf": {
+		"message": "পিডিএফ রিডার"
+	},
+	"toolbar_pdf_open": {
+		"message": "পিডিএফ রিডার খুলুন"
+	},
+	"menus": {
+		"message": "Google ডক্স এবং পিডিএফ"
+	},
+	"upgrade_message_title": {
+		"description": "হেল্পারবার্ড এক্সটেনশন।",
+		"message": "$1 এ আপগ্রেড করুন"
+	},
+	"upgrade_message_paragraph": {
+		"description": "হেল্পারবার্ড এক্সটেনশন।",
+		"message": "রিডার মোড এবং $1 এর মত শক্তিশালী বৈশিষ্ট্যগুলি অ্যাক্সেস করুন৷"
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "হেল্পারবার্ড এক্সটেনশন।",
+		"message": "30টির বেশি বৈশিষ্ট্য এবং 24 ঘন্টা সমর্থন আনলক করতে নীচের একটি পরিকল্পনা চয়ন করুন৷"
+	},
+	"alert_message": {
+		"message": "সমস্ত প্রো বৈশিষ্ট্যগুলি অ্যাক্সেস করতে আপগ্রেড করুন বা লগইন করুন৷"
+	},
+	"alert_loading": {
+		"message": "লোড হচ্ছে..."
+	},
+	"alert_clear": {
+		"message": "পরিষ্কার"
+	},
+	"alert_cleared": {
+		"message": "সাফ"
+	},
+	"alert_download": {
+		"message": "ডাউনলোড করুন"
+	},
+	"alert_no_data": {
+		"message": "কোন ফলাফল নেই"
+	},
+	"annotations_notes": {
+		"message": "মন্তব্য"
+	},
+	"import_annotations": {
+		"message": "নোট আমদানি করুন"
+	},
+	"options": {
+		"message": "অপশন"
+	},
+	"open_document": {
+		"message": "নথি খুলুন"
+	},
+	"select_document": {
+		"message": "আপনাকে একটি নথি নির্বাচন করতে হবে।"
+	},
+	"copied_document": {
+		"message": "ডকুমেন্ট কপি করা হয়েছে"
+	},
+	"saved_document": {
+		"message": "নথি সংরক্ষিত"
+	},
+	"issue_saving": {
+		"message": "ইস্যু সংরক্ষণ"
+	},
+	"show_updates": {
+		"message": "আপডেট দেখান"
+	},
+	"new": {
+		"message": "নতুন"
+	},
+	"pause": {
+		"message": "বিরতি"
+	},
+	"removed_document": {
+		"message": "নথি সরানো হয়েছে৷"
+	},
+	"opening_document": {
+		"message": "নথি খোলা"
+	},
+	"get_started": {
+		"message": "এবার শুরু করা যাক"
+	},
+	"saved_to_documents": {
+		"message": "আপনার নথিতে সংরক্ষিত."
+	},
+	"message_alert": {
+		"message": "আপনার যখনই প্রয়োজন তখনই হেল্পারবার্ডস বৈশিষ্ট্য এবং গ্রাহক সহায়তার অ্যাক্সেস পান। 30 টিরও বেশি বৈশিষ্ট্য।"
+	},
+	"message_three_day": {
+		"message": "3 দিনের ট্রায়াল"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "আপনার ইনপুট পরীক্ষা করুন"
+	},
+	"upgrade": {
+		"message": "আপগ্রেড করুন"
+	},
+	"upgrade_": {
+		"message": "$1 এ আপগ্রেড করুন"
+	},
+	"website": {
+		"message": "ওয়েবসাইট"
+	},
+	"description": {
+		"message": "বর্ণনা"
+	},
+	"capture": {
+		"message": "ক্যাপচার"
+	},
+	"category": {
+		"message": "শ্রেণী"
+	},
+	"error_found_label": {
+		"message": "সেখানে ভুল আছে"
+	},
+	"cancel": {
+		"message": "বাতিল করুন"
+	},
+	"readinglist_title": {
+		"message": "পড়ার তালিকা"
+	},
+	"readinglist_title_open": {
+		"message": "পড়ার তালিকা খুলুন"
+	},
+	"note_removed": {
+		"message": "নোট সরানো হয়েছে।"
+	},
+	"note_removed_error": {
+		"message": "নোট সরানো যায়নি।"
+	},
+	"readinglist_removed": {
+		"message": "ওয়েবসাইট সরানো হয়েছে"
+	},
+	"settings_saved": {
+		"message": "সেটিংস সংরক্ষিত"
+	},
+	"check_for_updates": {
+		"message": "হালনাগাদ এর জন্য অনুসন্ধান করুন"
+	},
+	"show_highlights": {
+		"message": "পৃষ্ঠায় হাইলাইট দেখান."
+	},
+	"account_title": {
+		"message": "হিসাব"
+	},
+	"account_description": {
+		"message": "আমরা আপনার লগইন হিসাবে আপনার ব্রাউজারে যে ইমেলটি সাইন ইন করি সেই একই ইমেল ব্যবহার করি৷"
+	},
+	"signed_in_as": {
+		"message": "হিসাবে সাইন ইন"
+	},
+	"subscription_title": {
+		"message": "সাবস্ক্রিপশন"
+	},
+	"current_plan": {
+		"message": "আপনার বর্তমান পরিকল্পনা"
+	},
+	"subscription_status": {
+		"message": "আপনার সদস্যতা স্থিতি:"
+	},
+	"check_subscription": {
+		"message": "সাবস্ক্রিপশন চেক করুন"
+	},
+	"subscription_token_title": {
+		"message": "সাবস্ক্রিপশন কী"
+	},
+	"subscription_token_description": {
+		"message": "আপনার যদি হেল্পারবার্ড প্রো সাবস্ক্রিপশন থাকে, তাহলে হেল্পারবার্ড প্রো-এর সমস্ত বৈশিষ্ট্য আনলক করতে এটি নীচে লিখুন।"
+	},
+	"themes": {
+		"message": "থিম"
+	},
+	"theme": {
+		"message": "থিম"
+	},
+	"danger_zone_title": {
+		"message": "স্টোরেজ"
+	},
+	"danger_zone_description": {
+		"message": "নীচের বোতামটি সমস্ত সেটিংস সাফ করবে এবং এক্সটেনশনটি নতুন হিসাবে শুরু করবে। তাই সতর্ক থাকুন আমরা আপনার মুছে ফেলা কিছু ফেরত পেতে পারি না।"
+	},
+	"delete_everything": {
+		"message": "সবকিছু মুছে ফেলুন"
+	},
+	"delete_this_note": {
+		"message": "এই নোট মুছুন."
+	},
+	"visit_this_note": {
+		"message": "ভিজিট ওয়েবসাইট এই নোট চালু আছে."
+	},
+	"everything_deleted": {
+		"message": "সমস্ত সেটিংস এবং স্টোরেজ এখন মুছে ফেলা হয়েছে৷"
+	},
+	"enter_email": {
+		"message": "আপনাকে একটি ইমেল লিখতে হবে।"
+	},
+	"shortcuts": {
+		"message": "শর্টকাট"
+	},
+	"shortcuts_menu_on": {
+		"message": "শর্টকাট চালু আছে"
+	},
+	"shortcuts_menu_off": {
+		"message": "শর্টকাট বন্ধ আছে"
+	},
+	"shortcuts_title": {
+		"message": "শর্টকাট"
+	},
+	"shortcuts_description": {
+		"message": "শর্টকাট"
+	},
+	"shortcuts_ocr": {
+		"message": "OCR সক্ষম করুন"
+	},
+	"shortcuts_immsersive": {
+		"message": "ইমারসিভ রিডার খুলুন"
+	},
+	"shortcuts_reader_mode": {
+		"message": "রিডার মোড খুলুন"
+	},
+	"annotate_page": {
+		"message": "টীকা পৃষ্ঠা"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "PDF খুলুন"
+	},
+	"open_pdf_zoom_out": {
+		"message": "ছোট করা"
+	},
+	"open_pdf_zoom_in": {
+		"message": "প্রসারিত করো"
+	},
+	"settings": {
+		"message": "সেটিংস"
+	},
+	"support_videos": {
+		"message": "সমর্থন ভিডিও"
+	},
+	"review_us": {
+		"message": "আমাদের পর্যালোচনা"
+	},
+	"view": {
+		"message": "দেখুন"
+	},
+	"views": {
+		"message": "ভিউ"
+	},
+	"no_favorites": {
+		"message": "কোন প্রিয়"
+	},
+	"sorting_none": {
+		"message": "কিছুই পাওয়া যায়নি।"
+	},
+	"sorting": {
+		"message": "শ্রেণীবিভাজন...."
+	},
+	"showing_favorites": {
+		"message": "ফেভারিট দেখাচ্ছে"
+	},
+	"unpaid": {
+		"message": "আপনার সদস্যতা অবৈতনিক."
+	},
+	"canceled": {
+		"message": "আপনার সদস্যতা বাতিল করা হয়েছে."
+	},
+	"message_nothing_found": {
+		"message": "আমরা একটি সদস্যতা খুঁজে পাইনি."
+	},
+	"couldnt_interact_with_page": {
+		"message": "আমরা কোন টেক্সট পেতে পারিনি. অনুগ্রহ করে আবার চেষ্টা করুন (রিফ্রেশ করুন)। আমাদের PDF বা Google ডক্স অ্যাড-অন ব্যবহার করে দেখুন।"
+	},
+	"unpinned_favorite": {
+		"message": "সরানো পছন্দসই"
+	},
+	"pin_favorite": {
+		"message": "পছন্দের"
+	},
+	"setting_saved": {
+		"message": "সেটিং সংরক্ষিত"
+	},
+	"favourite": {
+		"message": "প্রিয়"
+	},
+	"un_favourite": {
+		"message": "অপছন্দনীয়"
+	},
+	"how_to_use": {
+		"message": "কিভাবে ব্যবহার করে"
+	},
+	"search": {
+		"message": "অনুসন্ধান করুন"
+	},
+	"search_feature": {
+		"message": "অনুসন্ধান বৈশিষ্ট্য"
+	},
+	"filter_productivity": {
+		"message": "গবেষণা"
+	},
+	"helperbird_apps": {
+		"message": "হেল্পারবার্ড অ্যাপস"
+	},
+	"fav_message": {
+		"message": "মনে হচ্ছে আপনার পছন্দের কোনো বৈশিষ্ট্য নেই। পছন্দের জন্য, একটি বৈশিষ্ট্যের পাশে তিনটি বিন্দুতে ক্লিক করুন এবং প্রিয়তে ক্লিক করুন।"
+	},
+	"filter_features": {
+		"message": "ফিল্টার বৈশিষ্ট্য"
+	},
+	"student_offer": {
+		"message": "ছাত্ররা হেল্পারবার্ড প্রো পেতে"
+	},
+	"filter_style": {
+		"message": "প্রদর্শন"
+	},
+	"filter_text_to_speech": {
+		"message": "টেক্সট টু বক্তৃতা"
+	},
+	"filter_dyslexia": {
+		"message": "ডিসলেক্সিয়া"
+	},
+	"filter_pro": {
+		"message": "প্রো বৈশিষ্ট্য"
+	},
+	"filter": {
+		"message": "ছাঁকনি"
+	},
+	"filter_writing": {
+		"message": "লেখা"
+	},
+	"highlighter_title": {
+		"message": "হাইলাইটার"
+	},
+	"filter_reading": {
+		"message": "পড়া"
+	},
+	"filter_active": {
+		"message": "সক্রিয়"
+	},
+	"filter_audio": {
+		"message": "অডিও বৈশিষ্ট্য"
+	},
+	"feature_blindness": {
+		"message": "বর্ণান্ধতা"
+	},
+	"feature_emphasize_links": {
+		"message": "লিঙ্কগুলিতে জোর দিন"
+	},
+	"feature_emphasize_stroke": {
+		"message": "টেক্সট স্ট্রোক"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "রঙ"
+	},
+	"color": {
+		"message": "রঙ"
+	},
+	"feature_specialized_font": {
+		"message": "বিশেষায়িত ফন্ট"
+	},
+	"feature_specialized_font_options": {
+		"message": "ফন্ট বিকল্প"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "হাইলাইট মেনু চালু আছে"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "হাইলাইট মেনু বন্ধ আছে"
+	},
+	"feature_highlight_menu": {
+		"message": "হাইলাইট মেনু"
+	},
+	"feature_highlight_menu_description": {
+		"message": "আমাদের হাইলাইট টেক্সট মেনু দেখায়."
+	},
+	"show": {
+		"message": "দেখান"
+	},
+	"welcome": {
+		"message": "হেল্পারবার্ডে স্বাগতম"
+	},
+	"feature_immersive_reader": {
+		"message": "নিমগ্ন পাঠক"
+	},
+	"create_a_new_note": {
+		"message": "একটি নতুন নোট তৈরি করুন"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "এই পৃষ্ঠায় মাইক্রোসফ্টের ইমারসিভ রিডার ব্যবহার করুন।"
+	},
+	"feature_toolbar_google": {
+		"message": "Google ডক্স এবং স্লাইড"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Google ডক ফাইলগুলিতে একটি হেল্পারবার্ড টুলবার যোগ করে।"
+	},
+	"feature_toolbar_pdf": {
+		"message": "পিডিএফ টুলবার"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "পিডিএফ ফাইলগুলিতে একটি হেল্পারবার্ড টুলবার যোগ করে।"
+	},
+	"pause_helperbird": {
+		"message": "$1 থামান"
+	},
+	"quick_action": {
+		"message": "দ্রুত কর্ম"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 বন্ধ আছে"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 চালু আছে"
+	},
+	"voice_typing_is_on": {
+		"message": "ভয়েস টাইপিং চালু আছে"
+	},
+	"voice_typing_is_off": {
+		"message": "ভয়েস টাইপিং বন্ধ আছে"
+	},
+	"helperbird_paused": {
+		"message": "হেল্পারবার্ড বন্ধ"
+	},
+	"helperbird_running": {
+		"message": "হেল্পারবার্ড দৌড়াচ্ছে"
+	},
+	"applying_settings": {
+		"message": "আপনার সেটিংস প্রয়োগ করা হচ্ছে"
+	},
+	"feature_favorites": {
+		"message": "প্রিয়"
+	},
+	"all_feature_favorites": {
+		"message": "সব"
+	},
+	"hide_feature_favorites": {
+		"message": "প্রিয় লুকান"
+	},
+	"feature_favorites_description": {
+		"message": "শুধুমাত্র প্রিয় দেখান."
+	},
+	"feature_print": {
+		"message": "ছাপা"
+	},
+	"feature_print_description": {
+		"message": "বর্তমান পৃষ্ঠাটি মুদ্রণ করুন।"
+	},
+	"feature_printing_success": {
+		"message": "খোলা মুদ্রণ"
+	},
+	"feature_reader_mode": {
+		"message": "পাঠক মোড"
+	},
+	"feature_readermode_opening": {
+		"message": "রিডার মোড খোলা হচ্ছে"
+	},
+	"feature_readermode_closing": {
+		"message": "পাঠক মোড বন্ধ করা হচ্ছে"
+	},
+	"view_table": {
+		"message": "টেবিল ভিউ"
+	},
+	"view_time": {
+		"message": "টাইমলাইন ভিউ"
+	},
+	"view_card": {
+		"message": "কার্ড ভিউ"
+	},
+	"feature_screenshot": {
+		"message": "স্ক্রিনশট"
+	},
+	"feature_screenshot_description": {
+		"message": "বর্তমান পৃষ্ঠার একটি স্ক্রিনশট নিন।"
+	},
+	"feature_screenshot_error": {
+		"message": "স্ক্রিনশট ক্যাপচার করতে ত্রুটি৷"
+	},
+	"feature_screenshot_success": {
+		"message": "স্ক্রিনশট ক্যাপচার করা হচ্ছে"
+	},
+	"feature_tooltip": {
+		"message": "ইমেজ বিবরণ"
+	},
+	"feature_tooltip_description": {
+		"message": "মাউস ওভারে alt এবং শিরোনাম ট্যাগ দেখান।"
+	},
+	"feature_translate": {
+		"message": "অনুবাদ করা"
+	},
+	"feature_language": {
+		"message": "ভাষা"
+	},
+	"feature_magnifier": {
+		"message": "ম্যাগনিফায়ার"
+	},
+	"feature_magnifier_description": {
+		"message": "ম্যাগনিফায়ার"
+	},
+	"percentage": {
+		"message": "শতাংশ"
+	},
+	"feature_analyze": {
+		"message": "শব্দ গণনা"
+	},
+	"feature_analyze_description": {
+		"message": "বিশ্লেষণ"
+	},
+	"feature_analyze_words": {
+		"message": "শব্দ"
+	},
+	"feature_analyze_characters": {
+		"message": "চরিত্র"
+	},
+	"feature_annotations": {
+		"message": "মন্তব্য"
+	},
+	"feature_annotations_description": {
+		"message": "একটি নতুন স্টিকি নোট রেখে পৃষ্ঠাটি টীকা করুন।"
+	},
+	"feature_annotate_open": {
+		"message": "একটি নতুন নোট তৈরি করা হচ্ছে"
+	},
+	"annotate": {
+		"message": "টীকা"
+	},
+	"feature_cognitive_load": {
+		"message": "স্পিড রিডিং"
+	},
+	"bold": {
+		"message": "সাহসিকতা"
+	},
+	"feature_background_color": {
+		"message": "পেছনের রঙ"
+	},
+	"feature_font_color": {
+		"message": "ফন্টের রং"
+	},
+	"feature_highlight_menu_min": {
+		"message": "তালিকা"
+	},
+	"feature_highlight_color": {
+		"message": "হাইলাইট রঙ"
+	},
+	"feature_link_color": {
+		"message": "লিঙ্ক রঙ"
+	},
+	"feature_cursor_size": {
+		"message": "কার্সারের আকার"
+	},
+	"feature_font_size": {
+		"message": "অক্ষরের আকার"
+	},
+	"feature_font_size_titles": {
+		"message": "হেডারের আকার"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "অনুচ্ছেদের আকার"
+	},
+	"feature_gray_hue": {
+		"message": "ধূসর রঙ"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "হাইলাইট অনুচ্ছেদ"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "অনুচ্ছেদের রঙ হাইলাইট করুন"
+	},
+	"feature_images_hide_title": {
+		"message": "ছবি লুকান"
+	},
+	"hide": {
+		"message": "লুকান"
+	},
+	"feature_images_hide": {
+		"message": "সমস্ত ছবি লুকান"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Gif লুকান"
+	},
+	"feature_high_contast": {
+		"message": "উচ্চ বৈসাদৃশ্য"
+	},
+	"feature_text_adjustments": {
+		"message": "পাঠ্য সমন্বয়"
+	},
+	"feature_text_align": {
+		"message": "পাঠ্য সারিবদ্ধ"
+	},
+	"feature_text_alignment": {
+		"message": "প্রান্তিককরণ"
+	},
+	"feature_letter_spacing": {
+		"message": "অক্ষর ব্যবধান"
+	},
+	"spacing": {
+		"message": "ব্যবধান"
+	},
+	"feature_line_height_spacing": {
+		"message": "লাইনের উচ্চতা"
+	},
+	"height": {
+		"message": "উচ্চতা"
+	},
+	"feature_line_focus": {
+		"message": "লাইন ফোকাস"
+	},
+	"feature_line_focus_color": {
+		"message": "লাইন ফোকাস রঙ"
+	},
+	"feature_line_focus_height": {
+		"message": "লাইন ফোকাস উচ্চতা"
+	},
+	"feature_mute": {
+		"message": "ভিডিও নিঃশব্দ করুন"
+	},
+	"feature_mute_description": {
+		"message": "পৃষ্ঠাগুলি থেকে ভিডিও এবং শব্দগুলি নিঃশব্দ করুন৷"
+	},
+	"ocr_read_words": {
+		"message": "নিষ্কাশন করা পাঠ্য পড়ুন"
+	},
+	"text": {
+		"message": "পাঠ্য"
+	},
+	"ocr_read_words_save": {
+		"message": "নিষ্কাশন করা পাঠ্য সংরক্ষণ করুন"
+	},
+	"feature_extract_text": {
+		"message": "এক্সট্রাক্ট টেক্সট (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "সক্ষম করুন, স্ক্রিনে এলাকা নির্বাচন করুন।"
+	},
+	"feature_overlay": {
+		"message": "ওভারলে"
+	},
+	"feature_overlay_color": {
+		"message": "ওভারলে রঙ"
+	},
+	"feature_paragraph_width": {
+		"message": "অনুচ্ছেদের প্রস্থ"
+	},
+	"width": {
+		"message": "প্রস্থ"
+	},
+	"highlighted_text": {
+		"message": "হাইলাইট করা পাঠ্য"
+	},
+	"issue_on_page": {
+		"message": "সমস্যা"
+	},
+	"feature_reading_guide": {
+		"message": "পঠন নির্দেশিকা"
+	},
+	"feature_reading_guide_color": {
+		"message": "রিডিং গাইড রঙ"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "ডিসলেক্সিয়ার শাসক"
+	},
+	"feature_ruler_width": {
+		"message": "শাসক প্রস্থ"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "উচ্চতা"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "অবস্থান"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "রঙ"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "অনুসরণ করুন"
+	},
+	"feature_auto_scroll": {
+		"message": "চম্ন"
+	},
+	"speed": {
+		"message": "দ্রুততা"
+	},
+	"subscription_deleted": {
+		"message": "সদস্যতা বাতিল করা হয়েছে"
+	},
+	"title_enjoy_until": {
+		"message": "পর্যন্ত আপনার ট্রায়াল উপভোগ করুন"
+	},
+	"incomplete_expired": {
+		"message": "আমরা পেমেন্ট সম্পূর্ণ করতে পারিনি।"
+	},
+	"past_due": {
+		"message": "আপনার সাবস্ক্রিপশন শেষ হয়ে গেছে।"
+	},
+	"incomplete": {
+		"message": "আমরা পেমেন্ট সম্পূর্ণ করতে পারিনি।"
+	},
+	"transparency": {
+		"message": "উজ্জ্বলতা"
+	},
+	"title_message_full": {
+		"message": "হেল্পারবার্ড প্রো সদস্যতা পাওয়া গেছে।"
+	},
+	"contact_support": {
+		"message": "সমর্থন যোগাযোগ করুন."
+	},
+	"buy": {
+		"message": "$1 কিনুন"
+	},
+	"feature_voice_typing": {
+		"message": "ভয়েস টাইপিং"
+	},
+	"feature_voice_typing_description": {
+		"message": "সমস্ত ইনপুটে ভয়েস টাইপিং যোগ করে। শুধু ইনপুট বোতাম ক্লিক করুন."
+	},
+	"google_docs_notice": {
+		"message": "আমরা এখন একটি Google Addon আছে! আরও বেশি সমর্থন পেতে ইনস্টল করুন।"
+	},
+	"feature_spell_check": {
+		"message": "বানান যাচাই"
+	},
+	"feature_summarize": {
+		"message": "পৃষ্ঠা সংক্ষিপ্ত করুন"
+	},
+	"feature_summarize_description": {
+		"message": "এই পৃষ্ঠার সারসংক্ষেপ."
+	},
+	"feature_text_to_speech_options": {
+		"message": "টেক্সট টু স্পিচ বিকল্প"
+	},
+	"feature_speech_voice": {
+		"message": "ভয়েস"
+	},
+	"feature_speech_speed": {
+		"message": "দ্রুততা"
+	},
+	"feature_speech_pitch": {
+		"message": "পিচ"
+	},
+	"feature_speech_volume": {
+		"message": "আয়তন"
+	},
+	"feature_speech_highlight_color": {
+		"message": "হাইলাইট রঙ"
+	},
+	"feature_speech_reading_success": {
+		"message": "নির্বাচিত পাঠ্য পড়া।"
+	},
+	"feature_text_to_speech": {
+		"message": "টেক্সট টু বক্তৃতা"
+	},
+	"you_need_to_highlight": {
+		"message": "আপনাকে কিছু টেক্সট হাইলাইট করতে হবে।"
+	},
+	"feature_word_prediction": {
+		"message": "শব্দ ভবিষ্যদ্বাণী"
+	},
+	"feature_word_prediction_description": {
+		"message": "ইনপুটগুলিতে Helperbirds শব্দের পূর্বাভাস চালু করুন।"
+	},
+	"feature_word_spacing": {
+		"message": "শব্দ ব্যবধান"
+	},
+	"full_Screen": {
+		"message": "পূর্ণ পর্দা"
+	},
+	"voice_typing_stop": {
+		"message": "ভয়েস টাইপ করা বন্ধ করা হচ্ছে।"
+	},
+	"voice_typing_start": {
+		"message": "এখন বলো."
+	},
+	"speak_word_on_hover": {
+		"message": "উচ্চ স্বরে পড়া."
+	},
+	"speak_word_on_hover_info": {
+		"message": "হোভারে শব্দটি পড়বে।"
+	},
+	"speak": {
+		"message": "কথা বলুন"
+	},
+	"auto_scroll_start": {
+		"message": "অটো স্ক্রোল শুরু হয়েছে।"
+	},
+	"auto_scroll_stop": {
+		"message": "অটো স্ক্রোল বন্ধ।"
+	},
+	"popup_immersive_success": {
+		"message": "ইমারসিভ রিডার লোড হচ্ছে।"
+	},
+	"popup_readermode_success": {
+		"message": "রিডার মোড খোলা হচ্ছে।"
+	},
+	"popup_printing_success": {
+		"message": "খোলা মুদ্রণ."
+	},
+	"ocr_select": {
+		"message": "পৃষ্ঠায় এলাকা নির্বাচন করুন."
+	},
+	"ocr_extracted": {
+		"message": "পাঠ্য বের করা হয়েছে।"
+	},
+	"ocr_extracting": {
+		"message": "নিষ্কাশন করা হচ্ছে"
+	},
+	"ocr_copy": {
+		"message": "ছবি থেকে টেক্সট কপি করা হয়েছে. আপনার ক্লিপবোর্ডে সংরক্ষিত।"
+	},
+	"ocr_no_text": {
+		"message": "কোন লেখা পাওয়া যায়নি."
+	},
+	"popup_note_success": {
+		"message": "আপনার নোট সংরক্ষণ করা হয়েছে."
+	},
+	"popup_immersive_error": {
+		"message": "ইমারসিভ রিডার লোড করার সময় ত্রুটি৷"
+	},
+	"popup_summarize_error": {
+		"message": "পৃষ্ঠার সারসংক্ষেপে ত্রুটি।"
+	},
+	"popup_saving_error": {
+		"message": "সংরক্ষণে ত্রুটি৷"
+	},
+	"popup_summarize_success": {
+		"message": "সারসংক্ষেপ পৃষ্ঠা"
+	},
+	"popup_readermode_closing": {
+		"message": "পাঠক মোড বন্ধ করা হচ্ছে"
+	},
+	"close": {
+		"message": "বন্ধ"
+	},
+	"your_note_was_saved": {
+		"message": "আপনার নোট সংরক্ষিত হয়েছে."
+	},
+	"error_saving_your_note": {
+		"message": "আপনার নোট সংরক্ষণে ত্রুটি৷ আবার চেষ্টা করুন."
+	},
+	"popup_readinglist_error": {
+		"message": "পঠন তালিকায় সংরক্ষণে ত্রুটি৷"
+	},
+	"popup_readinglist_success": {
+		"message": "পড়ার তালিকায় সংরক্ষিত"
+	},
+	"popup_screenshot_error": {
+		"message": "স্ক্রিনশট ক্যাপচার করতে ত্রুটি৷"
+	},
+	"popup_screenshot_success": {
+		"message": "স্ক্রিনশট ক্যাপচার করা হচ্ছে"
+	},
+	"copied_text": {
+		"message": "অনুলিপি করা পাঠ্য"
+	},
+	"copied_text_error": {
+		"message": "পাঠ্য অনুলিপি করার সময় ত্রুটি।"
+	},
+	"ocr_loading": {
+		"message": "হেল্পারবার্ডস ওসিআর লোড হচ্ছে"
+	},
+	"ocr_save": {
+		"message": "আপনার নোট সংরক্ষণ করা হয়েছে"
+	},
+	"popup_reading_success": {
+		"message": "নির্বাচিত পাঠ্য পড়া"
+	},
+	"popup_reading_finished": {
+		"message": "পড়া শেষ"
+	},
+	"popup_reading_error": {
+		"message": "থামছে"
+	},
+	"popup_reading_stopping": {
+		"message": "থামছে"
+	},
+	"popup_reading_pause": {
+		"message": "বিরতি দেওয়া হয়েছে"
+	},
+	"notifcations_upgrade_title": {
+		"message": "এই বৈশিষ্ট্যটি ব্যবহার করতে আপনাকে Helperbird Pro আপগ্রেড করতে হবে।"
+	},
+	"menu_define": {
+		"message": "শব্দের সংজ্ঞা দাও"
+	},
+	"menu_website_readinglist": {
+		"message": "পঠন তালিকায় ওয়েবসাইট যোগ করুন"
+	},
+	"menu_readinglist": {
+		"message": "পড়ার তালিকায় যোগ করুন"
+	},
+	"menu_text_to_speech": {
+		"message": "টেক্সট টু বক্তৃতা"
+	},
+	"menu_play": {
+		"message": "খেলা"
+	},
+	"menu_pause": {
+		"message": "বিরতি"
+	},
+	"menu_stop": {
+		"message": "থামুন"
+	},
+	"menu_resume": {
+		"message": "জীবনবৃত্তান্ত"
+	},
+	"menu_screenshot": {
+		"message": "স্ক্রিনশট নাও"
+	},
+	"menu_share": {
+		"message": "শেয়ার করুন"
+	},
+	"menu_reader_mode": {
+		"message": "রিডার মোডে দেখুন"
+	},
+	"menu_translate": {
+		"message": "অনুবাদ করা"
+	},
+	"road_map": {
+		"message": "রোডম্যাপ"
+	},
+	"menu_immersive_reader": {
+		"message": "ইমারসিভ রিডারে দেখুন"
+	},
+	"menu_summarize": {
+		"message": "পৃষ্ঠা সংক্ষিপ্ত করুন"
+	},
+	"menu_summarize_page": {
+		"message": "পৃষ্ঠা সংক্ষিপ্ত"
+	},
+	"menu_annotate_page": {
+		"message": "টীকা পৃষ্ঠা"
+	}
+}

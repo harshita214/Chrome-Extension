@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Chrome用Helperbird"
+	},
+	"appDescription": {
+		"message": "あらゆる種類のリーダー、学習者、ライターをサポートするために構築された32を超えるアクセシビリティと生産性の機能。失読症のサポートが含まれています。"
+	},
+	"helpGuide": {
+		"message": "ヘルプガイド"
+	},
+	"upgrade_title": {
+		"message": "HelperbirdProの機能"
+	},
+	"upgrade_description": {
+		"message": "この機能を使用するには、HelperbirdProサブスクリプションが必要です。心配しないでください。年間40米ドル、または月4.99米ドルです。"
+	},
+	"plan_deal": {
+		"message": "学生オファー"
+	},
+	"plan_month": {
+		"message": "毎月のオファー"
+	},
+	"plan_year": {
+		"message": "年間オファー"
+	},
+	"upgrade_message": {
+		"message": "Helperbird Proにアップグレードして、すべての機能のロックを解除します。"
+	},
+	"column_title": {
+		"message": "桁"
+	},
+	"upgrade_now": {
+		"message": "今すぐアップグレード"
+	},
+	"upgrade_to_pro": {
+		"message": "HelperbirdProにアップグレードする"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "HelperbirdProをご覧ください"
+	},
+	"signin_message": {
+		"message": "Helperbirdにサインインするか、サブスクリプションキーを入力してください。"
+	},
+	"privacy": {
+		"message": "プライバシー"
+	},
+	"whats_new": {
+		"message": "新着情報"
+	},
+	"privacy_details": {
+		"message": "私たちはあなたのプライバシーを尊重しますので、ここでは明確でシンプルな言葉で書かれています。"
+	},
+	"privacy_details_one": {
+		"message": "ここHelperbirdでは、お客様のプライバシーを尊重し、非常に真剣に受け止めています。そのため、私たちは何も保管または収集しません。"
+	},
+	"privacy_details_two": {
+		"message": "あなたがログインするとき、あなたの電子メールを求めるだけです。学校またはビジネスドメインの料金が支払われているかどうか、またはStripeのアカウントの料金が支払われているかどうかを確認します。"
+	},
+	"privacy_details_three": {
+		"message": "あなたがすることすべてとあなたが保存する設定はあなたのブラウザにローカルにとどまります。コンピュータから離れないでください。"
+	},
+	"free": {
+		"message": "無料"
+	},
+	"pro": {
+		"message": "プロ"
+	},
+	"on": {
+		"message": "の上"
+	},
+	"on_lower": {
+		"message": "の上"
+	},
+	"off": {
+		"message": "オフ"
+	},
+	"off_lower": {
+		"message": "オフ"
+	},
+	"notes": {
+		"message": "ノート"
+	},
+	"open_notes": {
+		"message": "ノートを開く"
+	},
+	"save": {
+		"message": "保存する"
+	},
+	"clear": {
+		"message": "クリア"
+	},
+	"manage": {
+		"message": "管理"
+	},
+	"open": {
+		"message": "開ける"
+	},
+	"copy": {
+		"message": "コピー"
+	},
+	"delete": {
+		"message": "消去"
+	},
+	"documents": {
+		"message": "ドキュメント"
+	},
+	"remove": {
+		"message": "削除する"
+	},
+	"version": {
+		"message": "バージョン"
+	},
+	"visit": {
+		"message": "訪問"
+	},
+	"no_results": {
+		"message": "結果がありません"
+	},
+	"reduce_motion": {
+		"message": "アニメーション"
+	},
+	"maths_steps": {
+		"message": "数学ソルバー"
+	},
+	"tour": {
+		"message": "ヘルパーバードツアー"
+	},
+	"reduce_motion_description": {
+		"message": "アニメーションがWebページに表示されないようにします。"
+	},
+	"feature_immersive_reader_description": {
+		"message": "イマーシブリーダーは、読み書きを改善するための実証済みの技術を実装する無料のツールです"
+	},
+	"start": {
+		"message": "始める"
+	},
+	"learn_more": {
+		"message": "もっと詳しく知る"
+	},
+	"more": {
+		"message": "もっと"
+	},
+	"editor_title": {
+		"message": "編集者"
+	},
+	"editor_title_open": {
+		"message": "HelperbirdsEditorを開く"
+	},
+	"logout": {
+		"message": "ログアウト"
+	},
+	"signin": {
+		"message": "ログイン"
+	},
+	"define_title": {
+		"message": "辞書"
+	},
+	"define_title_open": {
+		"message": "辞書を開く"
+	},
+	"define_empty_title": {
+		"message": "単語を検索すると、その意味が返されます。"
+	},
+	"define_search": {
+		"message": "探す......"
+	},
+	"define_antonyms": {
+		"message": "アントニム"
+	},
+	"define_synonyms": {
+		"message": "同義語"
+	},
+	"define_meanings": {
+		"message": "意味"
+	},
+	"define_related": {
+		"message": "関連している"
+	},
+	"define_etymology": {
+		"message": "語源"
+	},
+	"export": {
+		"message": "書き出す"
+	},
+	"export_word": {
+		"message": "Wordにエクスポート"
+	},
+	"export_docs": {
+		"message": "Googleドキュメントにエクスポート"
+	},
+	"export_text": {
+		"message": "テキストファイルにエクスポート"
+	},
+	"toolbar_pdf": {
+		"message": "PDFリーダー"
+	},
+	"toolbar_pdf_open": {
+		"message": "PDFリーダーを開く"
+	},
+	"menus": {
+		"message": "GoogleドキュメントとPDF"
+	},
+	"upgrade_message_title": {
+		"description": "Helperbird拡張。",
+		"message": "$1にアップグレード"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Helperbird拡張。",
+		"message": "リーダーモードや$1などの強力な機能にアクセスします。"
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Helperbird拡張。",
+		"message": "30以上の機能と24時間のサポートのロックを解除するには、以下のプランを選択してください。"
+	},
+	"alert_message": {
+		"message": "アップグレードまたはログインして、すべてのPro機能にアクセスします。"
+	},
+	"alert_loading": {
+		"message": "読み込んでいます..."
+	},
+	"alert_clear": {
+		"message": "クリア"
+	},
+	"alert_cleared": {
+		"message": "クリア"
+	},
+	"alert_download": {
+		"message": "ダウンロード"
+	},
+	"alert_no_data": {
+		"message": "結果がありません"
+	},
+	"annotations_notes": {
+		"message": "ノート"
+	},
+	"import_annotations": {
+		"message": "メモをインポートする"
+	},
+	"options": {
+		"message": "オプション"
+	},
+	"open_document": {
+		"message": "ドキュメントを開く"
+	},
+	"select_document": {
+		"message": "ドキュメントを選択する必要があります。"
+	},
+	"copied_document": {
+		"message": "コピーされたドキュメント"
+	},
+	"saved_document": {
+		"message": "保存されたドキュメント"
+	},
+	"issue_saving": {
+		"message": "問題の保存"
+	},
+	"show_updates": {
+		"message": "更新を表示"
+	},
+	"new": {
+		"message": "新しい"
+	},
+	"pause": {
+		"message": "一時停止"
+	},
+	"removed_document": {
+		"message": "ドキュメントが削除されました"
+	},
+	"opening_document": {
+		"message": "オープニングドキュメント"
+	},
+	"get_started": {
+		"message": "はじめに"
+	},
+	"saved_to_documents": {
+		"message": "ドキュメントに保存されました。"
+	},
+	"message_alert": {
+		"message": "必要なときにいつでもHelperbirdsのすべての機能とカスタマーサポートにアクセスできます。 30以上の機能。"
+	},
+	"message_three_day": {
+		"message": "3日間のトライアル"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "入力を確認してください"
+	},
+	"upgrade": {
+		"message": "アップグレード"
+	},
+	"upgrade_": {
+		"message": "$1にアップグレード"
+	},
+	"website": {
+		"message": "Webサイト"
+	},
+	"description": {
+		"message": "説明"
+	},
+	"capture": {
+		"message": "キャプチャー"
+	},
+	"category": {
+		"message": "カテゴリー"
+	},
+	"error_found_label": {
+		"message": "エラーがあります"
+	},
+	"cancel": {
+		"message": "キャンセル"
+	},
+	"readinglist_title": {
+		"message": "リーディングリスト"
+	},
+	"readinglist_title_open": {
+		"message": "読書リストを開く"
+	},
+	"note_removed": {
+		"message": "メモが削除されました。"
+	},
+	"note_removed_error": {
+		"message": "メモを削除できませんでした。"
+	},
+	"readinglist_removed": {
+		"message": "ウェブサイトが削除されました"
+	},
+	"settings_saved": {
+		"message": "保存された設定"
+	},
+	"check_for_updates": {
+		"message": "更新を確認する"
+	},
+	"show_highlights": {
+		"message": "ページにハイライトを表示します。"
+	},
+	"account_title": {
+		"message": "アカウント"
+	},
+	"account_description": {
+		"message": "ログイン時にブラウザにサインインしたのと同じメールアドレスを使用します。"
+	},
+	"signed_in_as": {
+		"message": "としてサインイン"
+	},
+	"subscription_title": {
+		"message": "サブスクリプション"
+	},
+	"current_plan": {
+		"message": "あなたの現在の計画"
+	},
+	"subscription_status": {
+		"message": "サブスクリプションステータス："
+	},
+	"check_subscription": {
+		"message": "サブスクリプションを確認する"
+	},
+	"subscription_token_title": {
+		"message": "サブスクリプションキー"
+	},
+	"subscription_token_description": {
+		"message": "Helperbird Proサブスクリプションをお持ちの場合は、以下に入力して、HelperbirdProのすべての機能のロックを解除してください。"
+	},
+	"themes": {
+		"message": "テーマ"
+	},
+	"theme": {
+		"message": "テーマ"
+	},
+	"danger_zone_title": {
+		"message": "ストレージ"
+	},
+	"danger_zone_description": {
+		"message": "下のボタンをクリックすると、すべての設定がクリアされ、新しいものであるかのように拡張機能が開始されます。したがって、削除したものを元に戻すことはできませんのでご注意ください。"
+	},
+	"delete_everything": {
+		"message": "すべて削除する"
+	},
+	"delete_this_note": {
+		"message": "このメモを削除します。"
+	},
+	"visit_this_note": {
+		"message": "このメモが掲載されているウェブサイトをご覧ください。"
+	},
+	"everything_deleted": {
+		"message": "これで、すべての設定とストレージが削除されます。"
+	},
+	"enter_email": {
+		"message": "メールアドレスを入力する必要があります。"
+	},
+	"shortcuts": {
+		"message": "ショートカット"
+	},
+	"shortcuts_menu_on": {
+		"message": "ショートカットがオンになっています"
+	},
+	"shortcuts_menu_off": {
+		"message": "ショートカットはオフです"
+	},
+	"shortcuts_title": {
+		"message": "ショートカット"
+	},
+	"shortcuts_description": {
+		"message": "ショートカット"
+	},
+	"shortcuts_ocr": {
+		"message": "OCRを有効にする"
+	},
+	"shortcuts_immsersive": {
+		"message": "没入型リーダーを開く"
+	},
+	"shortcuts_reader_mode": {
+		"message": "リーダーモードを開く"
+	},
+	"annotate_page": {
+		"message": "ページに注釈を付ける"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "PDFを開く"
+	},
+	"open_pdf_zoom_out": {
+		"message": "ズームアウトする"
+	},
+	"open_pdf_zoom_in": {
+		"message": "ズームイン"
+	},
+	"settings": {
+		"message": "設定"
+	},
+	"support_videos": {
+		"message": "サポートビデオ"
+	},
+	"review_us": {
+		"message": "レビューしてください"
+	},
+	"view": {
+		"message": "意見"
+	},
+	"views": {
+		"message": "ビュー"
+	},
+	"no_favorites": {
+		"message": "お気に入りなし"
+	},
+	"sorting_none": {
+		"message": "何も見つかりませんでした。"
+	},
+	"sorting": {
+		"message": "並べ替え..."
+	},
+	"showing_favorites": {
+		"message": "お気に入りを表示"
+	},
+	"unpaid": {
+		"message": "サブスクリプションは未払いです。"
+	},
+	"canceled": {
+		"message": "サブスクリプションはキャンセルされます。"
+	},
+	"message_nothing_found": {
+		"message": "サブスクリプションが見つかりませんでした。"
+	},
+	"couldnt_interact_with_page": {
+		"message": "テキストを取得できませんでした。もう一度やり直してください（更新）。 PDFまたはGoogleドキュメントのアドオンをお試しください。"
+	},
+	"unpinned_favorite": {
+		"message": "削除されたお気に入り"
+	},
+	"pin_favorite": {
+		"message": "お気に入り"
+	},
+	"setting_saved": {
+		"message": "保存された設定"
+	},
+	"favourite": {
+		"message": "お気に入り"
+	},
+	"un_favourite": {
+		"message": "嫌い"
+	},
+	"how_to_use": {
+		"message": "使い方"
+	},
+	"search": {
+		"message": "探す"
+	},
+	"search_feature": {
+		"message": "検索機能"
+	},
+	"filter_productivity": {
+		"message": "リサーチ"
+	},
+	"helperbird_apps": {
+		"message": "Helperbirdアプリ"
+	},
+	"fav_message": {
+		"message": "お気に入りの機能がないようです。お気に入りにするには、機能の横にある3つのドットをクリックし、[お気に入り]をクリックします。"
+	},
+	"filter_features": {
+		"message": "フィルタ機能"
+	},
+	"student_offer": {
+		"message": "学生はHelperbirdProを入手できます"
+	},
+	"filter_style": {
+		"message": "画面"
+	},
+	"filter_text_to_speech": {
+		"message": "テキスト読み上げ"
+	},
+	"filter_dyslexia": {
+		"message": "失読症"
+	},
+	"filter_pro": {
+		"message": "プロの機能"
+	},
+	"filter": {
+		"message": "フィルター"
+	},
+	"filter_writing": {
+		"message": "書き込み"
+	},
+	"highlighter_title": {
+		"message": "蛍光ペン"
+	},
+	"filter_reading": {
+		"message": "読む"
+	},
+	"filter_active": {
+		"message": "アクティブ"
+	},
+	"filter_audio": {
+		"message": "オーディオ機能"
+	},
+	"feature_blindness": {
+		"message": "色覚異常"
+	},
+	"feature_emphasize_links": {
+		"message": "リンクを強調する"
+	},
+	"feature_emphasize_stroke": {
+		"message": "テキストストローク"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "色"
+	},
+	"color": {
+		"message": "色"
+	},
+	"feature_specialized_font": {
+		"message": "特殊フォント"
+	},
+	"feature_specialized_font_options": {
+		"message": "フォントオプション"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "ハイライトメニューがオンになっています"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "ハイライトメニューがオフになっています"
+	},
+	"feature_highlight_menu": {
+		"message": "ハイライトメニュー"
+	},
+	"feature_highlight_menu_description": {
+		"message": "ハイライトテキストメニューを表示します。"
+	},
+	"show": {
+		"message": "公演"
+	},
+	"welcome": {
+		"message": "Helperbirdへようこそ"
+	},
+	"feature_immersive_reader": {
+		"message": "没入型リーダー"
+	},
+	"create_a_new_note": {
+		"message": "新しいメモを作成する"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "このページでは、Microsoftのイマーシブリーダーを使用してください。"
+	},
+	"feature_toolbar_google": {
+		"message": "Googleドキュメントとスライド"
+	},
+	"feature_toolbar_google_description": {
+		"message": "GoogleドキュメントファイルにHelperbirdツールバーを追加します。"
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDFツールバー"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "PDFファイルにHelperbirdツールバーを追加します。"
+	},
+	"pause_helperbird": {
+		"message": "$1を一時停止します"
+	},
+	"quick_action": {
+		"message": "クイックアクション"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1オフ"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1がオンになっています"
+	},
+	"voice_typing_is_on": {
+		"message": "音声入力がオンになっています"
+	},
+	"voice_typing_is_off": {
+		"message": "音声入力がオフになっています"
+	},
+	"helperbird_paused": {
+		"message": "ヘルパーバードオフ"
+	},
+	"helperbird_running": {
+		"message": "実行中のヘルパーバード"
+	},
+	"applying_settings": {
+		"message": "設定を適用する"
+	},
+	"feature_favorites": {
+		"message": "お気に入り"
+	},
+	"all_feature_favorites": {
+		"message": "全て"
+	},
+	"hide_feature_favorites": {
+		"message": "お気に入りを隠す"
+	},
+	"feature_favorites_description": {
+		"message": "お気に入りのみを表示します。"
+	},
+	"feature_print": {
+		"message": "印刷"
+	},
+	"feature_print_description": {
+		"message": "現在のページを印刷します。"
+	},
+	"feature_printing_success": {
+		"message": "オープニング印刷"
+	},
+	"feature_reader_mode": {
+		"message": "リーダーモード"
+	},
+	"feature_readermode_opening": {
+		"message": "リーダーモードを開く"
+	},
+	"feature_readermode_closing": {
+		"message": "リーダーモードを閉じる"
+	},
+	"view_table": {
+		"message": "テーブルビュー"
+	},
+	"view_time": {
+		"message": "タイムラインビュー"
+	},
+	"view_card": {
+		"message": "カードビュー"
+	},
+	"feature_screenshot": {
+		"message": "スクリーンショット"
+	},
+	"feature_screenshot_description": {
+		"message": "現在のページのスクリーンショットを撮ります。"
+	},
+	"feature_screenshot_error": {
+		"message": "スクリーンショットのキャプチャ中にエラーが発生しました"
+	},
+	"feature_screenshot_success": {
+		"message": "スクリーンショットをキャプチャする"
+	},
+	"feature_tooltip": {
+		"message": "画像の説明"
+	},
+	"feature_tooltip_description": {
+		"message": "マウスオーバーでaltタグとtitleタグを表示します。"
+	},
+	"feature_translate": {
+		"message": "翻訳"
+	},
+	"feature_language": {
+		"message": "言語"
+	},
+	"feature_magnifier": {
+		"message": "拡大鏡"
+	},
+	"feature_magnifier_description": {
+		"message": "拡大鏡"
+	},
+	"percentage": {
+		"message": "パーセンテージ"
+	},
+	"feature_analyze": {
+		"message": "単語数"
+	},
+	"feature_analyze_description": {
+		"message": "分析する"
+	},
+	"feature_analyze_words": {
+		"message": "言葉"
+	},
+	"feature_analyze_characters": {
+		"message": "文字"
+	},
+	"feature_annotations": {
+		"message": "ノート"
+	},
+	"feature_annotations_description": {
+		"message": "新しい付箋を残してページに注釈を付けます。"
+	},
+	"feature_annotate_open": {
+		"message": "新しいメモを作成する"
+	},
+	"annotate": {
+		"message": "注釈を付ける"
+	},
+	"feature_cognitive_load": {
+		"message": "速読"
+	},
+	"bold": {
+		"message": "ボロネス"
+	},
+	"feature_background_color": {
+		"message": "背景色"
+	},
+	"feature_font_color": {
+		"message": "フォントの色"
+	},
+	"feature_highlight_menu_min": {
+		"message": "メニュー"
+	},
+	"feature_highlight_color": {
+		"message": "ハイライトカラー"
+	},
+	"feature_link_color": {
+		"message": "リンクの色"
+	},
+	"feature_cursor_size": {
+		"message": "カーソルサイズ"
+	},
+	"feature_font_size": {
+		"message": "文字サイズ"
+	},
+	"feature_font_size_titles": {
+		"message": "ヘッダーサイズ"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "段落サイズ"
+	},
+	"feature_gray_hue": {
+		"message": "灰色の色相"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "段落を強調表示"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "段落の色を強調表示"
+	},
+	"feature_images_hide_title": {
+		"message": "画像を非表示にする"
+	},
+	"hide": {
+		"message": "隠れる"
+	},
+	"feature_images_hide": {
+		"message": "すべての画像を非表示"
+	},
+	"feature_images_hide_gifs": {
+		"message": "GIFを非表示"
+	},
+	"feature_high_contast": {
+		"message": "ハイコントラスト"
+	},
+	"feature_text_adjustments": {
+		"message": "テキストの調整"
+	},
+	"feature_text_align": {
+		"message": "テキストの整列"
+	},
+	"feature_text_alignment": {
+		"message": "アラインメント"
+	},
+	"feature_letter_spacing": {
+		"message": "文字間隔"
+	},
+	"spacing": {
+		"message": "間隔"
+	},
+	"feature_line_height_spacing": {
+		"message": "行の高さ"
+	},
+	"height": {
+		"message": "身長"
+	},
+	"feature_line_focus": {
+		"message": "ラインフォーカス"
+	},
+	"feature_line_focus_color": {
+		"message": "ラインフォーカスカラー"
+	},
+	"feature_line_focus_height": {
+		"message": "ラインフォーカスの高さ"
+	},
+	"feature_mute": {
+		"message": "ビデオをミュート"
+	},
+	"feature_mute_description": {
+		"message": "ページからビデオとサウンドをミュートします。"
+	},
+	"ocr_read_words": {
+		"message": "正確なテキストを読む"
+	},
+	"text": {
+		"message": "文章"
+	},
+	"ocr_read_words_save": {
+		"message": "削除されたテキストを保存する"
+	},
+	"feature_extract_text": {
+		"message": "テキストの抽出（OCR）"
+	},
+	"feature_extract_text_description": {
+		"message": "有効にして、画面上の領域を選択します。"
+	},
+	"feature_overlay": {
+		"message": "かぶせる"
+	},
+	"feature_overlay_color": {
+		"message": "オーバーレイカラー"
+	},
+	"feature_paragraph_width": {
+		"message": "段落幅"
+	},
+	"width": {
+		"message": "幅"
+	},
+	"highlighted_text": {
+		"message": "ハイライトされたテキスト"
+	},
+	"issue_on_page": {
+		"message": "問題"
+	},
+	"feature_reading_guide": {
+		"message": "読書ガイド"
+	},
+	"feature_reading_guide_color": {
+		"message": "読書ガイドの色"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "失読症の定規"
+	},
+	"feature_ruler_width": {
+		"message": "定規の幅"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "身長"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "ポジション"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "色"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "従う"
+	},
+	"feature_auto_scroll": {
+		"message": "自動スクロール"
+	},
+	"speed": {
+		"message": "スピード"
+	},
+	"subscription_deleted": {
+		"message": "サブスクリプションがキャンセルされました"
+	},
+	"title_enjoy_until": {
+		"message": "までトライアルをお楽しみください"
+	},
+	"incomplete_expired": {
+		"message": "支払いを完了できませんでした。"
+	},
+	"past_due": {
+		"message": "サブスクリプションの期限が過ぎています。"
+	},
+	"incomplete": {
+		"message": "支払いを完了できませんでした。"
+	},
+	"transparency": {
+		"message": "輝度"
+	},
+	"title_message_full": {
+		"message": "HelperbirdProサブスクリプションが見つかりました。"
+	},
+	"contact_support": {
+		"message": "サポートにお問い合わせください。"
+	},
+	"buy": {
+		"message": "$1を購入する"
+	},
+	"feature_voice_typing": {
+		"message": "音声タイピング"
+	},
+	"feature_voice_typing_description": {
+		"message": "すべての入力に音声入力を追加します。入力のボタンをクリックするだけです。"
+	},
+	"google_docs_notice": {
+		"message": "これでGoogleアドオンができました！さらに多くのサポートを受けるためにインストールしてください。"
+	},
+	"feature_spell_check": {
+		"message": "スペルチェック"
+	},
+	"feature_summarize": {
+		"message": "要約ページ"
+	},
+	"feature_summarize_description": {
+		"message": "このページを要約します。"
+	},
+	"feature_text_to_speech_options": {
+		"message": "テキスト読み上げオプション"
+	},
+	"feature_speech_voice": {
+		"message": "声"
+	},
+	"feature_speech_speed": {
+		"message": "スピード"
+	},
+	"feature_speech_pitch": {
+		"message": "ピッチ"
+	},
+	"feature_speech_volume": {
+		"message": "音量"
+	},
+	"feature_speech_highlight_color": {
+		"message": "ハイライトカラー"
+	},
+	"feature_speech_reading_success": {
+		"message": "選択したテキストを読みます。"
+	},
+	"feature_text_to_speech": {
+		"message": "テキスト読み上げ"
+	},
+	"you_need_to_highlight": {
+		"message": "いくつかのテキストを強調表示する必要があります。"
+	},
+	"feature_word_prediction": {
+		"message": "単語予測"
+	},
+	"feature_word_prediction_description": {
+		"message": "入力でHelperbirdsの単語予測をオンにします。"
+	},
+	"feature_word_spacing": {
+		"message": "単語間隔"
+	},
+	"full_Screen": {
+		"message": "全画面表示"
+	},
+	"voice_typing_stop": {
+		"message": "音声入力を停止します。"
+	},
+	"voice_typing_start": {
+		"message": "今話せ。"
+	},
+	"speak_word_on_hover": {
+		"message": "大声で読みなさい。"
+	},
+	"speak_word_on_hover_info": {
+		"message": "ホバーで単語を読みます。"
+	},
+	"speak": {
+		"message": "話す"
+	},
+	"auto_scroll_start": {
+		"message": "自動スクロールを開始しました。"
+	},
+	"auto_scroll_stop": {
+		"message": "自動スクロールが停止しました。"
+	},
+	"popup_immersive_success": {
+		"message": "没入型リーダーを読み込んでいます。"
+	},
+	"popup_readermode_success": {
+		"message": "リーダーモードを開きます。"
+	},
+	"popup_printing_success": {
+		"message": "オープニング印刷。"
+	},
+	"ocr_select": {
+		"message": "ページ上の領域を選択します。"
+	},
+	"ocr_extracted": {
+		"message": "抽出されたテキスト。"
+	},
+	"ocr_extracting": {
+		"message": "抽出"
+	},
+	"ocr_copy": {
+		"message": "画像からテキストをコピーしました。クリップボードに保存されました。"
+	},
+	"ocr_no_text": {
+		"message": "テキストが見つかりませんでした。"
+	},
+	"popup_note_success": {
+		"message": "メモに保存されました。"
+	},
+	"popup_immersive_error": {
+		"message": "イマーシブリーダーの読み込み中にエラーが発生しました"
+	},
+	"popup_summarize_error": {
+		"message": "ページの要約中にエラーが発生しました。"
+	},
+	"popup_saving_error": {
+		"message": "エラー保存"
+	},
+	"popup_summarize_success": {
+		"message": "まとめページ"
+	},
+	"popup_readermode_closing": {
+		"message": "リーダーモードを閉じる"
+	},
+	"close": {
+		"message": "選ぶ"
+	},
+	"your_note_was_saved": {
+		"message": "メモが保存されました。"
+	},
+	"error_saving_your_note": {
+		"message": "メモの保存中にエラーが発生しました。もう一度やり直してください。"
+	},
+	"popup_readinglist_error": {
+		"message": "閲覧リストへの保存中にエラーが発生しました"
+	},
+	"popup_readinglist_success": {
+		"message": "閲覧リストに保存"
+	},
+	"popup_screenshot_error": {
+		"message": "スクリーンショットのキャプチャ中にエラーが発生しました"
+	},
+	"popup_screenshot_success": {
+		"message": "スクリーンショットをキャプチャする"
+	},
+	"copied_text": {
+		"message": "コピーされたテキスト"
+	},
+	"copied_text_error": {
+		"message": "テキストのコピー中にエラーが発生しました。"
+	},
+	"ocr_loading": {
+		"message": "HelperbirdsOCRの読み込み"
+	},
+	"ocr_save": {
+		"message": "メモに保存"
+	},
+	"popup_reading_success": {
+		"message": "選択したテキストを読む"
+	},
+	"popup_reading_finished": {
+		"message": "読み終えた"
+	},
+	"popup_reading_error": {
+		"message": "停止"
+	},
+	"popup_reading_stopping": {
+		"message": "停止"
+	},
+	"popup_reading_pause": {
+		"message": "一時停止"
+	},
+	"notifcations_upgrade_title": {
+		"message": "この機能を使用するには、HelperbirdProをアップグレードする必要があります。"
+	},
+	"menu_define": {
+		"message": "単語を定義する"
+	},
+	"menu_website_readinglist": {
+		"message": "読書リストにウェブサイトを追加"
+	},
+	"menu_readinglist": {
+		"message": "読書リストに追加"
+	},
+	"menu_text_to_speech": {
+		"message": "テキスト読み上げ"
+	},
+	"menu_play": {
+		"message": "遊ぶ"
+	},
+	"menu_pause": {
+		"message": "一時停止"
+	},
+	"menu_stop": {
+		"message": "止まる"
+	},
+	"menu_resume": {
+		"message": "履歴書"
+	},
+	"menu_screenshot": {
+		"message": "スクリーンショットを撮ります"
+	},
+	"menu_share": {
+		"message": "シェア"
+	},
+	"menu_reader_mode": {
+		"message": "リーダーモードで表示"
+	},
+	"menu_translate": {
+		"message": "翻訳"
+	},
+	"road_map": {
+		"message": "ロードマップ"
+	},
+	"menu_immersive_reader": {
+		"message": "没入型リーダーで表示"
+	},
+	"menu_summarize": {
+		"message": "要約ページ"
+	},
+	"menu_summarize_page": {
+		"message": "要約されたページ"
+	},
+	"menu_annotate_page": {
+		"message": "ページに注釈を付ける"
+	}
+}

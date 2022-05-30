@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird pro Chrome"
+	},
+	"appDescription": {
+		"message": "Více než 32 funkcí pro usnadnění a produktivitu vytvořených tak, aby podporovaly všechny druhy čtenářů, studentů a spisovatelů. Zahrnuje podporu dyslexie."
+	},
+	"helpGuide": {
+		"message": "Nápověda průvodců"
+	},
+	"upgrade_title": {
+		"message": "Funkce Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "K používání této funkce potřebujete předplatné Helperbird Pro. Nebojte se, je to 40 USD ročně nebo 4,99 měsíčně."
+	},
+	"plan_deal": {
+		"message": "Studentská nabídka"
+	},
+	"plan_month": {
+		"message": "Měsíční nabídka"
+	},
+	"plan_year": {
+		"message": "Roční nabídka"
+	},
+	"upgrade_message": {
+		"message": "Upgradujte na Helperbird Pro, abyste odemkli všechny funkce."
+	},
+	"column_title": {
+		"message": "Sloupec"
+	},
+	"upgrade_now": {
+		"message": "Vylepšit nyní"
+	},
+	"upgrade_to_pro": {
+		"message": "Upgradujte na Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Objevte Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Přihlaste se prosím do Helperbirdu nebo zadejte svůj předplatitelský klíč."
+	},
+	"privacy": {
+		"message": "Soukromí"
+	},
+	"whats_new": {
+		"message": "Co je nového"
+	},
+	"privacy_details": {
+		"message": "Respektujeme vaše soukromí, proto je zde srozumitelný a jednoduchý."
+	},
+	"privacy_details_one": {
+		"message": "Zde v Helperbirdu respektujeme a bereme vaše soukromí extrémně vážně. Proto nic neskladujeme ani nesbíráme."
+	},
+	"privacy_details_two": {
+		"message": "Jediný požadavek na váš e-mail, když se přihlašujete. Chcete-li zkontrolovat, zda je vaše školní nebo obchodní doména zaplacena nebo zda jste zaplatili za účet ve Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Vše, co děláte, a uložená nastavení zůstávají lokálně ve vašem prohlížeči. Nikdy neopouští váš počítač."
+	},
+	"free": {
+		"message": "Volný, uvolnit"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "Na"
+	},
+	"on_lower": {
+		"message": "na"
+	},
+	"off": {
+		"message": "Vypnuto"
+	},
+	"off_lower": {
+		"message": "vypnuto"
+	},
+	"notes": {
+		"message": "Poznámky"
+	},
+	"open_notes": {
+		"message": "Otevřete poznámky"
+	},
+	"save": {
+		"message": "Uložit"
+	},
+	"clear": {
+		"message": "Průhledná"
+	},
+	"manage": {
+		"message": "Spravovat"
+	},
+	"open": {
+		"message": "OTEVŘENO"
+	},
+	"copy": {
+		"message": "kopírovat"
+	},
+	"delete": {
+		"message": "Vymazat"
+	},
+	"documents": {
+		"message": "dokumenty"
+	},
+	"remove": {
+		"message": "Odstranit"
+	},
+	"version": {
+		"message": "Verze"
+	},
+	"visit": {
+		"message": "Návštěva"
+	},
+	"no_results": {
+		"message": "Žádné výsledky"
+	},
+	"reduce_motion": {
+		"message": "Animace"
+	},
+	"maths_steps": {
+		"message": "Matematický řešitel"
+	},
+	"tour": {
+		"message": "Prohlídka pomocníka"
+	},
+	"reduce_motion_description": {
+		"message": "Zabránit zobrazení animace na webových stránkách."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader je bezplatný nástroj, který implementuje osvědčené techniky pro zlepšení čtení a psaní"
+	},
+	"start": {
+		"message": "Start"
+	},
+	"learn_more": {
+		"message": "Zjistěte více"
+	},
+	"more": {
+		"message": "Více"
+	},
+	"editor_title": {
+		"message": "Editor"
+	},
+	"editor_title_open": {
+		"message": "Otevřete Editor Helperbirds"
+	},
+	"logout": {
+		"message": "Odhlásit se"
+	},
+	"signin": {
+		"message": "Přihlásit se"
+	},
+	"define_title": {
+		"message": "Slovník"
+	},
+	"define_title_open": {
+		"message": "Otevřete slovník"
+	},
+	"define_empty_title": {
+		"message": "Vyhledejte slovo a my vám vrátíme jeho význam."
+	},
+	"define_search": {
+		"message": "Vyhledávání......"
+	},
+	"define_antonyms": {
+		"message": "Antonyma"
+	},
+	"define_synonyms": {
+		"message": "Synonyma"
+	},
+	"define_meanings": {
+		"message": "Významy"
+	},
+	"define_related": {
+		"message": "Příbuzný"
+	},
+	"define_etymology": {
+		"message": "Etymologie"
+	},
+	"export": {
+		"message": "Vývozní"
+	},
+	"export_word": {
+		"message": "Export do Wordu"
+	},
+	"export_docs": {
+		"message": "Exportovat do Dokumentů Google"
+	},
+	"export_text": {
+		"message": "Export do textového souboru"
+	},
+	"toolbar_pdf": {
+		"message": "PDF čtečka"
+	},
+	"toolbar_pdf_open": {
+		"message": "Otevřete čtečku PDF"
+	},
+	"menus": {
+		"message": "Dokumenty Google a soubory PDF"
+	},
+	"upgrade_message_title": {
+		"description": "Rozšíření Helperbird.",
+		"message": "Upgradujte na $1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Rozšíření Helperbird.",
+		"message": "Získejte přístup k výkonným funkcím, jako je Reader Mode a $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Rozšíření Helperbird.",
+		"message": "Vyberte si plán níže a odemkněte více než 30 funkcí a 24hodinovou podporu."
+	},
+	"alert_message": {
+		"message": "Upgradujte nebo se přihlaste, abyste získali přístup ke všem funkcím Pro."
+	},
+	"alert_loading": {
+		"message": "Načítání...."
+	},
+	"alert_clear": {
+		"message": "Průhledná"
+	},
+	"alert_cleared": {
+		"message": "Vymazáno"
+	},
+	"alert_download": {
+		"message": "Stažení"
+	},
+	"alert_no_data": {
+		"message": "Žádné výsledky"
+	},
+	"annotations_notes": {
+		"message": "Poznámky"
+	},
+	"import_annotations": {
+		"message": "Importujte poznámky"
+	},
+	"options": {
+		"message": "Možnosti"
+	},
+	"open_document": {
+		"message": "Otevřete dokument"
+	},
+	"select_document": {
+		"message": "Musíte vybrat dokument."
+	},
+	"copied_document": {
+		"message": "Dokument zkopírován"
+	},
+	"saved_document": {
+		"message": "Dokument uložen"
+	},
+	"issue_saving": {
+		"message": "Ukládání problému"
+	},
+	"show_updates": {
+		"message": "Zobrazit aktualizace"
+	},
+	"new": {
+		"message": "Nový"
+	},
+	"pause": {
+		"message": "Pauza"
+	},
+	"removed_document": {
+		"message": "Dokument odstraněn"
+	},
+	"opening_document": {
+		"message": "Otevírání dokumentu"
+	},
+	"get_started": {
+		"message": "Začít"
+	},
+	"saved_to_documents": {
+		"message": "Uloženo do vašich dokumentů."
+	},
+	"message_alert": {
+		"message": "Získejte přístup ke všem funkcím Helperbirds a zákaznické podpoře, kdykoli to budete potřebovat. Více než 30 funkcí."
+	},
+	"message_three_day": {
+		"message": "3denní zkušební verze"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Zkontrolujte své vstupy"
+	},
+	"upgrade": {
+		"message": "Vylepšit"
+	},
+	"upgrade_": {
+		"message": "Upgradujte na $1"
+	},
+	"website": {
+		"message": "webová stránka"
+	},
+	"description": {
+		"message": "Popis"
+	},
+	"capture": {
+		"message": "Zachyťte"
+	},
+	"category": {
+		"message": "Kategorie"
+	},
+	"error_found_label": {
+		"message": "Došlo k chybě"
+	},
+	"cancel": {
+		"message": "zrušení"
+	},
+	"readinglist_title": {
+		"message": "Seznam četby"
+	},
+	"readinglist_title_open": {
+		"message": "Otevřete seznam četby"
+	},
+	"note_removed": {
+		"message": "Poznámka odstraněna."
+	},
+	"note_removed_error": {
+		"message": "Poznámku se nepodařilo odstranit."
+	},
+	"readinglist_removed": {
+		"message": "Web odstraněn"
+	},
+	"settings_saved": {
+		"message": "Nastavení uloženo"
+	},
+	"check_for_updates": {
+		"message": "Kontrola aktualizací"
+	},
+	"show_highlights": {
+		"message": "Zobrazit zvýraznění na stránce."
+	},
+	"account_title": {
+		"message": "Účet"
+	},
+	"account_description": {
+		"message": "Jako přihlašovací údaje používáme stejný e-mail, kterým se přihlašujete do svého prohlížeče."
+	},
+	"signed_in_as": {
+		"message": "Přihlášen jako"
+	},
+	"subscription_title": {
+		"message": "Předplatné"
+	},
+	"current_plan": {
+		"message": "Váš aktuální plán"
+	},
+	"subscription_status": {
+		"message": "Stav vašeho předplatného:"
+	},
+	"check_subscription": {
+		"message": "Zkontrolujte předplatné"
+	},
+	"subscription_token_title": {
+		"message": "Předplatitelský klíč"
+	},
+	"subscription_token_description": {
+		"message": "Pokud máte předplatné Helperbird Pro, zadejte jej níže a odemkněte všechny funkce Helperbird Pro."
+	},
+	"themes": {
+		"message": "Témata"
+	},
+	"theme": {
+		"message": "Téma"
+	},
+	"danger_zone_title": {
+		"message": "Úložný prostor"
+	},
+	"danger_zone_description": {
+		"message": "Tlačítko níže vymaže všechna nastavení a spustí rozšíření, jako by bylo nové. Buďte tedy opatrní, nic, co smažete, nemůžeme získat zpět."
+	},
+	"delete_everything": {
+		"message": "Smazat vše"
+	},
+	"delete_this_note": {
+		"message": "Smazat tuto poznámku."
+	},
+	"visit_this_note": {
+		"message": "Navštivte web, na kterém je tato poznámka."
+	},
+	"everything_deleted": {
+		"message": "Všechna nastavení a úložiště jsou nyní smazána."
+	},
+	"enter_email": {
+		"message": "Musíte zadat e-mail."
+	},
+	"shortcuts": {
+		"message": "Zkratky"
+	},
+	"shortcuts_menu_on": {
+		"message": "Zkratky jsou zapnuté"
+	},
+	"shortcuts_menu_off": {
+		"message": "Zkratky jsou vypnuté"
+	},
+	"shortcuts_title": {
+		"message": "Zkratky"
+	},
+	"shortcuts_description": {
+		"message": "Zkratky"
+	},
+	"shortcuts_ocr": {
+		"message": "Povolit OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Otevřete imerzivní čtečku"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Otevřete režim čtečky"
+	},
+	"annotate_page": {
+		"message": "Komentovat stránku"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Otevřete PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Oddálit"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Přiblížit"
+	},
+	"settings": {
+		"message": "Nastavení"
+	},
+	"support_videos": {
+		"message": "Podpora videí"
+	},
+	"review_us": {
+		"message": "Prohlédněte si nás"
+	},
+	"view": {
+		"message": "Pohled"
+	},
+	"views": {
+		"message": "Pohledy"
+	},
+	"no_favorites": {
+		"message": "Žádné oblíbené"
+	},
+	"sorting_none": {
+		"message": "Nic se nepodařilo najít."
+	},
+	"sorting": {
+		"message": "Řazení...."
+	},
+	"showing_favorites": {
+		"message": "Zobrazují se oblíbené položky"
+	},
+	"unpaid": {
+		"message": "Vaše předplatné není zaplaceno."
+	},
+	"canceled": {
+		"message": "Vaše předplatné je zrušeno."
+	},
+	"message_nothing_found": {
+		"message": "Předplatné se nepodařilo najít."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Nemohli jsme získat žádný text. Zkuste to znovu (Obnovit). Vyzkoušejte náš doplněk PDF nebo Dokumenty Google."
+	},
+	"unpinned_favorite": {
+		"message": "Odebráno z oblíbených"
+	},
+	"pin_favorite": {
+		"message": "Oblíbené"
+	},
+	"setting_saved": {
+		"message": "Nastavení uloženo"
+	},
+	"favourite": {
+		"message": "Oblíbený"
+	},
+	"un_favourite": {
+		"message": "Neoblíbený"
+	},
+	"how_to_use": {
+		"message": "Jak používat"
+	},
+	"search": {
+		"message": "Vyhledávání"
+	},
+	"search_feature": {
+		"message": "Funkce vyhledávání"
+	},
+	"filter_productivity": {
+		"message": "Výzkum"
+	},
+	"helperbird_apps": {
+		"message": "Aplikace Helperbird"
+	},
+	"fav_message": {
+		"message": "Zdá se, že nemáte žádné oblíbené funkce. Chcete-li funkci přidat mezi oblíbené, klikněte na tři tečky vedle funkce a klikněte na oblíbené."
+	},
+	"filter_features": {
+		"message": "Funkce filtru"
+	},
+	"student_offer": {
+		"message": "Studenti získají Helperbird Pro"
+	},
+	"filter_style": {
+		"message": "Zobrazit"
+	},
+	"filter_text_to_speech": {
+		"message": "Text na řeč"
+	},
+	"filter_dyslexia": {
+		"message": "Dyslexie"
+	},
+	"filter_pro": {
+		"message": "Pro funkce"
+	},
+	"filter": {
+		"message": "Filtr"
+	},
+	"filter_writing": {
+		"message": "Psaní"
+	},
+	"highlighter_title": {
+		"message": "Zvýrazňovač"
+	},
+	"filter_reading": {
+		"message": "Čtení"
+	},
+	"filter_active": {
+		"message": "Aktivní"
+	},
+	"filter_audio": {
+		"message": "Zvukové funkce"
+	},
+	"feature_blindness": {
+		"message": "Barvoslepost"
+	},
+	"feature_emphasize_links": {
+		"message": "Zdůrazněte odkazy"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Tah textu"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Barva"
+	},
+	"color": {
+		"message": "Barva"
+	},
+	"feature_specialized_font": {
+		"message": "Specializované písmo"
+	},
+	"feature_specialized_font_options": {
+		"message": "Možnosti písma"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Nabídka zvýraznění je zapnutá"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Nabídka zvýraznění je vypnutá"
+	},
+	"feature_highlight_menu": {
+		"message": "Zvýrazněte nabídku"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Zobrazuje naši nabídku zvýrazněného textu."
+	},
+	"show": {
+		"message": "Ukázat"
+	},
+	"welcome": {
+		"message": "Vítejte v Helperbirdu"
+	},
+	"feature_immersive_reader": {
+		"message": "Pohlcující čtenář"
+	},
+	"create_a_new_note": {
+		"message": "Vytvořte novou poznámku"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Na této stránce použijte imerzivní čtečku od společnosti Microsoft."
+	},
+	"feature_toolbar_google": {
+		"message": "Dokumenty a Prezentace Google"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Přidá panel nástrojů Helperbird do souborů dokumentů Google."
+	},
+	"feature_toolbar_pdf": {
+		"message": "Panel nástrojů PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Přidá panel nástrojů Helperbird do souborů Pdf."
+	},
+	"pause_helperbird": {
+		"message": "Pozastavit $1"
+	},
+	"quick_action": {
+		"message": "Rychlé akce"
+	},
+	"feature_pause_helperbird": {
+		"message": "1 $ je pryč"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 je zapnutý"
+	},
+	"voice_typing_is_on": {
+		"message": "Hlasové zadávání je zapnuté"
+	},
+	"voice_typing_is_off": {
+		"message": "Hlasové zadávání je vypnuté"
+	},
+	"helperbird_paused": {
+		"message": "Pomocník vypnutý"
+	},
+	"helperbird_running": {
+		"message": "Pomocník běží"
+	},
+	"applying_settings": {
+		"message": "Použití nastavení"
+	},
+	"feature_favorites": {
+		"message": "Oblíbené"
+	},
+	"all_feature_favorites": {
+		"message": "Všechno"
+	},
+	"hide_feature_favorites": {
+		"message": "Skrýt oblíbené"
+	},
+	"feature_favorites_description": {
+		"message": "Zobrazit pouze oblíbené."
+	},
+	"feature_print": {
+		"message": "Tisk"
+	},
+	"feature_print_description": {
+		"message": "Vytiskněte aktuální stránku."
+	},
+	"feature_printing_success": {
+		"message": "Zahájení tisku"
+	},
+	"feature_reader_mode": {
+		"message": "Režim čtečky"
+	},
+	"feature_readermode_opening": {
+		"message": "Spuštění režimu čtečky"
+	},
+	"feature_readermode_closing": {
+		"message": "Ukončení režimu čtečky"
+	},
+	"view_table": {
+		"message": "Pohled na stůl"
+	},
+	"view_time": {
+		"message": "Zobrazení časové osy"
+	},
+	"view_card": {
+		"message": "Pohled na kartu"
+	},
+	"feature_screenshot": {
+		"message": "Snímek obrazovky"
+	},
+	"feature_screenshot_description": {
+		"message": "Udělejte snímek obrazovky aktuální stránky."
+	},
+	"feature_screenshot_error": {
+		"message": "Chyba při pořizování snímku obrazovky"
+	},
+	"feature_screenshot_success": {
+		"message": "Snímání snímku obrazovky"
+	},
+	"feature_tooltip": {
+		"message": "Popisy obrázků"
+	},
+	"feature_tooltip_description": {
+		"message": "Zobrazit značky alt a titulků při přejetí myší."
+	},
+	"feature_translate": {
+		"message": "přeložit"
+	},
+	"feature_language": {
+		"message": "Jazyky"
+	},
+	"feature_magnifier": {
+		"message": "Lupa"
+	},
+	"feature_magnifier_description": {
+		"message": "Lupa"
+	},
+	"percentage": {
+		"message": "Procento"
+	},
+	"feature_analyze": {
+		"message": "Počet slov"
+	},
+	"feature_analyze_description": {
+		"message": "analyzovat"
+	},
+	"feature_analyze_words": {
+		"message": "slova"
+	},
+	"feature_analyze_characters": {
+		"message": "znaky"
+	},
+	"feature_annotations": {
+		"message": "Poznámky"
+	},
+	"feature_annotations_description": {
+		"message": "Přidejte na stránku poznámku tím, že zanecháte nový lepící lístek."
+	},
+	"feature_annotate_open": {
+		"message": "Vytvoření nové poznámky"
+	},
+	"annotate": {
+		"message": "Opatřit poznámkami"
+	},
+	"feature_cognitive_load": {
+		"message": "Rychlé čtení"
+	},
+	"bold": {
+		"message": "smelost"
+	},
+	"feature_background_color": {
+		"message": "Barva pozadí"
+	},
+	"feature_font_color": {
+		"message": "Barva fontu"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Jídelní lístek"
+	},
+	"feature_highlight_color": {
+		"message": "Barva zvýraznění"
+	},
+	"feature_link_color": {
+		"message": "Barva odkazu"
+	},
+	"feature_cursor_size": {
+		"message": "Velikost kurzoru"
+	},
+	"feature_font_size": {
+		"message": "Velikost textu"
+	},
+	"feature_font_size_titles": {
+		"message": "Velikost záhlaví"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Velikost odstavců"
+	},
+	"feature_gray_hue": {
+		"message": "Šedý odstín"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Zvýrazněte odstavce"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Barva zvýraznění odstavců"
+	},
+	"feature_images_hide_title": {
+		"message": "Skrýt obrázky"
+	},
+	"hide": {
+		"message": "Skrýt"
+	},
+	"feature_images_hide": {
+		"message": "Skrýt všechny obrázky"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Skrýt Gify"
+	},
+	"feature_high_contast": {
+		"message": "Vysoký kontrast"
+	},
+	"feature_text_adjustments": {
+		"message": "Úpravy textu"
+	},
+	"feature_text_align": {
+		"message": "Zarovnání textu"
+	},
+	"feature_text_alignment": {
+		"message": "Zarovnání"
+	},
+	"feature_letter_spacing": {
+		"message": "Mezery mezi písmeny"
+	},
+	"spacing": {
+		"message": "Vzdálenost"
+	},
+	"feature_line_height_spacing": {
+		"message": "Výška řádku"
+	},
+	"height": {
+		"message": "Výška"
+	},
+	"feature_line_focus": {
+		"message": "Zaměření na čáru"
+	},
+	"feature_line_focus_color": {
+		"message": "Barva zaměření čáry"
+	},
+	"feature_line_focus_height": {
+		"message": "Výška ohniska řádku"
+	},
+	"feature_mute": {
+		"message": "Ztlumit video"
+	},
+	"feature_mute_description": {
+		"message": "Ztlumit videa a zvuky ze stránek."
+	},
+	"ocr_read_words": {
+		"message": "Přečtěte si exaktní text"
+	},
+	"text": {
+		"message": "Text"
+	},
+	"ocr_read_words_save": {
+		"message": "Uložte exaktní text"
+	},
+	"feature_extract_text": {
+		"message": "Extrahovat text (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Povolit, vyberte oblast na obrazovce."
+	},
+	"feature_overlay": {
+		"message": "Překryvná vrstva"
+	},
+	"feature_overlay_color": {
+		"message": "Barva překrytí"
+	},
+	"feature_paragraph_width": {
+		"message": "Šířka odstavce"
+	},
+	"width": {
+		"message": "Šířka"
+	},
+	"highlighted_text": {
+		"message": "Zvýrazněný text"
+	},
+	"issue_on_page": {
+		"message": "Problém"
+	},
+	"feature_reading_guide": {
+		"message": "Průvodce čtením"
+	},
+	"feature_reading_guide_color": {
+		"message": "Barva průvodce čtením"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Vládce dyslexie"
+	},
+	"feature_ruler_width": {
+		"message": "Šířka pravítka"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Výška"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Pozice"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Barva"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Následovat"
+	},
+	"feature_auto_scroll": {
+		"message": "Automatické rolování"
+	},
+	"speed": {
+		"message": "Rychlost"
+	},
+	"subscription_deleted": {
+		"message": "Předplatné zrušeno"
+	},
+	"title_enjoy_until": {
+		"message": "Užijte si zkušební dobu do"
+	},
+	"incomplete_expired": {
+		"message": "Platbu jsme nemohli dokončit."
+	},
+	"past_due": {
+		"message": "Vaše předplatné je po splatnosti."
+	},
+	"incomplete": {
+		"message": "Platbu jsme nemohli dokončit."
+	},
+	"transparency": {
+		"message": "Jas"
+	},
+	"title_message_full": {
+		"message": "Bylo nalezeno předplatné Helperbird Pro."
+	},
+	"contact_support": {
+		"message": "Kontaktujte prosím podporu."
+	},
+	"buy": {
+		"message": "Koupit 1 $"
+	},
+	"feature_voice_typing": {
+		"message": "Hlasové psaní"
+	},
+	"feature_voice_typing_description": {
+		"message": "Přidá hlasové psaní na všechny vstupy. Stačí kliknout na tlačítko na vstupu."
+	},
+	"google_docs_notice": {
+		"message": "Nyní máme Google Addon! Nainstalujte a získejte ještě větší podporu."
+	},
+	"feature_spell_check": {
+		"message": "Kontrola pravopisu"
+	},
+	"feature_summarize": {
+		"message": "Stránka shrnutí"
+	},
+	"feature_summarize_description": {
+		"message": "Shrňte tuto stránku."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Možnosti převodu textu na řeč"
+	},
+	"feature_speech_voice": {
+		"message": "Hlas"
+	},
+	"feature_speech_speed": {
+		"message": "Rychlost"
+	},
+	"feature_speech_pitch": {
+		"message": "Rozteč"
+	},
+	"feature_speech_volume": {
+		"message": "Hlasitost"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Barva zvýraznění"
+	},
+	"feature_speech_reading_success": {
+		"message": "Čtení vybraného textu."
+	},
+	"feature_text_to_speech": {
+		"message": "Text na řeč"
+	},
+	"you_need_to_highlight": {
+		"message": "Musíte zvýraznit nějaký text."
+	},
+	"feature_word_prediction": {
+		"message": "Předpověď slov"
+	},
+	"feature_word_prediction_description": {
+		"message": "Zapněte předpovídání slov Helperbirds na vstupech."
+	},
+	"feature_word_spacing": {
+		"message": "Mezery mezi slovy"
+	},
+	"full_Screen": {
+		"message": "Celá obrazovka"
+	},
+	"voice_typing_stop": {
+		"message": "Zastavení hlasového zadávání."
+	},
+	"voice_typing_start": {
+		"message": "Mluv teď."
+	},
+	"speak_word_on_hover": {
+		"message": "Čti nahlas."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Přečte slovo při umístění kurzoru myši."
+	},
+	"speak": {
+		"message": "Mluvit"
+	},
+	"auto_scroll_start": {
+		"message": "Spustilo se automatické posouvání."
+	},
+	"auto_scroll_stop": {
+		"message": "Automatické rolování zastaveno."
+	},
+	"popup_immersive_success": {
+		"message": "Načítání Imerzní čtečka."
+	},
+	"popup_readermode_success": {
+		"message": "Spuštění režimu čtečky."
+	},
+	"popup_printing_success": {
+		"message": "Zahájení tisku."
+	},
+	"ocr_select": {
+		"message": "Vyberte oblast na stránce."
+	},
+	"ocr_extracted": {
+		"message": "Text extrahován."
+	},
+	"ocr_extracting": {
+		"message": "Extrakce"
+	},
+	"ocr_copy": {
+		"message": "Zkopírovaný text z obrázku. Uloženo do vaší schránky."
+	},
+	"ocr_no_text": {
+		"message": "Nebyl nalezen žádný text."
+	},
+	"popup_note_success": {
+		"message": "Uloženo do vašich poznámek."
+	},
+	"popup_immersive_error": {
+		"message": "Chyba při načítání imerzivní čtečky"
+	},
+	"popup_summarize_error": {
+		"message": "Chyba při shrnutí stránky."
+	},
+	"popup_saving_error": {
+		"message": "Při ukládání došlo k chybě"
+	},
+	"popup_summarize_success": {
+		"message": "Souhrnná stránka"
+	},
+	"popup_readermode_closing": {
+		"message": "Ukončení režimu čtečky"
+	},
+	"close": {
+		"message": "Zavřít"
+	},
+	"your_note_was_saved": {
+		"message": "Vaše poznámka byla uložena."
+	},
+	"error_saving_your_note": {
+		"message": "Při ukládání poznámky došlo k chybě. Prosím zkuste to znovu."
+	},
+	"popup_readinglist_error": {
+		"message": "Při ukládání do seznamu četby došlo k chybě"
+	},
+	"popup_readinglist_success": {
+		"message": "Uloženo do seznamu četby"
+	},
+	"popup_screenshot_error": {
+		"message": "Chyba při pořizování snímku obrazovky"
+	},
+	"popup_screenshot_success": {
+		"message": "Snímání snímku obrazovky"
+	},
+	"copied_text": {
+		"message": "Zkopírovaný text"
+	},
+	"copied_text_error": {
+		"message": "Chyba při kopírování textu."
+	},
+	"ocr_loading": {
+		"message": "Načítání Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "Uloženo do vašich poznámek"
+	},
+	"popup_reading_success": {
+		"message": "Čtení vybraného textu"
+	},
+	"popup_reading_finished": {
+		"message": "Dokončeno čtení"
+	},
+	"popup_reading_error": {
+		"message": "Zastavení"
+	},
+	"popup_reading_stopping": {
+		"message": "Zastavení"
+	},
+	"popup_reading_pause": {
+		"message": "Pozastaveno"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Chcete-li používat tuto funkci, musíte upgradovat Helperbird Pro."
+	},
+	"menu_define": {
+		"message": "Definujte slovo"
+	},
+	"menu_website_readinglist": {
+		"message": "Přidat web do seznamu četby"
+	},
+	"menu_readinglist": {
+		"message": "Přidat do seznamu četby"
+	},
+	"menu_text_to_speech": {
+		"message": "Text na řeč"
+	},
+	"menu_play": {
+		"message": "Hrát si"
+	},
+	"menu_pause": {
+		"message": "Pauza"
+	},
+	"menu_stop": {
+		"message": "Stop"
+	},
+	"menu_resume": {
+		"message": "Životopis"
+	},
+	"menu_screenshot": {
+		"message": "Udělejte snímek obrazovky"
+	},
+	"menu_share": {
+		"message": "Podíl"
+	},
+	"menu_reader_mode": {
+		"message": "Zobrazit v režimu čtečky"
+	},
+	"menu_translate": {
+		"message": "přeložit"
+	},
+	"road_map": {
+		"message": "Cestovní mapa"
+	},
+	"menu_immersive_reader": {
+		"message": "Zobrazit v imerzivní čtečce"
+	},
+	"menu_summarize": {
+		"message": "Stránka shrnutí"
+	},
+	"menu_summarize_page": {
+		"message": "Stránka shrnuta"
+	},
+	"menu_annotate_page": {
+		"message": "Komentovat stránku"
+	}
+}
