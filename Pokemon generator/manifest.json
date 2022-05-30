@@ -1,4 +1,5 @@
 {
+	"manifest_version" :2,
 	"name": "pokemon",
 	"description": "pops up a random pokemon",
 	"version": "1.0",
