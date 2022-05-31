@@ -9,7 +9,8 @@ This extension gives developers and users a complete dashboard, a status and rev
 
 
 ## Video Demonstration
-https://user-images.githubusercontent.com/72455881/170868784-95d314b7-cb54-482c-a08b-c922902acf99.mp4
+https://user-images.githubusercontent.com/72455881/171205210-69e9267f-6d71-4833-8153-e4bc014d25eb.mp4
+
 
 
 
