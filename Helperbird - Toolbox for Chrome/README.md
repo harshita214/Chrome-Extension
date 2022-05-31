@@ -11,7 +11,7 @@ This includes a lot of features such as Dyslexia Mode, Full Immersive Reader, Te
 
 
 ## Video Demonstration
-
+https://user-images.githubusercontent.com/72455881/171207188-c4f645f6-7ca0-4e5b-8d7c-820724a09391.mp4
 
 
 
