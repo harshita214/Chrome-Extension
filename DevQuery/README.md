@@ -11,7 +11,7 @@ This Chrome Extension would generate Comments for Developers, so that they can e
 
 
 ## Video Demonstration
-https://user-images.githubusercontent.com/72455881/170841607-410b13ab-efd1-4696-b635-cdc1dd05eca5.mp4
+https://user-images.githubusercontent.com/72455881/171207704-2edb557b-1031-4197-ae58-342998d182ae.mp4
 
 
 
