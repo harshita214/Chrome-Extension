@@ -4,7 +4,7 @@ Pokemon generator pops a random pokemon and shows its image, hp ,and stats
 
 # Screenshots: 
 
-<img alt="screenshot" src="https://user-images.githubusercontent.com/77521822/169885145-14cf5973-5d33-4931-af56-c81ed5613be9.png">
+<img alt="screenshot" src="https://user-images.githubusercontent.com/77521822/171122759-ca60e6d8-f651-45c6-ab5d-2a2ba0a9ee20.PNG">
 
 # Simulation video:
 
