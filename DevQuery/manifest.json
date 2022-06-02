@@ -1,0 +1,27 @@
+{
+  "manifest_version": 2,
+  "name": "DevQuery",
+  "description": "This extension searches for a GitHub user and returns the details for a selected user profile.",
+  "version": "1.0",
+  "icons": {
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
+  },
+  "browser_action": {
+    "default_icon": { 
+      "16": "img/icon16.png",
+      "48": "img/icon48.png",
+      "128": "img/icon128.png"        
+    },
+    "default_popup": "popup.html",
+    "default_title": "Search for a GitHub profile!"
+  },
+
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ],
+
+  "content_security_policy": "script-src 'self' https://api.github.com; object-src 'self'"
+}
