@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Chrome ಗಾಗಿ ಸಹಾಯಕ ಪಕ್ಷಿ"
+	},
+	"appDescription": {
+		"message": "ಪ್ರತಿಯೊಂದು ರೀತಿಯ ಓದುಗ, ಕಲಿಯುವವರು ಮತ್ತು ಬರಹಗಾರರನ್ನು ಬೆಂಬಲಿಸಲು 32 ಕ್ಕೂ ಹೆಚ್ಚು ಪ್ರವೇಶಿಸುವಿಕೆ ಮತ್ತು ಉತ್ಪಾದಕತೆಯ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ನಿರ್ಮಿಸಲಾಗಿದೆ. ಡಿಸ್ಲೆಕ್ಸಿಯಾ ಬೆಂಬಲವನ್ನು ಒಳಗೊಂಡಿದೆ."
+	},
+	"helpGuide": {
+		"message": "ಮಾರ್ಗದರ್ಶಿಗಳಿಗೆ ಸಹಾಯ ಮಾಡಿ"
+	},
+	"upgrade_title": {
+		"message": "ಹೆಲ್ಪರ್ಬರ್ಡ್ ಪ್ರೊ ವೈಶಿಷ್ಟ್ಯ"
+	},
+	"upgrade_description": {
+		"message": "ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಲು ನಿಮಗೆ Helperbird Pro ಚಂದಾದಾರಿಕೆಯ ಅಗತ್ಯವಿದೆ. ಚಿಂತಿಸಬೇಡಿ, ಇದು ವರ್ಷಕ್ಕೆ 40 USD ಅಥವಾ ತಿಂಗಳಿಗೆ 4.99."
+	},
+	"plan_deal": {
+		"message": "ವಿದ್ಯಾರ್ಥಿ ಕೊಡುಗೆ"
+	},
+	"plan_month": {
+		"message": "ಮಾಸಿಕ ಕೊಡುಗೆ"
+	},
+	"plan_year": {
+		"message": "ವಾರ್ಷಿಕ ಕೊಡುಗೆ"
+	},
+	"upgrade_message": {
+		"message": "ಎಲ್ಲಾ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು, Helperbird Pro ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ."
+	},
+	"column_title": {
+		"message": "ಅಂಕಣ"
+	},
+	"upgrade_now": {
+		"message": "ಈಗ ನವೀಕರಿಸಿ"
+	},
+	"upgrade_to_pro": {
+		"message": "ಹೆಲ್ಪರ್‌ಬರ್ಡ್ ಪ್ರೊಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "ಡಿಸ್ಕವರ್ ಹೆಲ್ಪರ್‌ಬರ್ಡ್ ಪ್ರೊ"
+	},
+	"signin_message": {
+		"message": "ದಯವಿಟ್ಟು Helperbird ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ ಅಥವಾ ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆ ಕೀಯನ್ನು ನಮೂದಿಸಿ."
+	},
+	"privacy": {
+		"message": "ಗೌಪ್ಯತೆ"
+	},
+	"whats_new": {
+		"message": "ಹೊಸತೇನಿದೆ"
+	},
+	"privacy_details": {
+		"message": "ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ನಾವು ಗೌರವಿಸುತ್ತೇವೆ, ಆದ್ದರಿಂದ ಇದು ಸ್ಪಷ್ಟ ಮತ್ತು ಸರಳ ಭಾಷೆಯಲ್ಲಿದೆ."
+	},
+	"privacy_details_one": {
+		"message": "ಇಲ್ಲಿ ಹೆಲ್ಪರ್‌ಬರ್ಡ್‌ನಲ್ಲಿ, ನಿಮ್ಮ ಗೌಪ್ಯತೆಯನ್ನು ನಾವು ಗೌರವಿಸುತ್ತೇವೆ ಮತ್ತು ಗಂಭೀರವಾಗಿ ಪರಿಗಣಿಸುತ್ತೇವೆ. ಅದಕ್ಕಾಗಿಯೇ ನಾವು ಏನನ್ನೂ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ ಅಥವಾ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ."
+	},
+	"privacy_details_two": {
+		"message": "ನೀವು ಲಾಗಿನ್ ಮಾಡಿದಾಗ ನಿಮ್ಮ ಇಮೇಲ್ ಅನ್ನು ಮಾತ್ರ ಕೇಳಿ. ನಿಮ್ಮ ಶಾಲೆ ಅಥವಾ ವ್ಯಾಪಾರ ಡೊಮೇನ್‌ಗೆ ಪಾವತಿಸಲಾಗಿದೆಯೇ ಅಥವಾ ನೀವು ಸ್ಟ್ರೈಪ್‌ನಲ್ಲಿ ಖಾತೆಗೆ ಪಾವತಿಸಿದ್ದೀರಾ ಎಂದು ಪರಿಶೀಲಿಸಲು."
+	},
+	"privacy_details_three": {
+		"message": "ನೀವು ಮಾಡುವ ಎಲ್ಲವೂ ಮತ್ತು ನೀವು ಉಳಿಸುವ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಲ್ಲಿ ಸ್ಥಳೀಯವಾಗಿ ಉಳಿಯುತ್ತವೆ. ನಿಮ್ಮ ಕಂಪ್ಯೂಟರ್ ಅನ್ನು ಎಂದಿಗೂ ಬಿಡಬೇಡಿ."
+	},
+	"free": {
+		"message": "ಉಚಿತ"
+	},
+	"pro": {
+		"message": "ಪ್ರೊ"
+	},
+	"on": {
+		"message": "ಆನ್"
+	},
+	"on_lower": {
+		"message": "ಮೇಲೆ"
+	},
+	"off": {
+		"message": "ಆರಿಸಿ"
+	},
+	"off_lower": {
+		"message": "ಆರಿಸಿ"
+	},
+	"notes": {
+		"message": "ಟಿಪ್ಪಣಿಗಳು"
+	},
+	"open_notes": {
+		"message": "ಟಿಪ್ಪಣಿಗಳನ್ನು ತೆರೆಯಿರಿ"
+	},
+	"save": {
+		"message": "ಉಳಿಸಿ"
+	},
+	"clear": {
+		"message": "ಸ್ಪಷ್ಟ"
+	},
+	"manage": {
+		"message": "ನಿರ್ವಹಿಸು"
+	},
+	"open": {
+		"message": "ತೆರೆಯಿರಿ"
+	},
+	"copy": {
+		"message": "ನಕಲು ಮಾಡಿ"
+	},
+	"delete": {
+		"message": "ಅಳಿಸಿ"
+	},
+	"documents": {
+		"message": "ದಾಖಲೆಗಳು"
+	},
+	"remove": {
+		"message": "ತೆಗೆದುಹಾಕಿ"
+	},
+	"version": {
+		"message": "ಆವೃತ್ತಿ"
+	},
+	"visit": {
+		"message": "ಭೇಟಿ"
+	},
+	"no_results": {
+		"message": "ಯಾವುದೇ ಫಲಿತಾಂಶಗಳಿಲ್ಲ"
+	},
+	"reduce_motion": {
+		"message": "ಅನಿಮೇಷನ್‌ಗಳು"
+	},
+	"maths_steps": {
+		"message": "ಗಣಿತ ಪರಿಹಾರಕ"
+	},
+	"tour": {
+		"message": "ಹೆಲ್ಪರ್ಬರ್ಡ್ ಪ್ರವಾಸ"
+	},
+	"reduce_motion_description": {
+		"message": "ವೆಬ್ ಪುಟಗಳಲ್ಲಿ ಅನಿಮೇಶನ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸುವುದನ್ನು ತಡೆಯಿರಿ."
+	},
+	"feature_immersive_reader_description": {
+		"message": "ಇಮ್ಮರ್ಸಿವ್ ರೀಡರ್ ಓದುವ ಮತ್ತು ಬರವಣಿಗೆಯನ್ನು ಸುಧಾರಿಸಲು ಸಾಬೀತಾದ ತಂತ್ರಗಳನ್ನು ಅಳವಡಿಸುವ ಉಚಿತ ಸಾಧನವಾಗಿದೆ"
+	},
+	"start": {
+		"message": "ಪ್ರಾರಂಭಿಸಿ"
+	},
+	"learn_more": {
+		"message": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
+	},
+	"more": {
+		"message": "ಇನ್ನಷ್ಟು"
+	},
+	"editor_title": {
+		"message": "ಸಂಪಾದಕ"
+	},
+	"editor_title_open": {
+		"message": "ಹೆಲ್ಪರ್‌ಬರ್ಡ್ಸ್ ಸಂಪಾದಕವನ್ನು ತೆರೆಯಿರಿ"
+	},
+	"logout": {
+		"message": "ಲಾಗ್ ಔಟ್"
+	},
+	"signin": {
+		"message": "ಲಾಗಿನ್ ಮಾಡಿ"
+	},
+	"define_title": {
+		"message": "ನಿಘಂಟು"
+	},
+	"define_title_open": {
+		"message": "ನಿಘಂಟನ್ನು ತೆರೆಯಿರಿ"
+	},
+	"define_empty_title": {
+		"message": "ಪದವನ್ನು ಹುಡುಕಿ ಮತ್ತು ನಾವು ಅದರ ಅರ್ಥವನ್ನು ಹಿಂತಿರುಗಿಸುತ್ತೇವೆ."
+	},
+	"define_search": {
+		"message": "ಹುಡುಕಿ Kannada......"
+	},
+	"define_antonyms": {
+		"message": "ವಿರುದ್ಧಾರ್ಥಕ ಪದಗಳು"
+	},
+	"define_synonyms": {
+		"message": "ಸಮಾನಾರ್ಥಕ ಪದಗಳು"
+	},
+	"define_meanings": {
+		"message": "ಅರ್ಥಗಳು"
+	},
+	"define_related": {
+		"message": "ಸಂಬಂಧಿಸಿದೆ"
+	},
+	"define_etymology": {
+		"message": "ವ್ಯುತ್ಪತ್ತಿ"
+	},
+	"export": {
+		"message": "ರಫ್ತು ಮಾಡಿ"
+	},
+	"export_word": {
+		"message": "Word ಗೆ ರಫ್ತು ಮಾಡಿ"
+	},
+	"export_docs": {
+		"message": "Google ಡಾಕ್ಸ್‌ಗೆ ರಫ್ತು ಮಾಡಿ"
+	},
+	"export_text": {
+		"message": "ಪಠ್ಯ ಫೈಲ್‌ಗೆ ರಫ್ತು ಮಾಡಿ"
+	},
+	"toolbar_pdf": {
+		"message": "PDF ರೀಡರ್"
+	},
+	"toolbar_pdf_open": {
+		"message": "PDF ರೀಡರ್ ತೆರೆಯಿರಿ"
+	},
+	"menus": {
+		"message": "Google ಡಾಕ್ಸ್ ಮತ್ತು Pdfs"
+	},
+	"upgrade_message_title": {
+		"description": "ಹೆಲ್ಪರ್ಬರ್ಡ್ ವಿಸ್ತರಣೆ.",
+		"message": "$1 ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+	},
+	"upgrade_message_paragraph": {
+		"description": "ಹೆಲ್ಪರ್ಬರ್ಡ್ ವಿಸ್ತರಣೆ.",
+		"message": "ರೀಡರ್ ಮೋಡ್ ಮತ್ತು $1 ನಂತಹ ಪ್ರಬಲ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಪ್ರವೇಶಿಸಿ."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "ಹೆಲ್ಪರ್ಬರ್ಡ್ ವಿಸ್ತರಣೆ.",
+		"message": "30 ವೈಶಿಷ್ಟ್ಯಗಳು ಮತ್ತು 24 ಗಂಟೆಗಳ ಬೆಂಬಲವನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಕೆಳಗಿನ ಯೋಜನೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+	},
+	"alert_message": {
+		"message": "ಎಲ್ಲಾ ಪ್ರೊ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಪ್ರವೇಶಿಸಲು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ ಅಥವಾ ಲಾಗಿನ್ ಮಾಡಿ."
+	},
+	"alert_loading": {
+		"message": "ಲೋಡ್ ಆಗುತ್ತಿದೆ...."
+	},
+	"alert_clear": {
+		"message": "ಸ್ಪಷ್ಟ"
+	},
+	"alert_cleared": {
+		"message": "ತೆರವುಗೊಳಿಸಲಾಗಿದೆ"
+	},
+	"alert_download": {
+		"message": "ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+	},
+	"alert_no_data": {
+		"message": "ಯಾವುದೇ ಫಲಿತಾಂಶಗಳಿಲ್ಲ"
+	},
+	"annotations_notes": {
+		"message": "ಟಿಪ್ಪಣಿಗಳು"
+	},
+	"import_annotations": {
+		"message": "ಟಿಪ್ಪಣಿಗಳನ್ನು ಆಮದು ಮಾಡಿಕೊಳ್ಳಿ"
+	},
+	"options": {
+		"message": "ಆಯ್ಕೆಗಳು"
+	},
+	"open_document": {
+		"message": "ಡಾಕ್ಯುಮೆಂಟ್ ತೆರೆಯಿರಿ"
+	},
+	"select_document": {
+		"message": "ನೀವು ಡಾಕ್ಯುಮೆಂಟ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಬೇಕಾಗುತ್ತದೆ."
+	},
+	"copied_document": {
+		"message": "ಡಾಕ್ಯುಮೆಂಟ್ ನಕಲಿಸಲಾಗಿದೆ"
+	},
+	"saved_document": {
+		"message": "ಡಾಕ್ಯುಮೆಂಟ್ ಉಳಿಸಲಾಗಿದೆ"
+	},
+	"issue_saving": {
+		"message": "ಸಂಚಿಕೆ ಉಳಿತಾಯ"
+	},
+	"show_updates": {
+		"message": "ನವೀಕರಣಗಳನ್ನು ತೋರಿಸಿ"
+	},
+	"new": {
+		"message": "ಹೊಸದು"
+	},
+	"pause": {
+		"message": "ವಿರಾಮಗೊಳಿಸಿ"
+	},
+	"removed_document": {
+		"message": "ಡಾಕ್ಯುಮೆಂಟ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ"
+	},
+	"opening_document": {
+		"message": "ಡಾಕ್ಯುಮೆಂಟ್ ತೆರೆಯಲಾಗುತ್ತಿದೆ"
+	},
+	"get_started": {
+		"message": "ಪ್ರಾರಂಭಿಸಿ"
+	},
+	"saved_to_documents": {
+		"message": "ನಿಮ್ಮ ದಾಖಲೆಗಳಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ."
+	},
+	"message_alert": {
+		"message": "ನಿಮಗೆ ಅಗತ್ಯವಿರುವಾಗ ಎಲ್ಲಾ Helperbirds ವೈಶಿಷ್ಟ್ಯಗಳು ಮತ್ತು ಗ್ರಾಹಕ ಬೆಂಬಲಕ್ಕೆ ಪ್ರವೇಶ ಪಡೆಯಿರಿ. 30 ಕ್ಕೂ ಹೆಚ್ಚು ವೈಶಿಷ್ಟ್ಯಗಳು."
+	},
+	"message_three_day": {
+		"message": "3 ದಿನಗಳ ಪ್ರಯೋಗ"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "ನಿಮ್ಮ ಇನ್‌ಪುಟ್‌ಗಳನ್ನು ಪರಿಶೀಲಿಸಿ"
+	},
+	"upgrade": {
+		"message": "ನವೀಕರಿಸಿ"
+	},
+	"upgrade_": {
+		"message": "$1 ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ"
+	},
+	"website": {
+		"message": "ಜಾಲತಾಣ"
+	},
+	"description": {
+		"message": "ವಿವರಣೆ"
+	},
+	"capture": {
+		"message": "ಸೆರೆಹಿಡಿಯಿರಿ"
+	},
+	"category": {
+		"message": "ವರ್ಗ"
+	},
+	"error_found_label": {
+		"message": "ದೋಷವಿದೆ"
+	},
+	"cancel": {
+		"message": "ರದ್ದುಮಾಡು"
+	},
+	"readinglist_title": {
+		"message": "ಓದುವ ಪಟ್ಟಿ"
+	},
+	"readinglist_title_open": {
+		"message": "ಓದುವ ಪಟ್ಟಿಯನ್ನು ತೆರೆಯಿರಿ"
+	},
+	"note_removed": {
+		"message": "ಟಿಪ್ಪಣಿ ತೆಗೆದುಹಾಕಲಾಗಿದೆ."
+	},
+	"note_removed_error": {
+		"message": "ಟಿಪ್ಪಣಿಯನ್ನು ತೆಗೆದುಹಾಕಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+	},
+	"readinglist_removed": {
+		"message": "ವೆಬ್‌ಸೈಟ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ"
+	},
+	"settings_saved": {
+		"message": "ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಲಾಗಿದೆ"
+	},
+	"check_for_updates": {
+		"message": "ನವೀಕರಣಗಳಿಗಾಗಿ ಪರಿಶೀಲಿಸಿ"
+	},
+	"show_highlights": {
+		"message": "ಪುಟದಲ್ಲಿ ಮುಖ್ಯಾಂಶಗಳನ್ನು ತೋರಿಸಿ."
+	},
+	"account_title": {
+		"message": "ಖಾತೆ"
+	},
+	"account_description": {
+		"message": "ನಿಮ್ಮ ಬ್ರೌಸರ್‌ಗೆ ನೀವು ಸೈನ್ ಇನ್ ಮಾಡಿದ ಇಮೇಲ್ ಅನ್ನು ನಿಮ್ಮ ಲಾಗಿನ್ ಆಗಿ ನಾವು ಬಳಸುತ್ತೇವೆ."
+	},
+	"signed_in_as": {
+		"message": "ನಂತೆ ಸೈನ್ ಇನ್ ಮಾಡಲಾಗಿದೆ"
+	},
+	"subscription_title": {
+		"message": "ಚಂದಾದಾರಿಕೆ"
+	},
+	"current_plan": {
+		"message": "ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಯೋಜನೆ"
+	},
+	"subscription_status": {
+		"message": "ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಯ ಸ್ಥಿತಿ:"
+	},
+	"check_subscription": {
+		"message": "ಚಂದಾದಾರಿಕೆಯನ್ನು ಪರಿಶೀಲಿಸಿ"
+	},
+	"subscription_token_title": {
+		"message": "ಚಂದಾದಾರಿಕೆ ಕೀ"
+	},
+	"subscription_token_description": {
+		"message": "ನೀವು Helperbird Pro ಚಂದಾದಾರಿಕೆಯನ್ನು ಹೊಂದಿದ್ದರೆ, ಎಲ್ಲಾ Helperbird Pro ನ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಲು ಕೆಳಗೆ ನಮೂದಿಸಿ."
+	},
+	"themes": {
+		"message": "ಥೀಮ್ಗಳು"
+	},
+	"theme": {
+		"message": "ಥೀಮ್"
+	},
+	"danger_zone_title": {
+		"message": "ಸಂಗ್ರಹಣೆ"
+	},
+	"danger_zone_description": {
+		"message": "ಕೆಳಗಿನ ಬಟನ್ ಎಲ್ಲಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರವುಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಅದು ಹೊಸದಾಗಿರುವಂತೆ ವಿಸ್ತರಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಆದ್ದರಿಂದ ಎಚ್ಚರಿಕೆಯಿಂದಿರಿ ನೀವು ಅಳಿಸುವ ಯಾವುದನ್ನೂ ನಾವು ಮರಳಿ ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ."
+	},
+	"delete_everything": {
+		"message": "ಎಲ್ಲವನ್ನೂ ಅಳಿಸಿ"
+	},
+	"delete_this_note": {
+		"message": "ಈ ಟಿಪ್ಪಣಿಯನ್ನು ಅಳಿಸಿ."
+	},
+	"visit_this_note": {
+		"message": "ಈ ಟಿಪ್ಪಣಿ ಆನ್ ಆಗಿದೆ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ."
+	},
+	"everything_deleted": {
+		"message": "ಎಲ್ಲಾ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಸಂಗ್ರಹಣೆಯನ್ನು ಈಗ ಅಳಿಸಲಾಗಿದೆ."
+	},
+	"enter_email": {
+		"message": "ನೀವು ಇಮೇಲ್ ಅನ್ನು ನಮೂದಿಸಬೇಕಾಗಿದೆ."
+	},
+	"shortcuts": {
+		"message": "ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು"
+	},
+	"shortcuts_menu_on": {
+		"message": "ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು ಆನ್ ಆಗಿವೆ"
+	},
+	"shortcuts_menu_off": {
+		"message": "ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು ಆಫ್ ಆಗಿವೆ"
+	},
+	"shortcuts_title": {
+		"message": "ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು"
+	},
+	"shortcuts_description": {
+		"message": "ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು"
+	},
+	"shortcuts_ocr": {
+		"message": "OCR ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+	},
+	"shortcuts_immsersive": {
+		"message": "ಇಮ್ಮರ್ಸಿವ್ ರೀಡರ್ ತೆರೆಯಿರಿ"
+	},
+	"shortcuts_reader_mode": {
+		"message": "ರೀಡರ್ ಮೋಡ್ ತೆರೆಯಿರಿ"
+	},
+	"annotate_page": {
+		"message": "ಟಿಪ್ಪಣಿ ಪುಟ"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "PDF ತೆರೆಯಿರಿ"
+	},
+	"open_pdf_zoom_out": {
+		"message": "ಜೂಮ್ ಔಟ್"
+	},
+	"open_pdf_zoom_in": {
+		"message": "ಇನ್ನು ಹತ್ತಿರವಾಗಿಸಿ"
+	},
+	"settings": {
+		"message": "ಸಂಯೋಜನೆಗಳು"
+	},
+	"support_videos": {
+		"message": "ಬೆಂಬಲ ವೀಡಿಯೊಗಳು"
+	},
+	"review_us": {
+		"message": "ನಮ್ಮನ್ನು ಪರಿಶೀಲಿಸಿ"
+	},
+	"view": {
+		"message": "ನೋಟ"
+	},
+	"views": {
+		"message": "ವೀಕ್ಷಣೆಗಳು"
+	},
+	"no_favorites": {
+		"message": "ಯಾವುದೇ ಮೆಚ್ಚಿನವುಗಳಿಲ್ಲ"
+	},
+	"sorting_none": {
+		"message": "ಏನೂ ಸಿಗಲಿಲ್ಲ."
+	},
+	"sorting": {
+		"message": "ವಿಂಗಡಿಸಲಾಗುತ್ತಿದೆ...."
+	},
+	"showing_favorites": {
+		"message": "ಮೆಚ್ಚಿನವುಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ"
+	},
+	"unpaid": {
+		"message": "ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಯನ್ನು ಪಾವತಿಸಲಾಗಿಲ್ಲ."
+	},
+	"canceled": {
+		"message": "ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ."
+	},
+	"message_nothing_found": {
+		"message": "ನಮಗೆ ಚಂದಾದಾರಿಕೆಯನ್ನು ಹುಡುಕಲಾಗಲಿಲ್ಲ."
+	},
+	"couldnt_interact_with_page": {
+		"message": "ನಮಗೆ ಯಾವುದೇ ಪಠ್ಯವನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ (ರಿಫ್ರೆಶ್ ಮಾಡಿ). ನಮ್ಮ PDF ಅಥವಾ Google ಡಾಕ್ಸ್ ಆಡ್-ಆನ್ ಅನ್ನು ಪ್ರಯತ್ನಿಸಿ."
+	},
+	"unpinned_favorite": {
+		"message": "ಮೆಚ್ಚಿನವುಗಳನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ"
+	},
+	"pin_favorite": {
+		"message": "ಮೆಚ್ಚಿನವು"
+	},
+	"setting_saved": {
+		"message": "ಸೆಟ್ಟಿಂಗ್ ಉಳಿಸಲಾಗಿದೆ"
+	},
+	"favourite": {
+		"message": "ನೆಚ್ಚಿನ"
+	},
+	"un_favourite": {
+		"message": "ಅಚ್ಚುಮೆಚ್ಚಿನ"
+	},
+	"how_to_use": {
+		"message": "ಬಳಸುವುದು ಹೇಗೆ"
+	},
+	"search": {
+		"message": "ಹುಡುಕಿ Kannada"
+	},
+	"search_feature": {
+		"message": "ಹುಡುಕಾಟ ವೈಶಿಷ್ಟ್ಯಗಳು"
+	},
+	"filter_productivity": {
+		"message": "ಸಂಶೋಧನೆ"
+	},
+	"helperbird_apps": {
+		"message": "ಹೆಲ್ಪರ್‌ಬರ್ಡ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು"
+	},
+	"fav_message": {
+		"message": "ನೀವು ಮೆಚ್ಚಿನ ಯಾವುದೇ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಹೊಂದಿಲ್ಲ ಎಂದು ತೋರುತ್ತಿದೆ. ಮೆಚ್ಚಿನವು ಮಾಡಲು, ವೈಶಿಷ್ಟ್ಯದ ಪಕ್ಕದಲ್ಲಿರುವ ಮೂರು ಚುಕ್ಕೆಗಳನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ ಮತ್ತು ಮೆಚ್ಚಿನವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
+	},
+	"filter_features": {
+		"message": "ಫಿಲ್ಟರ್ ವೈಶಿಷ್ಟ್ಯಗಳು"
+	},
+	"student_offer": {
+		"message": "ವಿದ್ಯಾರ್ಥಿಗಳು ಹೆಲ್ಪರ್‌ಬರ್ಡ್ ಪ್ರೊ ಅನ್ನು ಪಡೆಯುತ್ತಾರೆ"
+	},
+	"filter_style": {
+		"message": "ಪ್ರದರ್ಶನ"
+	},
+	"filter_text_to_speech": {
+		"message": "ಪಠ್ಯದಿಂದ ಭಾಷಣಕ್ಕೆ"
+	},
+	"filter_dyslexia": {
+		"message": "ಡಿಸ್ಲೆಕ್ಸಿಯಾ"
+	},
+	"filter_pro": {
+		"message": "ಪ್ರೊ ವೈಶಿಷ್ಟ್ಯಗಳು"
+	},
+	"filter": {
+		"message": "ಫಿಲ್ಟರ್"
+	},
+	"filter_writing": {
+		"message": "ಬರವಣಿಗೆ"
+	},
+	"highlighter_title": {
+		"message": "ಹೈಲೈಟರ್"
+	},
+	"filter_reading": {
+		"message": "ಓದುವುದು"
+	},
+	"filter_active": {
+		"message": "ಸಕ್ರಿಯ"
+	},
+	"filter_audio": {
+		"message": "ಆಡಿಯೊ ವೈಶಿಷ್ಟ್ಯಗಳು"
+	},
+	"feature_blindness": {
+		"message": "ಬಣ್ಣಗುರುಡುತನ"
+	},
+	"feature_emphasize_links": {
+		"message": "ಲಿಂಕ್‌ಗಳಿಗೆ ಒತ್ತು ನೀಡಿ"
+	},
+	"feature_emphasize_stroke": {
+		"message": "ಪಠ್ಯ ಸ್ಟ್ರೋಕ್"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "ಬಣ್ಣ"
+	},
+	"color": {
+		"message": "ಬಣ್ಣ"
+	},
+	"feature_specialized_font": {
+		"message": "ವಿಶೇಷ ಫಾಂಟ್"
+	},
+	"feature_specialized_font_options": {
+		"message": "ಫಾಂಟ್ ಆಯ್ಕೆಗಳು"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "ಹೈಲೈಟ್ ಮೆನು ಆನ್ ಆಗಿದೆ"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "ಹೈಲೈಟ್ ಮೆನು ಆಫ್ ಆಗಿದೆ"
+	},
+	"feature_highlight_menu": {
+		"message": "ಹೈಲೈಟ್ ಮೆನು"
+	},
+	"feature_highlight_menu_description": {
+		"message": "ನಮ್ಮ ಹೈಲೈಟ್ ಪಠ್ಯ ಮೆನುವನ್ನು ತೋರಿಸುತ್ತದೆ."
+	},
+	"show": {
+		"message": "ತೋರಿಸು"
+	},
+	"welcome": {
+		"message": "ಹೆಲ್ಪರ್‌ಬರ್ಡ್‌ಗೆ ಸುಸ್ವಾಗತ"
+	},
+	"feature_immersive_reader": {
+		"message": "ತಲ್ಲೀನಗೊಳಿಸುವ ಓದುಗ"
+	},
+	"create_a_new_note": {
+		"message": "ಹೊಸ ಟಿಪ್ಪಣಿಯನ್ನು ರಚಿಸಿ"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "ಈ ಪುಟದಲ್ಲಿ Microsoft ನಿಂದ ಇಮ್ಮರ್ಸಿವ್ ರೀಡರ್ ಅನ್ನು ಬಳಸಿ."
+	},
+	"feature_toolbar_google": {
+		"message": "Google ಡಾಕ್ಸ್ ಮತ್ತು ಸ್ಲೈಡ್‌ಗಳು"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Google ಡಾಕ್ ಫೈಲ್‌ಗಳಲ್ಲಿ ಹೆಲ್ಪರ್‌ಬರ್ಡ್ ಟೂಲ್‌ಬಾರ್ ಅನ್ನು ಸೇರಿಸುತ್ತದೆ."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF ಟೂಲ್‌ಬಾರ್"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "ಪಿಡಿಎಫ್ ಫೈಲ್‌ಗಳಲ್ಲಿ ಹೆಲ್ಪರ್‌ಬರ್ಡ್ ಟೂಲ್‌ಬಾರ್ ಅನ್ನು ಸೇರಿಸುತ್ತದೆ."
+	},
+	"pause_helperbird": {
+		"message": "$1 ಅನ್ನು ವಿರಾಮಗೊಳಿಸಿ"
+	},
+	"quick_action": {
+		"message": "ತ್ವರಿತ ಕ್ರಮಗಳು"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 ಆಫ್ ಆಗಿದೆ"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 ಆನ್ ಆಗಿದೆ"
+	},
+	"voice_typing_is_on": {
+		"message": "ಧ್ವನಿ ಟೈಪಿಂಗ್ ಆನ್ ಆಗಿದೆ"
+	},
+	"voice_typing_is_off": {
+		"message": "ಧ್ವನಿ ಟೈಪಿಂಗ್ ಆಫ್ ಆಗಿದೆ"
+	},
+	"helperbird_paused": {
+		"message": "ಹೆಲ್ಪರ್ಬರ್ಡ್ ಆಫ್"
+	},
+	"helperbird_running": {
+		"message": "ಹೆಲ್ಪರ್ಬರ್ಡ್ ಓಟ"
+	},
+	"applying_settings": {
+		"message": "ನಿಮ್ಮ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಅನ್ವಯಿಸಲಾಗುತ್ತಿದೆ"
+	},
+	"feature_favorites": {
+		"message": "ಮೆಚ್ಚಿನವುಗಳು"
+	},
+	"all_feature_favorites": {
+		"message": "ಎಲ್ಲಾ"
+	},
+	"hide_feature_favorites": {
+		"message": "ಮೆಚ್ಚಿನವುಗಳನ್ನು ಮರೆಮಾಡಿ"
+	},
+	"feature_favorites_description": {
+		"message": "ಮೆಚ್ಚಿನವುಗಳನ್ನು ಮಾತ್ರ ತೋರಿಸಿ."
+	},
+	"feature_print": {
+		"message": "ಮುದ್ರಿಸಿ"
+	},
+	"feature_print_description": {
+		"message": "ಪ್ರಸ್ತುತ ಪುಟವನ್ನು ಮುದ್ರಿಸು."
+	},
+	"feature_printing_success": {
+		"message": "ಮುದ್ರಣವನ್ನು ತೆರೆಯಲಾಗುತ್ತಿದೆ"
+	},
+	"feature_reader_mode": {
+		"message": "ರೀಡರ್ ಮೋಡ್"
+	},
+	"feature_readermode_opening": {
+		"message": "ರೀಡರ್ ಮೋಡ್ ತೆರೆಯಲಾಗುತ್ತಿದೆ"
+	},
+	"feature_readermode_closing": {
+		"message": "ರೀಡರ್ ಮೋಡ್ ಅನ್ನು ಮುಚ್ಚಲಾಗುತ್ತಿದೆ"
+	},
+	"view_table": {
+		"message": "ಟೇಬಲ್ ನೋಟ"
+	},
+	"view_time": {
+		"message": "ಟೈಮ್‌ಲೈನ್ ವೀಕ್ಷಣೆ"
+	},
+	"view_card": {
+		"message": "ಕಾರ್ಡ್ ವೀಕ್ಷಣೆ"
+	},
+	"feature_screenshot": {
+		"message": "ಸ್ಕ್ರೀನ್‌ಶಾಟ್"
+	},
+	"feature_screenshot_description": {
+		"message": "ಪ್ರಸ್ತುತ ಪುಟದ ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ತೆಗೆದುಕೊಳ್ಳಿ."
+	},
+	"feature_screenshot_error": {
+		"message": "ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಸೆರೆಹಿಡಿಯುವಲ್ಲಿ ದೋಷ"
+	},
+	"feature_screenshot_success": {
+		"message": "ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಅನ್ನು ಸೆರೆಹಿಡಿಯಲಾಗುತ್ತಿದೆ"
+	},
+	"feature_tooltip": {
+		"message": "ಚಿತ್ರ ವಿವರಣೆಗಳು"
+	},
+	"feature_tooltip_description": {
+		"message": "ಮೌಸ್‌ನಲ್ಲಿ ಆಲ್ಟ್ ಮತ್ತು ಶೀರ್ಷಿಕೆ ಟ್ಯಾಗ್‌ಗಳನ್ನು ತೋರಿಸಿ."
+	},
+	"feature_translate": {
+		"message": "ಅನುವಾದಿಸು"
+	},
+	"feature_language": {
+		"message": "ಭಾಷೆಗಳು"
+	},
+	"feature_magnifier": {
+		"message": "ವರ್ಧಕ"
+	},
+	"feature_magnifier_description": {
+		"message": "ವರ್ಧಕ"
+	},
+	"percentage": {
+		"message": "ಶೇ"
+	},
+	"feature_analyze": {
+		"message": "ಪದಗಳ ಎಣಿಕೆ"
+	},
+	"feature_analyze_description": {
+		"message": "ವಿಶ್ಲೇಷಿಸಿ"
+	},
+	"feature_analyze_words": {
+		"message": "ಪದಗಳು"
+	},
+	"feature_analyze_characters": {
+		"message": "ಪಾತ್ರಗಳು"
+	},
+	"feature_annotations": {
+		"message": "ಟಿಪ್ಪಣಿಗಳು"
+	},
+	"feature_annotations_description": {
+		"message": "ಹೊಸ ಜಿಗುಟಾದ ಟಿಪ್ಪಣಿಯನ್ನು ಬಿಡುವ ಮೂಲಕ ಪುಟವನ್ನು ಟಿಪ್ಪಣಿ ಮಾಡಿ."
+	},
+	"feature_annotate_open": {
+		"message": "ಹೊಸ ನೋಟು ರಚಿಸಲಾಗುತ್ತಿದೆ"
+	},
+	"annotate": {
+		"message": "ಟಿಪ್ಪಣಿ ಮಾಡಿ"
+	},
+	"feature_cognitive_load": {
+		"message": "ವೇಗ ಓದುವಿಕೆ"
+	},
+	"bold": {
+		"message": "ದಿಟ್ಟತನ"
+	},
+	"feature_background_color": {
+		"message": "ಹಿನ್ನೆಲೆ ಬಣ್ಣ"
+	},
+	"feature_font_color": {
+		"message": "ಫಾಂಟ್ ಬಣ್ಣ"
+	},
+	"feature_highlight_menu_min": {
+		"message": "ಮೆನು"
+	},
+	"feature_highlight_color": {
+		"message": "ಬಣ್ಣವನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ"
+	},
+	"feature_link_color": {
+		"message": "ಲಿಂಕ್ ಬಣ್ಣ"
+	},
+	"feature_cursor_size": {
+		"message": "ಕರ್ಸರ್ ಗಾತ್ರ"
+	},
+	"feature_font_size": {
+		"message": "ಪಠ್ಯದ ಗಾತ್ರ"
+	},
+	"feature_font_size_titles": {
+		"message": "ಹೆಡರ್ ಗಾತ್ರ"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "ಪ್ಯಾರಾಗ್ರಾಫ್ ಗಾತ್ರ"
+	},
+	"feature_gray_hue": {
+		"message": "ಬೂದು ಬಣ್ಣ"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "ಪ್ಯಾರಾಗಳನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "ಪ್ಯಾರಾಗಳ ಬಣ್ಣವನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ"
+	},
+	"feature_images_hide_title": {
+		"message": "ಚಿತ್ರಗಳನ್ನು ಮರೆಮಾಡಿ"
+	},
+	"hide": {
+		"message": "ಮರೆಮಾಡಿ"
+	},
+	"feature_images_hide": {
+		"message": "ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಮರೆಮಾಡಿ"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Gif ಗಳನ್ನು ಮರೆಮಾಡಿ"
+	},
+	"feature_high_contast": {
+		"message": "ಹೆಚ್ಚಿನ ಕಾಂಟ್ರಾಸ್ಟ್"
+	},
+	"feature_text_adjustments": {
+		"message": "ಪಠ್ಯ ಹೊಂದಾಣಿಕೆಗಳು"
+	},
+	"feature_text_align": {
+		"message": "ಪಠ್ಯ ಅಲೈನ್"
+	},
+	"feature_text_alignment": {
+		"message": "ಜೋಡಣೆ"
+	},
+	"feature_letter_spacing": {
+		"message": "ಅಕ್ಷರದ ಅಂತರ"
+	},
+	"spacing": {
+		"message": "ಅಂತರ"
+	},
+	"feature_line_height_spacing": {
+		"message": "ಗೆರೆಯ ಎತ್ತರ"
+	},
+	"height": {
+		"message": "ಎತ್ತರ"
+	},
+	"feature_line_focus": {
+		"message": "ಲೈನ್ ಫೋಕಸ್"
+	},
+	"feature_line_focus_color": {
+		"message": "ಲೈನ್ ಫೋಕಸ್ ಬಣ್ಣ"
+	},
+	"feature_line_focus_height": {
+		"message": "ಲೈನ್ ಫೋಕಸ್ ಎತ್ತರ"
+	},
+	"feature_mute": {
+		"message": "ವೀಡಿಯೊವನ್ನು ಮ್ಯೂಟ್ ಮಾಡಿ"
+	},
+	"feature_mute_description": {
+		"message": "ಪುಟಗಳಿಂದ ವೀಡಿಯೊಗಳು ಮತ್ತು ಧ್ವನಿಗಳನ್ನು ಮ್ಯೂಟ್ ಮಾಡಿ."
+	},
+	"ocr_read_words": {
+		"message": "ಹೊರತೆಗೆದ ಪಠ್ಯವನ್ನು ಓದಿ"
+	},
+	"text": {
+		"message": "ಪಠ್ಯ"
+	},
+	"ocr_read_words_save": {
+		"message": "ಬೇರ್ಪಡಿಸಿದ ಪಠ್ಯವನ್ನು ಉಳಿಸಿ"
+	},
+	"feature_extract_text": {
+		"message": "ಪಠ್ಯವನ್ನು ಹೊರತೆಗೆಯಿರಿ (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "ಸಕ್ರಿಯಗೊಳಿಸಿ, ಪರದೆಯ ಮೇಲಿನ ಪ್ರದೇಶವನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+	},
+	"feature_overlay": {
+		"message": "ಮೇಲ್ಪದರ"
+	},
+	"feature_overlay_color": {
+		"message": "ಒವರ್ಲೆ ಬಣ್ಣ"
+	},
+	"feature_paragraph_width": {
+		"message": "ಪ್ಯಾರಾಗ್ರಾಫ್ ಅಗಲ"
+	},
+	"width": {
+		"message": "ಅಗಲ"
+	},
+	"highlighted_text": {
+		"message": "ಹೈಲೈಟ್ ಮಾಡಿದ ಪಠ್ಯ"
+	},
+	"issue_on_page": {
+		"message": "ಸಮಸ್ಯೆ"
+	},
+	"feature_reading_guide": {
+		"message": "ಓದುವ ಮಾರ್ಗದರ್ಶಿ"
+	},
+	"feature_reading_guide_color": {
+		"message": "ಓದುವ ಮಾರ್ಗದರ್ಶಿ ಬಣ್ಣ"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "ಡಿಸ್ಲೆಕ್ಸಿಯಾ ಆಡಳಿತಗಾರ"
+	},
+	"feature_ruler_width": {
+		"message": "ಆಡಳಿತಗಾರನ ಅಗಲ"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "ಎತ್ತರ"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "ಸ್ಥಾನ"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "ಬಣ್ಣ"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "ಅನುಸರಿಸಿ"
+	},
+	"feature_auto_scroll": {
+		"message": "ಸ್ವಯಂ ಸ್ಕ್ರಾಲ್"
+	},
+	"speed": {
+		"message": "ವೇಗ"
+	},
+	"subscription_deleted": {
+		"message": "ಚಂದಾದಾರಿಕೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ"
+	},
+	"title_enjoy_until": {
+		"message": "ತನಕ ನಿಮ್ಮ ಪ್ರಯೋಗವನ್ನು ಆನಂದಿಸಿ"
+	},
+	"incomplete_expired": {
+		"message": "ನಮಗೆ ಪಾವತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+	},
+	"past_due": {
+		"message": "ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಯು ಬಾಕಿ ಉಳಿದಿದೆ."
+	},
+	"incomplete": {
+		"message": "ನಮಗೆ ಪಾವತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ."
+	},
+	"transparency": {
+		"message": "ಹೊಳಪು"
+	},
+	"title_message_full": {
+		"message": "Helperbird Pro ಚಂದಾದಾರಿಕೆ ಕಂಡುಬಂದಿದೆ."
+	},
+	"contact_support": {
+		"message": "ದಯವಿಟ್ಟು ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ."
+	},
+	"buy": {
+		"message": "$1 ಅನ್ನು ಖರೀದಿಸಿ"
+	},
+	"feature_voice_typing": {
+		"message": "ಧ್ವನಿ ಟೈಪಿಂಗ್"
+	},
+	"feature_voice_typing_description": {
+		"message": "ಎಲ್ಲಾ ಇನ್‌ಪುಟ್‌ಗಳಲ್ಲಿ ಧ್ವನಿ ಟೈಪಿಂಗ್ ಅನ್ನು ಸೇರಿಸುತ್ತದೆ. ಇನ್‌ಪುಟ್‌ನಲ್ಲಿರುವ ಬಟನ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ."
+	},
+	"google_docs_notice": {
+		"message": "ನಾವು ಈಗ Google Addon ಅನ್ನು ಹೊಂದಿದ್ದೇವೆ! ಇನ್ನೂ ಹೆಚ್ಚಿನ ಬೆಂಬಲವನ್ನು ಪಡೆಯಲು ಸ್ಥಾಪಿಸಿ."
+	},
+	"feature_spell_check": {
+		"message": "ಕಾಗುಣಿತ ಪರಿಶೀಲನೆ"
+	},
+	"feature_summarize": {
+		"message": "ಪುಟವನ್ನು ಸಾರಾಂಶಗೊಳಿಸಿ"
+	},
+	"feature_summarize_description": {
+		"message": "ಈ ಪುಟವನ್ನು ಸಾರಾಂಶಗೊಳಿಸಿ."
+	},
+	"feature_text_to_speech_options": {
+		"message": "ಪಠ್ಯದಿಂದ ಭಾಷಣ ಆಯ್ಕೆಗಳು"
+	},
+	"feature_speech_voice": {
+		"message": "ಧ್ವನಿ"
+	},
+	"feature_speech_speed": {
+		"message": "ವೇಗ"
+	},
+	"feature_speech_pitch": {
+		"message": "ಪಿಚ್"
+	},
+	"feature_speech_volume": {
+		"message": "ಸಂಪುಟ"
+	},
+	"feature_speech_highlight_color": {
+		"message": "ಬಣ್ಣವನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ"
+	},
+	"feature_speech_reading_success": {
+		"message": "ಆಯ್ದ ಪಠ್ಯವನ್ನು ಓದುವುದು."
+	},
+	"feature_text_to_speech": {
+		"message": "ಪಠ್ಯದಿಂದ ಭಾಷಣಕ್ಕೆ"
+	},
+	"you_need_to_highlight": {
+		"message": "ನೀವು ಕೆಲವು ಪಠ್ಯವನ್ನು ಹೈಲೈಟ್ ಮಾಡಬೇಕಾಗಿದೆ."
+	},
+	"feature_word_prediction": {
+		"message": "ವರ್ಡ್ ಪ್ರಿಡಿಕ್ಷನ್"
+	},
+	"feature_word_prediction_description": {
+		"message": "ಇನ್‌ಪುಟ್‌ಗಳಲ್ಲಿ ಹೆಲ್ಪರ್‌ಬರ್ಡ್ಸ್ ವರ್ಡ್ ಪ್ರಿಡಿಕ್ಷನ್ ಅನ್ನು ಆನ್ ಮಾಡಿ."
+	},
+	"feature_word_spacing": {
+		"message": "ಪದಗಳ ಅಂತರ"
+	},
+	"full_Screen": {
+		"message": "ಪೂರ್ಣ ಪರದೆ"
+	},
+	"voice_typing_stop": {
+		"message": "ಧ್ವನಿ ಟೈಪಿಂಗ್ ನಿಲ್ಲಿಸಲಾಗುತ್ತಿದೆ."
+	},
+	"voice_typing_start": {
+		"message": "ಇವಾಗ ಮಾತನಾಡು."
+	},
+	"speak_word_on_hover": {
+		"message": "ಜೋರಾಗಿ ಓದಿ."
+	},
+	"speak_word_on_hover_info": {
+		"message": "ಮೇಲಿದ್ದು ಪದವನ್ನು ಓದುತ್ತದೆ."
+	},
+	"speak": {
+		"message": "ಮಾತನಾಡು"
+	},
+	"auto_scroll_start": {
+		"message": "ಸ್ವಯಂ ಸ್ಕ್ರಾಲ್ ಪ್ರಾರಂಭವಾಯಿತು."
+	},
+	"auto_scroll_stop": {
+		"message": "ಆಟೋ ಸ್ಕ್ರಾಲ್ ನಿಲ್ಲಿಸಲಾಗಿದೆ."
+	},
+	"popup_immersive_success": {
+		"message": "ಇಮ್ಮರ್ಸಿವ್ ರೀಡರ್ ಅನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ."
+	},
+	"popup_readermode_success": {
+		"message": "ರೀಡರ್ ಮೋಡ್ ತೆರೆಯಲಾಗುತ್ತಿದೆ."
+	},
+	"popup_printing_success": {
+		"message": "ಮುದ್ರಣವನ್ನು ತೆರೆಯಲಾಗುತ್ತಿದೆ."
+	},
+	"ocr_select": {
+		"message": "ಪುಟದಲ್ಲಿ ಪ್ರದೇಶವನ್ನು ಆಯ್ಕೆಮಾಡಿ."
+	},
+	"ocr_extracted": {
+		"message": "ಪಠ್ಯವನ್ನು ಹೊರತೆಗೆಯಲಾಗಿದೆ."
+	},
+	"ocr_extracting": {
+		"message": "ಹೊರತೆಗೆಯಲಾಗುತ್ತಿದೆ"
+	},
+	"ocr_copy": {
+		"message": "ಚಿತ್ರದಿಂದ ಪಠ್ಯವನ್ನು ನಕಲಿಸಲಾಗಿದೆ. ನಿಮ್ಮ ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ಉಳಿಸಲಾಗಿದೆ."
+	},
+	"ocr_no_text": {
+		"message": "ಯಾವುದೇ ಪಠ್ಯ ಕಂಡುಬಂದಿಲ್ಲ."
+	},
+	"popup_note_success": {
+		"message": "ನಿಮ್ಮ ಟಿಪ್ಪಣಿಗಳಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ."
+	},
+	"popup_immersive_error": {
+		"message": "ಇಮ್ಮರ್ಸಿವ್ ರೀಡರ್ ಅನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ"
+	},
+	"popup_summarize_error": {
+		"message": "ಪುಟದ ಸಾರಾಂಶ ದೋಷ."
+	},
+	"popup_saving_error": {
+		"message": "ಉಳಿಸುವಲ್ಲಿ ದೋಷ"
+	},
+	"popup_summarize_success": {
+		"message": "ಸಾರಾಂಶ ಪುಟ"
+	},
+	"popup_readermode_closing": {
+		"message": "ರೀಡರ್ ಮೋಡ್ ಅನ್ನು ಮುಚ್ಚಲಾಗುತ್ತಿದೆ"
+	},
+	"close": {
+		"message": "ಮುಚ್ಚಿ"
+	},
+	"your_note_was_saved": {
+		"message": "ನಿಮ್ಮ ಟಿಪ್ಪಣಿಯನ್ನು ಉಳಿಸಲಾಗಿದೆ."
+	},
+	"error_saving_your_note": {
+		"message": "ನಿಮ್ಮ ಟಿಪ್ಪಣಿಯನ್ನು ಉಳಿಸುವಲ್ಲಿ ದೋಷ. ದಯವಿಟ್ಟು ಪುನಃ ಪ್ರಯತ್ನಿಸಿ."
+	},
+	"popup_readinglist_error": {
+		"message": "ಓದುವ ಪಟ್ಟಿಗೆ ಉಳಿಸುವಲ್ಲಿ ದೋಷ"
+	},
+	"popup_readinglist_success": {
+		"message": "ಓದುವ ಪಟ್ಟಿಗೆ ಉಳಿಸಲಾಗಿದೆ"
+	},
+	"popup_screenshot_error": {
+		"message": "ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಸೆರೆಹಿಡಿಯುವಲ್ಲಿ ದೋಷ"
+	},
+	"popup_screenshot_success": {
+		"message": "ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಅನ್ನು ಸೆರೆಹಿಡಿಯಲಾಗುತ್ತಿದೆ"
+	},
+	"copied_text": {
+		"message": "ಪಠ್ಯವನ್ನು ನಕಲಿಸಲಾಗಿದೆ"
+	},
+	"copied_text_error": {
+		"message": "ಪಠ್ಯವನ್ನು ನಕಲಿಸುವಲ್ಲಿ ದೋಷ."
+	},
+	"ocr_loading": {
+		"message": "ಸಹಾಯಕ ಪಕ್ಷಿಗಳ OCR ಅನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ"
+	},
+	"ocr_save": {
+		"message": "ನಿಮ್ಮ ಟಿಪ್ಪಣಿಗಳಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ"
+	},
+	"popup_reading_success": {
+		"message": "ಆಯ್ದ ಪಠ್ಯವನ್ನು ಓದುವುದು"
+	},
+	"popup_reading_finished": {
+		"message": "ಓದಿ ಮುಗಿಸಿದೆ"
+	},
+	"popup_reading_error": {
+		"message": "ನಿಲ್ಲಿಸಲಾಗುತ್ತಿದೆ"
+	},
+	"popup_reading_stopping": {
+		"message": "ನಿಲ್ಲಿಸಲಾಗುತ್ತಿದೆ"
+	},
+	"popup_reading_pause": {
+		"message": "ವಿರಾಮಗೊಳಿಸಲಾಗಿದೆ"
+	},
+	"notifcations_upgrade_title": {
+		"message": "ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಲು ನೀವು Helperbird Pro ಅನ್ನು ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಬೇಕಾಗುತ್ತದೆ."
+	},
+	"menu_define": {
+		"message": "ಪದವನ್ನು ವ್ಯಾಖ್ಯಾನಿಸಿ"
+	},
+	"menu_website_readinglist": {
+		"message": "ಓದುವ ಪಟ್ಟಿಗೆ ವೆಬ್‌ಸೈಟ್ ಸೇರಿಸಿ"
+	},
+	"menu_readinglist": {
+		"message": "ಓದುವ ಪಟ್ಟಿಗೆ ಸೇರಿಸಿ"
+	},
+	"menu_text_to_speech": {
+		"message": "ಪಠ್ಯದಿಂದ ಭಾಷಣಕ್ಕೆ"
+	},
+	"menu_play": {
+		"message": "ಪ್ಲೇ ಮಾಡಿ"
+	},
+	"menu_pause": {
+		"message": "ವಿರಾಮಗೊಳಿಸಿ"
+	},
+	"menu_stop": {
+		"message": "ನಿಲ್ಲಿಸು"
+	},
+	"menu_resume": {
+		"message": "ಪುನರಾರಂಭಿಸಿ"
+	},
+	"menu_screenshot": {
+		"message": "ಸ್ಕ್ರೀನ್ ನ ಚಿತ್ರ ತೆಗೆದುಕೊ"
+	},
+	"menu_share": {
+		"message": "ಹಂಚಿಕೊಳ್ಳಿ"
+	},
+	"menu_reader_mode": {
+		"message": "ರೀಡರ್ ಮೋಡ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ"
+	},
+	"menu_translate": {
+		"message": "ಅನುವಾದಿಸು"
+	},
+	"road_map": {
+		"message": "ಮಾರ್ಗಸೂಚಿ"
+	},
+	"menu_immersive_reader": {
+		"message": "ತಲ್ಲೀನಗೊಳಿಸುವ ರೀಡರ್‌ನಲ್ಲಿ ವೀಕ್ಷಿಸಿ"
+	},
+	"menu_summarize": {
+		"message": "ಪುಟವನ್ನು ಸಾರಾಂಶಗೊಳಿಸಿ"
+	},
+	"menu_summarize_page": {
+		"message": "ಪುಟ ಸಾರಾಂಶ"
+	},
+	"menu_annotate_page": {
+		"message": "ಟಿಪ್ಪಣಿ ಪುಟ"
+	}
+}

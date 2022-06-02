@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird Chrome'i jaoks"
+	},
+	"appDescription": {
+		"message": "Üle 32 juurdepääsetavuse ja tootlikkuse funktsiooni, mis on loodud toetama igat tüüpi lugejaid, õppijaid ja kirjutajaid. Sisaldab düsleksia toetust."
+	},
+	"helpGuide": {
+		"message": "Abijuhendid"
+	},
+	"upgrade_title": {
+		"message": "Helperbird Pro funktsioon"
+	},
+	"upgrade_description": {
+		"message": "Selle funktsiooni kasutamiseks vajate Helperbird Pro tellimust. Ärge muretsege, see on 40 USD aastas või 4,99 kuus."
+	},
+	"plan_deal": {
+		"message": "Tudengite pakkumine"
+	},
+	"plan_month": {
+		"message": "Igakuine pakkumine"
+	},
+	"plan_year": {
+		"message": "Aastane pakkumine"
+	},
+	"upgrade_message": {
+		"message": "Kõigi funktsioonide avamiseks minge üle Helperbird Pro-le."
+	},
+	"column_title": {
+		"message": "Veerg"
+	},
+	"upgrade_now": {
+		"message": "Uuenda nüüd"
+	},
+	"upgrade_to_pro": {
+		"message": "Minge üle Helperbird Pro-le"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Avastage Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Logige sisse Helperbirdi või sisestage oma liitumisvõti."
+	},
+	"privacy": {
+		"message": "Privaatsus"
+	},
+	"whats_new": {
+		"message": "Mis on uut"
+	},
+	"privacy_details": {
+		"message": "Austame teie privaatsust, seega on see siin selges ja lihtsas keeles."
+	},
+	"privacy_details_one": {
+		"message": "Siin, Helperbird, austame ja võtame teie privaatsust äärmiselt tõsiselt. Sellepärast me midagi ei ladusta ega kogu."
+	},
+	"privacy_details_two": {
+		"message": "Ainus küsib sisselogimisel teie e-posti. Kontrollimaks, kas teie kooli või ettevõtte domeeni eest makstakse või olete Stripe'is konto eest tasunud."
+	},
+	"privacy_details_three": {
+		"message": "Kõik, mida teete, ja salvestatud seaded jäävad teie brauserisse lokaalselt. Ei lahku kunagi arvutist."
+	},
+	"free": {
+		"message": "Tasuta"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "Peal"
+	},
+	"on_lower": {
+		"message": "peal"
+	},
+	"off": {
+		"message": "Väljas"
+	},
+	"off_lower": {
+		"message": "väljas"
+	},
+	"notes": {
+		"message": "Märkmed"
+	},
+	"open_notes": {
+		"message": "Ava märkmed"
+	},
+	"save": {
+		"message": "Salvesta"
+	},
+	"clear": {
+		"message": "Selge"
+	},
+	"manage": {
+		"message": "Halda"
+	},
+	"open": {
+		"message": "Avatud"
+	},
+	"copy": {
+		"message": "Kopeeri"
+	},
+	"delete": {
+		"message": "Kustuta"
+	},
+	"documents": {
+		"message": "Dokumendid"
+	},
+	"remove": {
+		"message": "Eemalda"
+	},
+	"version": {
+		"message": "Versioon"
+	},
+	"visit": {
+		"message": "Külastage"
+	},
+	"no_results": {
+		"message": "Tulemused puuduvad"
+	},
+	"reduce_motion": {
+		"message": "Animatsioonid"
+	},
+	"maths_steps": {
+		"message": "Matemaatika lahendaja"
+	},
+	"tour": {
+		"message": "Helperbird Tour"
+	},
+	"reduce_motion_description": {
+		"message": "Vältida animatsioonide kuvamist veebilehtedel."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader on tasuta tööriist, mis rakendab tõestatud tehnikaid lugemise ja kirjutamise parandamiseks"
+	},
+	"start": {
+		"message": "Alusta"
+	},
+	"learn_more": {
+		"message": "Lisateavet"
+	},
+	"more": {
+		"message": "Rohkem"
+	},
+	"editor_title": {
+		"message": "Toimetaja"
+	},
+	"editor_title_open": {
+		"message": "Avage Helperbirdsi redaktor"
+	},
+	"logout": {
+		"message": "Logi välja"
+	},
+	"signin": {
+		"message": "Logi sisse"
+	},
+	"define_title": {
+		"message": "Sõnastik"
+	},
+	"define_title_open": {
+		"message": "Ava sõnaraamat"
+	},
+	"define_empty_title": {
+		"message": "Otsige sõna ja me tagastame selle tähenduse."
+	},
+	"define_search": {
+		"message": "Otsing......"
+	},
+	"define_antonyms": {
+		"message": "Antonüümid"
+	},
+	"define_synonyms": {
+		"message": "Sünonüümid"
+	},
+	"define_meanings": {
+		"message": "Tähendused"
+	},
+	"define_related": {
+		"message": "Seotud"
+	},
+	"define_etymology": {
+		"message": "Etümoloogia"
+	},
+	"export": {
+		"message": "Ekspordi"
+	},
+	"export_word": {
+		"message": "Ekspordi Wordi"
+	},
+	"export_docs": {
+		"message": "Ekspordi Google Docsi"
+	},
+	"export_text": {
+		"message": "Ekspordi tekstifaili"
+	},
+	"toolbar_pdf": {
+		"message": "PDF-lugeja"
+	},
+	"toolbar_pdf_open": {
+		"message": "Avage PDF-lugeja"
+	},
+	"menus": {
+		"message": "Google Docs ja PDF"
+	},
+	"upgrade_message_title": {
+		"description": "Helperbirdi laiendus.",
+		"message": "Minge üle 1 dollarile"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Helperbirdi laiendus.",
+		"message": "Juurdepääs võimsatele funktsioonidele, nagu lugejarežiim ja $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Helperbirdi laiendus.",
+		"message": "Valige altpoolt plaan, et avada enam kui 30 funktsiooni ja 24-tunnine tugi."
+	},
+	"alert_message": {
+		"message": "Kõigile Pro funktsioonidele juurdepääsuks uuendage või logige sisse."
+	},
+	"alert_loading": {
+		"message": "Laadimine..."
+	},
+	"alert_clear": {
+		"message": "Selge"
+	},
+	"alert_cleared": {
+		"message": "Puhastatud"
+	},
+	"alert_download": {
+		"message": "Lae alla"
+	},
+	"alert_no_data": {
+		"message": "Tulemused puuduvad"
+	},
+	"annotations_notes": {
+		"message": "Märkmed"
+	},
+	"import_annotations": {
+		"message": "Importige märkmeid"
+	},
+	"options": {
+		"message": "Valikud"
+	},
+	"open_document": {
+		"message": "Ava dokument"
+	},
+	"select_document": {
+		"message": "Peate valima dokumendi."
+	},
+	"copied_document": {
+		"message": "Dokument kopeeritud"
+	},
+	"saved_document": {
+		"message": "Dokument on salvestatud"
+	},
+	"issue_saving": {
+		"message": "Probleem salvestamisega"
+	},
+	"show_updates": {
+		"message": "Kuva värskendused"
+	},
+	"new": {
+		"message": "Uus"
+	},
+	"pause": {
+		"message": "Paus"
+	},
+	"removed_document": {
+		"message": "Dokument eemaldatud"
+	},
+	"opening_document": {
+		"message": "Dokumendi avamine"
+	},
+	"get_started": {
+		"message": "Alustama"
+	},
+	"saved_to_documents": {
+		"message": "Salvestatud teie dokumentidesse."
+	},
+	"message_alert": {
+		"message": "Saate juurdepääsu kõikidele Helperbirdi funktsioonidele ja klienditoele, kui seda vajate. Üle 30 funktsiooni."
+	},
+	"message_three_day": {
+		"message": "3 päeva prooviperiood"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Kontrollige oma sisendeid"
+	},
+	"upgrade": {
+		"message": "Uuendage"
+	},
+	"upgrade_": {
+		"message": "Minge üle 1 dollarile"
+	},
+	"website": {
+		"message": "Veebisait"
+	},
+	"description": {
+		"message": "Kirjeldus"
+	},
+	"capture": {
+		"message": "Jäädvusta"
+	},
+	"category": {
+		"message": "Kategooria"
+	},
+	"error_found_label": {
+		"message": "Tekkis viga"
+	},
+	"cancel": {
+		"message": "Tühista"
+	},
+	"readinglist_title": {
+		"message": "Lugemisnimekiri"
+	},
+	"readinglist_title_open": {
+		"message": "Avage lugemisloend"
+	},
+	"note_removed": {
+		"message": "Märkus eemaldatud."
+	},
+	"note_removed_error": {
+		"message": "Märkust ei saanud eemaldada."
+	},
+	"readinglist_removed": {
+		"message": "Veebisait eemaldatud"
+	},
+	"settings_saved": {
+		"message": "Seaded salvestatud"
+	},
+	"check_for_updates": {
+		"message": "Kontrolli kas uuendused on saadaval"
+	},
+	"show_highlights": {
+		"message": "Kuva esiletõstmised lehel."
+	},
+	"account_title": {
+		"message": "Konto"
+	},
+	"account_description": {
+		"message": "Kasutame sama e-posti aadressi, millega oma brauserisse sisse logite."
+	},
+	"signed_in_as": {
+		"message": "Sisse logitud kui"
+	},
+	"subscription_title": {
+		"message": "Tellimus"
+	},
+	"current_plan": {
+		"message": "Teie praegune plaan"
+	},
+	"subscription_status": {
+		"message": "Teie tellimuse olek:"
+	},
+	"check_subscription": {
+		"message": "Kontrollige tellimust"
+	},
+	"subscription_token_title": {
+		"message": "Tellimisvõti"
+	},
+	"subscription_token_description": {
+		"message": "Kui teil on Helperbird Pro tellimus, sisestage see allpool, et avada kõik Helperbird Pro funktsioonid."
+	},
+	"themes": {
+		"message": "Teemad"
+	},
+	"theme": {
+		"message": "Teema"
+	},
+	"danger_zone_title": {
+		"message": "Säilitamine"
+	},
+	"danger_zone_description": {
+		"message": "Allolev nupp kustutab kõik seaded ja käivitab laienduse nii, nagu oleks see uus. Nii et olge ettevaatlik, me ei saa tagasi midagi, mida kustutate."
+	},
+	"delete_everything": {
+		"message": "Kustuta kõik"
+	},
+	"delete_this_note": {
+		"message": "Kustuta see märge."
+	},
+	"visit_this_note": {
+		"message": "Külastage veebisaiti, kus see märge on peal."
+	},
+	"everything_deleted": {
+		"message": "Kõik seaded ja salvestusruum on nüüd kustutatud."
+	},
+	"enter_email": {
+		"message": "Peate sisestama e-posti aadressi."
+	},
+	"shortcuts": {
+		"message": "Otseteed"
+	},
+	"shortcuts_menu_on": {
+		"message": "Otseteed on sisse lülitatud"
+	},
+	"shortcuts_menu_off": {
+		"message": "Otseteed on välja lülitatud"
+	},
+	"shortcuts_title": {
+		"message": "Otseteed"
+	},
+	"shortcuts_description": {
+		"message": "Otseteed"
+	},
+	"shortcuts_ocr": {
+		"message": "Luba OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Avage kaasahaarav lugeja"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Avage lugejarežiim"
+	},
+	"annotate_page": {
+		"message": "Märkuste leht"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Avage PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Suumi välja"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Suurenda"
+	},
+	"settings": {
+		"message": "Seaded"
+	},
+	"support_videos": {
+		"message": "Toetage videoid"
+	},
+	"review_us": {
+		"message": "Arvustage meid"
+	},
+	"view": {
+		"message": "Vaade"
+	},
+	"views": {
+		"message": "Vaated"
+	},
+	"no_favorites": {
+		"message": "Lemmikuid pole"
+	},
+	"sorting_none": {
+		"message": "Midagi ei leitud."
+	},
+	"sorting": {
+		"message": "Sorteerimine...."
+	},
+	"showing_favorites": {
+		"message": "Kuvatakse lemmikud"
+	},
+	"unpaid": {
+		"message": "Teie tellimus on tasumata."
+	},
+	"canceled": {
+		"message": "Teie tellimus on tühistatud."
+	},
+	"message_nothing_found": {
+		"message": "Me ei leidnud tellimust."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Me ei saanud ühtegi teksti. Proovige uuesti (värskenda). Proovige meie PDF-i või Google Docsi lisandmoodulit."
+	},
+	"unpinned_favorite": {
+		"message": "Lemmikutest eemaldatud"
+	},
+	"pin_favorite": {
+		"message": "Lemmikus"
+	},
+	"setting_saved": {
+		"message": "Seade salvestatud"
+	},
+	"favourite": {
+		"message": "Lemmik"
+	},
+	"un_favourite": {
+		"message": "Ebasoovitav"
+	},
+	"how_to_use": {
+		"message": "Kuidas kasutada"
+	},
+	"search": {
+		"message": "Otsing"
+	},
+	"search_feature": {
+		"message": "Otsingufunktsioonid"
+	},
+	"filter_productivity": {
+		"message": "Uurimine"
+	},
+	"helperbird_apps": {
+		"message": "Helperbirdi rakendused"
+	},
+	"fav_message": {
+		"message": "Näib, et teil pole lemmikutena ühtegi funktsiooni. Lemmikuks lisamiseks klõpsake funktsiooni kõrval kolmel punktil ja seejärel valikul lemmik."
+	},
+	"filter_features": {
+		"message": "Filtri funktsioonid"
+	},
+	"student_offer": {
+		"message": "Õpilased saavad Helperbird Pro eest"
+	},
+	"filter_style": {
+		"message": "Ekraan"
+	},
+	"filter_text_to_speech": {
+		"message": "Tekst kõneks"
+	},
+	"filter_dyslexia": {
+		"message": "Düsleksia"
+	},
+	"filter_pro": {
+		"message": "Pro funktsioonid"
+	},
+	"filter": {
+		"message": "Filter"
+	},
+	"filter_writing": {
+		"message": "Kirjutamine"
+	},
+	"highlighter_title": {
+		"message": "Esiletõstja"
+	},
+	"filter_reading": {
+		"message": "Lugemine"
+	},
+	"filter_active": {
+		"message": "Aktiivne"
+	},
+	"filter_audio": {
+		"message": "Heli funktsioonid"
+	},
+	"feature_blindness": {
+		"message": "Värvipimedus"
+	},
+	"feature_emphasize_links": {
+		"message": "Rõhutage linke"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Tekstijoon"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Värv"
+	},
+	"color": {
+		"message": "Värv"
+	},
+	"feature_specialized_font": {
+		"message": "Spetsiaalne font"
+	},
+	"feature_specialized_font_options": {
+		"message": "Fondi valikud"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Esiletõstmise menüü on sisse lülitatud"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Esiletõstmise menüü on välja lülitatud"
+	},
+	"feature_highlight_menu": {
+		"message": "Tõstke menüü esile"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Näitab meie esiletõstetud tekstimenüüd."
+	},
+	"show": {
+		"message": "Näita"
+	},
+	"welcome": {
+		"message": "Tere tulemast Helperbirdi"
+	},
+	"feature_immersive_reader": {
+		"message": "Kaasahaarav lugeja"
+	},
+	"create_a_new_note": {
+		"message": "Looge uus märkus"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Kasutage sellel lehel Microsofti Immersive Readerit."
+	},
+	"feature_toolbar_google": {
+		"message": "Google'i dokumendid ja esitlused"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Lisab Google'i dokumendifailidele Helperbirdi tööriistariba."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF-i tööriistariba"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Lisab PDF-failidele Helperbirdi tööriistariba."
+	},
+	"pause_helperbird": {
+		"message": "Peatage 1 dollar"
+	},
+	"quick_action": {
+		"message": "Kiired toimingud"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 on välja lülitatud"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 on sisse lülitatud"
+	},
+	"voice_typing_is_on": {
+		"message": "Häälsisestus on sisse lülitatud"
+	},
+	"voice_typing_is_off": {
+		"message": "Häälsisestus on välja lülitatud"
+	},
+	"helperbird_paused": {
+		"message": "Abilind ära"
+	},
+	"helperbird_running": {
+		"message": "Abilind jookseb"
+	},
+	"applying_settings": {
+		"message": "Seadete rakendamine"
+	},
+	"feature_favorites": {
+		"message": "Lemmikud"
+	},
+	"all_feature_favorites": {
+		"message": "Kõik"
+	},
+	"hide_feature_favorites": {
+		"message": "Peida lemmikud"
+	},
+	"feature_favorites_description": {
+		"message": "Kuva ainult lemmikud."
+	},
+	"feature_print": {
+		"message": "Prindi"
+	},
+	"feature_print_description": {
+		"message": "Prindi praegune leht."
+	},
+	"feature_printing_success": {
+		"message": "Trüki avamine"
+	},
+	"feature_reader_mode": {
+		"message": "Lugeja režiim"
+	},
+	"feature_readermode_opening": {
+		"message": "Lugejarežiimi avamine"
+	},
+	"feature_readermode_closing": {
+		"message": "Lugeja režiimi sulgemine"
+	},
+	"view_table": {
+		"message": "Tabelivaade"
+	},
+	"view_time": {
+		"message": "Ajaskaala vaade"
+	},
+	"view_card": {
+		"message": "Kaardivaade"
+	},
+	"feature_screenshot": {
+		"message": "Ekraanipilt"
+	},
+	"feature_screenshot_description": {
+		"message": "Tehke praegusest lehest ekraanipilt."
+	},
+	"feature_screenshot_error": {
+		"message": "Viga ekraanipildi jäädvustamisel"
+	},
+	"feature_screenshot_success": {
+		"message": "Ekraanipildi jäädvustamine"
+	},
+	"feature_tooltip": {
+		"message": "Piltide kirjeldused"
+	},
+	"feature_tooltip_description": {
+		"message": "Kuva alt ja pealkirja sildid hiirekursori kohal."
+	},
+	"feature_translate": {
+		"message": "Tõlgi"
+	},
+	"feature_language": {
+		"message": "Keeled"
+	},
+	"feature_magnifier": {
+		"message": "Luup"
+	},
+	"feature_magnifier_description": {
+		"message": "Luup"
+	},
+	"percentage": {
+		"message": "Protsent"
+	},
+	"feature_analyze": {
+		"message": "Sõnade arv"
+	},
+	"feature_analyze_description": {
+		"message": "analüüsida"
+	},
+	"feature_analyze_words": {
+		"message": "sõnad"
+	},
+	"feature_analyze_characters": {
+		"message": "tegelased"
+	},
+	"feature_annotations": {
+		"message": "Märkmed"
+	},
+	"feature_annotations_description": {
+		"message": "Tehke lehele märkused, jättes uue kleepuva märkme."
+	},
+	"feature_annotate_open": {
+		"message": "Uue märkme loomine"
+	},
+	"annotate": {
+		"message": "Annoteerida"
+	},
+	"feature_cognitive_load": {
+		"message": "Kiirlugemine"
+	},
+	"bold": {
+		"message": "Julgus"
+	},
+	"feature_background_color": {
+		"message": "Taustavärv"
+	},
+	"feature_font_color": {
+		"message": "Fondi värv"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Menüü"
+	},
+	"feature_highlight_color": {
+		"message": "Tõstke esile värv"
+	},
+	"feature_link_color": {
+		"message": "Lingi värv"
+	},
+	"feature_cursor_size": {
+		"message": "Kursori suurus"
+	},
+	"feature_font_size": {
+		"message": "Teksti suurus"
+	},
+	"feature_font_size_titles": {
+		"message": "Päiste suurus"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Lõikude suurus"
+	},
+	"feature_gray_hue": {
+		"message": "Hall toon"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Tõstke esile lõigud"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Tõstke esile lõikude värv"
+	},
+	"feature_images_hide_title": {
+		"message": "Peida pildid"
+	},
+	"hide": {
+		"message": "Peida"
+	},
+	"feature_images_hide": {
+		"message": "Peida kõik pildid"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Peida Gifid"
+	},
+	"feature_high_contast": {
+		"message": "Kõrge kontrastsus"
+	},
+	"feature_text_adjustments": {
+		"message": "Teksti korrigeerimine"
+	},
+	"feature_text_align": {
+		"message": "Teksti joondamine"
+	},
+	"feature_text_alignment": {
+		"message": "Joondamine"
+	},
+	"feature_letter_spacing": {
+		"message": "Tähevahed"
+	},
+	"spacing": {
+		"message": "Vahekaugus"
+	},
+	"feature_line_height_spacing": {
+		"message": "Reakõrgus"
+	},
+	"height": {
+		"message": "Kõrgus"
+	},
+	"feature_line_focus": {
+		"message": "Joone fookus"
+	},
+	"feature_line_focus_color": {
+		"message": "Joone fookuse värv"
+	},
+	"feature_line_focus_height": {
+		"message": "Joone fookuse kõrgus"
+	},
+	"feature_mute": {
+		"message": "Vaigista video"
+	},
+	"feature_mute_description": {
+		"message": "Videote ja helide vaigistamine lehtedelt."
+	},
+	"ocr_read_words": {
+		"message": "Loe laiendatud teksti"
+	},
+	"text": {
+		"message": "Tekst"
+	},
+	"ocr_read_words_save": {
+		"message": "Salvestage eemaldatud tekst"
+	},
+	"feature_extract_text": {
+		"message": "Teksti väljavõte (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Luba, valige ekraanil ala."
+	},
+	"feature_overlay": {
+		"message": "Ülekate"
+	},
+	"feature_overlay_color": {
+		"message": "Ülekatte värv"
+	},
+	"feature_paragraph_width": {
+		"message": "Lõigu laius"
+	},
+	"width": {
+		"message": "Laius"
+	},
+	"highlighted_text": {
+		"message": "Esiletõstetud tekst"
+	},
+	"issue_on_page": {
+		"message": "Probleem"
+	},
+	"feature_reading_guide": {
+		"message": "Lugemisjuhend"
+	},
+	"feature_reading_guide_color": {
+		"message": "Lugemisjuhendi värv"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Düsleksia valitseja"
+	},
+	"feature_ruler_width": {
+		"message": "Joonlaua laius"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Kõrgus"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "positsioon"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Värv"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Jälgi"
+	},
+	"feature_auto_scroll": {
+		"message": "Automaatne kerimine"
+	},
+	"speed": {
+		"message": "Kiirus"
+	},
+	"subscription_deleted": {
+		"message": "Tellimus tühistati"
+	},
+	"title_enjoy_until": {
+		"message": "Nautige prooviperioodi kuni"
+	},
+	"incomplete_expired": {
+		"message": "Me ei saanud makset lõpule viia."
+	},
+	"past_due": {
+		"message": "Teie tellimus on hilinenud."
+	},
+	"incomplete": {
+		"message": "Me ei saanud makset lõpule viia."
+	},
+	"transparency": {
+		"message": "Heledus"
+	},
+	"title_message_full": {
+		"message": "Leiti Helperbird Pro tellimus."
+	},
+	"contact_support": {
+		"message": "Võtke ühendust toega."
+	},
+	"buy": {
+		"message": "Osta 1 dollar"
+	},
+	"feature_voice_typing": {
+		"message": "Häältrükkimine"
+	},
+	"feature_voice_typing_description": {
+		"message": "Lisab kõikidele sisenditele häälsisestuse. Klõpsake lihtsalt sisendil olevat nuppu."
+	},
+	"google_docs_notice": {
+		"message": "Meil on nüüd Google'i lisandmoodul! Installige, et saada veelgi rohkem tuge."
+	},
+	"feature_spell_check": {
+		"message": "Õigekirja kontroll"
+	},
+	"feature_summarize": {
+		"message": "Lehe kokkuvõte"
+	},
+	"feature_summarize_description": {
+		"message": "Tehke selle lehe kokkuvõte."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Tekst kõneks valikud"
+	},
+	"feature_speech_voice": {
+		"message": "Hääl"
+	},
+	"feature_speech_speed": {
+		"message": "Kiirus"
+	},
+	"feature_speech_pitch": {
+		"message": "Pitch"
+	},
+	"feature_speech_volume": {
+		"message": "Helitugevus"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Tõstke esile värv"
+	},
+	"feature_speech_reading_success": {
+		"message": "Valitud teksti lugemine."
+	},
+	"feature_text_to_speech": {
+		"message": "Tekst kõneks"
+	},
+	"you_need_to_highlight": {
+		"message": "Peate mõne teksti esile tõstma."
+	},
+	"feature_word_prediction": {
+		"message": "Sõnade ennustamine"
+	},
+	"feature_word_prediction_description": {
+		"message": "Lülitage sisenditel sisse Helperbirdsi sõnaennustus."
+	},
+	"feature_word_spacing": {
+		"message": "Sõnade vahe"
+	},
+	"full_Screen": {
+		"message": "Täisekraan"
+	},
+	"voice_typing_stop": {
+		"message": "Häältrükkimise peatamine."
+	},
+	"voice_typing_start": {
+		"message": "Räägi nüüd."
+	},
+	"speak_word_on_hover": {
+		"message": "Lugege valjusti."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Loeb sõna hõljul."
+	},
+	"speak": {
+		"message": "Rääkige"
+	},
+	"auto_scroll_start": {
+		"message": "Automaatne kerimine algas."
+	},
+	"auto_scroll_stop": {
+		"message": "Automaatne kerimine peatatud."
+	},
+	"popup_immersive_success": {
+		"message": "Laadimine Kaasahaarav lugeja."
+	},
+	"popup_readermode_success": {
+		"message": "Lugejarežiimi avamine."
+	},
+	"popup_printing_success": {
+		"message": "Trüki avamine."
+	},
+	"ocr_select": {
+		"message": "Valige lehel ala."
+	},
+	"ocr_extracted": {
+		"message": "Tekst ekstraktitud."
+	},
+	"ocr_extracting": {
+		"message": "Ekstraheerimine"
+	},
+	"ocr_copy": {
+		"message": "Pildilt tekst kopeeritud. Salvestatud teie lõikelauale."
+	},
+	"ocr_no_text": {
+		"message": "Teksti ei leitud."
+	},
+	"popup_note_success": {
+		"message": "Salvestatud teie märkmetesse."
+	},
+	"popup_immersive_error": {
+		"message": "Viga kaasahaarava lugeja laadimisel"
+	},
+	"popup_summarize_error": {
+		"message": "Viga lehe kokkuvõtte tegemisel."
+	},
+	"popup_saving_error": {
+		"message": "Viga salvestamisel"
+	},
+	"popup_summarize_success": {
+		"message": "Kokkuvõttev leht"
+	},
+	"popup_readermode_closing": {
+		"message": "Lugeja režiimi sulgemine"
+	},
+	"close": {
+		"message": "Sulge"
+	},
+	"your_note_was_saved": {
+		"message": "Teie märge salvestati."
+	},
+	"error_saving_your_note": {
+		"message": "Märkme salvestamisel tekkis viga. Palun proovi uuesti."
+	},
+	"popup_readinglist_error": {
+		"message": "Viga lugemisloendisse salvestamisel"
+	},
+	"popup_readinglist_success": {
+		"message": "Salvestatud lugemisloendisse"
+	},
+	"popup_screenshot_error": {
+		"message": "Viga ekraanipildi jäädvustamisel"
+	},
+	"popup_screenshot_success": {
+		"message": "Ekraanipildi jäädvustamine"
+	},
+	"copied_text": {
+		"message": "Kopeeritud tekst"
+	},
+	"copied_text_error": {
+		"message": "Viga teksti kopeerimisel."
+	},
+	"ocr_loading": {
+		"message": "Helperbirdsi OCR-i laadimine"
+	},
+	"ocr_save": {
+		"message": "Salvestatud teie märkmetesse"
+	},
+	"popup_reading_success": {
+		"message": "Valitud teksti lugemine"
+	},
+	"popup_reading_finished": {
+		"message": "Lugemine lõpetatud"
+	},
+	"popup_reading_error": {
+		"message": "Peatumine"
+	},
+	"popup_reading_stopping": {
+		"message": "Peatumine"
+	},
+	"popup_reading_pause": {
+		"message": "Peatatud"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Selle funktsiooni kasutamiseks peate versiooni Helperbird Pro uuendama."
+	},
+	"menu_define": {
+		"message": "Defineeri sõna"
+	},
+	"menu_website_readinglist": {
+		"message": "Lisage veebisait lugemisloendisse"
+	},
+	"menu_readinglist": {
+		"message": "Lisa lugemisloendisse"
+	},
+	"menu_text_to_speech": {
+		"message": "Tekst kõneks"
+	},
+	"menu_play": {
+		"message": "Mängi"
+	},
+	"menu_pause": {
+		"message": "Paus"
+	},
+	"menu_stop": {
+		"message": "Peatus"
+	},
+	"menu_resume": {
+		"message": "Jätka"
+	},
+	"menu_screenshot": {
+		"message": "Tee kuvatõmmis"
+	},
+	"menu_share": {
+		"message": "Jaga"
+	},
+	"menu_reader_mode": {
+		"message": "Vaadake lugejarežiimis"
+	},
+	"menu_translate": {
+		"message": "Tõlgi"
+	},
+	"road_map": {
+		"message": "Teekaart"
+	},
+	"menu_immersive_reader": {
+		"message": "Vaadake kõikehõlmavas lugejas"
+	},
+	"menu_summarize": {
+		"message": "Lehe kokkuvõte"
+	},
+	"menu_summarize_page": {
+		"message": "Lehekülg kokkuvõtlikult"
+	},
+	"menu_annotate_page": {
+		"message": "Märkuste leht"
+	}
+}

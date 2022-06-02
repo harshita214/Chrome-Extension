@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird за Chrome"
+	},
+	"appDescription": {
+		"message": "Над 32 функции за достъпност и производителност, създадени да поддържат всеки тип читател, учащ и писател. Включва поддръжка за дислексия."
+	},
+	"helpGuide": {
+		"message": "Помощни ръководства"
+	},
+	"upgrade_title": {
+		"message": "Функция Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "За да използвате тази функция, имате нужда от абонамент за Helperbird Pro. Не се притеснявайте, това е 40 USD на година или 4,99 на месец."
+	},
+	"plan_deal": {
+		"message": "Студентска оферта"
+	},
+	"plan_month": {
+		"message": "Месечна оферта"
+	},
+	"plan_year": {
+		"message": "Годишна оферта"
+	},
+	"upgrade_message": {
+		"message": "Надстройте до Helperbird Pro, за да отключите всички функции."
+	},
+	"column_title": {
+		"message": "Колона"
+	},
+	"upgrade_now": {
+		"message": "Надстройте сега"
+	},
+	"upgrade_to_pro": {
+		"message": "Надстройте до Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Открийте Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Моля, влезте в Helperbird или въведете своя абонаментен ключ."
+	},
+	"privacy": {
+		"message": "поверителност"
+	},
+	"whats_new": {
+		"message": "Какво ново"
+	},
+	"privacy_details": {
+		"message": "Ние уважаваме вашата поверителност, така че тук е на ясен и прост език."
+	},
+	"privacy_details_one": {
+		"message": "Тук, в Helperbird, ние уважаваме и приемаме вашата поверителност изключително сериозно. Затова не съхраняваме и не събираме нищо."
+	},
+	"privacy_details_two": {
+		"message": "Единственото искане за вашия имейл, когато влезете. За да проверите дали за вашето училище или бизнес домейн е платено или сте платили за акаунт в Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Всичко, което правите, и настройките, които запазвате, остават локално във вашия браузър. Никога не напуска компютъра си."
+	},
+	"free": {
+		"message": "Безплатно"
+	},
+	"pro": {
+		"message": "професионалист"
+	},
+	"on": {
+		"message": "На"
+	},
+	"on_lower": {
+		"message": "На"
+	},
+	"off": {
+		"message": "Изключено"
+	},
+	"off_lower": {
+		"message": "изключен"
+	},
+	"notes": {
+		"message": "Бележки"
+	},
+	"open_notes": {
+		"message": "Отворете бележки"
+	},
+	"save": {
+		"message": "Запазете"
+	},
+	"clear": {
+		"message": "Ясно"
+	},
+	"manage": {
+		"message": "Управлявайте"
+	},
+	"open": {
+		"message": "Отвори"
+	},
+	"copy": {
+		"message": "копие"
+	},
+	"delete": {
+		"message": "Изтрий"
+	},
+	"documents": {
+		"message": "Документи"
+	},
+	"remove": {
+		"message": "Премахване"
+	},
+	"version": {
+		"message": "Версия"
+	},
+	"visit": {
+		"message": "Посетете"
+	},
+	"no_results": {
+		"message": "Няма резултати"
+	},
+	"reduce_motion": {
+		"message": "Анимации"
+	},
+	"maths_steps": {
+		"message": "Решател по математика"
+	},
+	"tour": {
+		"message": "Обиколка на Helperbird"
+	},
+	"reduce_motion_description": {
+		"message": "Предотвратете показването на анимация на уеб страници."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader е безплатен инструмент, който прилага доказани техники за подобряване на четенето и писането"
+	},
+	"start": {
+		"message": "Започнете"
+	},
+	"learn_more": {
+		"message": "Научете повече"
+	},
+	"more": {
+		"message": "| Повече ▼"
+	},
+	"editor_title": {
+		"message": "Редактор"
+	},
+	"editor_title_open": {
+		"message": "Отворете Helperbirds Editor"
+	},
+	"logout": {
+		"message": "Излез от профила си"
+	},
+	"signin": {
+		"message": "Влизане"
+	},
+	"define_title": {
+		"message": "Речник"
+	},
+	"define_title_open": {
+		"message": "Отворете речника"
+	},
+	"define_empty_title": {
+		"message": "Потърсете дума и ние ще върнем значението й."
+	},
+	"define_search": {
+		"message": "Търсене......"
+	},
+	"define_antonyms": {
+		"message": "Антоними"
+	},
+	"define_synonyms": {
+		"message": "Синоними"
+	},
+	"define_meanings": {
+		"message": "Значения"
+	},
+	"define_related": {
+		"message": "Свързани"
+	},
+	"define_etymology": {
+		"message": "Етимология"
+	},
+	"export": {
+		"message": "Експортиране"
+	},
+	"export_word": {
+		"message": "Експортиране в Word"
+	},
+	"export_docs": {
+		"message": "Експортиране в Google Документи"
+	},
+	"export_text": {
+		"message": "Експортиране в текстов файл"
+	},
+	"toolbar_pdf": {
+		"message": "PDF четец"
+	},
+	"toolbar_pdf_open": {
+		"message": "Отворете PDF четец"
+	},
+	"menus": {
+		"message": "Google Документи и PDF файлове"
+	},
+	"upgrade_message_title": {
+		"description": "Разширение Helperbird.",
+		"message": "Надстройте до $1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Разширение Helperbird.",
+		"message": "Достъп до мощни функции като режим на четене и $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Разширение Helperbird.",
+		"message": "Изберете план по-долу, за да отключите над 30 функции и 24-часова поддръжка."
+	},
+	"alert_message": {
+		"message": "Надстройте или влезте за достъп до всички функции на Pro."
+	},
+	"alert_loading": {
+		"message": "Зареждане...."
+	},
+	"alert_clear": {
+		"message": "Ясно"
+	},
+	"alert_cleared": {
+		"message": "Изчистено"
+	},
+	"alert_download": {
+		"message": "Изтегли"
+	},
+	"alert_no_data": {
+		"message": "Няма резултати"
+	},
+	"annotations_notes": {
+		"message": "Бележки"
+	},
+	"import_annotations": {
+		"message": "Бележки за импортиране"
+	},
+	"options": {
+		"message": "Настроики"
+	},
+	"open_document": {
+		"message": "Отворете документа"
+	},
+	"select_document": {
+		"message": "Трябва да изберете документ."
+	},
+	"copied_document": {
+		"message": "Документът е копиран"
+	},
+	"saved_document": {
+		"message": "Документът е запазен"
+	},
+	"issue_saving": {
+		"message": "Запазване на проблем"
+	},
+	"show_updates": {
+		"message": "Показване на актуализации"
+	},
+	"new": {
+		"message": "Нов"
+	},
+	"pause": {
+		"message": "Пауза"
+	},
+	"removed_document": {
+		"message": "Документът е премахнат"
+	},
+	"opening_document": {
+		"message": "Отварящ документ"
+	},
+	"get_started": {
+		"message": "Първи стъпки"
+	},
+	"saved_to_documents": {
+		"message": "Запазен във вашите документи."
+	},
+	"message_alert": {
+		"message": "Получете достъп до всички функции на Helperbirds и поддръжка на клиенти, когато имате нужда. Над 30 функции."
+	},
+	"message_three_day": {
+		"message": "3-дневен пробен период"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Проверете вашите входове"
+	},
+	"upgrade": {
+		"message": "Подобряване на"
+	},
+	"upgrade_": {
+		"message": "Надстройте до $1"
+	},
+	"website": {
+		"message": "уебсайт"
+	},
+	"description": {
+		"message": "Описание"
+	},
+	"capture": {
+		"message": "Улавяне"
+	},
+	"category": {
+		"message": "Категория"
+	},
+	"error_found_label": {
+		"message": "Има грешка"
+	},
+	"cancel": {
+		"message": "Отмяна"
+	},
+	"readinglist_title": {
+		"message": "Списък за четене"
+	},
+	"readinglist_title_open": {
+		"message": "Отворете списъка за четене"
+	},
+	"note_removed": {
+		"message": "Бележката е премахната."
+	},
+	"note_removed_error": {
+		"message": "Бележката не можа да бъде премахната."
+	},
+	"readinglist_removed": {
+		"message": "Уебсайтът е премахнат"
+	},
+	"settings_saved": {
+		"message": "Настройките са запазени"
+	},
+	"check_for_updates": {
+		"message": "Провери за актуализации"
+	},
+	"show_highlights": {
+		"message": "Показване на акценти на страницата."
+	},
+	"account_title": {
+		"message": "Сметка"
+	},
+	"account_description": {
+		"message": "Ние използваме същия имейл, в който влизате в браузъра си като вашето вход."
+	},
+	"signed_in_as": {
+		"message": "Влезли сте като"
+	},
+	"subscription_title": {
+		"message": "Абонамент"
+	},
+	"current_plan": {
+		"message": "Вашият текущ план"
+	},
+	"subscription_status": {
+		"message": "Вашето състояние на абонамента:"
+	},
+	"check_subscription": {
+		"message": "Проверете абонамента"
+	},
+	"subscription_token_title": {
+		"message": "Абонаментен ключ"
+	},
+	"subscription_token_description": {
+		"message": "Ако имате абонамент за Helperbird Pro, въведете го по-долу, за да отключите всички функции на Helperbird Pro."
+	},
+	"themes": {
+		"message": "Теми"
+	},
+	"theme": {
+		"message": "Тема"
+	},
+	"danger_zone_title": {
+		"message": "Съхранение"
+	},
+	"danger_zone_description": {
+		"message": "Бутонът по-долу ще изчисти всички настройки и ще стартира разширението, сякаш е ново. Така че внимавайте, че не можем да върнем нищо, което изтриете."
+	},
+	"delete_everything": {
+		"message": "Изтрийте всичко"
+	},
+	"delete_this_note": {
+		"message": "Изтрийте тази бележка."
+	},
+	"visit_this_note": {
+		"message": "Посетете уебсайта на тази бележка."
+	},
+	"everything_deleted": {
+		"message": "Всички настройки и съхранение вече са изтрити."
+	},
+	"enter_email": {
+		"message": "Трябва да въведете имейл."
+	},
+	"shortcuts": {
+		"message": "Преки пътища"
+	},
+	"shortcuts_menu_on": {
+		"message": "Преките пътища са включени"
+	},
+	"shortcuts_menu_off": {
+		"message": "Преките пътища са изключени"
+	},
+	"shortcuts_title": {
+		"message": "Преки пътища"
+	},
+	"shortcuts_description": {
+		"message": "Преки пътища"
+	},
+	"shortcuts_ocr": {
+		"message": "Активирайте OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Отворете Immersive reader"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Отворете режим на четене"
+	},
+	"annotate_page": {
+		"message": "Анотиране на страница"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Отворете PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Отдалечавам"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Увеличавам"
+	},
+	"settings": {
+		"message": "Настройки"
+	},
+	"support_videos": {
+		"message": "Поддръжка на видеоклипове"
+	},
+	"review_us": {
+		"message": "Прегледайте ни"
+	},
+	"view": {
+		"message": "Преглед"
+	},
+	"views": {
+		"message": "Изгледи"
+	},
+	"no_favorites": {
+		"message": "Няма любими"
+	},
+	"sorting_none": {
+		"message": "Нищо не можеше да се намери."
+	},
+	"sorting": {
+		"message": "Сортиране...."
+	},
+	"showing_favorites": {
+		"message": "Показване на любими"
+	},
+	"unpaid": {
+		"message": "Вашият абонамент е неплатен."
+	},
+	"canceled": {
+		"message": "Вашият абонамент е анулиран."
+	},
+	"message_nothing_found": {
+		"message": "Не можахме да намерим абонамент."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Не можахме да получим никакъв текст. Моля, опитайте отново (Опресняване). Опитайте нашата добавка за PDF или Google Документи."
+	},
+	"unpinned_favorite": {
+		"message": "Премахнато като предпочитано"
+	},
+	"pin_favorite": {
+		"message": "Предпочитан"
+	},
+	"setting_saved": {
+		"message": "Настройката е запазена"
+	},
+	"favourite": {
+		"message": "Любима"
+	},
+	"un_favourite": {
+		"message": "Нелюбима"
+	},
+	"how_to_use": {
+		"message": "Как да използвам"
+	},
+	"search": {
+		"message": "Търсене"
+	},
+	"search_feature": {
+		"message": "Функции за търсене"
+	},
+	"filter_productivity": {
+		"message": "Изследвания"
+	},
+	"helperbird_apps": {
+		"message": "Приложения Helperbird"
+	},
+	"fav_message": {
+		"message": "Изглежда, че нямате избрани функции. За да предпочитате, щракнете върху трите точки до функция и щракнете върху любим."
+	},
+	"filter_features": {
+		"message": "Функции на филтриране"
+	},
+	"student_offer": {
+		"message": "Студентите получават Helperbird Pro за"
+	},
+	"filter_style": {
+		"message": "Дисплей"
+	},
+	"filter_text_to_speech": {
+		"message": "Текст в реч"
+	},
+	"filter_dyslexia": {
+		"message": "дислексия"
+	},
+	"filter_pro": {
+		"message": "Професионални функции"
+	},
+	"filter": {
+		"message": "Филтрирайте"
+	},
+	"filter_writing": {
+		"message": "Писане"
+	},
+	"highlighter_title": {
+		"message": "Маркер"
+	},
+	"filter_reading": {
+		"message": "Четене"
+	},
+	"filter_active": {
+		"message": "Активен"
+	},
+	"filter_audio": {
+		"message": "Аудио функции"
+	},
+	"feature_blindness": {
+		"message": "Цветна слепота"
+	},
+	"feature_emphasize_links": {
+		"message": "Подчертайте връзките"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Текстов щрих"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Цвят"
+	},
+	"color": {
+		"message": "Цвят"
+	},
+	"feature_specialized_font": {
+		"message": "Специализиран шрифт"
+	},
+	"feature_specialized_font_options": {
+		"message": "Опции за шрифтове"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Включено е менюто за подчертаване"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Менюто за подчертаване е изключено"
+	},
+	"feature_highlight_menu": {
+		"message": "Маркиране на менюто"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Показва нашето текстово меню за подчертаване."
+	},
+	"show": {
+		"message": "Покажи"
+	},
+	"welcome": {
+		"message": "Добре дошли в Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Потапящ читател"
+	},
+	"create_a_new_note": {
+		"message": "Създайте нова бележка"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Използвайте Immersive reader от Microsoft на тази страница."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Документи и Презентации"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Добавя лента с инструменти Helperbird към файлове с документи на Google."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF лента с инструменти"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Добавя лента с инструменти Helperbird към Pdf файлове."
+	},
+	"pause_helperbird": {
+		"message": "Пауза $1"
+	},
+	"quick_action": {
+		"message": "Бързи действия"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 е намален"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 е включено"
+	},
+	"voice_typing_is_on": {
+		"message": "Гласовото въвеждане е включено"
+	},
+	"voice_typing_is_off": {
+		"message": "Гласовото въвеждане е изключено"
+	},
+	"helperbird_paused": {
+		"message": "Helpbird off"
+	},
+	"helperbird_running": {
+		"message": "Птица помощник бяга"
+	},
+	"applying_settings": {
+		"message": "Прилагане на вашите настройки"
+	},
+	"feature_favorites": {
+		"message": "Любими"
+	},
+	"all_feature_favorites": {
+		"message": "всичко"
+	},
+	"hide_feature_favorites": {
+		"message": "Скриване на любимите"
+	},
+	"feature_favorites_description": {
+		"message": "Показване само на любимите."
+	},
+	"feature_print": {
+		"message": "Печат"
+	},
+	"feature_print_description": {
+		"message": "Отпечатайте текущата страница."
+	},
+	"feature_printing_success": {
+		"message": "Отваряне на печат"
+	},
+	"feature_reader_mode": {
+		"message": "Режим на четене"
+	},
+	"feature_readermode_opening": {
+		"message": "Отваряне на режим Четец"
+	},
+	"feature_readermode_closing": {
+		"message": "Затваряне на режима на четец"
+	},
+	"view_table": {
+		"message": "Изглед на таблица"
+	},
+	"view_time": {
+		"message": "Изглед на хронологията"
+	},
+	"view_card": {
+		"message": "Изглед на карта"
+	},
+	"feature_screenshot": {
+		"message": "Екранна снимка"
+	},
+	"feature_screenshot_description": {
+		"message": "Направете екранна снимка на текущата страница."
+	},
+	"feature_screenshot_error": {
+		"message": "Грешка при заснемане на екранна снимка"
+	},
+	"feature_screenshot_success": {
+		"message": "Заснемане на екранна снимка"
+	},
+	"feature_tooltip": {
+		"message": "Описания на изображения"
+	},
+	"feature_tooltip_description": {
+		"message": "Показване на маркери alt и title на мишката върху."
+	},
+	"feature_translate": {
+		"message": "Превеждайте"
+	},
+	"feature_language": {
+		"message": "езици"
+	},
+	"feature_magnifier": {
+		"message": "Лупа"
+	},
+	"feature_magnifier_description": {
+		"message": "Лупа"
+	},
+	"percentage": {
+		"message": "Процент"
+	},
+	"feature_analyze": {
+		"message": "Брой думи"
+	},
+	"feature_analyze_description": {
+		"message": "анализирам"
+	},
+	"feature_analyze_words": {
+		"message": "думи"
+	},
+	"feature_analyze_characters": {
+		"message": "символи"
+	},
+	"feature_annotations": {
+		"message": "Бележки"
+	},
+	"feature_annotations_description": {
+		"message": "Анотирайте страницата, като оставите нова лепкава бележка."
+	},
+	"feature_annotate_open": {
+		"message": "Създаване на нова бележка"
+	},
+	"annotate": {
+		"message": "Анотирайте"
+	},
+	"feature_cognitive_load": {
+		"message": "Скоростно четене"
+	},
+	"bold": {
+		"message": "Дързост"
+	},
+	"feature_background_color": {
+		"message": "Цвят на фона"
+	},
+	"feature_font_color": {
+		"message": "Цвят на шрифта"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Меню"
+	},
+	"feature_highlight_color": {
+		"message": "Цвят на подчертаване"
+	},
+	"feature_link_color": {
+		"message": "Цвят на връзката"
+	},
+	"feature_cursor_size": {
+		"message": "Размер на курсора"
+	},
+	"feature_font_size": {
+		"message": "Размер на текста"
+	},
+	"feature_font_size_titles": {
+		"message": "Размер на заглавията"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Размер на абзаците"
+	},
+	"feature_gray_hue": {
+		"message": "Сив оттенък"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Маркирайте параграфи"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Маркирайте цвета на абзаците"
+	},
+	"feature_images_hide_title": {
+		"message": "Скриване на изображения"
+	},
+	"hide": {
+		"message": "Крия"
+	},
+	"feature_images_hide": {
+		"message": "Скриване на всички изображения"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Скриване на GIF"
+	},
+	"feature_high_contast": {
+		"message": "Висок контраст"
+	},
+	"feature_text_adjustments": {
+		"message": "Корекции на текста"
+	},
+	"feature_text_align": {
+		"message": "Подравняване на текста"
+	},
+	"feature_text_alignment": {
+		"message": "Подравняване"
+	},
+	"feature_letter_spacing": {
+		"message": "Буквено разстояние"
+	},
+	"spacing": {
+		"message": "Разстояние"
+	},
+	"feature_line_height_spacing": {
+		"message": "Височина на линията"
+	},
+	"height": {
+		"message": "Височина"
+	},
+	"feature_line_focus": {
+		"message": "Линия фокус"
+	},
+	"feature_line_focus_color": {
+		"message": "Цвят на фокуса на линията"
+	},
+	"feature_line_focus_height": {
+		"message": "Височина на фокуса на линията"
+	},
+	"feature_mute": {
+		"message": "Заглушаване на видеото"
+	},
+	"feature_mute_description": {
+		"message": "Заглушаване на видеоклипове и звуци от страници."
+	},
+	"ocr_read_words": {
+		"message": "Прочетете извлечения текст"
+	},
+	"text": {
+		"message": "Текст"
+	},
+	"ocr_read_words_save": {
+		"message": "Запазете извлечения текст"
+	},
+	"feature_extract_text": {
+		"message": "Извличане на текст (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Активирайте, изберете областта на екрана."
+	},
+	"feature_overlay": {
+		"message": "Наслояване"
+	},
+	"feature_overlay_color": {
+		"message": "Цвят на наслагване"
+	},
+	"feature_paragraph_width": {
+		"message": "Ширина на абзаца"
+	},
+	"width": {
+		"message": "широчина"
+	},
+	"highlighted_text": {
+		"message": "Маркиран текст"
+	},
+	"issue_on_page": {
+		"message": "Проблем"
+	},
+	"feature_reading_guide": {
+		"message": "Ръководство за четене"
+	},
+	"feature_reading_guide_color": {
+		"message": "Цвят на ръководството за четене"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Управител на дислексия"
+	},
+	"feature_ruler_width": {
+		"message": "Ширина на линийката"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Височина"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "позиция"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Цвят"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "последвам"
+	},
+	"feature_auto_scroll": {
+		"message": "Автоматично превъртане"
+	},
+	"speed": {
+		"message": "Скорост"
+	},
+	"subscription_deleted": {
+		"message": "Абонаментът е анулиран"
+	},
+	"title_enjoy_until": {
+		"message": "Насладете се на опита си до"
+	},
+	"incomplete_expired": {
+		"message": "Не можахме да завършим плащането."
+	},
+	"past_due": {
+		"message": "Вашият абонамент е просрочен."
+	},
+	"incomplete": {
+		"message": "Не можахме да завършим плащането."
+	},
+	"transparency": {
+		"message": "Яркост"
+	},
+	"title_message_full": {
+		"message": "Намерен е абонамент за Helperbird Pro."
+	},
+	"contact_support": {
+		"message": "Моля, свържете се с поддръжката."
+	},
+	"buy": {
+		"message": "Купете $1"
+	},
+	"feature_voice_typing": {
+		"message": "Въвеждане на глас"
+	},
+	"feature_voice_typing_description": {
+		"message": "Добавя гласово въвеждане на всички входове. Просто щракнете върху бутона на входа."
+	},
+	"google_docs_notice": {
+		"message": "Вече имаме Google Addon! Инсталирайте, за да получите още повече поддръжка."
+	},
+	"feature_spell_check": {
+		"message": "Проверка на правописа"
+	},
+	"feature_summarize": {
+		"message": "Страница за обобщение"
+	},
+	"feature_summarize_description": {
+		"message": "Обобщете тази страница."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Опции за текст в реч"
+	},
+	"feature_speech_voice": {
+		"message": "Глас"
+	},
+	"feature_speech_speed": {
+		"message": "Скорост"
+	},
+	"feature_speech_pitch": {
+		"message": "Наклон"
+	},
+	"feature_speech_volume": {
+		"message": "Сила на звука"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Цвят на подчертаване"
+	},
+	"feature_speech_reading_success": {
+		"message": "Четене на избран текст."
+	},
+	"feature_text_to_speech": {
+		"message": "Текст в реч"
+	},
+	"you_need_to_highlight": {
+		"message": "Трябва да маркирате някакъв текст."
+	},
+	"feature_word_prediction": {
+		"message": "Предсказване на думи"
+	},
+	"feature_word_prediction_description": {
+		"message": "Включете прогнозирането на думите от Helperbirds на входовете."
+	},
+	"feature_word_spacing": {
+		"message": "Разстояние между думите"
+	},
+	"full_Screen": {
+		"message": "Цял екран"
+	},
+	"voice_typing_stop": {
+		"message": "Спиране на гласовото въвеждане."
+	},
+	"voice_typing_start": {
+		"message": "Говори сега."
+	},
+	"speak_word_on_hover": {
+		"message": "Прочете на глас."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Ще прочете думата при задържане на мишката."
+	},
+	"speak": {
+		"message": "говори"
+	},
+	"auto_scroll_start": {
+		"message": "Стартира автоматичното превъртане."
+	},
+	"auto_scroll_stop": {
+		"message": "Автоматичното превъртане спря."
+	},
+	"popup_immersive_success": {
+		"message": "Зарежда се потапящ четец."
+	},
+	"popup_readermode_success": {
+		"message": "Отваряне на режим Четец."
+	},
+	"popup_printing_success": {
+		"message": "Отваряне на печат."
+	},
+	"ocr_select": {
+		"message": "Изберете област на страницата."
+	},
+	"ocr_extracted": {
+		"message": "Текстът е извлечен."
+	},
+	"ocr_extracting": {
+		"message": "Извличане"
+	},
+	"ocr_copy": {
+		"message": "Копиран текст от изображението. Запазен в клипборда ви."
+	},
+	"ocr_no_text": {
+		"message": "Не беше намерен текст."
+	},
+	"popup_note_success": {
+		"message": "Запазено във вашите бележки."
+	},
+	"popup_immersive_error": {
+		"message": "Грешка при зареждането на потапящ четец"
+	},
+	"popup_summarize_error": {
+		"message": "Грешка при обобщаване на страницата."
+	},
+	"popup_saving_error": {
+		"message": "Грешка при запазване"
+	},
+	"popup_summarize_success": {
+		"message": "Обобщаваща страница"
+	},
+	"popup_readermode_closing": {
+		"message": "Затваряне на режима на четец"
+	},
+	"close": {
+		"message": "Близо"
+	},
+	"your_note_was_saved": {
+		"message": "Вашата бележка беше запазена."
+	},
+	"error_saving_your_note": {
+		"message": "Грешка при запазването на бележката ви. Моля, опитайте отново."
+	},
+	"popup_readinglist_error": {
+		"message": "Грешка при запазване в списъка за четене"
+	},
+	"popup_readinglist_success": {
+		"message": "Запазен в списъка за четене"
+	},
+	"popup_screenshot_error": {
+		"message": "Грешка при заснемане на екранна снимка"
+	},
+	"popup_screenshot_success": {
+		"message": "Заснемане на екранна снимка"
+	},
+	"copied_text": {
+		"message": "Копиран текст"
+	},
+	"copied_text_error": {
+		"message": "Грешка при копирането на текст."
+	},
+	"ocr_loading": {
+		"message": "Зареждане на Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "Запазено във вашите бележки"
+	},
+	"popup_reading_success": {
+		"message": "Четене на избран текст"
+	},
+	"popup_reading_finished": {
+		"message": "Приключих с четенето"
+	},
+	"popup_reading_error": {
+		"message": "Спиране"
+	},
+	"popup_reading_stopping": {
+		"message": "Спиране"
+	},
+	"popup_reading_pause": {
+		"message": "На пауза"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Трябва да надстроите Helperbird Pro, за да използвате тази функция."
+	},
+	"menu_define": {
+		"message": "Определете думата"
+	},
+	"menu_website_readinglist": {
+		"message": "Добавете уебсайт към списъка за четене"
+	},
+	"menu_readinglist": {
+		"message": "Добавяне към списъка за четене"
+	},
+	"menu_text_to_speech": {
+		"message": "Текст в реч"
+	},
+	"menu_play": {
+		"message": "Играйте"
+	},
+	"menu_pause": {
+		"message": "Пауза"
+	},
+	"menu_stop": {
+		"message": "Спри се"
+	},
+	"menu_resume": {
+		"message": "Продължи"
+	},
+	"menu_screenshot": {
+		"message": "Направи снимка на екрана"
+	},
+	"menu_share": {
+		"message": "Дял"
+	},
+	"menu_reader_mode": {
+		"message": "Преглед в режим Четец"
+	},
+	"menu_translate": {
+		"message": "Превеждайте"
+	},
+	"road_map": {
+		"message": "Пътна карта"
+	},
+	"menu_immersive_reader": {
+		"message": "Преглед в Immersive reader"
+	},
+	"menu_summarize": {
+		"message": "Страница за обобщение"
+	},
+	"menu_summarize_page": {
+		"message": "Страницата е обобщена"
+	},
+	"menu_annotate_page": {
+		"message": "Анотиране на страница"
+	}
+}

@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Chrome साठी Helperbird"
+	},
+	"appDescription": {
+		"message": "32 हून अधिक प्रवेशयोग्यता आणि उत्पादकता वैशिष्ट्ये प्रत्येक प्रकारचे वाचक, शिकणारे आणि लेखक यांना समर्थन देण्यासाठी तयार केली आहेत. डिस्लेक्सिया समर्थन समाविष्ट आहे."
+	},
+	"helpGuide": {
+		"message": "मदत मार्गदर्शक"
+	},
+	"upgrade_title": {
+		"message": "हेल्परबर्ड प्रो वैशिष्ट्य"
+	},
+	"upgrade_description": {
+		"message": "हे वैशिष्ट्य वापरण्यासाठी तुम्हाला हेल्परबर्ड प्रो सदस्यत्व आवश्यक आहे. काळजी करू नका, ते 40 USD प्रति वर्ष किंवा 4.99 एक महिना."
+	},
+	"plan_deal": {
+		"message": "विद्यार्थी ऑफर"
+	},
+	"plan_month": {
+		"message": "मासिक ऑफर"
+	},
+	"plan_year": {
+		"message": "वार्षिक ऑफर"
+	},
+	"upgrade_message": {
+		"message": "सर्व वैशिष्ट्ये अनलॉक करण्यासाठी हेल्परबर्ड प्रो वर श्रेणीसुधारित करा."
+	},
+	"column_title": {
+		"message": "स्तंभ"
+	},
+	"upgrade_now": {
+		"message": "आता अपग्रेड करा"
+	},
+	"upgrade_to_pro": {
+		"message": "हेल्परबर्ड प्रो वर श्रेणीसुधारित करा"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "हेल्परबर्ड प्रो शोधा"
+	},
+	"signin_message": {
+		"message": "कृपया हेल्परबर्डमध्ये साइन इन करा किंवा तुमची सदस्यता की प्रविष्ट करा."
+	},
+	"privacy": {
+		"message": "गोपनीयता"
+	},
+	"whats_new": {
+		"message": "नवीन काय आहे"
+	},
+	"privacy_details": {
+		"message": "आम्ही तुमच्या गोपनीयतेचा आदर करतो, म्हणून ते येथे स्पष्ट आणि सोप्या भाषेत आहे."
+	},
+	"privacy_details_one": {
+		"message": "हेल्परबर्ड येथे, आम्ही तुमच्या गोपनीयतेचा आदर करतो आणि अत्यंत गांभीर्याने घेतो. म्हणूनच आम्ही काहीही साठवत नाही किंवा गोळा करत नाही."
+	},
+	"privacy_details_two": {
+		"message": "तुम्ही लॉग इन करता तेव्हा फक्त तुमचा ईमेल विचारा. तुमची शाळा किंवा व्यवसाय डोमेनसाठी पैसे दिले आहेत की नाही हे तपासण्यासाठी किंवा तुम्ही स्ट्राइपमधील खात्यासाठी पैसे दिले आहेत का."
+	},
+	"privacy_details_three": {
+		"message": "तुम्ही जे काही करता आणि तुम्ही सेव्ह केलेल्या सेटिंग्ज तुमच्या ब्राउझरवर स्थानिक पातळीवर राहतात. तुमचा संगणक कधीही सोडत नाही."
+	},
+	"free": {
+		"message": "फुकट"
+	},
+	"pro": {
+		"message": "प्रो"
+	},
+	"on": {
+		"message": "चालू"
+	},
+	"on_lower": {
+		"message": "वर"
+	},
+	"off": {
+		"message": "बंद"
+	},
+	"off_lower": {
+		"message": "बंद"
+	},
+	"notes": {
+		"message": "नोट्स"
+	},
+	"open_notes": {
+		"message": "नोट्स उघडा"
+	},
+	"save": {
+		"message": "जतन करा"
+	},
+	"clear": {
+		"message": "साफ"
+	},
+	"manage": {
+		"message": "व्यवस्थापित करा"
+	},
+	"open": {
+		"message": "उघडा"
+	},
+	"copy": {
+		"message": "कॉपी करा"
+	},
+	"delete": {
+		"message": "हटवा"
+	},
+	"documents": {
+		"message": "कागदपत्रे"
+	},
+	"remove": {
+		"message": "काढा"
+	},
+	"version": {
+		"message": "आवृत्ती"
+	},
+	"visit": {
+		"message": "भेट"
+	},
+	"no_results": {
+		"message": "कोणतेही परिणाम नाहीत"
+	},
+	"reduce_motion": {
+		"message": "अॅनिमेशन"
+	},
+	"maths_steps": {
+		"message": "गणित सोडवणारा"
+	},
+	"tour": {
+		"message": "हेल्परबर्ड टूर"
+	},
+	"reduce_motion_description": {
+		"message": "अॅनिमेशन वेब पृष्ठांवर प्रदर्शित होण्यापासून प्रतिबंधित करा."
+	},
+	"feature_immersive_reader_description": {
+		"message": "इमर्सिव्ह रीडर हे एक विनामूल्य साधन आहे जे वाचन आणि लेखन सुधारण्यासाठी सिद्ध तंत्रे लागू करते"
+	},
+	"start": {
+		"message": "सुरू करा"
+	},
+	"learn_more": {
+		"message": "अधिक जाणून घ्या"
+	},
+	"more": {
+		"message": "अधिक"
+	},
+	"editor_title": {
+		"message": "संपादक"
+	},
+	"editor_title_open": {
+		"message": "हेल्परबर्ड्स एडिटर उघडा"
+	},
+	"logout": {
+		"message": "बाहेर पडणे"
+	},
+	"signin": {
+		"message": "लॉगिन करा"
+	},
+	"define_title": {
+		"message": "शब्दकोश"
+	},
+	"define_title_open": {
+		"message": "शब्दकोश उघडा"
+	},
+	"define_empty_title": {
+		"message": "एक शब्द शोधा आणि आम्ही त्याचा अर्थ परत करू."
+	},
+	"define_search": {
+		"message": "शोधा......"
+	},
+	"define_antonyms": {
+		"message": "विरुद्धार्थी शब्द"
+	},
+	"define_synonyms": {
+		"message": "समानार्थी शब्द"
+	},
+	"define_meanings": {
+		"message": "अर्थ"
+	},
+	"define_related": {
+		"message": "संबंधित"
+	},
+	"define_etymology": {
+		"message": "व्युत्पत्ती"
+	},
+	"export": {
+		"message": "निर्यात करा"
+	},
+	"export_word": {
+		"message": "Word वर निर्यात करा"
+	},
+	"export_docs": {
+		"message": "Google डॉक्सवर निर्यात करा"
+	},
+	"export_text": {
+		"message": "मजकूर फाईलमध्ये निर्यात करा"
+	},
+	"toolbar_pdf": {
+		"message": "पीडीएफ रीडर"
+	},
+	"toolbar_pdf_open": {
+		"message": "पीडीएफ रीडर उघडा"
+	},
+	"menus": {
+		"message": "Google डॉक्स आणि पीडीएफ"
+	},
+	"upgrade_message_title": {
+		"description": "हेल्परबर्ड विस्तार.",
+		"message": "$1 वर श्रेणीसुधारित करा"
+	},
+	"upgrade_message_paragraph": {
+		"description": "हेल्परबर्ड विस्तार.",
+		"message": "रीडर मोड आणि $1 सारख्या शक्तिशाली वैशिष्ट्यांमध्ये प्रवेश करा."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "हेल्परबर्ड विस्तार.",
+		"message": "30 हून अधिक वैशिष्ट्ये आणि 24 तास समर्थन अनलॉक करण्यासाठी खालील योजना निवडा."
+	},
+	"alert_message": {
+		"message": "सर्व प्रो वैशिष्ट्यांमध्ये प्रवेश करण्यासाठी अपग्रेड करा किंवा लॉग इन करा."
+	},
+	"alert_loading": {
+		"message": "लोड करत आहे..."
+	},
+	"alert_clear": {
+		"message": "साफ"
+	},
+	"alert_cleared": {
+		"message": "साफ केले"
+	},
+	"alert_download": {
+		"message": "डाउनलोड करा"
+	},
+	"alert_no_data": {
+		"message": "कोणतेही परिणाम नाहीत"
+	},
+	"annotations_notes": {
+		"message": "नोट्स"
+	},
+	"import_annotations": {
+		"message": "नोट्स आयात करा"
+	},
+	"options": {
+		"message": "पर्याय"
+	},
+	"open_document": {
+		"message": "दस्तऐवज उघडा"
+	},
+	"select_document": {
+		"message": "तुम्हाला एक दस्तऐवज निवडण्याची आवश्यकता आहे."
+	},
+	"copied_document": {
+		"message": "दस्तऐवज कॉपी केले"
+	},
+	"saved_document": {
+		"message": "दस्तऐवज जतन केले"
+	},
+	"issue_saving": {
+		"message": "समस्या बचत"
+	},
+	"show_updates": {
+		"message": "अपडेट्स दाखवा"
+	},
+	"new": {
+		"message": "नवीन"
+	},
+	"pause": {
+		"message": "विराम द्या"
+	},
+	"removed_document": {
+		"message": "कागदपत्र काढले"
+	},
+	"opening_document": {
+		"message": "दस्तऐवज उघडत आहे"
+	},
+	"get_started": {
+		"message": "सुरु करूया"
+	},
+	"saved_to_documents": {
+		"message": "तुमच्या कागदपत्रांमध्ये जतन केले."
+	},
+	"message_alert": {
+		"message": "हेल्परबर्ड्सच्या सर्व वैशिष्‍ट्ये आणि ग्राहक सपोर्टमध्‍ये प्रवेश मिळवा. 30 हून अधिक वैशिष्ट्ये."
+	},
+	"message_three_day": {
+		"message": "3 दिवसांची चाचणी"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "तुमचे इनपुट तपासा"
+	},
+	"upgrade": {
+		"message": "श्रेणीसुधारित करा"
+	},
+	"upgrade_": {
+		"message": "$1 वर श्रेणीसुधारित करा"
+	},
+	"website": {
+		"message": "संकेतस्थळ"
+	},
+	"description": {
+		"message": "वर्णन"
+	},
+	"capture": {
+		"message": "कॅप्चर करा"
+	},
+	"category": {
+		"message": "श्रेणी"
+	},
+	"error_found_label": {
+		"message": "एक त्रुटी आहे"
+	},
+	"cancel": {
+		"message": "रद्द करा"
+	},
+	"readinglist_title": {
+		"message": "वाचन यादी"
+	},
+	"readinglist_title_open": {
+		"message": "वाचन सूची उघडा"
+	},
+	"note_removed": {
+		"message": "टीप काढली."
+	},
+	"note_removed_error": {
+		"message": "टीप काढता आली नाही."
+	},
+	"readinglist_removed": {
+		"message": "वेबसाइट काढली"
+	},
+	"settings_saved": {
+		"message": "सेटिंग्ज सेव्ह केल्या"
+	},
+	"check_for_updates": {
+		"message": "अद्यतनांसाठी तपासा"
+	},
+	"show_highlights": {
+		"message": "पृष्ठावर हायलाइट दर्शवा."
+	},
+	"account_title": {
+		"message": "खाते"
+	},
+	"account_description": {
+		"message": "तुम्‍ही तुमच्‍या ब्राउझरमध्‍ये तुमच्‍या लॉगिनमध्‍ये साइन इन करता तेच ईमेल आम्ही वापरतो."
+	},
+	"signed_in_as": {
+		"message": "म्हणून साइन इन केले"
+	},
+	"subscription_title": {
+		"message": "वर्गणी"
+	},
+	"current_plan": {
+		"message": "तुमची सध्याची योजना"
+	},
+	"subscription_status": {
+		"message": "तुमची सदस्यता स्थिती:"
+	},
+	"check_subscription": {
+		"message": "सदस्यता तपासा"
+	},
+	"subscription_token_title": {
+		"message": "सदस्यता की"
+	},
+	"subscription_token_description": {
+		"message": "तुमच्याकडे हेल्परबर्ड प्रो सदस्यत्व असल्यास, हेल्परबर्ड प्रोची सर्व वैशिष्ट्ये अनलॉक करण्यासाठी खाली प्रविष्ट करा."
+	},
+	"themes": {
+		"message": "थीम"
+	},
+	"theme": {
+		"message": "थीम"
+	},
+	"danger_zone_title": {
+		"message": "स्टोरेज"
+	},
+	"danger_zone_description": {
+		"message": "खालील बटण सर्व सेटिंग्ज साफ करेल आणि विस्तार नवीन असल्याप्रमाणे सुरू करेल. त्यामुळे तुम्ही हटवलेले काहीही आम्हाला परत मिळणार नाही याची काळजी घ्या."
+	},
+	"delete_everything": {
+		"message": "सर्वकाही हटवा"
+	},
+	"delete_this_note": {
+		"message": "ही नोट हटवा."
+	},
+	"visit_this_note": {
+		"message": "वेबसाइटला भेट द्या ही नोट चालू आहे."
+	},
+	"everything_deleted": {
+		"message": "सर्व सेटिंग्ज आणि स्टोरेज आता हटवले आहेत."
+	},
+	"enter_email": {
+		"message": "तुम्हाला ईमेल एंटर करणे आवश्यक आहे."
+	},
+	"shortcuts": {
+		"message": "शॉर्टकट"
+	},
+	"shortcuts_menu_on": {
+		"message": "शॉर्टकट चालू आहेत"
+	},
+	"shortcuts_menu_off": {
+		"message": "शॉर्टकट बंद आहेत"
+	},
+	"shortcuts_title": {
+		"message": "शॉर्टकट"
+	},
+	"shortcuts_description": {
+		"message": "शॉर्टकट"
+	},
+	"shortcuts_ocr": {
+		"message": "OCR सक्षम करा"
+	},
+	"shortcuts_immsersive": {
+		"message": "इमर्सिव्ह वाचक उघडा"
+	},
+	"shortcuts_reader_mode": {
+		"message": "वाचक मोड उघडा"
+	},
+	"annotate_page": {
+		"message": "पृष्ठ भाष्य करा"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "PDF उघडा"
+	},
+	"open_pdf_zoom_out": {
+		"message": "झूम कमी करा"
+	},
+	"open_pdf_zoom_in": {
+		"message": "प्रतिमेचे दृष्य रूप मोठे करा"
+	},
+	"settings": {
+		"message": "सेटिंग्ज"
+	},
+	"support_videos": {
+		"message": "समर्थन व्हिडिओ"
+	},
+	"review_us": {
+		"message": "आमचे पुनरावलोकन करा"
+	},
+	"view": {
+		"message": "पहा"
+	},
+	"views": {
+		"message": "दृश्ये"
+	},
+	"no_favorites": {
+		"message": "आवडी नाहीत"
+	},
+	"sorting_none": {
+		"message": "काहीही सापडले नाही."
+	},
+	"sorting": {
+		"message": "वर्गीकरण...."
+	},
+	"showing_favorites": {
+		"message": "आवडी दाखवत आहे"
+	},
+	"unpaid": {
+		"message": "तुमची सदस्यता न भरलेली आहे."
+	},
+	"canceled": {
+		"message": "तुमची सदस्यता रद्द केली आहे."
+	},
+	"message_nothing_found": {
+		"message": "आम्हाला सदस्यता सापडली नाही."
+	},
+	"couldnt_interact_with_page": {
+		"message": "आम्हाला कोणताही मजकूर मिळू शकला नाही. कृपया पुन्हा प्रयत्न करा (रीफ्रेश करा). आमचे PDF किंवा Google डॉक्स अॅड-ऑन वापरून पहा."
+	},
+	"unpinned_favorite": {
+		"message": "पसंतीचे काढले"
+	},
+	"pin_favorite": {
+		"message": "आवडले"
+	},
+	"setting_saved": {
+		"message": "सेटिंग सेव्ह केली"
+	},
+	"favourite": {
+		"message": "आवडते"
+	},
+	"un_favourite": {
+		"message": "आवडत नाही"
+	},
+	"how_to_use": {
+		"message": "कसे वापरावे"
+	},
+	"search": {
+		"message": "शोधा"
+	},
+	"search_feature": {
+		"message": "शोध वैशिष्ट्ये"
+	},
+	"filter_productivity": {
+		"message": "संशोधन"
+	},
+	"helperbird_apps": {
+		"message": "हेल्परबर्ड अॅप्स"
+	},
+	"fav_message": {
+		"message": "असे दिसते की तुमच्याकडे कोणतीही वैशिष्ट्ये आवडत नाहीत. आवडते करण्यासाठी, वैशिष्ट्यापुढील तीन बिंदूंवर क्लिक करा आणि आवडते क्लिक करा."
+	},
+	"filter_features": {
+		"message": "फिल्टर वैशिष्ट्ये"
+	},
+	"student_offer": {
+		"message": "विद्यार्थ्यांना हेल्परबर्ड प्रो मिळतात"
+	},
+	"filter_style": {
+		"message": "डिस्प्ले"
+	},
+	"filter_text_to_speech": {
+		"message": "मजकूर ते भाषण"
+	},
+	"filter_dyslexia": {
+		"message": "डिस्लेक्सिया"
+	},
+	"filter_pro": {
+		"message": "प्रो वैशिष्ट्ये"
+	},
+	"filter": {
+		"message": "फिल्टर करा"
+	},
+	"filter_writing": {
+		"message": "लेखन"
+	},
+	"highlighter_title": {
+		"message": "हायलाइटर"
+	},
+	"filter_reading": {
+		"message": "वाचन"
+	},
+	"filter_active": {
+		"message": "सक्रिय"
+	},
+	"filter_audio": {
+		"message": "ऑडिओ वैशिष्ट्ये"
+	},
+	"feature_blindness": {
+		"message": "रंगाधळेपण"
+	},
+	"feature_emphasize_links": {
+		"message": "दुव्यांवर जोर द्या"
+	},
+	"feature_emphasize_stroke": {
+		"message": "मजकूर स्ट्रोक"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "रंग"
+	},
+	"color": {
+		"message": "रंग"
+	},
+	"feature_specialized_font": {
+		"message": "विशेष फॉन्ट"
+	},
+	"feature_specialized_font_options": {
+		"message": "फॉन्ट पर्याय"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "हायलाइट मेनू चालू आहे"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "हायलाइट मेनू बंद आहे"
+	},
+	"feature_highlight_menu": {
+		"message": "हायलाइट मेनू"
+	},
+	"feature_highlight_menu_description": {
+		"message": "आमचा हायलाइट मजकूर मेनू दाखवतो."
+	},
+	"show": {
+		"message": "दाखवा"
+	},
+	"welcome": {
+		"message": "Helperbird मध्ये आपले स्वागत आहे"
+	},
+	"feature_immersive_reader": {
+		"message": "तल्लीन वाचक"
+	},
+	"create_a_new_note": {
+		"message": "नवीन नोट तयार करा"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "या पृष्ठावर मायक्रोसॉफ्टचे इमर्सिव्ह रीडर वापरा."
+	},
+	"feature_toolbar_google": {
+		"message": "Google डॉक्स आणि स्लाइड्स"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Google डॉक फाइल्सवर हेल्परबर्ड टूलबार जोडते."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF टूलबार"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "पीडीएफ फाइल्सवर हेल्परबर्ड टूलबार जोडते."
+	},
+	"pause_helperbird": {
+		"message": "$1 विराम द्या"
+	},
+	"quick_action": {
+		"message": "जलद कृती"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 बंद आहे"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 चालू आहे"
+	},
+	"voice_typing_is_on": {
+		"message": "व्हॉइस टायपिंग चालू आहे"
+	},
+	"voice_typing_is_off": {
+		"message": "व्हॉइस टायपिंग बंद आहे"
+	},
+	"helperbird_paused": {
+		"message": "हेल्परबर्ड बंद"
+	},
+	"helperbird_running": {
+		"message": "हेल्परबर्ड धावत आहे"
+	},
+	"applying_settings": {
+		"message": "तुमची सेटिंग्ज लागू करत आहे"
+	},
+	"feature_favorites": {
+		"message": "आवडी"
+	},
+	"all_feature_favorites": {
+		"message": "सर्व"
+	},
+	"hide_feature_favorites": {
+		"message": "आवडी लपवा"
+	},
+	"feature_favorites_description": {
+		"message": "फक्त आवडी दाखवा."
+	},
+	"feature_print": {
+		"message": "छापा"
+	},
+	"feature_print_description": {
+		"message": "वर्तमान पृष्ठ मुद्रित करा."
+	},
+	"feature_printing_success": {
+		"message": "छपाई उघडत आहे"
+	},
+	"feature_reader_mode": {
+		"message": "वाचक मोड"
+	},
+	"feature_readermode_opening": {
+		"message": "वाचक मोड उघडत आहे"
+	},
+	"feature_readermode_closing": {
+		"message": "वाचक मोड बंद करत आहे"
+	},
+	"view_table": {
+		"message": "टेबल दृश्य"
+	},
+	"view_time": {
+		"message": "टाइमलाइन दृश्य"
+	},
+	"view_card": {
+		"message": "कार्ड दृश्य"
+	},
+	"feature_screenshot": {
+		"message": "स्क्रीनशॉट"
+	},
+	"feature_screenshot_description": {
+		"message": "वर्तमान पृष्ठाचा स्क्रीनशॉट घ्या."
+	},
+	"feature_screenshot_error": {
+		"message": "स्क्रीनशॉट कॅप्चर करताना त्रुटी"
+	},
+	"feature_screenshot_success": {
+		"message": "स्क्रीनशॉट कॅप्चर करत आहे"
+	},
+	"feature_tooltip": {
+		"message": "प्रतिमा वर्णन"
+	},
+	"feature_tooltip_description": {
+		"message": "माऊसवर alt आणि शीर्षक टॅग दर्शवा."
+	},
+	"feature_translate": {
+		"message": "भाषांतर करा"
+	},
+	"feature_language": {
+		"message": "भाषा"
+	},
+	"feature_magnifier": {
+		"message": "भिंग"
+	},
+	"feature_magnifier_description": {
+		"message": "भिंग"
+	},
+	"percentage": {
+		"message": "टक्केवारी"
+	},
+	"feature_analyze": {
+		"message": "शब्द संख्या"
+	},
+	"feature_analyze_description": {
+		"message": "विश्लेषण करा"
+	},
+	"feature_analyze_words": {
+		"message": "शब्द"
+	},
+	"feature_analyze_characters": {
+		"message": "वर्ण"
+	},
+	"feature_annotations": {
+		"message": "नोट्स"
+	},
+	"feature_annotations_description": {
+		"message": "नवीन स्टिकी नोट टाकून पृष्ठावर भाष्य करा."
+	},
+	"feature_annotate_open": {
+		"message": "नवीन नोट तयार करत आहे"
+	},
+	"annotate": {
+		"message": "भाष्य करा"
+	},
+	"feature_cognitive_load": {
+		"message": "वेगवान वाचन"
+	},
+	"bold": {
+		"message": "धीटपणा"
+	},
+	"feature_background_color": {
+		"message": "पार्श्वभूमी रंग"
+	},
+	"feature_font_color": {
+		"message": "फॉन्टचा रंग"
+	},
+	"feature_highlight_menu_min": {
+		"message": "मेनू"
+	},
+	"feature_highlight_color": {
+		"message": "हायलाइट रंग"
+	},
+	"feature_link_color": {
+		"message": "लिंक रंग"
+	},
+	"feature_cursor_size": {
+		"message": "कर्सर आकार"
+	},
+	"feature_font_size": {
+		"message": "मजकूर आकार"
+	},
+	"feature_font_size_titles": {
+		"message": "शीर्षलेख आकार"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "परिच्छेद आकार"
+	},
+	"feature_gray_hue": {
+		"message": "राखाडी रंग"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "परिच्छेद हायलाइट करा"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "परिच्छेद रंग हायलाइट करा"
+	},
+	"feature_images_hide_title": {
+		"message": "प्रतिमा लपवा"
+	},
+	"hide": {
+		"message": "लपवा"
+	},
+	"feature_images_hide": {
+		"message": "सर्व प्रतिमा लपवा"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Gif लपवा"
+	},
+	"feature_high_contast": {
+		"message": "उच्च कॉन्ट्रास्ट"
+	},
+	"feature_text_adjustments": {
+		"message": "मजकूर समायोजन"
+	},
+	"feature_text_align": {
+		"message": "मजकूर संरेखित करा"
+	},
+	"feature_text_alignment": {
+		"message": "संरेखन"
+	},
+	"feature_letter_spacing": {
+		"message": "अक्षरातील अंतर"
+	},
+	"spacing": {
+		"message": "अंतर"
+	},
+	"feature_line_height_spacing": {
+		"message": "रेषेची उंची"
+	},
+	"height": {
+		"message": "उंची"
+	},
+	"feature_line_focus": {
+		"message": "लाइन फोकस"
+	},
+	"feature_line_focus_color": {
+		"message": "रेखा फोकस रंग"
+	},
+	"feature_line_focus_height": {
+		"message": "लाइन फोकस उंची"
+	},
+	"feature_mute": {
+		"message": "व्हिडिओ नि:शब्द करा"
+	},
+	"feature_mute_description": {
+		"message": "पृष्ठावरील व्हिडिओ आणि ध्वनी निःशब्द करा."
+	},
+	"ocr_read_words": {
+		"message": "काढलेला मजकूर वाचा"
+	},
+	"text": {
+		"message": "मजकूर"
+	},
+	"ocr_read_words_save": {
+		"message": "काढलेला मजकूर जतन करा"
+	},
+	"feature_extract_text": {
+		"message": "मजकूर काढा (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "सक्षम करा, स्क्रीनवरील क्षेत्र निवडा."
+	},
+	"feature_overlay": {
+		"message": "आच्छादन"
+	},
+	"feature_overlay_color": {
+		"message": "आच्छादन रंग"
+	},
+	"feature_paragraph_width": {
+		"message": "परिच्छेद रुंदी"
+	},
+	"width": {
+		"message": "रुंदी"
+	},
+	"highlighted_text": {
+		"message": "हायलाइट केलेला मजकूर"
+	},
+	"issue_on_page": {
+		"message": "इश्यू"
+	},
+	"feature_reading_guide": {
+		"message": "वाचन मार्गदर्शक"
+	},
+	"feature_reading_guide_color": {
+		"message": "वाचन मार्गदर्शक रंग"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "डिस्लेक्सिया शासक"
+	},
+	"feature_ruler_width": {
+		"message": "शासक रुंदी"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "उंची"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "स्थिती"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "रंग"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "अनुसरण करा"
+	},
+	"feature_auto_scroll": {
+		"message": "स्वयं स्क्रोल"
+	},
+	"speed": {
+		"message": "गती"
+	},
+	"subscription_deleted": {
+		"message": "सदस्यता रद्द केली"
+	},
+	"title_enjoy_until": {
+		"message": "पर्यंत आपल्या चाचणीचा आनंद घ्या"
+	},
+	"incomplete_expired": {
+		"message": "आम्ही पेमेंट पूर्ण करू शकलो नाही."
+	},
+	"past_due": {
+		"message": "तुमची सदस्यता देय झाली आहे."
+	},
+	"incomplete": {
+		"message": "आम्ही पेमेंट पूर्ण करू शकलो नाही."
+	},
+	"transparency": {
+		"message": "चमक"
+	},
+	"title_message_full": {
+		"message": "हेल्परबर्ड प्रो सदस्यत्व आढळले."
+	},
+	"contact_support": {
+		"message": "कृपया समर्थनाशी संपर्क साधा."
+	},
+	"buy": {
+		"message": "$1 खरेदी करा"
+	},
+	"feature_voice_typing": {
+		"message": "व्हॉइस टायपिंग"
+	},
+	"feature_voice_typing_description": {
+		"message": "सर्व इनपुटवर व्हॉइस टायपिंग जोडते. फक्त इनपुटवरील बटणावर क्लिक करा."
+	},
+	"google_docs_notice": {
+		"message": "आमच्याकडे आता Google Addon आहे! आणखी समर्थन मिळविण्यासाठी स्थापित करा."
+	},
+	"feature_spell_check": {
+		"message": "शब्दलेखन तपासणी"
+	},
+	"feature_summarize": {
+		"message": "पृष्ठाचा सारांश द्या"
+	},
+	"feature_summarize_description": {
+		"message": "या पृष्ठाचा सारांश द्या."
+	},
+	"feature_text_to_speech_options": {
+		"message": "मजकूर ते भाषण पर्याय"
+	},
+	"feature_speech_voice": {
+		"message": "आवाज"
+	},
+	"feature_speech_speed": {
+		"message": "गती"
+	},
+	"feature_speech_pitch": {
+		"message": "खेळपट्टी"
+	},
+	"feature_speech_volume": {
+		"message": "खंड"
+	},
+	"feature_speech_highlight_color": {
+		"message": "हायलाइट रंग"
+	},
+	"feature_speech_reading_success": {
+		"message": "निवडलेला मजकूर वाचत आहे."
+	},
+	"feature_text_to_speech": {
+		"message": "मजकूर ते भाषण"
+	},
+	"you_need_to_highlight": {
+		"message": "तुम्हाला काही मजकूर हायलाइट करणे आवश्यक आहे."
+	},
+	"feature_word_prediction": {
+		"message": "शब्द अंदाज"
+	},
+	"feature_word_prediction_description": {
+		"message": "इनपुटवर हेल्परबर्ड्स शब्द अंदाज चालू करा."
+	},
+	"feature_word_spacing": {
+		"message": "शब्द अंतर"
+	},
+	"full_Screen": {
+		"message": "फुलस्क्रीन"
+	},
+	"voice_typing_stop": {
+		"message": "व्हॉइस टायपिंग थांबवत आहे."
+	},
+	"voice_typing_start": {
+		"message": "बोल आता."
+	},
+	"speak_word_on_hover": {
+		"message": "मोठ्याने वाचा."
+	},
+	"speak_word_on_hover_info": {
+		"message": "होवरवर शब्द वाचेल."
+	},
+	"speak": {
+		"message": "बोला"
+	},
+	"auto_scroll_start": {
+		"message": "ऑटो स्क्रोल सुरू झाला."
+	},
+	"auto_scroll_stop": {
+		"message": "ऑटो स्क्रोल थांबला."
+	},
+	"popup_immersive_success": {
+		"message": "इमर्सिव्ह रीडर लोड करत आहे."
+	},
+	"popup_readermode_success": {
+		"message": "वाचक मोड उघडत आहे."
+	},
+	"popup_printing_success": {
+		"message": "छपाई उघडत आहे."
+	},
+	"ocr_select": {
+		"message": "पृष्ठावरील क्षेत्र निवडा."
+	},
+	"ocr_extracted": {
+		"message": "मजकूर काढला."
+	},
+	"ocr_extracting": {
+		"message": "काढत आहे"
+	},
+	"ocr_copy": {
+		"message": "प्रतिमेतून मजकूर कॉपी केला. तुमच्या क्लिपबोर्डवर सेव्ह केले."
+	},
+	"ocr_no_text": {
+		"message": "कोणताही मजकूर आढळला नाही."
+	},
+	"popup_note_success": {
+		"message": "तुमच्या नोट्समध्ये सेव्ह केले."
+	},
+	"popup_immersive_error": {
+		"message": "इमर्सिव्ह रीडर लोड करताना त्रुटी"
+	},
+	"popup_summarize_error": {
+		"message": "पृष्ठाचा सारांश करताना त्रुटी."
+	},
+	"popup_saving_error": {
+		"message": "सेव्ह करताना त्रुटी"
+	},
+	"popup_summarize_success": {
+		"message": "सारांश पृष्ठ"
+	},
+	"popup_readermode_closing": {
+		"message": "वाचक मोड बंद करत आहे"
+	},
+	"close": {
+		"message": "बंद"
+	},
+	"your_note_was_saved": {
+		"message": "तुमची टीप सेव्ह केली होती."
+	},
+	"error_saving_your_note": {
+		"message": "तुमची टीप जतन करताना त्रुटी. कृपया पुन्हा प्रयत्न करा."
+	},
+	"popup_readinglist_error": {
+		"message": "वाचन सूचीमध्ये जतन करताना त्रुटी"
+	},
+	"popup_readinglist_success": {
+		"message": "वाचन सूचीमध्ये जतन केले"
+	},
+	"popup_screenshot_error": {
+		"message": "स्क्रीनशॉट कॅप्चर करताना त्रुटी"
+	},
+	"popup_screenshot_success": {
+		"message": "स्क्रीनशॉट कॅप्चर करत आहे"
+	},
+	"copied_text": {
+		"message": "मजकूर कॉपी केला"
+	},
+	"copied_text_error": {
+		"message": "मजकूर कॉपी करताना त्रुटी."
+	},
+	"ocr_loading": {
+		"message": "हेल्परबर्ड्स ओसीआर लोड करत आहे"
+	},
+	"ocr_save": {
+		"message": "तुमच्या नोट्समध्ये सेव्ह केले"
+	},
+	"popup_reading_success": {
+		"message": "निवडलेला मजकूर वाचत आहे"
+	},
+	"popup_reading_finished": {
+		"message": "वाचन संपवले"
+	},
+	"popup_reading_error": {
+		"message": "थांबत आहे"
+	},
+	"popup_reading_stopping": {
+		"message": "थांबत आहे"
+	},
+	"popup_reading_pause": {
+		"message": "विराम दिला"
+	},
+	"notifcations_upgrade_title": {
+		"message": "हे वैशिष्ट्य वापरण्यासाठी तुम्हाला हेल्परबर्ड प्रो अपग्रेड करावे लागेल."
+	},
+	"menu_define": {
+		"message": "शब्द परिभाषित करा"
+	},
+	"menu_website_readinglist": {
+		"message": "वाचन सूचीमध्ये वेबसाइट जोडा"
+	},
+	"menu_readinglist": {
+		"message": "वाचन सूचीमध्ये जोडा"
+	},
+	"menu_text_to_speech": {
+		"message": "मजकूर ते भाषण"
+	},
+	"menu_play": {
+		"message": "खेळा"
+	},
+	"menu_pause": {
+		"message": "विराम द्या"
+	},
+	"menu_stop": {
+		"message": "थांबा"
+	},
+	"menu_resume": {
+		"message": "पुन्हा सुरू करा"
+	},
+	"menu_screenshot": {
+		"message": "स्क्रीनशॉट घ्या"
+	},
+	"menu_share": {
+		"message": "शेअर करा"
+	},
+	"menu_reader_mode": {
+		"message": "वाचक मोडमध्ये पहा"
+	},
+	"menu_translate": {
+		"message": "भाषांतर करा"
+	},
+	"road_map": {
+		"message": "नकाशा"
+	},
+	"menu_immersive_reader": {
+		"message": "इमर्सिव्ह रीडरमध्ये पहा"
+	},
+	"menu_summarize": {
+		"message": "पृष्ठाचा सारांश द्या"
+	},
+	"menu_summarize_page": {
+		"message": "पृष्ठ सारांशित"
+	},
+	"menu_annotate_page": {
+		"message": "पृष्ठ भाष्य करा"
+	}
+}

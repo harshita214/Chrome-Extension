@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird για Chrome"
+	},
+	"appDescription": {
+		"message": "Πάνω από 32 χαρακτηριστικά προσβασιμότητας και παραγωγικότητας που έχουν σχεδιαστεί για να υποστηρίζουν κάθε είδους αναγνώστη, μαθητή και συγγραφέα. Περιλαμβάνει υποστήριξη για τη δυσλεξία."
+	},
+	"helpGuide": {
+		"message": "Οδηγοί βοήθειας"
+	},
+	"upgrade_title": {
+		"message": "Λειτουργία Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "Χρειάζεστε μια συνδρομή Helperbird Pro για να χρησιμοποιήσετε αυτήν τη δυνατότητα. Μην ανησυχείτε, είναι 40 USD το χρόνο ή 4,99 το μήνα."
+	},
+	"plan_deal": {
+		"message": "Φοιτητική προσφορά"
+	},
+	"plan_month": {
+		"message": "Μηνιαία προσφορά"
+	},
+	"plan_year": {
+		"message": "Ετήσια προσφορά"
+	},
+	"upgrade_message": {
+		"message": "Κάντε αναβάθμιση στο Helperbird Pro, για να ξεκλειδώσετε όλες τις λειτουργίες."
+	},
+	"column_title": {
+		"message": "Στήλη"
+	},
+	"upgrade_now": {
+		"message": "Αναβάθμισε τώρα"
+	},
+	"upgrade_to_pro": {
+		"message": "Αναβάθμιση σε Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Ανακαλύψτε το Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Συνδεθείτε στο Helperbird ή εισαγάγετε το κλειδί συνδρομής σας."
+	},
+	"privacy": {
+		"message": "Μυστικότητα"
+	},
+	"whats_new": {
+		"message": "Τι νέα"
+	},
+	"privacy_details": {
+		"message": "Σεβόμαστε το απόρρητό σας, επομένως εδώ είναι σε σαφή και απλή γλώσσα."
+	},
+	"privacy_details_one": {
+		"message": "Εδώ στο Helperbird, σεβόμαστε και παίρνουμε το απόρρητό σας εξαιρετικά σοβαρά. Γι' αυτό δεν αποθηκεύουμε και δεν συλλέγουμε τίποτα."
+	},
+	"privacy_details_two": {
+		"message": "Το μόνο που ζητάτε για το email σας, όταν κάνετε είσοδο. Για να ελέγξετε εάν ο τομέας του σχολείου ή της επιχείρησής σας πληρώνεται ή εάν έχετε πληρώσει για λογαριασμό στο Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Ό,τι κάνετε και οι ρυθμίσεις που αποθηκεύετε παραμένουν τοπικά στο πρόγραμμα περιήγησής σας. Δεν αφήνετε ποτέ τον υπολογιστή σας."
+	},
+	"free": {
+		"message": "Ελεύθερος"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "Επί"
+	},
+	"on_lower": {
+		"message": "επί"
+	},
+	"off": {
+		"message": "Μακριά από"
+	},
+	"off_lower": {
+		"message": "μακριά από"
+	},
+	"notes": {
+		"message": "Σημειώσεις"
+	},
+	"open_notes": {
+		"message": "Ανοίξτε τις σημειώσεις"
+	},
+	"save": {
+		"message": "Σώσει"
+	},
+	"clear": {
+		"message": "Σαφή"
+	},
+	"manage": {
+		"message": "Διαχειρίζονται"
+	},
+	"open": {
+		"message": "Ανοιξε"
+	},
+	"copy": {
+		"message": "αντίγραφο"
+	},
+	"delete": {
+		"message": "Διαγράφω"
+	},
+	"documents": {
+		"message": "Εγγραφα"
+	},
+	"remove": {
+		"message": "Αφαιρώ"
+	},
+	"version": {
+		"message": "Εκδοχή"
+	},
+	"visit": {
+		"message": "Επίσκεψη"
+	},
+	"no_results": {
+		"message": "Χωρίς αποτέλεσμα"
+	},
+	"reduce_motion": {
+		"message": "Κινούμενα σχέδια"
+	},
+	"maths_steps": {
+		"message": "Επιλύτης μαθηματικών"
+	},
+	"tour": {
+		"message": "Helperbird Tour"
+	},
+	"reduce_motion_description": {
+		"message": "Αποτρέψτε την εμφάνιση κινούμενων εικόνων σε ιστοσελίδες."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Το Immersive Reader είναι ένα δωρεάν εργαλείο που εφαρμόζει δοκιμασμένες τεχνικές για τη βελτίωση της ανάγνωσης και της γραφής"
+	},
+	"start": {
+		"message": "Αρχή"
+	},
+	"learn_more": {
+		"message": "Μάθε περισσότερα"
+	},
+	"more": {
+		"message": "Περισσότερο"
+	},
+	"editor_title": {
+		"message": "Συντάκτης"
+	},
+	"editor_title_open": {
+		"message": "Ανοίξτε το Helperbirds Editor"
+	},
+	"logout": {
+		"message": "Αποσύνδεση"
+	},
+	"signin": {
+		"message": "Σύνδεση"
+	},
+	"define_title": {
+		"message": "Λεξικό"
+	},
+	"define_title_open": {
+		"message": "Ανοίξτε το Λεξικό"
+	},
+	"define_empty_title": {
+		"message": "Αναζητήστε μια λέξη και θα επιστρέψουμε τη σημασία της."
+	},
+	"define_search": {
+		"message": "Αναζήτηση......"
+	},
+	"define_antonyms": {
+		"message": "Αντώνυμα"
+	},
+	"define_synonyms": {
+		"message": "Συνώνυμα"
+	},
+	"define_meanings": {
+		"message": "Έννοιες"
+	},
+	"define_related": {
+		"message": "Σχετιζομαι με"
+	},
+	"define_etymology": {
+		"message": "Ετυμολογία"
+	},
+	"export": {
+		"message": "Εξαγωγή"
+	},
+	"export_word": {
+		"message": "Εξαγωγή στο Word"
+	},
+	"export_docs": {
+		"message": "Εξαγωγή στα Έγγραφα Google"
+	},
+	"export_text": {
+		"message": "Εξαγωγή σε αρχείο κειμένου"
+	},
+	"toolbar_pdf": {
+		"message": "Αναγνώστης PDF"
+	},
+	"toolbar_pdf_open": {
+		"message": "Ανοίξτε το πρόγραμμα ανάγνωσης PDF"
+	},
+	"menus": {
+		"message": "Έγγραφα και Pdf Google"
+	},
+	"upgrade_message_title": {
+		"description": "Επέκταση Helperbird.",
+		"message": "Αναβάθμιση σε $1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Επέκταση Helperbird.",
+		"message": "Αποκτήστε πρόσβαση σε ισχυρές λειτουργίες όπως η Λειτουργία ανάγνωσης και το $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Επέκταση Helperbird.",
+		"message": "Επιλέξτε ένα πρόγραμμα παρακάτω για να ξεκλειδώσετε περισσότερες από 30 δυνατότητες και 24ωρη υποστήριξη."
+	},
+	"alert_message": {
+		"message": "Αναβαθμίστε ή συνδεθείτε για να αποκτήσετε πρόσβαση σε όλες τις λειτουργίες Pro."
+	},
+	"alert_loading": {
+		"message": "Φόρτωση...."
+	},
+	"alert_clear": {
+		"message": "Σαφή"
+	},
+	"alert_cleared": {
+		"message": "Καθαρίστηκε"
+	},
+	"alert_download": {
+		"message": "Κατεβάστε"
+	},
+	"alert_no_data": {
+		"message": "Χωρίς αποτέλεσμα"
+	},
+	"annotations_notes": {
+		"message": "Σημειώσεις"
+	},
+	"import_annotations": {
+		"message": "Εισαγωγή σημειώσεων"
+	},
+	"options": {
+		"message": "Επιλογές"
+	},
+	"open_document": {
+		"message": "Άνοιγμα εγγράφου"
+	},
+	"select_document": {
+		"message": "Πρέπει να επιλέξετε ένα έγγραφο."
+	},
+	"copied_document": {
+		"message": "Το έγγραφο αντιγράφηκε"
+	},
+	"saved_document": {
+		"message": "Το έγγραφο αποθηκεύτηκε"
+	},
+	"issue_saving": {
+		"message": "Αποθήκευση προβλήματος"
+	},
+	"show_updates": {
+		"message": "Εμφάνιση ενημερώσεων"
+	},
+	"new": {
+		"message": "Νέος"
+	},
+	"pause": {
+		"message": "Παύση"
+	},
+	"removed_document": {
+		"message": "Το έγγραφο αφαιρέθηκε"
+	},
+	"opening_document": {
+		"message": "Άνοιγμα εγγράφου"
+	},
+	"get_started": {
+		"message": "Ξεκίνα"
+	},
+	"saved_to_documents": {
+		"message": "Αποθηκεύτηκε στα έγγραφά σας."
+	},
+	"message_alert": {
+		"message": "Αποκτήστε πρόσβαση σε όλες τις δυνατότητες του Helperbirds και την υποστήριξη πελατών όποτε το χρειάζεστε. Πάνω από 30 χαρακτηριστικά."
+	},
+	"message_three_day": {
+		"message": "Δοκιμή 3 ημερών"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Ελέγξτε τις εισροές σας"
+	},
+	"upgrade": {
+		"message": "Αναβαθμίζω"
+	},
+	"upgrade_": {
+		"message": "Αναβάθμιση σε $1"
+	},
+	"website": {
+		"message": "Δικτυακός τόπος"
+	},
+	"description": {
+		"message": "Περιγραφή"
+	},
+	"capture": {
+		"message": "Πιάνω"
+	},
+	"category": {
+		"message": "Κατηγορία"
+	},
+	"error_found_label": {
+		"message": "Υπάρχει ένα σφάλμα"
+	},
+	"cancel": {
+		"message": "Ματαίωση"
+	},
+	"readinglist_title": {
+		"message": "Λίστα ανάγνωσης"
+	},
+	"readinglist_title_open": {
+		"message": "Ανοίξτε τη λίστα ανάγνωσης"
+	},
+	"note_removed": {
+		"message": "Η σημείωση αφαιρέθηκε."
+	},
+	"note_removed_error": {
+		"message": "Δεν ήταν δυνατή η αφαίρεση της σημείωσης."
+	},
+	"readinglist_removed": {
+		"message": "Ο ιστότοπος καταργήθηκε"
+	},
+	"settings_saved": {
+		"message": "Οι ρυθμίσεις αποθηκεύτηκαν"
+	},
+	"check_for_updates": {
+		"message": "Ελεγχος για ενημερώσεις"
+	},
+	"show_highlights": {
+		"message": "Εμφάνιση επισημάνσεων στη σελίδα."
+	},
+	"account_title": {
+		"message": "λογαριασμός"
+	},
+	"account_description": {
+		"message": "Χρησιμοποιούμε το ίδιο email που συνδέεστε στο πρόγραμμα περιήγησής σας ως σύνδεσή σας."
+	},
+	"signed_in_as": {
+		"message": "Συνδεθήκατε ως"
+	},
+	"subscription_title": {
+		"message": "Συνδρομή"
+	},
+	"current_plan": {
+		"message": "Το τρέχον σχέδιό σας"
+	},
+	"subscription_status": {
+		"message": "Η κατάσταση της συνδρομής σας:"
+	},
+	"check_subscription": {
+		"message": "Ελέγξτε τη συνδρομή"
+	},
+	"subscription_token_title": {
+		"message": "Κλειδί συνδρομής"
+	},
+	"subscription_token_description": {
+		"message": "Εάν έχετε συνδρομή Helperbird Pro, εισαγάγετε την παρακάτω για να ξεκλειδώσετε όλες τις δυνατότητες του Helperbird Pro."
+	},
+	"themes": {
+		"message": "Θέματα"
+	},
+	"theme": {
+		"message": "Θέμα"
+	},
+	"danger_zone_title": {
+		"message": "Αποθήκευση"
+	},
+	"danger_zone_description": {
+		"message": "Το παρακάτω κουμπί θα διαγράψει όλες τις ρυθμίσεις και θα ξεκινήσει η επέκταση σαν να ήταν νέα. Προσέξτε λοιπόν ότι δεν μπορούμε να πάρουμε πίσω οτιδήποτε διαγράψετε."
+	},
+	"delete_everything": {
+		"message": "Διαγράψτε τα πάντα"
+	},
+	"delete_this_note": {
+		"message": "Διαγράψτε αυτήν τη σημείωση."
+	},
+	"visit_this_note": {
+		"message": "Επισκεφτείτε τον ιστότοπο στον οποίο βρίσκεται αυτή η σημείωση."
+	},
+	"everything_deleted": {
+		"message": "Όλες οι ρυθμίσεις και η αποθήκευση έχουν πλέον διαγραφεί."
+	},
+	"enter_email": {
+		"message": "Πρέπει να εισάγετε ένα email."
+	},
+	"shortcuts": {
+		"message": "Συντομεύσεις"
+	},
+	"shortcuts_menu_on": {
+		"message": "Οι συντομεύσεις είναι ενεργοποιημένες"
+	},
+	"shortcuts_menu_off": {
+		"message": "Οι συντομεύσεις είναι απενεργοποιημένες"
+	},
+	"shortcuts_title": {
+		"message": "Συντομεύσεις"
+	},
+	"shortcuts_description": {
+		"message": "Συντομεύσεις"
+	},
+	"shortcuts_ocr": {
+		"message": "Ενεργοποίηση OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Ανοίξτε το πρόγραμμα ανάγνωσης Immersive"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Ανοίξτε τη λειτουργία ανάγνωσης"
+	},
+	"annotate_page": {
+		"message": "Σχολιασμός σελίδας"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Ανοίξτε το PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Σμίκρυνση"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Μεγέθυνση"
+	},
+	"settings": {
+		"message": "Ρυθμίσεις"
+	},
+	"support_videos": {
+		"message": "Υποστήριξη βίντεο"
+	},
+	"review_us": {
+		"message": "Αξιολογήστε μας"
+	},
+	"view": {
+		"message": "Θέα"
+	},
+	"views": {
+		"message": "Προβολές"
+	},
+	"no_favorites": {
+		"message": "Χωρίς αγαπημένα"
+	},
+	"sorting_none": {
+		"message": "Δεν βρέθηκε τίποτα."
+	},
+	"sorting": {
+		"message": "Ταξινόμηση...."
+	},
+	"showing_favorites": {
+		"message": "Εμφάνιση αγαπημένων"
+	},
+	"unpaid": {
+		"message": "Η συνδρομή σας είναι απλήρωτη."
+	},
+	"canceled": {
+		"message": "Η συνδρομή σας ακυρώθηκε."
+	},
+	"message_nothing_found": {
+		"message": "Δεν μπορέσαμε να βρούμε συνδρομή."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Δεν μπορέσαμε να λάβουμε κανένα κείμενο. Δοκιμάστε ξανά (Ανανέωση). Δοκιμάστε το πρόσθετο PDF ή Google Docs."
+	},
+	"unpinned_favorite": {
+		"message": "Καταργήθηκε το αγαπημένο"
+	},
+	"pin_favorite": {
+		"message": "Αγαπημένο"
+	},
+	"setting_saved": {
+		"message": "Η ρύθμιση αποθηκεύτηκε"
+	},
+	"favourite": {
+		"message": "Αγαπημένη"
+	},
+	"un_favourite": {
+		"message": "Μη αγαπημένος"
+	},
+	"how_to_use": {
+		"message": "Τρόπος χρήσης"
+	},
+	"search": {
+		"message": "Αναζήτηση"
+	},
+	"search_feature": {
+		"message": "Λειτουργίες αναζήτησης"
+	},
+	"filter_productivity": {
+		"message": "Ερευνα"
+	},
+	"helperbird_apps": {
+		"message": "Εφαρμογές Helperbird"
+	},
+	"fav_message": {
+		"message": "Φαίνεται ότι δεν έχετε αγαπημένες λειτουργίες. Για να αγαπήσετε, κάντε κλικ στις τρεις τελείες δίπλα σε ένα χαρακτηριστικό και κάντε κλικ στο αγαπημένο."
+	},
+	"filter_features": {
+		"message": "Χαρακτηριστικά φίλτρου"
+	},
+	"student_offer": {
+		"message": "Οι μαθητές λαμβάνουν Helperbird Pro για"
+	},
+	"filter_style": {
+		"message": "Απεικόνιση"
+	},
+	"filter_text_to_speech": {
+		"message": "Κείμενο σε ομιλία"
+	},
+	"filter_dyslexia": {
+		"message": "Δυσλεξία"
+	},
+	"filter_pro": {
+		"message": "Pro χαρακτηριστικά"
+	},
+	"filter": {
+		"message": "Φίλτρο"
+	},
+	"filter_writing": {
+		"message": "Γραφή"
+	},
+	"highlighter_title": {
+		"message": "Highlighter"
+	},
+	"filter_reading": {
+		"message": "ΑΝΑΓΝΩΣΗ"
+	},
+	"filter_active": {
+		"message": "Ενεργός"
+	},
+	"filter_audio": {
+		"message": "Χαρακτηριστικά ήχου"
+	},
+	"feature_blindness": {
+		"message": "Αχρωματοψία"
+	},
+	"feature_emphasize_links": {
+		"message": "Δώστε έμφαση στους συνδέσμους"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Κείμενο εγκεφαλικό επεισόδιο"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Χρώμα"
+	},
+	"color": {
+		"message": "Χρώμα"
+	},
+	"feature_specialized_font": {
+		"message": "Εξειδικευμένη γραμματοσειρά"
+	},
+	"feature_specialized_font_options": {
+		"message": "Επιλογές γραμματοσειράς"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Το μενού επισήμανσης είναι ενεργοποιημένο"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Το μενού επισήμανσης είναι απενεργοποιημένο"
+	},
+	"feature_highlight_menu": {
+		"message": "Επισήμανση μενού"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Εμφανίζει το μενού κειμένου με τις καλύτερες στιγμές μας."
+	},
+	"show": {
+		"message": "προβολή"
+	},
+	"welcome": {
+		"message": "Καλώς ήρθατε στο Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Καθηλωτικός αναγνώστης"
+	},
+	"create_a_new_note": {
+		"message": "Δημιουργήστε μια νέα σημείωση"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Χρησιμοποιήστε το πρόγραμμα ανάγνωσης Immersive της Microsoft σε αυτήν τη σελίδα."
+	},
+	"feature_toolbar_google": {
+		"message": "Έγγραφα και Παρουσιάσεις Google"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Προσθέτει μια γραμμή εργαλείων Helperbird σε αρχεία εγγράφων Google."
+	},
+	"feature_toolbar_pdf": {
+		"message": "Γραμμή εργαλείων PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Προσθέτει μια γραμμή εργαλείων Helperbird σε αρχεία Pdf."
+	},
+	"pause_helperbird": {
+		"message": "Παύση $1"
+	},
+	"quick_action": {
+		"message": "Γρήγορες ενέργειες"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 είναι έκπτωση"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "Το $1 είναι ενεργοποιημένο"
+	},
+	"voice_typing_is_on": {
+		"message": "Η φωνητική πληκτρολόγηση είναι ενεργοποιημένη"
+	},
+	"voice_typing_is_off": {
+		"message": "Η φωνητική πληκτρολόγηση είναι απενεργοποιημένη"
+	},
+	"helperbird_paused": {
+		"message": "Το Helperbird μακριά"
+	},
+	"helperbird_running": {
+		"message": "Helperbird που τρέχει"
+	},
+	"applying_settings": {
+		"message": "Εφαρμογή των ρυθμίσεών σας"
+	},
+	"feature_favorites": {
+		"message": "Αγαπημένα"
+	},
+	"all_feature_favorites": {
+		"message": "Ολα"
+	},
+	"hide_feature_favorites": {
+		"message": "Απόκρυψη Αγαπημένων"
+	},
+	"feature_favorites_description": {
+		"message": "Εμφάνιση μόνο αγαπημένων."
+	},
+	"feature_print": {
+		"message": "Τυπώνω"
+	},
+	"feature_print_description": {
+		"message": "Εκτυπώστε την τρέχουσα σελίδα."
+	},
+	"feature_printing_success": {
+		"message": "Άνοιγμα εκτύπωσης"
+	},
+	"feature_reader_mode": {
+		"message": "Λειτουργία ανάγνωσης"
+	},
+	"feature_readermode_opening": {
+		"message": "Άνοιγμα λειτουργίας Reader"
+	},
+	"feature_readermode_closing": {
+		"message": "Κλείσιμο λειτουργίας Reader"
+	},
+	"view_table": {
+		"message": "Προβολή πίνακα"
+	},
+	"view_time": {
+		"message": "Προβολή χρονολογίου"
+	},
+	"view_card": {
+		"message": "Προβολή κάρτας"
+	},
+	"feature_screenshot": {
+		"message": "Στιγμιότυπο οθόνης"
+	},
+	"feature_screenshot_description": {
+		"message": "Τραβήξτε ένα στιγμιότυπο οθόνης της τρέχουσας σελίδας."
+	},
+	"feature_screenshot_error": {
+		"message": "Σφάλμα κατά τη λήψη στιγμιότυπου οθόνης"
+	},
+	"feature_screenshot_success": {
+		"message": "Λήψη στιγμιότυπου οθόνης"
+	},
+	"feature_tooltip": {
+		"message": "Περιγραφές εικόνων"
+	},
+	"feature_tooltip_description": {
+		"message": "Εμφάνιση ετικετών alt και τίτλου πάνω στο ποντίκι."
+	},
+	"feature_translate": {
+		"message": "Μεταφράζω"
+	},
+	"feature_language": {
+		"message": "Γλώσσες"
+	},
+	"feature_magnifier": {
+		"message": "Μεγεθυντικός φακός"
+	},
+	"feature_magnifier_description": {
+		"message": "Μεγεθυντικός φακός"
+	},
+	"percentage": {
+		"message": "Ποσοστό"
+	},
+	"feature_analyze": {
+		"message": "Καταμέτρηση λέξεων"
+	},
+	"feature_analyze_description": {
+		"message": "αναλύει"
+	},
+	"feature_analyze_words": {
+		"message": "λόγια"
+	},
+	"feature_analyze_characters": {
+		"message": "χαρακτήρες"
+	},
+	"feature_annotations": {
+		"message": "Σημειώσεις"
+	},
+	"feature_annotations_description": {
+		"message": "Σημειώστε τη σελίδα αφήνοντας μια νέα αυτοκόλλητη σημείωση."
+	},
+	"feature_annotate_open": {
+		"message": "Δημιουργία νέας σημείωσης"
+	},
+	"annotate": {
+		"message": "Σχολιάζω"
+	},
+	"feature_cognitive_load": {
+		"message": "Ταχεία ανάγνωση"
+	},
+	"bold": {
+		"message": "Τόλμη"
+	},
+	"feature_background_color": {
+		"message": "Χρώμα του φόντου"
+	},
+	"feature_font_color": {
+		"message": "Χρώμα γραμματοσειράς"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Μενού"
+	},
+	"feature_highlight_color": {
+		"message": "Επισημάνετε το χρώμα"
+	},
+	"feature_link_color": {
+		"message": "Χρώμα συνδέσμου"
+	},
+	"feature_cursor_size": {
+		"message": "Μέγεθος δρομέα"
+	},
+	"feature_font_size": {
+		"message": "Μέγεθος κειμένου"
+	},
+	"feature_font_size_titles": {
+		"message": "Μέγεθος κεφαλίδων"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Μέγεθος παραγράφων"
+	},
+	"feature_gray_hue": {
+		"message": "Γκρι απόχρωση"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Επισημάνετε τις παραγράφους"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Επισημάνετε το χρώμα των παραγράφων"
+	},
+	"feature_images_hide_title": {
+		"message": "Απόκρυψη εικόνων"
+	},
+	"hide": {
+		"message": "Κρύβω"
+	},
+	"feature_images_hide": {
+		"message": "Απόκρυψη όλων των εικόνων"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Απόκρυψη Gif"
+	},
+	"feature_high_contast": {
+		"message": "Υψηλή αντίθεση"
+	},
+	"feature_text_adjustments": {
+		"message": "Προσαρμογές κειμένου"
+	},
+	"feature_text_align": {
+		"message": "Στοίχιση κειμένου"
+	},
+	"feature_text_alignment": {
+		"message": "Ευθυγραμμία"
+	},
+	"feature_letter_spacing": {
+		"message": "Διάστιχο γραμμάτων"
+	},
+	"spacing": {
+		"message": "Διάστημα"
+	},
+	"feature_line_height_spacing": {
+		"message": "Υψος γραμμής"
+	},
+	"height": {
+		"message": "Υψος"
+	},
+	"feature_line_focus": {
+		"message": "Εστίαση γραμμής"
+	},
+	"feature_line_focus_color": {
+		"message": "Χρώμα εστίασης γραμμής"
+	},
+	"feature_line_focus_height": {
+		"message": "Ύψος εστίασης γραμμής"
+	},
+	"feature_mute": {
+		"message": "Σίγαση βίντεο"
+	},
+	"feature_mute_description": {
+		"message": "Σίγαση βίντεο και ήχων από σελίδες."
+	},
+	"ocr_read_words": {
+		"message": "Διαβάστε το συντεταγμένο κείμενο"
+	},
+	"text": {
+		"message": "Κείμενο"
+	},
+	"ocr_read_words_save": {
+		"message": "Αποθήκευση κειμένου που έχει εκδοθεί"
+	},
+	"feature_extract_text": {
+		"message": "Εξαγωγή κειμένου (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Ενεργοποιήστε, επιλέξτε την περιοχή στην οθόνη."
+	},
+	"feature_overlay": {
+		"message": "Επικάλυμμα"
+	},
+	"feature_overlay_color": {
+		"message": "Χρώμα επικάλυψης"
+	},
+	"feature_paragraph_width": {
+		"message": "Πλάτος παραγράφου"
+	},
+	"width": {
+		"message": "Πλάτος"
+	},
+	"highlighted_text": {
+		"message": "Επισημασμένο κείμενο"
+	},
+	"issue_on_page": {
+		"message": "Θέμα"
+	},
+	"feature_reading_guide": {
+		"message": "Οδηγός ανάγνωσης"
+	},
+	"feature_reading_guide_color": {
+		"message": "Χρώμα οδηγού ανάγνωσης"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Δυσλεξικός χάρακας"
+	},
+	"feature_ruler_width": {
+		"message": "Πλάτος χάρακα"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Υψος"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Θέση"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Χρώμα"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Ακολουθηστε"
+	},
+	"feature_auto_scroll": {
+		"message": "Αυτόματη κύλιση"
+	},
+	"speed": {
+		"message": "Ταχύτητα"
+	},
+	"subscription_deleted": {
+		"message": "Η συνδρομή ακυρώθηκε"
+	},
+	"title_enjoy_until": {
+		"message": "Απολαύστε τη δοκιμή σας μέχρι"
+	},
+	"incomplete_expired": {
+		"message": "Δεν μπορέσαμε να ολοκληρώσουμε την πληρωμή."
+	},
+	"past_due": {
+		"message": "Η συνδρομή σας έχει καθυστερήσει."
+	},
+	"incomplete": {
+		"message": "Δεν μπορέσαμε να ολοκληρώσουμε την πληρωμή."
+	},
+	"transparency": {
+		"message": "Λάμψη"
+	},
+	"title_message_full": {
+		"message": "Βρέθηκε συνδρομή Helperbird Pro."
+	},
+	"contact_support": {
+		"message": "Επικοινωνήστε με την υποστήριξη."
+	},
+	"buy": {
+		"message": "Αγοράστε $1"
+	},
+	"feature_voice_typing": {
+		"message": "Φωνητική πληκτρολόγηση"
+	},
+	"feature_voice_typing_description": {
+		"message": "Προσθέτει φωνητική πληκτρολόγηση σε όλες τις εισόδους. Απλώς κάντε κλικ στο κουμπί στην είσοδο."
+	},
+	"google_docs_notice": {
+		"message": "Τώρα έχουμε ένα Google Addon! Εγκαταστήστε για να λάβετε ακόμη περισσότερη υποστήριξη."
+	},
+	"feature_spell_check": {
+		"message": "Ορθογραφικός έλεγχος"
+	},
+	"feature_summarize": {
+		"message": "Περίληψη σελίδας"
+	},
+	"feature_summarize_description": {
+		"message": "Συνοψίστε αυτήν τη σελίδα."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Επιλογές κειμένου σε ομιλία"
+	},
+	"feature_speech_voice": {
+		"message": "Φωνή"
+	},
+	"feature_speech_speed": {
+		"message": "Ταχύτητα"
+	},
+	"feature_speech_pitch": {
+		"message": "Πίσσα"
+	},
+	"feature_speech_volume": {
+		"message": "Ενταση ΗΧΟΥ"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Επισημάνετε το χρώμα"
+	},
+	"feature_speech_reading_success": {
+		"message": "Ανάγνωση επιλεγμένου κειμένου."
+	},
+	"feature_text_to_speech": {
+		"message": "Κείμενο σε ομιλία"
+	},
+	"you_need_to_highlight": {
+		"message": "Πρέπει να επισημάνετε κάποιο κείμενο."
+	},
+	"feature_word_prediction": {
+		"message": "Πρόβλεψη λέξεων"
+	},
+	"feature_word_prediction_description": {
+		"message": "Ενεργοποιήστε την πρόβλεψη λέξεων Helperbirds στις εισόδους."
+	},
+	"feature_word_spacing": {
+		"message": "Διάστιχο λέξεων"
+	},
+	"full_Screen": {
+		"message": "ΠΛΗΡΗΣ ΟΘΟΝΗ"
+	},
+	"voice_typing_stop": {
+		"message": "Διακοπή της φωνητικής πληκτρολόγησης."
+	},
+	"voice_typing_start": {
+		"message": "Μίλα τώρα."
+	},
+	"speak_word_on_hover": {
+		"message": "Διάβασε δυνατά."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Θα διαβάσει τη λέξη στον δείκτη του ποντικιού."
+	},
+	"speak": {
+		"message": "Μιλώ"
+	},
+	"auto_scroll_start": {
+		"message": "Ξεκίνησε η αυτόματη κύλιση."
+	},
+	"auto_scroll_stop": {
+		"message": "Η αυτόματη κύλιση σταμάτησε."
+	},
+	"popup_immersive_success": {
+		"message": "Φόρτωση Immersive reader."
+	},
+	"popup_readermode_success": {
+		"message": "Άνοιγμα λειτουργίας Reader."
+	},
+	"popup_printing_success": {
+		"message": "Άνοιγμα εκτύπωσης."
+	},
+	"ocr_select": {
+		"message": "Επιλέξτε περιοχή στη σελίδα."
+	},
+	"ocr_extracted": {
+		"message": "Εξαγωγή κειμένου."
+	},
+	"ocr_extracting": {
+		"message": "Εξαγωγή"
+	},
+	"ocr_copy": {
+		"message": "Αντιγράφηκε κείμενο από εικόνα. Αποθηκεύτηκε στο πρόχειρό σας."
+	},
+	"ocr_no_text": {
+		"message": "Δεν βρέθηκε κείμενο."
+	},
+	"popup_note_success": {
+		"message": "Αποθηκεύτηκε στις σημειώσεις σας."
+	},
+	"popup_immersive_error": {
+		"message": "Σφάλμα κατά τη φόρτωση του Immersive reader"
+	},
+	"popup_summarize_error": {
+		"message": "Σφάλμα σύνοψης σελίδας."
+	},
+	"popup_saving_error": {
+		"message": "Σφάλμα αποθήκευσης"
+	},
+	"popup_summarize_success": {
+		"message": "Σελίδα περίληψης"
+	},
+	"popup_readermode_closing": {
+		"message": "Κλείσιμο λειτουργίας Reader"
+	},
+	"close": {
+		"message": "Κλείσε"
+	},
+	"your_note_was_saved": {
+		"message": "Η σημείωσή σας αποθηκεύτηκε."
+	},
+	"error_saving_your_note": {
+		"message": "Σφάλμα κατά την αποθήκευση της σημείωσής σας. ΠΑΡΑΚΑΛΩ προσπαθησε ξανα."
+	},
+	"popup_readinglist_error": {
+		"message": "Σφάλμα αποθήκευσης στη λίστα ανάγνωσης"
+	},
+	"popup_readinglist_success": {
+		"message": "Αποθηκεύτηκε στη λίστα ανάγνωσης"
+	},
+	"popup_screenshot_error": {
+		"message": "Σφάλμα κατά τη λήψη στιγμιότυπου οθόνης"
+	},
+	"popup_screenshot_success": {
+		"message": "Λήψη στιγμιότυπου οθόνης"
+	},
+	"copied_text": {
+		"message": "Αντιγραμμένο κείμενο"
+	},
+	"copied_text_error": {
+		"message": "Σφάλμα κατά την αντιγραφή κειμένου."
+	},
+	"ocr_loading": {
+		"message": "Φόρτωση Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "Αποθηκεύτηκε στις σημειώσεις σας"
+	},
+	"popup_reading_success": {
+		"message": "Ανάγνωση επιλεγμένου κειμένου"
+	},
+	"popup_reading_finished": {
+		"message": "Τελείωσε την ανάγνωση"
+	},
+	"popup_reading_error": {
+		"message": "Στάθμευση"
+	},
+	"popup_reading_stopping": {
+		"message": "Στάθμευση"
+	},
+	"popup_reading_pause": {
+		"message": "Σε παύση"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Πρέπει να αναβαθμίσετε το Helperbird Pro για να χρησιμοποιήσετε αυτήν τη δυνατότητα."
+	},
+	"menu_define": {
+		"message": "Ορίστε τη λέξη"
+	},
+	"menu_website_readinglist": {
+		"message": "Προσθήκη ιστότοπου στη λίστα ανάγνωσης"
+	},
+	"menu_readinglist": {
+		"message": "Προσθήκη στη λίστα ανάγνωσης"
+	},
+	"menu_text_to_speech": {
+		"message": "Κείμενο σε ομιλία"
+	},
+	"menu_play": {
+		"message": "Παίζω"
+	},
+	"menu_pause": {
+		"message": "Παύση"
+	},
+	"menu_stop": {
+		"message": "Να σταματήσει"
+	},
+	"menu_resume": {
+		"message": "ΒΙΟΓΡΑΦΙΚΟ"
+	},
+	"menu_screenshot": {
+		"message": "Λήψη στιγμιότυπου οθόνης"
+	},
+	"menu_share": {
+		"message": "Μερίδιο"
+	},
+	"menu_reader_mode": {
+		"message": "Προβολή σε λειτουργία ανάγνωσης"
+	},
+	"menu_translate": {
+		"message": "Μεταφράζω"
+	},
+	"road_map": {
+		"message": "Οδικός Χάρτης"
+	},
+	"menu_immersive_reader": {
+		"message": "Προβολή στο Immersive reader"
+	},
+	"menu_summarize": {
+		"message": "Περίληψη σελίδας"
+	},
+	"menu_summarize_page": {
+		"message": "Η σελίδα συνοψίζεται"
+	},
+	"menu_annotate_page": {
+		"message": "Σχολιασμός σελίδας"
+	}
+}

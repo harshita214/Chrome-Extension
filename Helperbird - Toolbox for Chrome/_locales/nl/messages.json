@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird voor Chrome"
+	},
+	"appDescription": {
+		"message": "Meer dan 32 toegankelijkheids- en productiviteitsfuncties die zijn ontwikkeld om elk type lezer, leerling en schrijver te ondersteunen. Inclusief dyslexie ondersteuning."
+	},
+	"helpGuide": {
+		"message": "Help-gidsen"
+	},
+	"upgrade_title": {
+		"message": "Helperbird Pro-functie"
+	},
+	"upgrade_description": {
+		"message": "Je hebt een Helperbird Pro-abonnement nodig om deze functie te gebruiken. Maak je geen zorgen, het is 40 USD per jaar of 4,99 per maand."
+	},
+	"plan_deal": {
+		"message": "Studentenaanbieding"
+	},
+	"plan_month": {
+		"message": "Maandelijkse aanbieding"
+	},
+	"plan_year": {
+		"message": "Jaaraanbieding"
+	},
+	"upgrade_message": {
+		"message": "Upgrade naar Helperbird Pro om alle functies te ontgrendelen."
+	},
+	"column_title": {
+		"message": "Kolom"
+	},
+	"upgrade_now": {
+		"message": "Waardeer nu op"
+	},
+	"upgrade_to_pro": {
+		"message": "Upgrade naar Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Ontdek Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Meld u aan bij Helperbird of voer uw abonnementssleutel in."
+	},
+	"privacy": {
+		"message": "Privacy"
+	},
+	"whats_new": {
+		"message": "Wat is er nieuw"
+	},
+	"privacy_details": {
+		"message": "We respecteren uw privacy, dus hier is het in duidelijke en eenvoudige taal."
+	},
+	"privacy_details_one": {
+		"message": "Hier bij Helperbird respecteren en nemen we uw privacy uiterst serieus. Daarom slaan of verzamelen we niets."
+	},
+	"privacy_details_two": {
+		"message": "De enige vraag om uw e-mailadres, wanneer u inlogt. Om te controleren of uw school- of bedrijfsdomein is betaald of dat u heeft betaald voor een account in Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Alles wat u doet en de instellingen die u opslaat, blijven lokaal in uw browser staan. Verlaat nooit uw computer."
+	},
+	"free": {
+		"message": "Vrij"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "Op"
+	},
+	"on_lower": {
+		"message": "Aan"
+	},
+	"off": {
+		"message": "Uit"
+	},
+	"off_lower": {
+		"message": "uit"
+	},
+	"notes": {
+		"message": "Opmerkingen:"
+	},
+	"open_notes": {
+		"message": "Notities openen"
+	},
+	"save": {
+		"message": "Opslaan"
+	},
+	"clear": {
+		"message": "Duidelijk"
+	},
+	"manage": {
+		"message": "Beheren"
+	},
+	"open": {
+		"message": "Open"
+	},
+	"copy": {
+		"message": "Kopiëren"
+	},
+	"delete": {
+		"message": "Verwijderen"
+	},
+	"documents": {
+		"message": "Documenten"
+	},
+	"remove": {
+		"message": "Verwijderen"
+	},
+	"version": {
+		"message": "Versie"
+	},
+	"visit": {
+		"message": "Op bezoek komen"
+	},
+	"no_results": {
+		"message": "Geen resultaten"
+	},
+	"reduce_motion": {
+		"message": "Animaties"
+	},
+	"maths_steps": {
+		"message": "Wiskunde oplosser"
+	},
+	"tour": {
+		"message": "Helperbird-tour"
+	},
+	"reduce_motion_description": {
+		"message": "Voorkom dat animaties worden weergegeven op webpagina's."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader is een gratis tool die beproefde technieken implementeert om lezen en schrijven te verbeteren"
+	},
+	"start": {
+		"message": "Begin"
+	},
+	"learn_more": {
+		"message": "Leer meer"
+	},
+	"more": {
+		"message": "Meer"
+	},
+	"editor_title": {
+		"message": "Editor"
+	},
+	"editor_title_open": {
+		"message": "Helperbirds-editor openen"
+	},
+	"logout": {
+		"message": "Uitloggen"
+	},
+	"signin": {
+		"message": "Log in"
+	},
+	"define_title": {
+		"message": "Woordenboek"
+	},
+	"define_title_open": {
+		"message": "Woordenboek openen"
+	},
+	"define_empty_title": {
+		"message": "Zoek een woord en we zullen de betekenis ervan teruggeven."
+	},
+	"define_search": {
+		"message": "Zoekopdracht......"
+	},
+	"define_antonyms": {
+		"message": "Antoniemen"
+	},
+	"define_synonyms": {
+		"message": "synoniemen"
+	},
+	"define_meanings": {
+		"message": "betekenissen"
+	},
+	"define_related": {
+		"message": "Verwant"
+	},
+	"define_etymology": {
+		"message": "Etymologie"
+	},
+	"export": {
+		"message": "Exporteren"
+	},
+	"export_word": {
+		"message": "Exporteren naar Word"
+	},
+	"export_docs": {
+		"message": "Exporteren naar Google Documenten"
+	},
+	"export_text": {
+		"message": "Exporteren naar tekstbestand"
+	},
+	"toolbar_pdf": {
+		"message": "PDF lezer"
+	},
+	"toolbar_pdf_open": {
+		"message": "PDF-lezer openen"
+	},
+	"menus": {
+		"message": "Google Docs & Pdf's"
+	},
+	"upgrade_message_title": {
+		"description": "Helperbird-extensie.",
+		"message": "Upgrade naar $1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Helperbird-extensie.",
+		"message": "Krijg toegang tot krachtige functies zoals Reader Mode en $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Helperbird-extensie.",
+		"message": "Kies hieronder een abonnement om meer dan 30 functies en 24-uurs ondersteuning te ontgrendelen."
+	},
+	"alert_message": {
+		"message": "Upgrade of log in om toegang te krijgen tot alle Pro-functies."
+	},
+	"alert_loading": {
+		"message": "Bezig met laden...."
+	},
+	"alert_clear": {
+		"message": "Duidelijk"
+	},
+	"alert_cleared": {
+		"message": "gewist"
+	},
+	"alert_download": {
+		"message": "Downloaden"
+	},
+	"alert_no_data": {
+		"message": "Geen resultaten"
+	},
+	"annotations_notes": {
+		"message": "Opmerkingen:"
+	},
+	"import_annotations": {
+		"message": "Notities importeren"
+	},
+	"options": {
+		"message": "Opties"
+	},
+	"open_document": {
+		"message": "Document openen"
+	},
+	"select_document": {
+		"message": "U moet een document selecteren."
+	},
+	"copied_document": {
+		"message": "Document gekopieerd"
+	},
+	"saved_document": {
+		"message": "Document opgeslagen"
+	},
+	"issue_saving": {
+		"message": "Probleem opslaan"
+	},
+	"show_updates": {
+		"message": "Updates weergeven"
+	},
+	"new": {
+		"message": "Nieuw"
+	},
+	"pause": {
+		"message": "Pauze"
+	},
+	"removed_document": {
+		"message": "Document verwijderd"
+	},
+	"opening_document": {
+		"message": "Document openen"
+	},
+	"get_started": {
+		"message": "Begin"
+	},
+	"saved_to_documents": {
+		"message": "Opgeslagen in uw documenten."
+	},
+	"message_alert": {
+		"message": "Krijg toegang tot alle functies van Helperbirds en klantenondersteuning wanneer je maar wilt. Meer dan 30 functies."
+	},
+	"message_three_day": {
+		"message": "3 dagen op proef"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Controleer uw invoer"
+	},
+	"upgrade": {
+		"message": "Upgrade"
+	},
+	"upgrade_": {
+		"message": "Upgrade naar $1"
+	},
+	"website": {
+		"message": "Website"
+	},
+	"description": {
+		"message": "Beschrijving"
+	},
+	"capture": {
+		"message": "Gevangen nemen"
+	},
+	"category": {
+		"message": "Categorie"
+	},
+	"error_found_label": {
+		"message": "Er is een fout"
+	},
+	"cancel": {
+		"message": "Annuleren"
+	},
+	"readinglist_title": {
+		"message": "Lees lijst"
+	},
+	"readinglist_title_open": {
+		"message": "Leeslijst openen"
+	},
+	"note_removed": {
+		"message": "Opmerking verwijderd."
+	},
+	"note_removed_error": {
+		"message": "Kan notitie niet verwijderen."
+	},
+	"readinglist_removed": {
+		"message": "Website verwijderd"
+	},
+	"settings_saved": {
+		"message": "Instellingen opgeslagen"
+	},
+	"check_for_updates": {
+		"message": "Controleren op updates"
+	},
+	"show_highlights": {
+		"message": "Toon hoogtepunten op pagina."
+	},
+	"account_title": {
+		"message": "Rekening"
+	},
+	"account_description": {
+		"message": "We gebruiken hetzelfde e-mailadres waarmee u zich aanmeldt bij uw browser als uw login."
+	},
+	"signed_in_as": {
+		"message": "Aangemeld als"
+	},
+	"subscription_title": {
+		"message": "Abonnement"
+	},
+	"current_plan": {
+		"message": "Uw huidige abonnement"
+	},
+	"subscription_status": {
+		"message": "Uw abonnementsstatus:"
+	},
+	"check_subscription": {
+		"message": "Controleer abonnement"
+	},
+	"subscription_token_title": {
+		"message": "Abonnementssleutel"
+	},
+	"subscription_token_description": {
+		"message": "Als je een Helperbird Pro-abonnement hebt, voer het dan hieronder in om alle functies van Helperbird Pro te ontgrendelen."
+	},
+	"themes": {
+		"message": "Thema's"
+	},
+	"theme": {
+		"message": "Thema"
+	},
+	"danger_zone_title": {
+		"message": "Opslag"
+	},
+	"danger_zone_description": {
+		"message": "Met de onderstaande knop worden alle instellingen gewist en wordt de extensie gestart alsof deze nieuw is. Dus wees voorzichtig, we kunnen niets dat u verwijdert terugkrijgen."
+	},
+	"delete_everything": {
+		"message": "Alles verwijderen"
+	},
+	"delete_this_note": {
+		"message": "Verwijder deze notitie."
+	},
+	"visit_this_note": {
+		"message": "Bezoek de website waarop deze notitie staat."
+	},
+	"everything_deleted": {
+		"message": "Alle instellingen en opslag zijn nu verwijderd."
+	},
+	"enter_email": {
+		"message": "U moet een e-mail invoeren."
+	},
+	"shortcuts": {
+		"message": "Sneltoetsen"
+	},
+	"shortcuts_menu_on": {
+		"message": "Snelkoppelingen zijn ingeschakeld"
+	},
+	"shortcuts_menu_off": {
+		"message": "Snelkoppelingen zijn uitgeschakeld"
+	},
+	"shortcuts_title": {
+		"message": "Sneltoetsen"
+	},
+	"shortcuts_description": {
+		"message": "Sneltoetsen"
+	},
+	"shortcuts_ocr": {
+		"message": "OCR inschakelen"
+	},
+	"shortcuts_immsersive": {
+		"message": "Insluitende lezer openen"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Lezermodus openen"
+	},
+	"annotate_page": {
+		"message": "Annoteer pagina"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "PDF Openen"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Uitzoomen"
+	},
+	"open_pdf_zoom_in": {
+		"message": "In zoomen"
+	},
+	"settings": {
+		"message": "Instellingen"
+	},
+	"support_videos": {
+		"message": "Ondersteuningsvideo's"
+	},
+	"review_us": {
+		"message": "Beoordeel ons"
+	},
+	"view": {
+		"message": "Weergave"
+	},
+	"views": {
+		"message": "Keer bekeken"
+	},
+	"no_favorites": {
+		"message": "Geen favorieten"
+	},
+	"sorting_none": {
+		"message": "Er was niets te vinden."
+	},
+	"sorting": {
+		"message": "Sorteren...."
+	},
+	"showing_favorites": {
+		"message": "Favorieten weergeven"
+	},
+	"unpaid": {
+		"message": "Uw abonnement is onbetaald."
+	},
+	"canceled": {
+		"message": "Je abonnement is opgezegd."
+	},
+	"message_nothing_found": {
+		"message": "We konden geen abonnement vinden."
+	},
+	"couldnt_interact_with_page": {
+		"message": "We konden geen sms ontvangen. Probeer het opnieuw (Vernieuwen). Probeer onze add-on voor PDF of Google Docs."
+	},
+	"unpinned_favorite": {
+		"message": "Favoriet verwijderd"
+	},
+	"pin_favorite": {
+		"message": "favoriet"
+	},
+	"setting_saved": {
+		"message": "Instelling opgeslagen"
+	},
+	"favourite": {
+		"message": "Favoriet"
+	},
+	"un_favourite": {
+		"message": "Niet favoriet"
+	},
+	"how_to_use": {
+		"message": "Hoe te gebruiken"
+	},
+	"search": {
+		"message": "Zoekopdracht"
+	},
+	"search_feature": {
+		"message": "Zoekfuncties"
+	},
+	"filter_productivity": {
+		"message": "Onderzoek"
+	},
+	"helperbird_apps": {
+		"message": "Helperbird-apps"
+	},
+	"fav_message": {
+		"message": "Het lijkt erop dat je geen favoriete functies hebt. Om favoriet te zijn, klikt u op de drie stippen naast een functie en klikt u op favoriet."
+	},
+	"filter_features": {
+		"message": "Functies filteren"
+	},
+	"student_offer": {
+		"message": "Studenten krijgen Helperbird Pro voor"
+	},
+	"filter_style": {
+		"message": "Weergave"
+	},
+	"filter_text_to_speech": {
+		"message": "Tekst naar spraak"
+	},
+	"filter_dyslexia": {
+		"message": "Dyslexie"
+	},
+	"filter_pro": {
+		"message": "Pro-functies"
+	},
+	"filter": {
+		"message": "Filter"
+	},
+	"filter_writing": {
+		"message": "Schrijven"
+	},
+	"highlighter_title": {
+		"message": "markeerstift"
+	},
+	"filter_reading": {
+		"message": "Lezing"
+	},
+	"filter_active": {
+		"message": "Actief"
+	},
+	"filter_audio": {
+		"message": "Audiofuncties"
+	},
+	"feature_blindness": {
+		"message": "Kleurenblind"
+	},
+	"feature_emphasize_links": {
+		"message": "Benadruk links"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Tekststreek"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Kleur"
+	},
+	"color": {
+		"message": "Kleur"
+	},
+	"feature_specialized_font": {
+		"message": "Gespecialiseerd lettertype"
+	},
+	"feature_specialized_font_options": {
+		"message": "Lettertype-opties"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Markeermenu is ingeschakeld"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Markeermenu is uitgeschakeld"
+	},
+	"feature_highlight_menu": {
+		"message": "Markeer menu"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Toont ons tekstmenu met hoogtepunten."
+	},
+	"show": {
+		"message": "Tonen"
+	},
+	"welcome": {
+		"message": "Welkom bij Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Meeslepende lezer"
+	},
+	"create_a_new_note": {
+		"message": "Een nieuwe notitie maken"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Gebruik Immersive reader van Microsoft op deze pagina."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Documenten & Presentaties"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Voegt een Helperbird-werkbalk toe aan Google-documentbestanden."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF-werkbalk"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Voegt een Helperbird-werkbalk toe aan PDF-bestanden."
+	},
+	"pause_helperbird": {
+		"message": "Pauze $1"
+	},
+	"quick_action": {
+		"message": "Snelle acties"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 is uit"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 is op"
+	},
+	"voice_typing_is_on": {
+		"message": "Spraakgestuurd typen is ingeschakeld"
+	},
+	"voice_typing_is_off": {
+		"message": "Spraakgestuurd typen is uitgeschakeld"
+	},
+	"helperbird_paused": {
+		"message": "Helpervogel uit"
+	},
+	"helperbird_running": {
+		"message": "Helpervogel rennen"
+	},
+	"applying_settings": {
+		"message": "Uw instellingen toepassen"
+	},
+	"feature_favorites": {
+		"message": "Favorieten"
+	},
+	"all_feature_favorites": {
+		"message": "Alle"
+	},
+	"hide_feature_favorites": {
+		"message": "Verberg favorieten"
+	},
+	"feature_favorites_description": {
+		"message": "Alleen favorieten weergeven."
+	},
+	"feature_print": {
+		"message": "Afdrukken"
+	},
+	"feature_print_description": {
+		"message": "Druk de huidige pagina af."
+	},
+	"feature_printing_success": {
+		"message": "Afdrukken openen"
+	},
+	"feature_reader_mode": {
+		"message": "Lezermodus"
+	},
+	"feature_readermode_opening": {
+		"message": "Lezermodus openen"
+	},
+	"feature_readermode_closing": {
+		"message": "Lezermodus sluiten"
+	},
+	"view_table": {
+		"message": "Tabelweergave"
+	},
+	"view_time": {
+		"message": "Tijdlijnweergave"
+	},
+	"view_card": {
+		"message": "Kaartweergave"
+	},
+	"feature_screenshot": {
+		"message": "Schermafbeelding"
+	},
+	"feature_screenshot_description": {
+		"message": "Maak een screenshot van de huidige pagina."
+	},
+	"feature_screenshot_error": {
+		"message": "Fout bij het maken van screenshot"
+	},
+	"feature_screenshot_success": {
+		"message": "Screenshot maken"
+	},
+	"feature_tooltip": {
+		"message": "Afbeeldingsbeschrijvingen"
+	},
+	"feature_tooltip_description": {
+		"message": "Toon alt- en titeltags bij muisaanwijzer."
+	},
+	"feature_translate": {
+		"message": "Vertalen"
+	},
+	"feature_language": {
+		"message": "Talen"
+	},
+	"feature_magnifier": {
+		"message": "Vergrootglas"
+	},
+	"feature_magnifier_description": {
+		"message": "Vergrootglas"
+	},
+	"percentage": {
+		"message": "Percentage"
+	},
+	"feature_analyze": {
+		"message": "Aantal woorden"
+	},
+	"feature_analyze_description": {
+		"message": "analyseren"
+	},
+	"feature_analyze_words": {
+		"message": "woorden"
+	},
+	"feature_analyze_characters": {
+		"message": "karakters"
+	},
+	"feature_annotations": {
+		"message": "Opmerkingen:"
+	},
+	"feature_annotations_description": {
+		"message": "Maak aantekeningen op de pagina door een nieuwe plaknotitie achter te laten."
+	},
+	"feature_annotate_open": {
+		"message": "Een nieuwe notitie maken"
+	},
+	"annotate": {
+		"message": "Annoteren"
+	},
+	"feature_cognitive_load": {
+		"message": "Snellezen"
+	},
+	"bold": {
+		"message": "stoutmoedigheid"
+	},
+	"feature_background_color": {
+		"message": "Achtergrond kleur"
+	},
+	"feature_font_color": {
+		"message": "Letterkleur"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Menu"
+	},
+	"feature_highlight_color": {
+		"message": "Markeer kleur"
+	},
+	"feature_link_color": {
+		"message": "Link kleur"
+	},
+	"feature_cursor_size": {
+		"message": "Cursorgrootte:"
+	},
+	"feature_font_size": {
+		"message": "Lettergrootte"
+	},
+	"feature_font_size_titles": {
+		"message": "Grootte koptekst"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Alineagrootte"
+	},
+	"feature_gray_hue": {
+		"message": "Grijze tint"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Markeer alinea's"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Kleur van alinea's markeren"
+	},
+	"feature_images_hide_title": {
+		"message": "Afbeeldingen verbergen"
+	},
+	"hide": {
+		"message": "Verbergen"
+	},
+	"feature_images_hide": {
+		"message": "Alle afbeeldingen verbergen"
+	},
+	"feature_images_hide_gifs": {
+		"message": "GIF's verbergen"
+	},
+	"feature_high_contast": {
+		"message": "Hoog contrast"
+	},
+	"feature_text_adjustments": {
+		"message": "Tekstaanpassingen"
+	},
+	"feature_text_align": {
+		"message": "Tekst uitlijnen"
+	},
+	"feature_text_alignment": {
+		"message": "Uitlijning"
+	},
+	"feature_letter_spacing": {
+		"message": "Letterafstand"
+	},
+	"spacing": {
+		"message": "Spatiëring"
+	},
+	"feature_line_height_spacing": {
+		"message": "Lijnhoogte"
+	},
+	"height": {
+		"message": "Hoogte"
+	},
+	"feature_line_focus": {
+		"message": "Lijnfocus"
+	},
+	"feature_line_focus_color": {
+		"message": "Lijn focus kleur"
+	},
+	"feature_line_focus_height": {
+		"message": "Hoogte lijnfocus"
+	},
+	"feature_mute": {
+		"message": "Video dempen"
+	},
+	"feature_mute_description": {
+		"message": "Demp video's en geluiden van pagina's."
+	},
+	"ocr_read_words": {
+		"message": "Geëxtraheerde tekst lezen"
+	},
+	"text": {
+		"message": "Tekst"
+	},
+	"ocr_read_words_save": {
+		"message": "Geëxtraheerde tekst opslaan"
+	},
+	"feature_extract_text": {
+		"message": "Tekst extraheren (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Inschakelen, selecteer het gebied op het scherm."
+	},
+	"feature_overlay": {
+		"message": "overlay"
+	},
+	"feature_overlay_color": {
+		"message": "Overlay-kleur"
+	},
+	"feature_paragraph_width": {
+		"message": "Alineabreedte"
+	},
+	"width": {
+		"message": "Breedte"
+	},
+	"highlighted_text": {
+		"message": "Gemarkeerde tekst"
+	},
+	"issue_on_page": {
+		"message": "Kwestie"
+	},
+	"feature_reading_guide": {
+		"message": "Leesgids"
+	},
+	"feature_reading_guide_color": {
+		"message": "Kleur leesgids"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Dyslexie heerser"
+	},
+	"feature_ruler_width": {
+		"message": "Breedte liniaal"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Hoogte"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Positie"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Kleur"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Volgen"
+	},
+	"feature_auto_scroll": {
+		"message": "Automatisch scrollen"
+	},
+	"speed": {
+		"message": "Snelheid"
+	},
+	"subscription_deleted": {
+		"message": "Abonnement opgezegd"
+	},
+	"title_enjoy_until": {
+		"message": "Geniet van je proefperiode tot"
+	},
+	"incomplete_expired": {
+		"message": "We konden de betaling niet voltooien."
+	},
+	"past_due": {
+		"message": "Uw abonnement is verlopen."
+	},
+	"incomplete": {
+		"message": "We konden de betaling niet voltooien."
+	},
+	"transparency": {
+		"message": "Helderheid"
+	},
+	"title_message_full": {
+		"message": "Helperbird Pro-abonnement gevonden."
+	},
+	"contact_support": {
+		"message": "Neem contact op met ondersteuning."
+	},
+	"buy": {
+		"message": "Koop $1"
+	},
+	"feature_voice_typing": {
+		"message": "Spraakgestuurd typen"
+	},
+	"feature_voice_typing_description": {
+		"message": "Voegt spraakgestuurd typen toe aan alle ingangen. Klik gewoon op de knop op de ingang."
+	},
+	"google_docs_notice": {
+		"message": "We hebben nu een Google Add-on! Installeer voor nog meer ondersteuning."
+	},
+	"feature_spell_check": {
+		"message": "Spellingscontrole"
+	},
+	"feature_summarize": {
+		"message": "Pagina samenvatten"
+	},
+	"feature_summarize_description": {
+		"message": "Vat deze pagina samen."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Opties voor tekst naar spraak"
+	},
+	"feature_speech_voice": {
+		"message": "Stem"
+	},
+	"feature_speech_speed": {
+		"message": "Snelheid"
+	},
+	"feature_speech_pitch": {
+		"message": "Toonhoogte"
+	},
+	"feature_speech_volume": {
+		"message": "Volume"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Markeer kleur"
+	},
+	"feature_speech_reading_success": {
+		"message": "Geselecteerde tekst lezen."
+	},
+	"feature_text_to_speech": {
+		"message": "Tekst naar spraak"
+	},
+	"you_need_to_highlight": {
+		"message": "U moet wat tekst markeren."
+	},
+	"feature_word_prediction": {
+		"message": "Woordvoorspelling"
+	},
+	"feature_word_prediction_description": {
+		"message": "Schakel Helperbirds woordvoorspelling op invoer in."
+	},
+	"feature_word_spacing": {
+		"message": "woordafstand"
+	},
+	"full_Screen": {
+		"message": "Volledig scherm"
+	},
+	"voice_typing_stop": {
+		"message": "Spraakgestuurd typen stoppen."
+	},
+	"voice_typing_start": {
+		"message": "Nu spreken."
+	},
+	"speak_word_on_hover": {
+		"message": "Lees hardop."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Zal het woord lezen op hover."
+	},
+	"speak": {
+		"message": "Spreken"
+	},
+	"auto_scroll_start": {
+		"message": "Automatisch scrollen gestart."
+	},
+	"auto_scroll_stop": {
+		"message": "Automatisch scrollen gestopt."
+	},
+	"popup_immersive_success": {
+		"message": "Insluitende lezer laden."
+	},
+	"popup_readermode_success": {
+		"message": "Lezermodus openen."
+	},
+	"popup_printing_success": {
+		"message": "Afdrukken openen."
+	},
+	"ocr_select": {
+		"message": "Selecteer een gebied op de pagina."
+	},
+	"ocr_extracted": {
+		"message": "Tekst geëxtraheerd."
+	},
+	"ocr_extracting": {
+		"message": "Extraheren"
+	},
+	"ocr_copy": {
+		"message": "Tekst uit afbeelding gekopieerd. Opgeslagen op je klembord."
+	},
+	"ocr_no_text": {
+		"message": "Er is geen tekst gevonden."
+	},
+	"popup_note_success": {
+		"message": "Opgeslagen in uw notities."
+	},
+	"popup_immersive_error": {
+		"message": "Fout bij laden van insluitende lezer"
+	},
+	"popup_summarize_error": {
+		"message": "Fout bij samenvatten van pagina."
+	},
+	"popup_saving_error": {
+		"message": "Fout bij opslaan"
+	},
+	"popup_summarize_success": {
+		"message": "Samenvattende pagina"
+	},
+	"popup_readermode_closing": {
+		"message": "Lezermodus sluiten"
+	},
+	"close": {
+		"message": "Dichtbij"
+	},
+	"your_note_was_saved": {
+		"message": "Uw notitie is opgeslagen."
+	},
+	"error_saving_your_note": {
+		"message": "Fout bij het opslaan van uw notitie. Probeer het opnieuw."
+	},
+	"popup_readinglist_error": {
+		"message": "Fout bij opslaan in leeslijst"
+	},
+	"popup_readinglist_success": {
+		"message": "Opgeslagen in leeslijst"
+	},
+	"popup_screenshot_error": {
+		"message": "Fout bij het maken van screenshot"
+	},
+	"popup_screenshot_success": {
+		"message": "Screenshot maken"
+	},
+	"copied_text": {
+		"message": "Gekopieerde tekst"
+	},
+	"copied_text_error": {
+		"message": "Fout bij het kopiëren van tekst."
+	},
+	"ocr_loading": {
+		"message": "Helperbirds OCR laden"
+	},
+	"ocr_save": {
+		"message": "Opgeslagen in je notities"
+	},
+	"popup_reading_success": {
+		"message": "Geselecteerde tekst lezen"
+	},
+	"popup_reading_finished": {
+		"message": "klaar met lezen"
+	},
+	"popup_reading_error": {
+		"message": "Stoppen"
+	},
+	"popup_reading_stopping": {
+		"message": "Stoppen"
+	},
+	"popup_reading_pause": {
+		"message": "Gepauzeerd"
+	},
+	"notifcations_upgrade_title": {
+		"message": "U moet Helperbird Pro upgraden om deze functie te gebruiken."
+	},
+	"menu_define": {
+		"message": "Definieer woord"
+	},
+	"menu_website_readinglist": {
+		"message": "Website toevoegen aan leeslijst"
+	},
+	"menu_readinglist": {
+		"message": "Toevoegen aan leeslijst"
+	},
+	"menu_text_to_speech": {
+		"message": "Tekst naar spraak"
+	},
+	"menu_play": {
+		"message": "Toneelstuk"
+	},
+	"menu_pause": {
+		"message": "Pauze"
+	},
+	"menu_stop": {
+		"message": "Stop"
+	},
+	"menu_resume": {
+		"message": "Hervat"
+	},
+	"menu_screenshot": {
+		"message": "Screenshot maken"
+	},
+	"menu_share": {
+		"message": "Delen"
+	},
+	"menu_reader_mode": {
+		"message": "Weergeven in Lezermodus"
+	},
+	"menu_translate": {
+		"message": "Vertalen"
+	},
+	"road_map": {
+		"message": "stappenplan"
+	},
+	"menu_immersive_reader": {
+		"message": "Weergeven in insluitende lezer"
+	},
+	"menu_summarize": {
+		"message": "Pagina samenvatten"
+	},
+	"menu_summarize_page": {
+		"message": "Pagina samengevat"
+	},
+	"menu_annotate_page": {
+		"message": "Annoteer pagina"
+	}
+}

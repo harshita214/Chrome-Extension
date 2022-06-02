@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird لمتصفح Chrome"
+	},
+	"appDescription": {
+		"message": "تم تصميم أكثر من 32 ميزة إمكانية الوصول والإنتاجية لدعم كل نوع من القارئ والمتعلم والكاتب. يشمل دعم عسر القراءة."
+	},
+	"helpGuide": {
+		"message": "أدلة المساعدة"
+	},
+	"upgrade_title": {
+		"message": "ميزة Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "أنت بحاجة إلى اشتراك Helperbird Pro لاستخدام هذه الميزة. لا تقلق ، إنها 40 دولارًا أمريكيًا في السنة أو 4.99 شهريًا."
+	},
+	"plan_deal": {
+		"message": "عرض الطالب"
+	},
+	"plan_month": {
+		"message": "العرض الشهري"
+	},
+	"plan_year": {
+		"message": "عرض سنوي"
+	},
+	"upgrade_message": {
+		"message": "قم بالترقية إلى Helperbird Pro لفتح جميع الميزات."
+	},
+	"column_title": {
+		"message": "عمود"
+	},
+	"upgrade_now": {
+		"message": "تحديث الآن"
+	},
+	"upgrade_to_pro": {
+		"message": "قم بالترقية إلى Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "اكتشف Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "يرجى تسجيل الدخول إلى Helperbird أو إدخال مفتاح الاشتراك الخاص بك."
+	},
+	"privacy": {
+		"message": "خصوصية"
+	},
+	"whats_new": {
+		"message": "ما هو الجديد"
+	},
+	"privacy_details": {
+		"message": "نحن نحترم خصوصيتك ، لذا فهي هنا بلغة واضحة وبسيطة."
+	},
+	"privacy_details_one": {
+		"message": "هنا في Helperbird ، نحترم خصوصيتك ونأخذها على محمل الجد. لهذا السبب لا نقوم بتخزين أو جمع أي شيء."
+	},
+	"privacy_details_two": {
+		"message": "يسأل فقط عن بريدك الإلكتروني ، عند تسجيل الدخول. للتحقق مما إذا كانت مدرستك أو مجال عملك مدفوعًا أو إذا كنت قد دفعت مقابل حساب في Stripe."
+	},
+	"privacy_details_three": {
+		"message": "كل ما تفعله والإعدادات التي تحفظها تظل محليًا على متصفحك. لا تترك جهاز الكمبيوتر الخاص بك."
+	},
+	"free": {
+		"message": "حر"
+	},
+	"pro": {
+		"message": "طليعة"
+	},
+	"on": {
+		"message": "تشغيل"
+	},
+	"on_lower": {
+		"message": "تشغيل"
+	},
+	"off": {
+		"message": "عن"
+	},
+	"off_lower": {
+		"message": "إيقاف"
+	},
+	"notes": {
+		"message": "ملاحظات"
+	},
+	"open_notes": {
+		"message": "افتح الملاحظات"
+	},
+	"save": {
+		"message": "يحفظ"
+	},
+	"clear": {
+		"message": "واضح"
+	},
+	"manage": {
+		"message": "يدير"
+	},
+	"open": {
+		"message": "يفتح"
+	},
+	"copy": {
+		"message": "ينسخ"
+	},
+	"delete": {
+		"message": "حذف"
+	},
+	"documents": {
+		"message": "وثائق"
+	},
+	"remove": {
+		"message": "إزالة"
+	},
+	"version": {
+		"message": "الإصدار"
+	},
+	"visit": {
+		"message": "زيارة"
+	},
+	"no_results": {
+		"message": "لا نتائج"
+	},
+	"reduce_motion": {
+		"message": "الرسوم المتحركة"
+	},
+	"maths_steps": {
+		"message": "حلال الرياضيات"
+	},
+	"tour": {
+		"message": "جولة Helperbird"
+	},
+	"reduce_motion_description": {
+		"message": "منع عرض الرسوم المتحركة على صفحات الويب."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader هي أداة مجانية تنفذ تقنيات مجربة لتحسين القراءة والكتابة"
+	},
+	"start": {
+		"message": "يبدأ"
+	},
+	"learn_more": {
+		"message": "يتعلم أكثر"
+	},
+	"more": {
+		"message": "أكثر"
+	},
+	"editor_title": {
+		"message": "محرر"
+	},
+	"editor_title_open": {
+		"message": "افتح محرر Helperbirds"
+	},
+	"logout": {
+		"message": "تسجيل خروج"
+	},
+	"signin": {
+		"message": "تسجيل الدخول"
+	},
+	"define_title": {
+		"message": "قاموس"
+	},
+	"define_title_open": {
+		"message": "افتح القاموس"
+	},
+	"define_empty_title": {
+		"message": "ابحث عن كلمة وسنعيد معناها."
+	},
+	"define_search": {
+		"message": "بحث......"
+	},
+	"define_antonyms": {
+		"message": "التضاد"
+	},
+	"define_synonyms": {
+		"message": "المرادفات"
+	},
+	"define_meanings": {
+		"message": "المعاني"
+	},
+	"define_related": {
+		"message": "متعلق ب"
+	},
+	"define_etymology": {
+		"message": "علم أصول الكلمات"
+	},
+	"export": {
+		"message": "يصدّر"
+	},
+	"export_word": {
+		"message": "تصدير إلى Word"
+	},
+	"export_docs": {
+		"message": "تصدير إلى محرر مستندات Google"
+	},
+	"export_text": {
+		"message": "تصدير إلى ملف نصي"
+	},
+	"toolbar_pdf": {
+		"message": "قارئ PDF"
+	},
+	"toolbar_pdf_open": {
+		"message": "افتح قارئ PDF"
+	},
+	"menus": {
+		"message": "مستندات Google وملفات PDF"
+	},
+	"upgrade_message_title": {
+		"description": "ملحق Helperbird.",
+		"message": "الترقية إلى 1 دولار"
+	},
+	"upgrade_message_paragraph": {
+		"description": "ملحق Helperbird.",
+		"message": "الوصول إلى ميزات قوية مثل وضع القارئ و 1 دولار."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "ملحق Helperbird.",
+		"message": "اختر خطة أدناه لفتح أكثر من 30 ميزة ودعم على مدار 24 ساعة."
+	},
+	"alert_message": {
+		"message": "قم بالترقية أو تسجيل الدخول للوصول إلى جميع ميزات Pro."
+	},
+	"alert_loading": {
+		"message": "تحميل...."
+	},
+	"alert_clear": {
+		"message": "واضح"
+	},
+	"alert_cleared": {
+		"message": "مسح"
+	},
+	"alert_download": {
+		"message": "تحميل"
+	},
+	"alert_no_data": {
+		"message": "لا نتائج"
+	},
+	"annotations_notes": {
+		"message": "ملاحظات"
+	},
+	"import_annotations": {
+		"message": "ملاحظات الاستيراد"
+	},
+	"options": {
+		"message": "خيارات"
+	},
+	"open_document": {
+		"message": "افتح المستند"
+	},
+	"select_document": {
+		"message": "تحتاج إلى تحديد وثيقة."
+	},
+	"copied_document": {
+		"message": "تم نسخ المستند"
+	},
+	"saved_document": {
+		"message": "تم حفظ المستند"
+	},
+	"issue_saving": {
+		"message": "مسألة الحفظ"
+	},
+	"show_updates": {
+		"message": "إظهار التحديثات"
+	},
+	"new": {
+		"message": "جديد"
+	},
+	"pause": {
+		"message": "يوقف"
+	},
+	"removed_document": {
+		"message": "تمت إزالة المستند"
+	},
+	"opening_document": {
+		"message": "فتح الوثيقة"
+	},
+	"get_started": {
+		"message": "البدء"
+	},
+	"saved_to_documents": {
+		"message": "تم الحفظ في المستندات الخاصة بك."
+	},
+	"message_alert": {
+		"message": "احصل على إمكانية الوصول إلى جميع ميزات Helperbirds ودعم العملاء متى احتجت إليها. أكثر من 30 ميزة."
+	},
+	"message_three_day": {
+		"message": "3 أيام للمحاكمة"
+	},
+	"feature_pdf_reader": {
+		"message": "بي دي إف"
+	},
+	"check_inputs": {
+		"message": "تحقق من مدخلاتك"
+	},
+	"upgrade": {
+		"message": "تطوير"
+	},
+	"upgrade_": {
+		"message": "الترقية إلى 1 دولار"
+	},
+	"website": {
+		"message": "موقع الكتروني"
+	},
+	"description": {
+		"message": "وصف"
+	},
+	"capture": {
+		"message": "يأسر"
+	},
+	"category": {
+		"message": "فئة"
+	},
+	"error_found_label": {
+		"message": "هنالك خطأ"
+	},
+	"cancel": {
+		"message": "يلغي"
+	},
+	"readinglist_title": {
+		"message": "قائمة القراءة"
+	},
+	"readinglist_title_open": {
+		"message": "فتح قائمة القراءة"
+	},
+	"note_removed": {
+		"message": "تمت إزالة الملاحظة."
+	},
+	"note_removed_error": {
+		"message": "تعذرت إزالة الملاحظة."
+	},
+	"readinglist_removed": {
+		"message": "تمت إزالة الموقع"
+	},
+	"settings_saved": {
+		"message": "تم حفظ الإعدادات"
+	},
+	"check_for_updates": {
+		"message": "تحقق من وجود تحديثات"
+	},
+	"show_highlights": {
+		"message": "إظهار النقاط البارزة في الصفحة."
+	},
+	"account_title": {
+		"message": "الحساب"
+	},
+	"account_description": {
+		"message": "نحن نستخدم نفس البريد الإلكتروني الذي قمت بتسجيل الدخول إلى المتصفح الخاص بك لتسجيل الدخول الخاص بك."
+	},
+	"signed_in_as": {
+		"message": "وقعت في مثل"
+	},
+	"subscription_title": {
+		"message": "الاشتراك"
+	},
+	"current_plan": {
+		"message": "خطتك الحالية"
+	},
+	"subscription_status": {
+		"message": "حالة اشتراكك:"
+	},
+	"check_subscription": {
+		"message": "تحقق من الاشتراك"
+	},
+	"subscription_token_title": {
+		"message": "مفتاح الاشتراك"
+	},
+	"subscription_token_description": {
+		"message": "إذا كان لديك اشتراك Helperbird Pro ، فأدخله أدناه لفتح جميع ميزات Helperbird Pro."
+	},
+	"themes": {
+		"message": "ثيمات"
+	},
+	"theme": {
+		"message": "سمة"
+	},
+	"danger_zone_title": {
+		"message": "تخزين"
+	},
+	"danger_zone_description": {
+		"message": "سيؤدي الزر أدناه إلى مسح جميع الإعدادات وبدء الامتداد كما لو كان جديدًا. لذا كن حذرًا ، لا يمكننا استعادة أي شيء تحذفه."
+	},
+	"delete_everything": {
+		"message": "احذف كل شيء"
+	},
+	"delete_this_note": {
+		"message": "احذف هذه الملاحظة."
+	},
+	"visit_this_note": {
+		"message": "Vist موقع هذه المذكرة على."
+	},
+	"everything_deleted": {
+		"message": "تم الآن حذف جميع الإعدادات والتخزين."
+	},
+	"enter_email": {
+		"message": "تحتاج إلى إدخال بريد إلكتروني."
+	},
+	"shortcuts": {
+		"message": "الاختصارات"
+	},
+	"shortcuts_menu_on": {
+		"message": "الاختصارات قيد التشغيل"
+	},
+	"shortcuts_menu_off": {
+		"message": "الاختصارات متوقفة"
+	},
+	"shortcuts_title": {
+		"message": "الاختصارات"
+	},
+	"shortcuts_description": {
+		"message": "الاختصارات"
+	},
+	"shortcuts_ocr": {
+		"message": "تمكين OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "افتح القارئ الشامل"
+	},
+	"shortcuts_reader_mode": {
+		"message": "افتح وضع القارئ"
+	},
+	"annotate_page": {
+		"message": "علق الصفحة"
+	},
+	"pdf_viewer": {
+		"message": "بي دي إف"
+	},
+	"open_pdf": {
+		"message": "افتح ملف PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "تصغير"
+	},
+	"open_pdf_zoom_in": {
+		"message": "تكبير"
+	},
+	"settings": {
+		"message": "إعدادات"
+	},
+	"support_videos": {
+		"message": "دعم مقاطع الفيديو"
+	},
+	"review_us": {
+		"message": "راجعنا"
+	},
+	"view": {
+		"message": "رأي"
+	},
+	"views": {
+		"message": "الآراء"
+	},
+	"no_favorites": {
+		"message": "لا مفضلات"
+	},
+	"sorting_none": {
+		"message": "لا شيء يمكن العثور عليه."
+	},
+	"sorting": {
+		"message": "فرز...."
+	},
+	"showing_favorites": {
+		"message": "إظهار المفضلة"
+	},
+	"unpaid": {
+		"message": "اشتراكك غير مدفوع."
+	},
+	"canceled": {
+		"message": "تم إلغاء اشتراكك."
+	},
+	"message_nothing_found": {
+		"message": "لم نتمكن من العثور على اشتراك."
+	},
+	"couldnt_interact_with_page": {
+		"message": "لم نتمكن من الحصول على أي نص. يرجى المحاولة مرة أخرى (تحديث). جرب إضافة PDF أو محرر مستندات Google."
+	},
+	"unpinned_favorite": {
+		"message": "إزالة مفضل"
+	},
+	"pin_favorite": {
+		"message": "المفضل"
+	},
+	"setting_saved": {
+		"message": "تم حفظ الإعداد"
+	},
+	"favourite": {
+		"message": "المفضل"
+	},
+	"un_favourite": {
+		"message": "غير مفضل"
+	},
+	"how_to_use": {
+		"message": "كيف تستعمل"
+	},
+	"search": {
+		"message": "بحث"
+	},
+	"search_feature": {
+		"message": "ميزات البحث"
+	},
+	"filter_productivity": {
+		"message": "بحث"
+	},
+	"helperbird_apps": {
+		"message": "تطبيقات Helperbird"
+	},
+	"fav_message": {
+		"message": "يبدو أنه ليس لديك أي ميزات مفضلة. للمفضلة ، انقر فوق النقاط الثلاث بجوار الميزة وانقر فوق المفضلة."
+	},
+	"filter_features": {
+		"message": "ميزات التصفية"
+	},
+	"student_offer": {
+		"message": "يحصل الطلاب على Helperbird Pro مقابل"
+	},
+	"filter_style": {
+		"message": "عرض"
+	},
+	"filter_text_to_speech": {
+		"message": "النص إلى الكلام"
+	},
+	"filter_dyslexia": {
+		"message": "عسر القراءة"
+	},
+	"filter_pro": {
+		"message": "ميزات احترافية"
+	},
+	"filter": {
+		"message": "منقي"
+	},
+	"filter_writing": {
+		"message": "جاري الكتابة"
+	},
+	"highlighter_title": {
+		"message": "هايلايتر"
+	},
+	"filter_reading": {
+		"message": "قراءة"
+	},
+	"filter_active": {
+		"message": "نشيط"
+	},
+	"filter_audio": {
+		"message": "ميزات الصوت"
+	},
+	"feature_blindness": {
+		"message": "عمى الألوان"
+	},
+	"feature_emphasize_links": {
+		"message": "التأكيد على الروابط"
+	},
+	"feature_emphasize_stroke": {
+		"message": "شطب النص"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "اللون"
+	},
+	"color": {
+		"message": "اللون"
+	},
+	"feature_specialized_font": {
+		"message": "الخط المتخصص"
+	},
+	"feature_specialized_font_options": {
+		"message": "خيارات الخط"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "قائمة التظليل قيد التشغيل"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "قائمة التظليل متوقفة"
+	},
+	"feature_highlight_menu": {
+		"message": "قائمة التظليل"
+	},
+	"feature_highlight_menu_description": {
+		"message": "يظهر لدينا قائمة النص المميز."
+	},
+	"show": {
+		"message": "يعرض"
+	},
+	"welcome": {
+		"message": "مرحبًا بكم في Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "قارئ غامر"
+	},
+	"create_a_new_note": {
+		"message": "أنشئ ملاحظة جديدة"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "استخدم القارئ الشامل من Microsoft في هذه الصفحة."
+	},
+	"feature_toolbar_google": {
+		"message": "محرر مستندات Google والعروض التقديمية"
+	},
+	"feature_toolbar_google_description": {
+		"message": "يضيف شريط أدوات Helperbird على ملفات مستندات Google."
+	},
+	"feature_toolbar_pdf": {
+		"message": "شريط أدوات PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "يضيف شريط أدوات Helperbird على ملفات Pdf."
+	},
+	"pause_helperbird": {
+		"message": "وقفة $ 1"
+	},
+	"quick_action": {
+		"message": "إجراءات سريعة"
+	},
+	"feature_pause_helperbird": {
+		"message": "1 دولار متوقف"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$ 1 قيد التشغيل"
+	},
+	"voice_typing_is_on": {
+		"message": "الكتابة بالصوت قيد التشغيل"
+	},
+	"voice_typing_is_off": {
+		"message": "الكتابة بالصوت متوقفة"
+	},
+	"helperbird_paused": {
+		"message": "Helperbird قبالة"
+	},
+	"helperbird_running": {
+		"message": "Helperbird قيد التشغيل"
+	},
+	"applying_settings": {
+		"message": "تطبيق الإعدادات الخاصة بك"
+	},
+	"feature_favorites": {
+		"message": "المفضلة"
+	},
+	"all_feature_favorites": {
+		"message": "الجميع"
+	},
+	"hide_feature_favorites": {
+		"message": "إخفاء المفضلة"
+	},
+	"feature_favorites_description": {
+		"message": "إظهار المفضلة فقط."
+	},
+	"feature_print": {
+		"message": "مطبعة"
+	},
+	"feature_print_description": {
+		"message": "اطبع الصفحة الحالية."
+	},
+	"feature_printing_success": {
+		"message": "فتح الطباعة"
+	},
+	"feature_reader_mode": {
+		"message": "وضع القارئ"
+	},
+	"feature_readermode_opening": {
+		"message": "فتح وضع القارئ"
+	},
+	"feature_readermode_closing": {
+		"message": "إغلاق وضع القارئ"
+	},
+	"view_table": {
+		"message": "عرض جدول"
+	},
+	"view_time": {
+		"message": "عرض الجدول الزمني"
+	},
+	"view_card": {
+		"message": "عرض البطاقة"
+	},
+	"feature_screenshot": {
+		"message": "لقطة شاشة"
+	},
+	"feature_screenshot_description": {
+		"message": "خذ لقطة شاشة للصفحة الحالية."
+	},
+	"feature_screenshot_error": {
+		"message": "خطأ في التقاط لقطة الشاشة"
+	},
+	"feature_screenshot_success": {
+		"message": "التقاط لقطة شاشة"
+	},
+	"feature_tooltip": {
+		"message": "أوصاف الصورة"
+	},
+	"feature_tooltip_description": {
+		"message": "إظهار بديل وعلامات العنوان على الماوس فوق."
+	},
+	"feature_translate": {
+		"message": "يترجم"
+	},
+	"feature_language": {
+		"message": "اللغات"
+	},
+	"feature_magnifier": {
+		"message": "المكبر"
+	},
+	"feature_magnifier_description": {
+		"message": "المكبر"
+	},
+	"percentage": {
+		"message": "نسبة مئوية"
+	},
+	"feature_analyze": {
+		"message": "عدد الكلمات"
+	},
+	"feature_analyze_description": {
+		"message": "تحليل"
+	},
+	"feature_analyze_words": {
+		"message": "كلمات"
+	},
+	"feature_analyze_characters": {
+		"message": "الشخصيات"
+	},
+	"feature_annotations": {
+		"message": "ملاحظات"
+	},
+	"feature_annotations_description": {
+		"message": "علق الصفحة بترك ملاحظة لاصقة جديدة."
+	},
+	"feature_annotate_open": {
+		"message": "إنشاء ملاحظة جديدة"
+	},
+	"annotate": {
+		"message": "علق"
+	},
+	"feature_cognitive_load": {
+		"message": "سرعة القراءة"
+	},
+	"bold": {
+		"message": "بولودس"
+	},
+	"feature_background_color": {
+		"message": "لون الخلفية"
+	},
+	"feature_font_color": {
+		"message": "لون الخط"
+	},
+	"feature_highlight_menu_min": {
+		"message": "قائمة"
+	},
+	"feature_highlight_color": {
+		"message": "تسليط الضوء على اللون"
+	},
+	"feature_link_color": {
+		"message": "لون الارتباط"
+	},
+	"feature_cursor_size": {
+		"message": "حجم المؤشر"
+	},
+	"feature_font_size": {
+		"message": "حجم الخط"
+	},
+	"feature_font_size_titles": {
+		"message": "حجم الرؤوس"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "حجم الفقرات"
+	},
+	"feature_gray_hue": {
+		"message": "هوى رمادي"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "تسليط الضوء على الفقرات"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "تمييز لون الفقرات"
+	},
+	"feature_images_hide_title": {
+		"message": "إخفاء الصور"
+	},
+	"hide": {
+		"message": "إخفاء"
+	},
+	"feature_images_hide": {
+		"message": "إخفاء كل الصور"
+	},
+	"feature_images_hide_gifs": {
+		"message": "إخفاء صور متحركة"
+	},
+	"feature_high_contast": {
+		"message": "تباين عالي"
+	},
+	"feature_text_adjustments": {
+		"message": "تعديلات النص"
+	},
+	"feature_text_align": {
+		"message": "محاذاة النص"
+	},
+	"feature_text_alignment": {
+		"message": "تنسيق"
+	},
+	"feature_letter_spacing": {
+		"message": "تباعد الأحرف"
+	},
+	"spacing": {
+		"message": "تباعد"
+	},
+	"feature_line_height_spacing": {
+		"message": "ارتفاع خط"
+	},
+	"height": {
+		"message": "ارتفاع"
+	},
+	"feature_line_focus": {
+		"message": "تركيز الخط"
+	},
+	"feature_line_focus_color": {
+		"message": "لون تركيز الخط"
+	},
+	"feature_line_focus_height": {
+		"message": "ارتفاع تركيز الخط"
+	},
+	"feature_mute": {
+		"message": "كتم صوت الفيديو"
+	},
+	"feature_mute_description": {
+		"message": "كتم مقاطع الفيديو والأصوات من الصفحات."
+	},
+	"ocr_read_words": {
+		"message": "اقرأ النص الممتد"
+	},
+	"text": {
+		"message": "نص"
+	},
+	"ocr_read_words_save": {
+		"message": "احفظ النص الممتد"
+	},
+	"feature_extract_text": {
+		"message": "استخراج النص (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "تمكين ، حدد المنطقة على الشاشة."
+	},
+	"feature_overlay": {
+		"message": "تراكب"
+	},
+	"feature_overlay_color": {
+		"message": "لون التراكب"
+	},
+	"feature_paragraph_width": {
+		"message": "عرض الفقرة"
+	},
+	"width": {
+		"message": "عرض"
+	},
+	"highlighted_text": {
+		"message": "نص مميز"
+	},
+	"issue_on_page": {
+		"message": "مشكلة"
+	},
+	"feature_reading_guide": {
+		"message": "دليل القراءة"
+	},
+	"feature_reading_guide_color": {
+		"message": "دليل القراءة بالألوان"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "حاكم عسر القراءة"
+	},
+	"feature_ruler_width": {
+		"message": "عرض المسطرة"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "ارتفاع"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "موقع"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "اللون"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "يتبع"
+	},
+	"feature_auto_scroll": {
+		"message": "لف تلقائي"
+	},
+	"speed": {
+		"message": "سرعة"
+	},
+	"subscription_deleted": {
+		"message": "تم إلغاء الاشتراك"
+	},
+	"title_enjoy_until": {
+		"message": "استمتع بتجربتك حتى"
+	},
+	"incomplete_expired": {
+		"message": "لم نتمكن من إتمام الدفع."
+	},
+	"past_due": {
+		"message": "اشتراكك فات موعد استحقاقه."
+	},
+	"incomplete": {
+		"message": "لم نتمكن من إتمام الدفع."
+	},
+	"transparency": {
+		"message": "سطوع"
+	},
+	"title_message_full": {
+		"message": "تم العثور على اشتراك Helperbird Pro."
+	},
+	"contact_support": {
+		"message": "يرجى الاتصال بالدعم."
+	},
+	"buy": {
+		"message": "شراء 1 دولار"
+	},
+	"feature_voice_typing": {
+		"message": "الكتابة بالصوت"
+	},
+	"feature_voice_typing_description": {
+		"message": "يضيف الكتابة الصوتية على جميع المدخلات. فقط انقر فوق الزر الموجود على الإدخال."
+	},
+	"google_docs_notice": {
+		"message": "لدينا الآن Google Addon! قم بالتثبيت للحصول على المزيد من الدعم."
+	},
+	"feature_spell_check": {
+		"message": "التدقيق الإملائي"
+	},
+	"feature_summarize": {
+		"message": "تلخيص الصفحة"
+	},
+	"feature_summarize_description": {
+		"message": "تلخيص هذه الصفحة."
+	},
+	"feature_text_to_speech_options": {
+		"message": "خيارات تحويل النص إلى كلام"
+	},
+	"feature_speech_voice": {
+		"message": "صوت"
+	},
+	"feature_speech_speed": {
+		"message": "سرعة"
+	},
+	"feature_speech_pitch": {
+		"message": "ملعب كورة قدم"
+	},
+	"feature_speech_volume": {
+		"message": "مقدار"
+	},
+	"feature_speech_highlight_color": {
+		"message": "تسليط الضوء على اللون"
+	},
+	"feature_speech_reading_success": {
+		"message": "قراءة النص المحدد."
+	},
+	"feature_text_to_speech": {
+		"message": "النص إلى الكلام"
+	},
+	"you_need_to_highlight": {
+		"message": "تحتاج إلى تمييز بعض النص."
+	},
+	"feature_word_prediction": {
+		"message": "كلمة التنبؤ"
+	},
+	"feature_word_prediction_description": {
+		"message": "قم بتشغيل توقع كلمة Helperbirds على المدخلات."
+	},
+	"feature_word_spacing": {
+		"message": "تباعد الكلمات"
+	},
+	"full_Screen": {
+		"message": "كامل الشاشة"
+	},
+	"voice_typing_stop": {
+		"message": "إيقاف الكتابة بالصوت."
+	},
+	"voice_typing_start": {
+		"message": "تكلم الآن."
+	},
+	"speak_word_on_hover": {
+		"message": "قراءة بصوت عال."
+	},
+	"speak_word_on_hover_info": {
+		"message": "سوف تقرأ الكلمة على تحوم."
+	},
+	"speak": {
+		"message": "يتكلم"
+	},
+	"auto_scroll_start": {
+		"message": "بدأ التمرير التلقائي."
+	},
+	"auto_scroll_stop": {
+		"message": "توقف التمرير التلقائي."
+	},
+	"popup_immersive_success": {
+		"message": "تحميل القارئ الغامر."
+	},
+	"popup_readermode_success": {
+		"message": "فتح وضع القارئ."
+	},
+	"popup_printing_success": {
+		"message": "فتح الطباعة."
+	},
+	"ocr_select": {
+		"message": "حدد المنطقة على الصفحة."
+	},
+	"ocr_extracted": {
+		"message": "استخرج النص."
+	},
+	"ocr_extracting": {
+		"message": "استخراج"
+	},
+	"ocr_copy": {
+		"message": "نص منسوخ من الصورة. تم الحفظ في الحافظة الخاصة بك."
+	},
+	"ocr_no_text": {
+		"message": "لم يتم العثور على نص."
+	},
+	"popup_note_success": {
+		"message": "تم الحفظ في ملاحظاتك."
+	},
+	"popup_immersive_error": {
+		"message": "خطأ في تحميل القارئ الشامل"
+	},
+	"popup_summarize_error": {
+		"message": "خطأ في تلخيص الصفحة."
+	},
+	"popup_saving_error": {
+		"message": "خطأ في الحفظ"
+	},
+	"popup_summarize_success": {
+		"message": "صفحة التلخيص"
+	},
+	"popup_readermode_closing": {
+		"message": "إغلاق وضع القارئ"
+	},
+	"close": {
+		"message": "يغلق"
+	},
+	"your_note_was_saved": {
+		"message": "تم حفظ ملاحظتك."
+	},
+	"error_saving_your_note": {
+		"message": "خطأ في حفظ ملاحظتك. حاول مرة اخرى."
+	},
+	"popup_readinglist_error": {
+		"message": "خطأ في الحفظ في قائمة القراءة"
+	},
+	"popup_readinglist_success": {
+		"message": "تم الحفظ في قائمة القراءة"
+	},
+	"popup_screenshot_error": {
+		"message": "خطأ في التقاط لقطة الشاشة"
+	},
+	"popup_screenshot_success": {
+		"message": "التقاط لقطة شاشة"
+	},
+	"copied_text": {
+		"message": "نص منسوخ"
+	},
+	"copied_text_error": {
+		"message": "خطأ في نسخ النص."
+	},
+	"ocr_loading": {
+		"message": "تحميل Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "تم الحفظ في ملاحظاتك"
+	},
+	"popup_reading_success": {
+		"message": "قراءة النص المحدد"
+	},
+	"popup_reading_finished": {
+		"message": "قراءة الانتهاء"
+	},
+	"popup_reading_error": {
+		"message": "وقف"
+	},
+	"popup_reading_stopping": {
+		"message": "وقف"
+	},
+	"popup_reading_pause": {
+		"message": "متوقف مؤقتًا"
+	},
+	"notifcations_upgrade_title": {
+		"message": "تحتاج إلى ترقية Helperbird Pro لاستخدام هذه الميزة."
+	},
+	"menu_define": {
+		"message": "تعريف كلمة"
+	},
+	"menu_website_readinglist": {
+		"message": "إضافة موقع إلى قائمة القراءة"
+	},
+	"menu_readinglist": {
+		"message": "أضف إلى قائمة القراءة"
+	},
+	"menu_text_to_speech": {
+		"message": "النص إلى الكلام"
+	},
+	"menu_play": {
+		"message": "يلعب"
+	},
+	"menu_pause": {
+		"message": "يوقف"
+	},
+	"menu_stop": {
+		"message": "قف"
+	},
+	"menu_resume": {
+		"message": "سيرة ذاتية"
+	},
+	"menu_screenshot": {
+		"message": "خد لقطة للشاشة"
+	},
+	"menu_share": {
+		"message": "شارك"
+	},
+	"menu_reader_mode": {
+		"message": "اعرض في وضع القارئ"
+	},
+	"menu_translate": {
+		"message": "يترجم"
+	},
+	"road_map": {
+		"message": "خريطة الطريق"
+	},
+	"menu_immersive_reader": {
+		"message": "عرض في القارئ الشامل"
+	},
+	"menu_summarize": {
+		"message": "تلخيص الصفحة"
+	},
+	"menu_summarize_page": {
+		"message": "تلخيص الصفحة"
+	},
+	"menu_annotate_page": {
+		"message": "علق الصفحة"
+	}
+}

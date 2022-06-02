@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird para sa Chrome"
+	},
+	"appDescription": {
+		"message": "Higit sa 32 accessibility at productivity feature na binuo para suportahan ang bawat uri ng reader, learner, at writer. May kasamang suporta sa dyslexia."
+	},
+	"helpGuide": {
+		"message": "Mga gabay sa tulong"
+	},
+	"upgrade_title": {
+		"message": "Tampok ng Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "Kailangan mo ng Helperbird Pro na subscription para magamit ang feature na ito. Huwag mag-alala, ito ay 40 USD sa isang taon o 4.99 sa isang buwan."
+	},
+	"plan_deal": {
+		"message": "Alok ng mag-aaral"
+	},
+	"plan_month": {
+		"message": "Buwanang alok"
+	},
+	"plan_year": {
+		"message": "Taunang alok"
+	},
+	"upgrade_message": {
+		"message": "Mag-upgrade sa Helperbird Pro, para i-unlock ang lahat ng feature."
+	},
+	"column_title": {
+		"message": "Kolum"
+	},
+	"upgrade_now": {
+		"message": "Mag-upgrade na ngayon"
+	},
+	"upgrade_to_pro": {
+		"message": "Mag-upgrade sa Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Tuklasin ang Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Mangyaring mag-sign in sa Helperbird o ilagay ang iyong subscription key."
+	},
+	"privacy": {
+		"message": "Pagkapribado"
+	},
+	"whats_new": {
+		"message": "Anong bago"
+	},
+	"privacy_details": {
+		"message": "Iginagalang namin ang iyong privacy, kaya narito ito sa malinaw at simpleng wika."
+	},
+	"privacy_details_one": {
+		"message": "Dito sa Helperbird, iginagalang at sineseryoso namin ang iyong privacy. Kaya naman hindi kami nag-iimbak o nangongolekta ng kahit ano."
+	},
+	"privacy_details_two": {
+		"message": "Ang tanging humihingi ng iyong email, kapag nag-login ka. Upang tingnan kung ang domain ng iyong paaralan o negosyo ay binayaran o kung nagbayad ka para sa isang account sa Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Lahat ng iyong ginagawa at ang mga setting na iyong sine-save ay nananatili nang lokal sa iyong browser. Huwag kailanman umalis sa iyong computer."
+	},
+	"free": {
+		"message": "Libre"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "Naka-on"
+	},
+	"on_lower": {
+		"message": "sa"
+	},
+	"off": {
+		"message": "Naka-off"
+	},
+	"off_lower": {
+		"message": "off"
+	},
+	"notes": {
+		"message": "Mga Tala"
+	},
+	"open_notes": {
+		"message": "Buksan ang mga tala"
+	},
+	"save": {
+		"message": "I-save"
+	},
+	"clear": {
+		"message": "Malinaw"
+	},
+	"manage": {
+		"message": "Pamahalaan"
+	},
+	"open": {
+		"message": "Bukas"
+	},
+	"copy": {
+		"message": "Kopya"
+	},
+	"delete": {
+		"message": "Tanggalin"
+	},
+	"documents": {
+		"message": "Mga dokumento"
+	},
+	"remove": {
+		"message": "Alisin"
+	},
+	"version": {
+		"message": "Bersyon"
+	},
+	"visit": {
+		"message": "Bisitahin"
+	},
+	"no_results": {
+		"message": "Walang resulta"
+	},
+	"reduce_motion": {
+		"message": "Mga animation"
+	},
+	"maths_steps": {
+		"message": "Solver ng matematika"
+	},
+	"tour": {
+		"message": "Helperbird Tour"
+	},
+	"reduce_motion_description": {
+		"message": "Pigilan ang animation na maipakita sa mga Web page."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Ang Immersive Reader ay isang libreng tool na nagpapatupad ng mga napatunayang pamamaraan upang mapabuti ang pagbabasa at pagsusulat"
+	},
+	"start": {
+		"message": "Magsimula"
+	},
+	"learn_more": {
+		"message": "Matuto pa"
+	},
+	"more": {
+		"message": "Higit pa"
+	},
+	"editor_title": {
+		"message": "Editor"
+	},
+	"editor_title_open": {
+		"message": "Buksan ang Helperbirds Editor"
+	},
+	"logout": {
+		"message": "Mag-logout"
+	},
+	"signin": {
+		"message": "Mag log in"
+	},
+	"define_title": {
+		"message": "Diksyunaryo"
+	},
+	"define_title_open": {
+		"message": "Buksan ang Diksyunaryo"
+	},
+	"define_empty_title": {
+		"message": "Maghanap ng isang salita at ibabalik namin ang kahulugan nito."
+	},
+	"define_search": {
+		"message": "Hanapin......"
+	},
+	"define_antonyms": {
+		"message": "Antonyms"
+	},
+	"define_synonyms": {
+		"message": "Mga kasingkahulugan"
+	},
+	"define_meanings": {
+		"message": "Mga kahulugan"
+	},
+	"define_related": {
+		"message": "Kaugnay"
+	},
+	"define_etymology": {
+		"message": "Etimolohiya"
+	},
+	"export": {
+		"message": "I-export"
+	},
+	"export_word": {
+		"message": "I-export sa Word"
+	},
+	"export_docs": {
+		"message": "I-export sa Google Docs"
+	},
+	"export_text": {
+		"message": "I-export sa Text file"
+	},
+	"toolbar_pdf": {
+		"message": "PDF reader"
+	},
+	"toolbar_pdf_open": {
+		"message": "Buksan ang PDF reader"
+	},
+	"menus": {
+		"message": "Google Docs at PDF"
+	},
+	"upgrade_message_title": {
+		"description": "Helperbird extension.",
+		"message": "Mag-upgrade sa $1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Helperbird extension.",
+		"message": "I-access ang mga mahuhusay na feature tulad ng Reader Mode at $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Helperbird extension.",
+		"message": "Pumili ng plano sa ibaba para i-unlock ang mahigit 30 feature at 24 na oras na suporta."
+	},
+	"alert_message": {
+		"message": "Mag-upgrade o mag-login para ma-access ang lahat ng feature ng Pro."
+	},
+	"alert_loading": {
+		"message": "Naglo-load...."
+	},
+	"alert_clear": {
+		"message": "Malinaw"
+	},
+	"alert_cleared": {
+		"message": "Na-clear"
+	},
+	"alert_download": {
+		"message": "I-download"
+	},
+	"alert_no_data": {
+		"message": "Walang resulta"
+	},
+	"annotations_notes": {
+		"message": "Mga Tala"
+	},
+	"import_annotations": {
+		"message": "Mag-import ng mga tala"
+	},
+	"options": {
+		"message": "Mga pagpipilian"
+	},
+	"open_document": {
+		"message": "Buksan ang dokumento"
+	},
+	"select_document": {
+		"message": "Kailangan mong pumili ng isang dokumento."
+	},
+	"copied_document": {
+		"message": "Kinopya ang dokumento"
+	},
+	"saved_document": {
+		"message": "Na-save ang dokumento"
+	},
+	"issue_saving": {
+		"message": "Pag-save ng isyu"
+	},
+	"show_updates": {
+		"message": "Ipakita ang Mga Update"
+	},
+	"new": {
+		"message": "Bago"
+	},
+	"pause": {
+		"message": "I-pause"
+	},
+	"removed_document": {
+		"message": "Inalis ang dokumento"
+	},
+	"opening_document": {
+		"message": "Pagbubukas ng dokumento"
+	},
+	"get_started": {
+		"message": "Magsimula"
+	},
+	"saved_to_documents": {
+		"message": "Naka-save sa iyong mga dokumento."
+	},
+	"message_alert": {
+		"message": "Magkaroon ng access sa lahat ng feature ng Helperbirds at suporta sa customer tuwing kailangan mo ito. Higit sa 30 mga tampok."
+	},
+	"message_three_day": {
+		"message": "3 araw na pagsubok"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Suriin ang iyong mga input"
+	},
+	"upgrade": {
+		"message": "Mag-upgrade"
+	},
+	"upgrade_": {
+		"message": "Mag-upgrade sa $1"
+	},
+	"website": {
+		"message": "Website"
+	},
+	"description": {
+		"message": "Paglalarawan"
+	},
+	"capture": {
+		"message": "Kunin"
+	},
+	"category": {
+		"message": "Kategorya"
+	},
+	"error_found_label": {
+		"message": "May mali"
+	},
+	"cancel": {
+		"message": "Kanselahin"
+	},
+	"readinglist_title": {
+		"message": "Listahan ng mga babasahin"
+	},
+	"readinglist_title_open": {
+		"message": "Buksan ang Reading list"
+	},
+	"note_removed": {
+		"message": "Inalis ang tala."
+	},
+	"note_removed_error": {
+		"message": "Hindi maalis ang tala."
+	},
+	"readinglist_removed": {
+		"message": "Inalis ang website"
+	},
+	"settings_saved": {
+		"message": "Na-save ang mga setting"
+	},
+	"check_for_updates": {
+		"message": "Tingnan ang mga update"
+	},
+	"show_highlights": {
+		"message": "Ipakita ang mga highlight sa pahina."
+	},
+	"account_title": {
+		"message": "Account"
+	},
+	"account_description": {
+		"message": "Ginagamit namin ang parehong email na nag-sign in ka sa iyong browser bilang iyong login."
+	},
+	"signed_in_as": {
+		"message": "Naka-sign in bilang"
+	},
+	"subscription_title": {
+		"message": "Subscription"
+	},
+	"current_plan": {
+		"message": "Ang iyong kasalukuyang plano"
+	},
+	"subscription_status": {
+		"message": "Ang katayuan ng iyong subscription:"
+	},
+	"check_subscription": {
+		"message": "Suriin ang subscription"
+	},
+	"subscription_token_title": {
+		"message": "Susi ng subscription"
+	},
+	"subscription_token_description": {
+		"message": "Kung mayroon kang subscription sa Helperbird Pro, ilagay ito sa ibaba upang i-unlock ang lahat ng feature ng Helperbird Pro."
+	},
+	"themes": {
+		"message": "Mga tema"
+	},
+	"theme": {
+		"message": "Tema"
+	},
+	"danger_zone_title": {
+		"message": "Imbakan"
+	},
+	"danger_zone_description": {
+		"message": "I-clear ng button sa ibaba ang lahat ng setting at sisimulan ang extension na parang bago ito. Kaya't mag-ingat na hindi namin makukuha muli ang anumang tinanggal mo."
+	},
+	"delete_everything": {
+		"message": "Tanggalin lahat"
+	},
+	"delete_this_note": {
+		"message": "Tanggalin ang talang ito."
+	},
+	"visit_this_note": {
+		"message": "Bisitahin ang website na naka-on ang tala na ito."
+	},
+	"everything_deleted": {
+		"message": "Ang lahat ng mga setting at imbakan ay tinanggal na ngayon."
+	},
+	"enter_email": {
+		"message": "Kailangan mong magpasok ng email."
+	},
+	"shortcuts": {
+		"message": "Mga shortcut"
+	},
+	"shortcuts_menu_on": {
+		"message": "Naka-on ang mga shortcut"
+	},
+	"shortcuts_menu_off": {
+		"message": "Naka-off ang mga shortcut"
+	},
+	"shortcuts_title": {
+		"message": "Mga shortcut"
+	},
+	"shortcuts_description": {
+		"message": "Mga shortcut"
+	},
+	"shortcuts_ocr": {
+		"message": "Paganahin ang OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Buksan ang Immersive reader"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Buksan ang Reader Mode"
+	},
+	"annotate_page": {
+		"message": "I-annotate ang pahina"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Buksan ang PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Mag-zoom out"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Palakihin"
+	},
+	"settings": {
+		"message": "Mga setting"
+	},
+	"support_videos": {
+		"message": "Suportahan ang mga video"
+	},
+	"review_us": {
+		"message": "Suriin kami"
+	},
+	"view": {
+		"message": "Tingnan"
+	},
+	"views": {
+		"message": "Mga view"
+	},
+	"no_favorites": {
+		"message": "Walang paborito"
+	},
+	"sorting_none": {
+		"message": "Walang mahanap."
+	},
+	"sorting": {
+		"message": "Pag-uuri...."
+	},
+	"showing_favorites": {
+		"message": "Ipinapakita ang mga paborito"
+	},
+	"unpaid": {
+		"message": "Ang iyong subscription ay hindi binabayaran."
+	},
+	"canceled": {
+		"message": "Kinansela ang iyong subscription."
+	},
+	"message_nothing_found": {
+		"message": "Wala kaming mahanap na subscription."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Wala kaming makuhang text. Pakisubukang muli (I-refresh). Subukan ang aming PDF o Google Docs add-on."
+	},
+	"unpinned_favorite": {
+		"message": "Inalis na paborito"
+	},
+	"pin_favorite": {
+		"message": "Paborito"
+	},
+	"setting_saved": {
+		"message": "Na-save ang setting"
+	},
+	"favourite": {
+		"message": "Paborito"
+	},
+	"un_favourite": {
+		"message": "Hindi paborito"
+	},
+	"how_to_use": {
+		"message": "Paano gamitin"
+	},
+	"search": {
+		"message": "Maghanap"
+	},
+	"search_feature": {
+		"message": "Mga tampok sa paghahanap"
+	},
+	"filter_productivity": {
+		"message": "Pananaliksik"
+	},
+	"helperbird_apps": {
+		"message": "Helperbird apps"
+	},
+	"fav_message": {
+		"message": "Mukhang wala kang anumang feature na paborito. Upang paborito, i-click ang tatlong tuldok sa tabi ng isang feature at i-click ang paborito."
+	},
+	"filter_features": {
+		"message": "Mga tampok ng filter"
+	},
+	"student_offer": {
+		"message": "Ang mga mag-aaral ay nakakakuha ng Helperbird Pro para sa"
+	},
+	"filter_style": {
+		"message": "Pagpapakita"
+	},
+	"filter_text_to_speech": {
+		"message": "Text to speech"
+	},
+	"filter_dyslexia": {
+		"message": "Dyslexia"
+	},
+	"filter_pro": {
+		"message": "Mga tampok na pro"
+	},
+	"filter": {
+		"message": "Salain"
+	},
+	"filter_writing": {
+		"message": "Pagsusulat"
+	},
+	"highlighter_title": {
+		"message": "Highlighter"
+	},
+	"filter_reading": {
+		"message": "Nagbabasa"
+	},
+	"filter_active": {
+		"message": "Aktibo"
+	},
+	"filter_audio": {
+		"message": "Mga tampok ng audio"
+	},
+	"feature_blindness": {
+		"message": "Pagkabulag ng kulay"
+	},
+	"feature_emphasize_links": {
+		"message": "Bigyang-diin ang mga link"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Text stroke"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Kulay"
+	},
+	"color": {
+		"message": "Kulay"
+	},
+	"feature_specialized_font": {
+		"message": "Espesyal na Font"
+	},
+	"feature_specialized_font_options": {
+		"message": "Mga pagpipilian sa font"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Naka-on ang highlight na menu"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Naka-off ang highlight na menu"
+	},
+	"feature_highlight_menu": {
+		"message": "I-highlight ang menu"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Ipinapakita ang aming highlight na text menu."
+	},
+	"show": {
+		"message": "Ipakita"
+	},
+	"welcome": {
+		"message": "Maligayang pagdating sa Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Nakaka-engganyong mambabasa"
+	},
+	"create_a_new_note": {
+		"message": "Gumawa ng bagong tala"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Gumamit ng Immersive reader ng Microsoft sa page na ito."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Docs at Slides"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Nagdaragdag ng Helperbird toolbar sa mga Google doc file."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF toolbar"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Nagdaragdag ng Helperbird toolbar sa mga Pdf file."
+	},
+	"pause_helperbird": {
+		"message": "I-pause ang $1"
+	},
+	"quick_action": {
+		"message": "Mabilis na pagkilos"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 ay wala"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "Naka-on ang $1"
+	},
+	"voice_typing_is_on": {
+		"message": "Naka-on ang voice typing"
+	},
+	"voice_typing_is_off": {
+		"message": "Naka-off ang voice typing"
+	},
+	"helperbird_paused": {
+		"message": "Helperbird off"
+	},
+	"helperbird_running": {
+		"message": "Helperbird na tumatakbo"
+	},
+	"applying_settings": {
+		"message": "Inilalapat ang iyong mga setting"
+	},
+	"feature_favorites": {
+		"message": "Mga paborito"
+	},
+	"all_feature_favorites": {
+		"message": "Lahat"
+	},
+	"hide_feature_favorites": {
+		"message": "Itago ang Mga Paborito"
+	},
+	"feature_favorites_description": {
+		"message": "Ipakita lamang ang mga paborito."
+	},
+	"feature_print": {
+		"message": "Print"
+	},
+	"feature_print_description": {
+		"message": "I-print ang kasalukuyang pahina."
+	},
+	"feature_printing_success": {
+		"message": "Pagbubukas ng pag-print"
+	},
+	"feature_reader_mode": {
+		"message": "Reader Mode"
+	},
+	"feature_readermode_opening": {
+		"message": "Pagbubukas ng Reader mode"
+	},
+	"feature_readermode_closing": {
+		"message": "Isinasara ang Reader mode"
+	},
+	"view_table": {
+		"message": "View ng mesa"
+	},
+	"view_time": {
+		"message": "View ng timeline"
+	},
+	"view_card": {
+		"message": "View ng card"
+	},
+	"feature_screenshot": {
+		"message": "Screenshot"
+	},
+	"feature_screenshot_description": {
+		"message": "Kumuha ng screenshot ng kasalukuyang page."
+	},
+	"feature_screenshot_error": {
+		"message": "Error sa pagkuha ng screenshot"
+	},
+	"feature_screenshot_success": {
+		"message": "Kinukuha ang screenshot"
+	},
+	"feature_tooltip": {
+		"message": "Mga paglalarawan ng larawan"
+	},
+	"feature_tooltip_description": {
+		"message": "Ipakita ang mga alt at title tag sa ibabaw ng mouse."
+	},
+	"feature_translate": {
+		"message": "Isalin"
+	},
+	"feature_language": {
+		"message": "Mga wika"
+	},
+	"feature_magnifier": {
+		"message": "Magnifier"
+	},
+	"feature_magnifier_description": {
+		"message": "Magnifier"
+	},
+	"percentage": {
+		"message": "Porsiyento"
+	},
+	"feature_analyze": {
+		"message": "Bilang ng salita"
+	},
+	"feature_analyze_description": {
+		"message": "pag-aralan"
+	},
+	"feature_analyze_words": {
+		"message": "mga salita"
+	},
+	"feature_analyze_characters": {
+		"message": "mga karakter"
+	},
+	"feature_annotations": {
+		"message": "Mga Tala"
+	},
+	"feature_annotations_description": {
+		"message": "I-annotate ang page sa pamamagitan ng pag-iiwan ng bagong sticky note."
+	},
+	"feature_annotate_open": {
+		"message": "Paglikha ng bagong tala"
+	},
+	"annotate": {
+		"message": "Mag-annotate"
+	},
+	"feature_cognitive_load": {
+		"message": "Bilis ng pagbabasa"
+	},
+	"bold": {
+		"message": "Bolodness"
+	},
+	"feature_background_color": {
+		"message": "Kulay ng background"
+	},
+	"feature_font_color": {
+		"message": "Kulay ng font"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Menu"
+	},
+	"feature_highlight_color": {
+		"message": "I-highlight ang kulay"
+	},
+	"feature_link_color": {
+		"message": "Kulay ng link"
+	},
+	"feature_cursor_size": {
+		"message": "Laki ng cursor"
+	},
+	"feature_font_size": {
+		"message": "Laki ng text"
+	},
+	"feature_font_size_titles": {
+		"message": "Laki ng mga header"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Laki ng mga talata"
+	},
+	"feature_gray_hue": {
+		"message": "Kulay abo"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "I-highlight ang mga talata"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "I-highlight ang kulay ng mga talata"
+	},
+	"feature_images_hide_title": {
+		"message": "Itago ang mga larawan"
+	},
+	"hide": {
+		"message": "Tago"
+	},
+	"feature_images_hide": {
+		"message": "Itago ang lahat ng larawan"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Itago ang mga Gif"
+	},
+	"feature_high_contast": {
+		"message": "Mataas na kaibahan"
+	},
+	"feature_text_adjustments": {
+		"message": "Mga pagsasaayos ng teksto"
+	},
+	"feature_text_align": {
+		"message": "I-align ang Text"
+	},
+	"feature_text_alignment": {
+		"message": "Paghahanay"
+	},
+	"feature_letter_spacing": {
+		"message": "Espasyo ng titik"
+	},
+	"spacing": {
+		"message": "Spacing"
+	},
+	"feature_line_height_spacing": {
+		"message": "Taas ng linya"
+	},
+	"height": {
+		"message": "taas"
+	},
+	"feature_line_focus": {
+		"message": "Pokus sa linya"
+	},
+	"feature_line_focus_color": {
+		"message": "Kulay ng focus ng linya"
+	},
+	"feature_line_focus_height": {
+		"message": "Taas ng focus ng linya"
+	},
+	"feature_mute": {
+		"message": "I-mute ang video"
+	},
+	"feature_mute_description": {
+		"message": "I-mute ang mga video at tunog mula sa mga page."
+	},
+	"ocr_read_words": {
+		"message": "Basahin ang na-extract na teksto"
+	},
+	"text": {
+		"message": "Text"
+	},
+	"ocr_read_words_save": {
+		"message": "I-save ang na-extract na text"
+	},
+	"feature_extract_text": {
+		"message": "I-extract ang text (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Paganahin, piliin ang lugar sa screen."
+	},
+	"feature_overlay": {
+		"message": "Overlay"
+	},
+	"feature_overlay_color": {
+		"message": "Kulay ng overlay"
+	},
+	"feature_paragraph_width": {
+		"message": "Lapad ng talata"
+	},
+	"width": {
+		"message": "Lapad"
+	},
+	"highlighted_text": {
+		"message": "Naka-highlight na teksto"
+	},
+	"issue_on_page": {
+		"message": "Isyu"
+	},
+	"feature_reading_guide": {
+		"message": "Gabay sa Pagbasa"
+	},
+	"feature_reading_guide_color": {
+		"message": "Kulay ng Gabay sa Pagbasa"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Tagapamahala ng dyslexia"
+	},
+	"feature_ruler_width": {
+		"message": "Lapad ng ruler"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "taas"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Posisyon"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Kulay"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Sundin"
+	},
+	"feature_auto_scroll": {
+		"message": "Auto scroll"
+	},
+	"speed": {
+		"message": "Bilis"
+	},
+	"subscription_deleted": {
+		"message": "Kinansela ang subscription"
+	},
+	"title_enjoy_until": {
+		"message": "Masiyahan sa iyong pagsubok hanggang"
+	},
+	"incomplete_expired": {
+		"message": "Hindi namin makumpleto ang pagbabayad."
+	},
+	"past_due": {
+		"message": "Lampas na sa takdang petsa ang iyong subscription."
+	},
+	"incomplete": {
+		"message": "Hindi namin makumpleto ang pagbabayad."
+	},
+	"transparency": {
+		"message": "Liwanag"
+	},
+	"title_message_full": {
+		"message": "Nahanap ang subscription sa Helperbird Pro."
+	},
+	"contact_support": {
+		"message": "Mangyaring makipag-ugnayan sa suporta."
+	},
+	"buy": {
+		"message": "Bumili ng $1"
+	},
+	"feature_voice_typing": {
+		"message": "Pag-type ng boses"
+	},
+	"feature_voice_typing_description": {
+		"message": "Nagdaragdag ng voice typing sa lahat ng input. I-click lamang ang pindutan sa input."
+	},
+	"google_docs_notice": {
+		"message": "Mayroon na kaming Google Addon! I-install upang makakuha ng higit pang suporta."
+	},
+	"feature_spell_check": {
+		"message": "Spellcheck"
+	},
+	"feature_summarize": {
+		"message": "Buod ng pahina"
+	},
+	"feature_summarize_description": {
+		"message": "Ibuod ang pahinang ito."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Mga opsyon sa text to speech"
+	},
+	"feature_speech_voice": {
+		"message": "Boses"
+	},
+	"feature_speech_speed": {
+		"message": "Bilis"
+	},
+	"feature_speech_pitch": {
+		"message": "Pitch"
+	},
+	"feature_speech_volume": {
+		"message": "Dami"
+	},
+	"feature_speech_highlight_color": {
+		"message": "I-highlight ang kulay"
+	},
+	"feature_speech_reading_success": {
+		"message": "Binabasa ang napiling teksto."
+	},
+	"feature_text_to_speech": {
+		"message": "Text to speech"
+	},
+	"you_need_to_highlight": {
+		"message": "Kailangan mong i-highlight ang ilang teksto."
+	},
+	"feature_word_prediction": {
+		"message": "Paghuhula ng Salita"
+	},
+	"feature_word_prediction_description": {
+		"message": "I-on ang hula ng salita ng Helperbirds sa mga input."
+	},
+	"feature_word_spacing": {
+		"message": "Word spacing"
+	},
+	"full_Screen": {
+		"message": "Fullscreen"
+	},
+	"voice_typing_stop": {
+		"message": "Paghinto ng voice typing."
+	},
+	"voice_typing_start": {
+		"message": "Magsalita ka na."
+	},
+	"speak_word_on_hover": {
+		"message": "Basahin nang malakas."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Babasahin ang salita sa hover."
+	},
+	"speak": {
+		"message": "Magsalita"
+	},
+	"auto_scroll_start": {
+		"message": "Nagsimula ang auto scroll."
+	},
+	"auto_scroll_stop": {
+		"message": "Tumigil ang auto scroll."
+	},
+	"popup_immersive_success": {
+		"message": "Naglo-load ng Immersive na mambabasa."
+	},
+	"popup_readermode_success": {
+		"message": "Pagbubukas ng Reader mode."
+	},
+	"popup_printing_success": {
+		"message": "Pagbubukas ng pag-print."
+	},
+	"ocr_select": {
+		"message": "Pumili ng lugar sa page."
+	},
+	"ocr_extracted": {
+		"message": "Na-extract ang text."
+	},
+	"ocr_extracting": {
+		"message": "Pag-extract"
+	},
+	"ocr_copy": {
+		"message": "Kinopya ang teksto mula sa larawan. Nai-save sa iyong clipboard."
+	},
+	"ocr_no_text": {
+		"message": "Walang nakitang text."
+	},
+	"popup_note_success": {
+		"message": "Naka-save sa iyong mga tala."
+	},
+	"popup_immersive_error": {
+		"message": "Error sa paglo-load ng Immersive reader"
+	},
+	"popup_summarize_error": {
+		"message": "Error sa pagbubuod ng pahina."
+	},
+	"popup_saving_error": {
+		"message": "Error sa pag-save"
+	},
+	"popup_summarize_success": {
+		"message": "pahina ng pagbubuod"
+	},
+	"popup_readermode_closing": {
+		"message": "Isinasara ang Reader mode"
+	},
+	"close": {
+		"message": "Isara"
+	},
+	"your_note_was_saved": {
+		"message": "Na-save ang iyong tala."
+	},
+	"error_saving_your_note": {
+		"message": "Error sa pag-save ng iyong tala. Pakiulit."
+	},
+	"popup_readinglist_error": {
+		"message": "Error sa pag-save sa Reading list"
+	},
+	"popup_readinglist_success": {
+		"message": "Naka-save sa Reading list"
+	},
+	"popup_screenshot_error": {
+		"message": "Error sa pagkuha ng screenshot"
+	},
+	"popup_screenshot_success": {
+		"message": "Kinukuha ang screenshot"
+	},
+	"copied_text": {
+		"message": "Kinopya ang text"
+	},
+	"copied_text_error": {
+		"message": "Error sa pagkopya ng text."
+	},
+	"ocr_loading": {
+		"message": "Naglo-load ng Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "Naka-save sa iyong mga tala"
+	},
+	"popup_reading_success": {
+		"message": "Binabasa ang napiling teksto"
+	},
+	"popup_reading_finished": {
+		"message": "Tapos na magbasa"
+	},
+	"popup_reading_error": {
+		"message": "Huminto"
+	},
+	"popup_reading_stopping": {
+		"message": "Huminto"
+	},
+	"popup_reading_pause": {
+		"message": "Naka-pause"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Kailangan mong i-upgrade ang Helperbird Pro para magamit ang feature na ito."
+	},
+	"menu_define": {
+		"message": "Tukuyin ang salita"
+	},
+	"menu_website_readinglist": {
+		"message": "Magdagdag ng website sa Reading list"
+	},
+	"menu_readinglist": {
+		"message": "Idagdag sa Reading list"
+	},
+	"menu_text_to_speech": {
+		"message": "Text to speech"
+	},
+	"menu_play": {
+		"message": "Maglaro"
+	},
+	"menu_pause": {
+		"message": "I-pause"
+	},
+	"menu_stop": {
+		"message": "Tumigil ka"
+	},
+	"menu_resume": {
+		"message": "Ipagpatuloy"
+	},
+	"menu_screenshot": {
+		"message": "Kumuha ng screenshot"
+	},
+	"menu_share": {
+		"message": "Ibahagi"
+	},
+	"menu_reader_mode": {
+		"message": "Tingnan sa Reader mode"
+	},
+	"menu_translate": {
+		"message": "Isalin"
+	},
+	"road_map": {
+		"message": "Roadmap"
+	},
+	"menu_immersive_reader": {
+		"message": "Tingnan sa Immersive na mambabasa"
+	},
+	"menu_summarize": {
+		"message": "Ibuod ang pahina"
+	},
+	"menu_summarize_page": {
+		"message": "Binubuod ang pahina"
+	},
+	"menu_annotate_page": {
+		"message": "I-annotate ang pahina"
+	}
+}

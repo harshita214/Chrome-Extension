@@ -1,0 +1,1280 @@
+{
+	"appName": {
+		"message": "Helperbird for Chrome"
+	},
+
+	"appDescription": {
+		"message": "Over 32 accessibility & productivity features built to support every kind of reader, learner, and writer. Includes dyslexia support."
+	},
+	"helpGuide": {
+		"message": "Help guides"
+	},
+
+	"upgrade_title": {
+		"message": "Helperbird Pro feature"
+	},
+	"upgrade_description": {
+		"message": "You need a Helperbird Pro subscription to use this feature. Don't worry, its 40 USD a year or 4.99 a month."
+	},
+	"plan_deal": {
+		"message": "Student offer"
+	},
+	"plan_month": {
+		"message": "Monthly offer"
+	},
+	"plan_year": {
+		"message": "Yearly offer"
+	},
+	"upgrade_message": {
+		"message": "Upgrade to Helperbird Pro, to unlock all features. "
+	},
+	"column_title": {
+		"message": "Column"
+	},
+	"upgrade_now": {
+		"message": "Upgrade now "
+	},
+	"upgrade_to_pro": {
+		"message": "Upgrade to Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Discover Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Please sign into Helperbird or enter your subscription key."
+	},
+
+	"privacy": {
+		"message": "Privacy"
+	},
+
+	"whats_new": {
+		"message": "What's new"
+	},
+
+	"privacy_details": {
+		"message": "We respect your privacy, so here it is in clear and simple language."
+	},
+
+	"privacy_details_one": {
+		"message": "Here at Helperbird, we respect and take your privacy extremely seriously. That's why we don't store or collect anything."
+	},
+
+	"privacy_details_two": {
+		"message": "The only ask for your email, when you login. To check if your school or business domain is paid for or if you have paid for an account in Stripe."
+	},
+
+	"privacy_details_three": {
+		"message": "Everything you do and the settings you save stay locally on your browser. Never leaves your computer."
+	},
+	"free": {
+		"message": "Free"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+
+	"on": {
+		"message": "On"
+	},
+	"on_lower": {
+		"message": "on"
+	},
+	"off": {
+		"message": "Off"
+	},
+	"off_lower": {
+		"message": "off"
+	},
+	"notes": {
+		"message": "Notes"
+	},
+	"open_notes": {
+		"message": "Open notes"
+	},
+	"save": {
+		"message": "Save"
+	},
+	"clear": {
+		"message": "Clear"
+	},
+
+	"manage": {
+		"message": "Manage"
+	},
+	"open": {
+		"message": "Open"
+	},
+	"copy": {
+		"message": "Copy"
+	},
+	"delete": {
+		"message": "Delete"
+	},
+	"documents": {
+		"message": "Documents"
+	},
+	"remove": {
+		"message": "Remove"
+	},
+	"version": {
+		"message": "Version"
+	},
+	"visit": {
+		"message": "Visit"
+	},
+	"no_results": {
+		"message": "No results"
+	},
+
+	"reduce_motion": {
+		"message": "Animations"
+	},
+	"maths_steps": {
+		"message": "Maths solver"
+	},
+
+	"tour": {
+		"message": "Helperbird Tour"
+	},
+
+	"reduce_motion_description": {
+		"message": "Prevent animation from being displayed on Web pages."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader is a free tool that implements proven techniques to improve reading and writing"
+	},
+
+	"start": {
+		"message": "Start"
+	},
+	"learn_more": {
+		"message": "Learn more"
+	},
+	"more": {
+		"message": "More"
+	},
+	"editor_title": {
+		"message": "Editor"
+	},
+
+	"editor_title_open": {
+		"message": "Open Helperbirds Editor"
+	},
+
+	"logout": {
+		"message": "Logout"
+	},
+	"signin": {
+		"message": "Login"
+	},
+	"define_title": {
+		"message": "Dictionary"
+	},
+
+	"define_title_open": {
+		"message": "Open Dictionary"
+	},
+
+	"define_empty_title": {
+		"message": " Search a word and we will return the meaning of it."
+	},
+
+	"define_search": {
+		"message": "Search......"
+	},
+	"define_antonyms": {
+		"message": "Antonyms"
+	},
+	"define_synonyms": {
+		"message": "Synonyms"
+	},
+	"define_meanings": {
+		"message": "Meanings"
+	},
+
+	"define_related": {
+		"message": "Related"
+	},
+	"define_etymology": {
+		"message": "Etymology"
+	},
+
+	"export": {
+		"message": "Export"
+	},
+	"export_word": {
+		"message": "Export to Word"
+	},
+	"export_docs": {
+		"message": "Export to Google Docs"
+	},
+	"export_text": {
+		"message": "Export to Text file"
+	},
+	"toolbar_pdf": {
+		"message": "PDF reader"
+	},
+	"toolbar_pdf_open": {
+		"message": "Open PDF reader"
+	},
+	"menus": {
+		"message": "Google Docs & Pdfs"
+	},
+	"upgrade_message_title": {
+		"description": "Helperbird extension.",
+		"message": "Upgrade to $1"
+	},
+
+	"upgrade_message_paragraph": {
+		"description": "Helperbird extension.",
+		"message": "Access powerful features like Reader Mode and $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Helperbird extension.",
+		"message": "Choose a plan below to unlock over 30 features and 24 hour support."
+	},
+
+	"alert_message": {
+		"message": "Upgrade or login to access all Pro features."
+	},
+	"alert_loading": {
+		"message": "Loading...."
+	},
+	"alert_clear": {
+		"message": "Clear"
+	},
+	"alert_cleared": {
+		"message": "Cleared"
+	},
+	"alert_download": {
+		"message": "Download"
+	},
+	"alert_no_data": {
+		"message": "No results"
+	},
+
+	"annotations_notes": {
+		"message": "Notes"
+	},
+	"import_annotations": {
+		"message": "Import notes"
+	},
+
+	"options": {
+		"message": "Options"
+	},
+	"open_document": {
+		"message": "Open document"
+	},
+
+	"select_document": {
+		"message": "You need to select a document."
+	},
+	"copied_document": {
+		"message": "Document copied"
+	},
+	"saved_document": {
+		"message": "Document saved"
+	},
+	"issue_saving": {
+		"message": "Issue saving"
+	},
+
+	"show_updates": {
+		"message": "Show Updates"
+	},
+	"new": {
+		"message": "New"
+	},
+	"pause": {
+		"message": "Pause"
+	},
+	"removed_document": {
+		"message": "Document removed"
+	},
+	"opening_document": {
+		"message": "Opening document"
+	},
+	"get_started": {
+		"message": "Get Started"
+	},
+	"saved_to_documents": {
+		"message": "Saved to your documents."
+	},
+
+	"message_alert": {
+		"message": "Get access to all of Helperbirds features and customer support whenever you need it. Over 30 features."
+	},
+	"message_three_day": {
+		"message": "3 day trial"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+
+	"check_inputs": {
+		"message": "Check your inputs"
+	},
+	"upgrade": {
+		"message": "Upgrade"
+	},
+	"upgrade_": {
+		"message": "Upgrade to $1"
+	},
+	"website": {
+		"message": "Website"
+	},
+	"description": {
+		"message": "Description"
+	},
+	"capture": {
+		"message": "Capture"
+	},
+	"category": {
+		"message": "Category"
+	},
+	"error_found_label": {
+		"message": "There is an error"
+	},
+	"cancel": {
+		"message": "Cancel"
+	},
+
+	"readinglist_title": {
+		"message": "Reading list"
+	},
+	"readinglist_title_open": {
+		"message": "Open Reading list"
+	},
+
+	"note_removed": {
+		"message": "Note removed."
+	},
+	"note_removed_error": {
+		"message": "Couldnt't remove note."
+	},
+
+	"readinglist_removed": {
+		"message": "Website removed"
+	},
+
+	"settings_saved": {
+		"message": "Settings saved"
+	},
+	"check_for_updates": {
+		"message": "Check for updates"
+	},
+
+	"show_highlights": {
+		"message": "Show highlights on page."
+	},
+
+	"account_title": {
+		"message": "Account"
+	},
+
+	"account_description": {
+		"message": "We use the same email that you sign in to your browser as your login."
+	},
+
+	"signed_in_as": {
+		"message": "Signed in as"
+	},
+
+	"subscription_title": {
+		"message": "Subscription"
+	},
+	"current_plan": {
+		"message": "Your current plan"
+	},
+
+	"subscription_status": {
+		"message": "Your subscription status: "
+	},
+	"check_subscription": {
+		"message": "Check subscription"
+	},
+	"subscription_token_title": {
+		"message": "Subscription key"
+	},
+
+	"subscription_token_description": {
+		"message": "If you have a Helperbird Pro subscription, enter it below to unlock all  Helperbird Pro's features."
+	},
+
+	"themes": {
+		"message": "Themes"
+	},
+
+	"theme": {
+		"message": "Theme"
+	},
+
+	"danger_zone_title": {
+		"message": "Storage"
+	},
+	"danger_zone_description": {
+		"message": "The button below will clear all settings and start the extension as if it was new. So be careful we cannot get anything you delete back."
+	},
+	"delete_everything": {
+		"message": "Delete everything"
+	},
+	"delete_this_note": {
+		"message": "Delete this note."
+	},
+	"visit_this_note": {
+		"message": "Vist website this note is on."
+	},
+
+	"everything_deleted": {
+		"message": "All settings and storage are now deleted."
+	},
+
+	"enter_email": {
+		"message": "You need to enter a email."
+	},
+	"shortcuts": {
+		"message": "Shortcuts"
+	},
+
+	"shortcuts_menu_on": {
+		"message": "Shortcuts are on"
+	},
+	"shortcuts_menu_off": {
+		"message": "Shortcuts are off"
+	},
+
+	"shortcuts_title": {
+		"message": "Shortcuts"
+	},
+
+	"shortcuts_description": {
+		"message": "Shortcuts"
+	},
+
+	"shortcuts_ocr": {
+		"message": "Enable OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Open Immersive reader"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Open Reader Mode"
+	},
+
+	"annotate_page": {
+		"message": "Annotate page"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Open PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Zoom out"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Zoom in"
+	},
+	"settings": {
+		"message": "Settings"
+	},
+
+	"support_videos": {
+		"message": "Support videos"
+	},
+
+	"review_us": {
+		"message": "Review us"
+	},
+	"view": {
+		"message": "View"
+	},
+	"views": {
+		"message": "Views"
+	},
+	"no_favorites": {
+		"message": "No favorites"
+	},
+	"sorting_none": {
+		"message": "Nothing could be found."
+	},
+	"sorting": {
+		"message": "Sorting...."
+	},
+	"showing_favorites": {
+		"message": "Showing favorites"
+	},
+	"unpaid": {
+		"message": "Your subscription is unpaid."
+	},
+	"canceled": {
+		"message": "Your subscription is canceled."
+	},
+
+	"message_nothing_found": {
+		"message": "We couldn't find a subscription."
+	},
+
+	"couldnt_interact_with_page": {
+		"message": "We couldn't get any text. Please try again (Refresh). Try our PDF or Google Docs add-on."
+	},
+
+	"unpinned_favorite": {
+		"message": "Removed favourited"
+	},
+	"pin_favorite": {
+		"message": "Favourited"
+	},
+
+	"setting_saved": {
+		"message": "Setting saved"
+	},
+
+	"favourite": {
+		"message": "Favourite"
+	},
+	"un_favourite": {
+		"message": "Unfavourite"
+	},
+
+	"how_to_use": {
+		"message": "How to use"
+	},
+
+	"search": {
+		"message": "Search"
+	},
+
+	"search_feature": {
+		"message": "Search features"
+	},
+	"filter_productivity": {
+		"message": "Research"
+	},
+	"helperbird_apps": {
+		"message": "Helperbird apps"
+	},
+	"fav_message": {
+		"message": "It seems you don't have any features favorited. To favorite, click the three dots next to a feature and click favorite."
+	},
+	"filter_features": {
+		"message": "Filter features"
+	},
+	"student_offer": {
+		"message": "Students get Helperbird Pro for "
+	},
+
+	"filter_style": {
+		"message": "Display"
+	},
+
+	"filter_text_to_speech": {
+		"message": "Text to speech"
+	},
+	"filter_dyslexia": {
+		"message": "Dyslexia"
+	},
+	"filter_pro": {
+		"message": "Pro features"
+	},
+
+	"filter": {
+		"message": "Filter"
+	},
+	"filter_writing": {
+		"message": "Writing "
+	},
+
+	"highlighter_title": {
+		"message": "Highlighter"
+	},
+
+	"filter_reading": {
+		"message": "Reading "
+	},
+	"filter_active": {
+		"message": "Active "
+	},
+	"filter_audio": {
+		"message": "Audio features"
+	},
+
+	"feature_blindness": {
+		"message": "Color Blindness"
+	},
+	"feature_emphasize_links": {
+		"message": "Emphasize links"
+	},
+
+	"feature_emphasize_stroke": {
+		"message": "Text stroke"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Color"
+	},
+	"color": {
+		"message": "Color"
+	},
+
+	"feature_specialized_font": {
+		"message": "Specialized Font"
+	},
+	"feature_specialized_font_options": {
+		"message": "Font options"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Highlight menu is on "
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Highlight menu is off "
+	},
+	"feature_highlight_menu": {
+		"message": "Highlight menu"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Shows our highlight text menu."
+	},
+	"show": {
+		"message": "Show"
+	},
+	"welcome": {
+		"message": "Welcome to Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Immersive reader"
+	},
+
+	"create_a_new_note": {
+		"message": "Create a new note"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Use Immersive reader by Microsoft on this page."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Docs & Slides"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Adds a Helperbird toolbar on Google doc files."
+	},
+
+	"feature_toolbar_pdf": {
+		"message": "PDF toolbar"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Adds a Helperbird toolbar on Pdf files."
+	},
+	"pause_helperbird": {
+		"message": "Pause $1"
+	},
+
+	"quick_action": {
+		"message": "Quick actions"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 is off"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 is on"
+	},
+	"voice_typing_is_on": {
+		"message": "Voice typing is on"
+	},
+
+	"voice_typing_is_off": {
+		"message": "Voice typing is off"
+	},
+	"helperbird_paused": {
+		"message": "Helperbird off"
+	},
+	"helperbird_running": {
+		"message": "Helperbird running"
+	},
+	"applying_settings": {
+		"message": "Applying your settings"
+	},
+	"feature_favorites": {
+		"message": "Favorites"
+	},
+
+	"all_feature_favorites": {
+		"message": "All"
+	},
+
+	"hide_feature_favorites": {
+		"message": "Hide Favorites"
+	},
+
+	"feature_favorites_description": {
+		"message": "Show favorites only."
+	},
+
+	"feature_print": {
+		"message": "Print"
+	},
+	"feature_print_description": {
+		"message": "Print the current page."
+	},
+	"feature_printing_success": {
+		"message": "Opening printing"
+	},
+
+	"feature_reader_mode": {
+		"message": "Reader Mode"
+	},
+
+	"feature_readermode_opening": {
+		"message": "Opening Reader mode"
+	},
+	"feature_readermode_closing": {
+		"message": "Closing Reader mode"
+	},
+	"view_table": {
+		"message": "Table view"
+	},
+	"view_time": {
+		"message": "Timeline view"
+	},
+
+	"view_card": {
+		"message": "Card view"
+	},
+
+	"feature_screenshot": {
+		"message": "Screenshot"
+	},
+	"feature_screenshot_description": {
+		"message": "Take a screenshot of the current page."
+	},
+
+	"feature_screenshot_error": {
+		"message": "Error capturing screenshot"
+	},
+	"feature_screenshot_success": {
+		"message": "Capturing screenshot"
+	},
+
+	"feature_tooltip": {
+		"message": "Image descriptions"
+	},
+	"feature_tooltip_description": {
+		"message": "Show alt and title tags on mouse over. "
+	},
+
+	"feature_translate": {
+		"message": "Translate"
+	},
+	"feature_language": {
+		"message": "Languages"
+	},
+
+	"feature_magnifier": {
+		"message": "Magnifier"
+	},
+	"feature_magnifier_description": {
+		"message": "Magnifier"
+	},
+
+	"percentage": {
+		"message": "Percentage"
+	},
+
+	"feature_analyze": {
+		"message": "Word count"
+	},
+	"feature_analyze_description": {
+		"message": "analyze"
+	},
+	"feature_analyze_words": {
+		"message": "words"
+	},
+	"feature_analyze_characters": {
+		"message": "characters"
+	},
+
+	"feature_annotations": {
+		"message": "Notes"
+	},
+	"feature_annotations_description": {
+		"message": "Annotate the page by leaving a new sticky note."
+	},
+	"feature_annotate_open": {
+		"message": "Creating a new note"
+	},
+
+	"annotate": {
+		"message": "Annotate"
+	},
+
+	"feature_cognitive_load": {
+		"message": "Speed reading"
+	},
+
+	"bold": {
+		"message": "Bolodness"
+	},
+
+	"feature_background_color": {
+		"message": "Background color"
+	},
+
+	"feature_font_color": {
+		"message": "Font color"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Menu"
+	},
+	"feature_highlight_color": {
+		"message": "Highlight color"
+	},
+
+	"feature_link_color": {
+		"message": "Link color"
+	},
+
+	"feature_cursor_size": {
+		"message": "Cursor size"
+	},
+
+	"feature_font_size": {
+		"message": "Text size"
+	},
+	"feature_font_size_titles": {
+		"message": "Headers size"
+	},
+
+	"feature_font_size_paragraphs": {
+		"message": "Paragraphs size"
+	},
+
+	"feature_gray_hue": {
+		"message": "Gray hue"
+	},
+
+	"feature_highlight_paragraphs": {
+		"message": "Highlight paragraphs"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Highlight paragraphs color"
+	},
+
+	"feature_images_hide_title": {
+		"message": "Hide images"
+	},
+	"hide": {
+		"message": "Hide"
+	},
+	"feature_images_hide": {
+		"message": "Hide all images"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Hide Gifs"
+	},
+
+	"feature_high_contast": {
+		"message": "High contrast"
+	},
+	"feature_text_adjustments": {
+		"message": "Text adjustments"
+	},
+
+	"feature_text_align": {
+		"message": "Text Align"
+	},
+	"feature_text_alignment": {
+		"message": "Alignment"
+	},
+	"feature_letter_spacing": {
+		"message": "Letter spacing"
+	},
+
+	"spacing": {
+		"message": "Spacing"
+	},
+
+	"feature_line_height_spacing": {
+		"message": "Line height"
+	},
+	"height": {
+		"message": "Height"
+	},
+
+	"feature_line_focus": {
+		"message": "Line focus"
+	},
+	"feature_line_focus_color": {
+		"message": "Line focus color"
+	},
+	"feature_line_focus_height": {
+		"message": "Line focus height"
+	},
+
+	"feature_mute": {
+		"message": "Mute video"
+	},
+	"feature_mute_description": {
+		"message": "Mute videos and sounds from pages."
+	},
+
+	"ocr_read_words": {
+		"message": "Read extacted text"
+	},
+	"text": {
+		"message": "Text"
+	},
+
+	"ocr_read_words_save": {
+		"message": "Save extacted text"
+	},
+
+	"feature_extract_text": {
+		"message": "Extract text (OCR)"
+	},
+
+	"feature_extract_text_description": {
+		"message": "Enable, select the area on the screen."
+	},
+
+	"feature_overlay": {
+		"message": "Overlay"
+	},
+
+	"feature_overlay_color": {
+		"message": "Overlay color"
+	},
+
+	"feature_paragraph_width": {
+		"message": "Paragraph width"
+	},
+	"width": {
+		"message": "Width"
+	},
+	"highlighted_text": {
+		"message": "Highlighted text"
+	},
+	"issue_on_page": {
+		"message": "Issue"
+	},
+	"feature_reading_guide": {
+		"message": "Reading Guide"
+	},
+	"feature_reading_guide_color": {
+		"message": "Reading Guide color"
+	},
+
+	"feature_dyslexia_ruler": {
+		"message": "Dyslexia ruler"
+	},
+
+	"feature_ruler_width": {
+		"message": "Ruler width"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Height"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Position"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Color"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Follow"
+	},
+
+	"feature_auto_scroll": {
+		"message": "Auto scroll"
+	},
+	"speed": {
+		"message": "Speed"
+	},
+	"subscription_deleted": {
+		"message": "Subscription cancelled"
+	},
+	"title_enjoy_until": {
+		"message": "Enjoy your trial until "
+	},
+	"incomplete_expired": {
+		"message": "We couldn`t complete the payment."
+	},
+	"past_due": {
+		"message": "Your subscription is past due."
+	},
+
+	"incomplete": {
+		"message": "We couldn`t complete the payment."
+	},
+
+	"transparency": {
+		"message": "Brightness"
+	},
+
+	"title_message_full": {
+		"message": "Helperbird Pro subscription found."
+	},
+	"contact_support": {
+		"message": "Please contact support."
+	},
+
+	"buy": {
+		"message": "Buy $1"
+	},
+	"feature_voice_typing": {
+		"message": "Voice typing"
+	},
+
+	"feature_voice_typing_description": {
+		"message": "Adds voice typing on all inputs. Just click the button on the input."
+	},
+	"google_docs_notice": {
+		"message": "We now have a Google Addon! Install to get even more support."
+	},
+
+	"feature_spell_check": {
+		"message": "Spellcheck"
+	},
+
+	"feature_summarize": {
+		"message": "Summarize page"
+	},
+	"feature_summarize_description": {
+		"message": "Summarize this page."
+	},
+
+	"feature_text_to_speech_options": {
+		"message": "Text to speech options"
+	},
+	"feature_speech_voice": {
+		"message": "Voice"
+	},
+	"feature_speech_speed": {
+		"message": "Speed"
+	},
+	"feature_speech_pitch": {
+		"message": "Pitch"
+	},
+
+	"feature_speech_volume": {
+		"message": "Volume"
+	},
+
+	"feature_speech_highlight_color": {
+		"message": "Highlight color"
+	},
+
+	"feature_speech_reading_success": {
+		"message": "Reading selected text."
+	},
+
+	"feature_text_to_speech": {
+		"message": "Text to speech"
+	},
+	"you_need_to_highlight": {
+		"message": "You need to highlight some text."
+	},
+
+	"feature_word_prediction": {
+		"message": "Word Prediction"
+	},
+	"feature_word_prediction_description": {
+		"message": "Turn on Helperbirds word prediction on inputs. "
+	},
+
+	"feature_word_spacing": {
+		"message": "Word spacing"
+	},
+	"full_Screen": {
+		"message": "Fullscreen"
+	},
+	"voice_typing_stop": {
+		"message": "Stopping voice typing."
+	},
+	"voice_typing_start": {
+		"message": "Speak now."
+	},
+	"speak_word_on_hover": {
+		"message": "Read out loud."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Will read the word on hover."
+	},
+	"speak": {
+		"message": "Speak"
+	},
+	"auto_scroll_start": {
+		"message": "Auto scroll started."
+	},
+	"auto_scroll_stop": {
+		"message": "Auto scroll stopped."
+	},
+	"popup_immersive_success": {
+		"message": "Loading Immersive reader."
+	},
+
+	"popup_readermode_success": {
+		"message": "Opening Reader mode."
+	},
+
+	"popup_printing_success": {
+		"message": "Opening printing."
+	},
+
+	"ocr_select": {
+		"message": "Select area on the page."
+	},
+	"ocr_extracted": {
+		"message": "Text extracted."
+	},
+	"ocr_extracting": {
+		"message": "Extracting"
+	},
+	"ocr_copy": {
+		"message": "Copied text from image. Saved to your clipboard."
+	},
+	"ocr_no_text": {
+		"message": "No text was found."
+	},
+	"popup_note_success": {
+		"message": "Saved to your notes."
+	},
+	"popup_immersive_error": {
+		"message": "Error loading Immersive reader"
+	},
+	"popup_summarize_error": {
+		"message": "Error summarzing page."
+	},
+
+	"popup_saving_error": {
+		"message": "Error saving"
+	},
+	"popup_summarize_success": {
+		"message": "Summarizing page"
+	},
+	"popup_readermode_closing": {
+		"message": "Closing Reader mode"
+	},
+
+	"close": {
+		"message": "Close"
+	},
+
+	"your_note_was_saved": {
+		"message": "Your note was saved."
+	},
+
+	"error_saving_your_note": {
+		"message": "Error saving your note. Please try again."
+	},
+
+	"popup_readinglist_error": {
+		"message": "Error saving to Reading list"
+	},
+
+	"popup_readinglist_success": {
+		"message": "Saved to Reading list"
+	},
+	"popup_screenshot_error": {
+		"message": "Error capturing screenshot"
+	},
+
+	"popup_screenshot_success": {
+		"message": "Capturing screenshot"
+	},
+
+	"copied_text": {
+		"message": "Copied text"
+	},
+
+	"copied_text_error": {
+		"message": "Error copying text."
+	},
+
+	"ocr_loading": {
+		"message": "Loading Helperbirds OCR"
+	},
+
+	"ocr_save": {
+		"message": "Saved to your notes"
+	},
+	"popup_reading_success": {
+		"message": "Reading selected text"
+	},
+	"popup_reading_finished": {
+		"message": "Finished reading"
+	},
+
+	"popup_reading_error": {
+		"message": "Stopping"
+	},
+	"popup_reading_stopping": {
+		"message": "Stopping"
+	},
+	"popup_reading_pause": {
+		"message": "Paused"
+	},
+
+	"notifcations_upgrade_title": {
+		"message": "You need to upgrade Helperbird Pro to use this feature."
+	},
+
+	"menu_define": {
+		"message": "Define word"
+	},
+
+	"menu_website_readinglist": {
+		"message": "Add website to Reading list"
+	},
+	"menu_readinglist": {
+		"message": "Add to Reading list"
+	},
+
+	"menu_text_to_speech": {
+		"message": "Text to speech"
+	},
+
+	"menu_play": {
+		"message": "Play"
+	},
+	"menu_pause": {
+		"message": "Pause"
+	},
+	"menu_stop": {
+		"message": "Stop"
+	},
+	"menu_resume": {
+		"message": "Resume"
+	},
+	"menu_screenshot": {
+		"message": "Take screenshot"
+	},
+	"menu_share": {
+		"message": "Share"
+	},
+	"menu_reader_mode": {
+		"message": "View in Reader mode"
+	},
+
+	"menu_translate": {
+		"message": "Translate"
+	},
+	"road_map": {
+		"message": "Roadmap"
+	},
+	"menu_immersive_reader": {
+		"message": "View in Immersive reader"
+	},
+	"menu_summarize": {
+		"message": "Summarize page"
+	},
+	"menu_summarize_page": {
+		"message": "Page summarized"
+	},
+	"menu_annotate_page": {
+		"message": "Annotate page"
+	}
+}

@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Chrome-നുള്ള ഹെൽപ്പർബേർഡ്"
+	},
+	"appDescription": {
+		"message": "എല്ലാത്തരം വായനക്കാരെയും പഠിതാക്കളെയും എഴുത്തുകാരെയും പിന്തുണയ്ക്കുന്നതിനായി നിർമ്മിച്ച 32 ലധികം പ്രവേശനക്ഷമതയും ഉൽപ്പാദനക്ഷമതയും. ഡിസ്ലെക്സിയ പിന്തുണ ഉൾപ്പെടുന്നു."
+	},
+	"helpGuide": {
+		"message": "സഹായ ഗൈഡുകൾ"
+	},
+	"upgrade_title": {
+		"message": "ഹെൽപ്പർബേർഡ് പ്രോ ഫീച്ചർ"
+	},
+	"upgrade_description": {
+		"message": "ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്ക് ഒരു ഹെൽപ്പർബേർഡ് പ്രോ സബ്‌സ്‌ക്രിപ്‌ഷൻ ആവശ്യമാണ്. വിഷമിക്കേണ്ട, അതിന്റെ പ്രതിവർഷം 40 USD അല്ലെങ്കിൽ ഒരു മാസം 4.99."
+	},
+	"plan_deal": {
+		"message": "വിദ്യാർത്ഥി ഓഫർ"
+	},
+	"plan_month": {
+		"message": "പ്രതിമാസ ഓഫർ"
+	},
+	"plan_year": {
+		"message": "വാർഷിക ഓഫർ"
+	},
+	"upgrade_message": {
+		"message": "എല്ലാ ഫീച്ചറുകളും അൺലോക്ക് ചെയ്യാൻ, ഹെൽപ്പർബേർഡ് പ്രോയിലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക."
+	},
+	"column_title": {
+		"message": "കോളം"
+	},
+	"upgrade_now": {
+		"message": "ഇപ്പോൾ അപ്ഗ്രേഡ് ചെയ്യുക"
+	},
+	"upgrade_to_pro": {
+		"message": "ഹെൽപ്പർബേർഡ് പ്രോയിലേക്ക് അപ്‌ഗ്രേഡുചെയ്യുക"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "ഹെൽപ്പർബേർഡ് പ്രോ കണ്ടെത്തുക"
+	},
+	"signin_message": {
+		"message": "ദയവായി Helperbird-ലേക്ക് സൈൻ ഇൻ ചെയ്യുക അല്ലെങ്കിൽ നിങ്ങളുടെ സബ്സ്ക്രിപ്ഷൻ കീ നൽകുക."
+	},
+	"privacy": {
+		"message": "സ്വകാര്യത"
+	},
+	"whats_new": {
+		"message": "പുതിയതെന്താണ്"
+	},
+	"privacy_details": {
+		"message": "ഞങ്ങൾ നിങ്ങളുടെ സ്വകാര്യതയെ മാനിക്കുന്നു, അതിനാൽ ഇത് വ്യക്തവും ലളിതവുമായ ഭാഷയിലാണ്."
+	},
+	"privacy_details_one": {
+		"message": "ഇവിടെ ഹെൽപ്പർബേർഡിൽ, നിങ്ങളുടെ സ്വകാര്യതയെ ഞങ്ങൾ ബഹുമാനിക്കുകയും ഗൗരവമായി എടുക്കുകയും ചെയ്യുന്നു. അതുകൊണ്ടാണ് ഞങ്ങൾ ഒന്നും സൂക്ഷിക്കുകയോ ശേഖരിക്കുകയോ ചെയ്യാത്തത്."
+	},
+	"privacy_details_two": {
+		"message": "നിങ്ങൾ ലോഗിൻ ചെയ്യുമ്പോൾ നിങ്ങളുടെ ഇമെയിൽ ആവശ്യപ്പെടുക. നിങ്ങളുടെ സ്‌കൂൾ അല്ലെങ്കിൽ ബിസിനസ്സ് ഡൊമെയ്‌നിന് പണമടച്ചിട്ടുണ്ടോ അതോ സ്ട്രൈപ്പിലെ ഒരു അക്കൗണ്ടിനായി പണമടച്ചിട്ടുണ്ടോ എന്ന് പരിശോധിക്കാൻ."
+	},
+	"privacy_details_three": {
+		"message": "നിങ്ങൾ ചെയ്യുന്ന എല്ലാ കാര്യങ്ങളും നിങ്ങൾ സംരക്ഷിക്കുന്ന ക്രമീകരണങ്ങളും നിങ്ങളുടെ ബ്രൗസറിൽ പ്രാദേശികമായി നിലനിൽക്കും. നിങ്ങളുടെ കമ്പ്യൂട്ടർ ഒരിക്കലും ഉപേക്ഷിക്കരുത്."
+	},
+	"free": {
+		"message": "സൗ ജന്യം"
+	},
+	"pro": {
+		"message": "പ്രൊഫ"
+	},
+	"on": {
+		"message": "ഓൺ"
+	},
+	"on_lower": {
+		"message": "ഓൺ"
+	},
+	"off": {
+		"message": "ഓഫ്"
+	},
+	"off_lower": {
+		"message": "ഓഫ്"
+	},
+	"notes": {
+		"message": "കുറിപ്പുകൾ"
+	},
+	"open_notes": {
+		"message": "കുറിപ്പുകൾ തുറക്കുക"
+	},
+	"save": {
+		"message": "രക്ഷിക്കും"
+	},
+	"clear": {
+		"message": "വ്യക്തം"
+	},
+	"manage": {
+		"message": "കൈകാര്യം ചെയ്യുക"
+	},
+	"open": {
+		"message": "തുറക്കുക"
+	},
+	"copy": {
+		"message": "പകർത്തുക"
+	},
+	"delete": {
+		"message": "ഇല്ലാതാക്കുക"
+	},
+	"documents": {
+		"message": "പ്രമാണങ്ങൾ"
+	},
+	"remove": {
+		"message": "നീക്കം ചെയ്യുക"
+	},
+	"version": {
+		"message": "പതിപ്പ്"
+	},
+	"visit": {
+		"message": "സന്ദർശിക്കുക"
+	},
+	"no_results": {
+		"message": "ഫലങ്ങളൊന്നുമില്ല"
+	},
+	"reduce_motion": {
+		"message": "ആനിമേഷനുകൾ"
+	},
+	"maths_steps": {
+		"message": "കണക്ക് സോൾവർ"
+	},
+	"tour": {
+		"message": "ഹെൽപ്പർബേർഡ് ടൂർ"
+	},
+	"reduce_motion_description": {
+		"message": "വെബ് പേജുകളിൽ ആനിമേഷൻ പ്രദർശിപ്പിക്കുന്നത് തടയുക."
+	},
+	"feature_immersive_reader_description": {
+		"message": "ഇമ്മേഴ്‌സീവ് റീഡർ വായനയും എഴുത്തും മെച്ചപ്പെടുത്തുന്നതിന് തെളിയിക്കപ്പെട്ട സാങ്കേതിക വിദ്യകൾ നടപ്പിലാക്കുന്ന ഒരു സൗജന്യ ഉപകരണമാണ്"
+	},
+	"start": {
+		"message": "ആരംഭിക്കുക"
+	},
+	"learn_more": {
+		"message": "കൂടുതലറിവ് നേടുക"
+	},
+	"more": {
+		"message": "കൂടുതൽ"
+	},
+	"editor_title": {
+		"message": "എഡിറ്റർ"
+	},
+	"editor_title_open": {
+		"message": "ഹെൽപ്പർബേർഡ്സ് എഡിറ്റർ തുറക്കുക"
+	},
+	"logout": {
+		"message": "പുറത്തുകടക്കുക"
+	},
+	"signin": {
+		"message": "ലോഗിൻ"
+	},
+	"define_title": {
+		"message": "നിഘണ്ടു"
+	},
+	"define_title_open": {
+		"message": "നിഘണ്ടു തുറക്കുക"
+	},
+	"define_empty_title": {
+		"message": "ഒരു വാക്ക് തിരയുക, അതിന്റെ അർത്ഥം ഞങ്ങൾ തിരികെ നൽകും."
+	},
+	"define_search": {
+		"message": "തിരയുക......"
+	},
+	"define_antonyms": {
+		"message": "വിപരീതപദങ്ങൾ"
+	},
+	"define_synonyms": {
+		"message": "പര്യായപദങ്ങൾ"
+	},
+	"define_meanings": {
+		"message": "അർത്ഥങ്ങൾ"
+	},
+	"define_related": {
+		"message": "ബന്ധപ്പെട്ട"
+	},
+	"define_etymology": {
+		"message": "പദോൽപ്പത്തി"
+	},
+	"export": {
+		"message": "കയറ്റുമതി"
+	},
+	"export_word": {
+		"message": "Word-ലേക്ക് കയറ്റുമതി ചെയ്യുക"
+	},
+	"export_docs": {
+		"message": "Google ഡോക്സിലേക്ക് കയറ്റുമതി ചെയ്യുക"
+	},
+	"export_text": {
+		"message": "ടെക്സ്റ്റ് ഫയലിലേക്ക് കയറ്റുമതി ചെയ്യുക"
+	},
+	"toolbar_pdf": {
+		"message": "PDF റീഡർ"
+	},
+	"toolbar_pdf_open": {
+		"message": "PDF റീഡർ തുറക്കുക"
+	},
+	"menus": {
+		"message": "Google ഡോക്‌സും Pdf-കളും"
+	},
+	"upgrade_message_title": {
+		"description": "ഹെൽപ്പർബേർഡ് വിപുലീകരണം.",
+		"message": "$1 ലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക"
+	},
+	"upgrade_message_paragraph": {
+		"description": "ഹെൽപ്പർബേർഡ് വിപുലീകരണം.",
+		"message": "റീഡർ മോഡ്, $1 എന്നിവ പോലുള്ള ശക്തമായ ഫീച്ചറുകൾ ആക്‌സസ് ചെയ്യുക."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "ഹെൽപ്പർബേർഡ് വിപുലീകരണം.",
+		"message": "30-ലധികം ഫീച്ചറുകളും 24 മണിക്കൂർ പിന്തുണയും അൺലോക്ക് ചെയ്യുന്നതിന് ചുവടെയുള്ള ഒരു പ്ലാൻ തിരഞ്ഞെടുക്കുക."
+	},
+	"alert_message": {
+		"message": "എല്ലാ പ്രോ ഫീച്ചറുകളും ആക്‌സസ് ചെയ്യാൻ അപ്‌ഗ്രേഡ് ചെയ്യുക അല്ലെങ്കിൽ ലോഗിൻ ചെയ്യുക."
+	},
+	"alert_loading": {
+		"message": "ലോഡിംഗ്...."
+	},
+	"alert_clear": {
+		"message": "ക്ലിയർ"
+	},
+	"alert_cleared": {
+		"message": "മായ്ച്ചു"
+	},
+	"alert_download": {
+		"message": "ഡൗൺലോഡ്"
+	},
+	"alert_no_data": {
+		"message": "ഫലങ്ങളൊന്നുമില്ല"
+	},
+	"annotations_notes": {
+		"message": "കുറിപ്പുകൾ"
+	},
+	"import_annotations": {
+		"message": "നോട്ടുകൾ ഇറക്കുമതി ചെയ്യുക"
+	},
+	"options": {
+		"message": "ഓപ്ഷനുകൾ"
+	},
+	"open_document": {
+		"message": "പ്രമാണം തുറക്കുക"
+	},
+	"select_document": {
+		"message": "നിങ്ങൾ ഒരു പ്രമാണം തിരഞ്ഞെടുക്കേണ്ടതുണ്ട്."
+	},
+	"copied_document": {
+		"message": "പ്രമാണം പകർത്തി"
+	},
+	"saved_document": {
+		"message": "പ്രമാണം സംരക്ഷിച്ചു"
+	},
+	"issue_saving": {
+		"message": "പ്രശ്നം സംരക്ഷിക്കൽ"
+	},
+	"show_updates": {
+		"message": "അപ്‌ഡേറ്റുകൾ കാണിക്കുക"
+	},
+	"new": {
+		"message": "പുതിയത്"
+	},
+	"pause": {
+		"message": "താൽക്കാലികമായി നിർത്തുക"
+	},
+	"removed_document": {
+		"message": "രേഖ നീക്കം ചെയ്തു"
+	},
+	"opening_document": {
+		"message": "പ്രമാണം തുറക്കുന്നു"
+	},
+	"get_started": {
+		"message": "തുടങ്ങി"
+	},
+	"saved_to_documents": {
+		"message": "നിങ്ങളുടെ പ്രമാണങ്ങളിൽ സംരക്ഷിച്ചു."
+	},
+	"message_alert": {
+		"message": "നിങ്ങൾക്ക് ആവശ്യമുള്ളപ്പോഴെല്ലാം ഹെൽപ്പർബേർഡ് ഫീച്ചറുകളിലേക്കും ഉപഭോക്തൃ പിന്തുണയിലേക്കും ആക്‌സസ് നേടുക. 30-ലധികം സവിശേഷതകൾ."
+	},
+	"message_three_day": {
+		"message": "3 ദിവസത്തെ ട്രയൽ"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "നിങ്ങളുടെ ഇൻപുട്ടുകൾ പരിശോധിക്കുക"
+	},
+	"upgrade": {
+		"message": "നവീകരിക്കുക"
+	},
+	"upgrade_": {
+		"message": "$1 ലേക്ക് അപ്‌ഗ്രേഡ് ചെയ്യുക"
+	},
+	"website": {
+		"message": "വെബ്സൈറ്റ്"
+	},
+	"description": {
+		"message": "വിവരണം"
+	},
+	"capture": {
+		"message": "ക്യാപ്ചർ"
+	},
+	"category": {
+		"message": "വിഭാഗം"
+	},
+	"error_found_label": {
+		"message": "ഒരു പിശക് ഉണ്ട്"
+	},
+	"cancel": {
+		"message": "റദ്ദാക്കുക"
+	},
+	"readinglist_title": {
+		"message": "വായന ലിസ്റ്റ്"
+	},
+	"readinglist_title_open": {
+		"message": "വായന ലിസ്റ്റ് തുറക്കുക"
+	},
+	"note_removed": {
+		"message": "കുറിപ്പ് നീക്കം ചെയ്തു."
+	},
+	"note_removed_error": {
+		"message": "കുറിപ്പ് നീക്കം ചെയ്യാനായില്ല."
+	},
+	"readinglist_removed": {
+		"message": "വെബ്സൈറ്റ് നീക്കം ചെയ്തു"
+	},
+	"settings_saved": {
+		"message": "ക്രമീകരണങ്ങൾ സംരക്ഷിച്ചു"
+	},
+	"check_for_updates": {
+		"message": "അപ്ഡേറ്റുകൾക്കായി പരിശോധിക്കുക"
+	},
+	"show_highlights": {
+		"message": "പേജിൽ ഹൈലൈറ്റുകൾ കാണിക്കുക."
+	},
+	"account_title": {
+		"message": "അക്കൗണ്ട്"
+	},
+	"account_description": {
+		"message": "നിങ്ങൾ ബ്രൗസറിൽ സൈൻ ഇൻ ചെയ്യുന്ന അതേ ഇമെയിൽ തന്നെയാണ് നിങ്ങളുടെ ലോഗിൻ ആയി ഞങ്ങൾ ഉപയോഗിക്കുന്നത്."
+	},
+	"signed_in_as": {
+		"message": "ആയി സൈൻ ഇൻ ചെയ്‌തു"
+	},
+	"subscription_title": {
+		"message": "സബ്സ്ക്രിപ്ഷൻ"
+	},
+	"current_plan": {
+		"message": "നിങ്ങളുടെ നിലവിലെ പ്ലാൻ"
+	},
+	"subscription_status": {
+		"message": "നിങ്ങളുടെ സബ്‌സ്‌ക്രിപ്‌ഷൻ നില:"
+	},
+	"check_subscription": {
+		"message": "സബ്സ്ക്രിപ്ഷൻ പരിശോധിക്കുക"
+	},
+	"subscription_token_title": {
+		"message": "സബ്സ്ക്രിപ്ഷൻ കീ"
+	},
+	"subscription_token_description": {
+		"message": "നിങ്ങൾക്ക് ഒരു ഹെൽപ്പർബേർഡ് പ്രോ സബ്‌സ്‌ക്രിപ്‌ഷൻ ഉണ്ടെങ്കിൽ, ഹെൽപ്പർബേർഡ് പ്രോയുടെ എല്ലാ ഫീച്ചറുകളും അൺലോക്ക് ചെയ്യാൻ അത് ചുവടെ നൽകുക."
+	},
+	"themes": {
+		"message": "തീമുകൾ"
+	},
+	"theme": {
+		"message": "തീം"
+	},
+	"danger_zone_title": {
+		"message": "സംഭരണം"
+	},
+	"danger_zone_description": {
+		"message": "ചുവടെയുള്ള ബട്ടൺ എല്ലാ ക്രമീകരണങ്ങളും മായ്‌ക്കുകയും പുതിയത് പോലെ വിപുലീകരണം ആരംഭിക്കുകയും ചെയ്യും. അതിനാൽ നിങ്ങൾ ഇല്ലാതാക്കുന്ന ഒന്നും ഞങ്ങൾക്ക് തിരികെ ലഭിക്കില്ല എന്ന് ശ്രദ്ധിക്കുക."
+	},
+	"delete_everything": {
+		"message": "എല്ലാം ഇല്ലാതാക്കുക"
+	},
+	"delete_this_note": {
+		"message": "ഈ കുറിപ്പ് ഇല്ലാതാക്കുക."
+	},
+	"visit_this_note": {
+		"message": "ഈ കുറിപ്പ് ഓണാണ് വെബ്സൈറ്റ് സന്ദർശിക്കുക."
+	},
+	"everything_deleted": {
+		"message": "എല്ലാ ക്രമീകരണങ്ങളും സംഭരണവും ഇപ്പോൾ ഇല്ലാതാക്കി."
+	},
+	"enter_email": {
+		"message": "നിങ്ങൾ ഒരു ഇമെയിൽ നൽകേണ്ടതുണ്ട്."
+	},
+	"shortcuts": {
+		"message": "കുറുക്കുവഴികൾ"
+	},
+	"shortcuts_menu_on": {
+		"message": "കുറുക്കുവഴികൾ ഓണാണ്"
+	},
+	"shortcuts_menu_off": {
+		"message": "കുറുക്കുവഴികൾ ഓഫാണ്"
+	},
+	"shortcuts_title": {
+		"message": "കുറുക്കുവഴികൾ"
+	},
+	"shortcuts_description": {
+		"message": "കുറുക്കുവഴികൾ"
+	},
+	"shortcuts_ocr": {
+		"message": "OCR പ്രവർത്തനക്ഷമമാക്കുക"
+	},
+	"shortcuts_immsersive": {
+		"message": "ഇമ്മേഴ്‌സീവ് റീഡർ തുറക്കുക"
+	},
+	"shortcuts_reader_mode": {
+		"message": "റീഡർ മോഡ് തുറക്കുക"
+	},
+	"annotate_page": {
+		"message": "പേജ് വ്യാഖ്യാനിക്കുക"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "PDF തുറക്കുക"
+	},
+	"open_pdf_zoom_out": {
+		"message": "സൂം ഔട്ട് ചെയ്യുക"
+	},
+	"open_pdf_zoom_in": {
+		"message": "വലുതാക്കുക"
+	},
+	"settings": {
+		"message": "ക്രമീകരണങ്ങൾ"
+	},
+	"support_videos": {
+		"message": "പിന്തുണ വീഡിയോകൾ"
+	},
+	"review_us": {
+		"message": "ഞങ്ങളെ അവലോകനം ചെയ്യുക"
+	},
+	"view": {
+		"message": "കാണുക"
+	},
+	"views": {
+		"message": "കാഴ്ചകൾ"
+	},
+	"no_favorites": {
+		"message": "പ്രിയങ്കരങ്ങളൊന്നുമില്ല"
+	},
+	"sorting_none": {
+		"message": "ഒന്നും കണ്ടെത്താനായില്ല."
+	},
+	"sorting": {
+		"message": "അടുക്കുന്നു...."
+	},
+	"showing_favorites": {
+		"message": "പ്രിയപ്പെട്ടവ കാണിക്കുന്നു"
+	},
+	"unpaid": {
+		"message": "നിങ്ങളുടെ സബ്‌സ്‌ക്രിപ്‌ഷൻ പണമടച്ചിട്ടില്ല."
+	},
+	"canceled": {
+		"message": "നിങ്ങളുടെ സബ്‌സ്‌ക്രിപ്‌ഷൻ റദ്ദാക്കി."
+	},
+	"message_nothing_found": {
+		"message": "ഞങ്ങൾക്ക് ഒരു സബ്‌സ്‌ക്രിപ്‌ഷൻ കണ്ടെത്താൻ കഴിഞ്ഞില്ല."
+	},
+	"couldnt_interact_with_page": {
+		"message": "ഞങ്ങൾക്ക് ടെക്‌സ്‌റ്റ് ഒന്നും നേടാനായില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക (പുതുക്കുക). ഞങ്ങളുടെ PDF അല്ലെങ്കിൽ Google ഡോക്‌സ് ആഡ്-ഓൺ പരീക്ഷിക്കുക."
+	},
+	"unpinned_favorite": {
+		"message": "പ്രിയപ്പെട്ടത് നീക്കം ചെയ്തു"
+	},
+	"pin_favorite": {
+		"message": "പ്രിയപ്പെട്ടത്"
+	},
+	"setting_saved": {
+		"message": "ക്രമീകരണം സംരക്ഷിച്ചു"
+	},
+	"favourite": {
+		"message": "പ്രിയപ്പെട്ടത്"
+	},
+	"un_favourite": {
+		"message": "ഇഷ്ടപ്പെടാത്തത്"
+	},
+	"how_to_use": {
+		"message": "എങ്ങനെ ഉപയോഗിക്കാം"
+	},
+	"search": {
+		"message": "തിരയുക"
+	},
+	"search_feature": {
+		"message": "തിരയൽ സവിശേഷതകൾ"
+	},
+	"filter_productivity": {
+		"message": "ഗവേഷണം"
+	},
+	"helperbird_apps": {
+		"message": "ഹെൽപ്പർബേർഡ് ആപ്പുകൾ"
+	},
+	"fav_message": {
+		"message": "നിങ്ങൾക്ക് പ്രിയപ്പെട്ട ഫീച്ചറുകളൊന്നും ഇല്ലെന്ന് തോന്നുന്നു. ഇഷ്ടപ്പെടാൻ, ഒരു ഫീച്ചറിന് അടുത്തുള്ള മൂന്ന് ഡോട്ടുകളിൽ ക്ലിക്ക് ചെയ്ത് പ്രിയപ്പെട്ടത് ക്ലിക്കുചെയ്യുക."
+	},
+	"filter_features": {
+		"message": "ഫിൽട്ടർ സവിശേഷതകൾ"
+	},
+	"student_offer": {
+		"message": "വിദ്യാർത്ഥികൾക്ക് ഹെൽപ്പർബേർഡ് പ്രോ ലഭിക്കും"
+	},
+	"filter_style": {
+		"message": "പ്രദർശിപ്പിക്കുക"
+	},
+	"filter_text_to_speech": {
+		"message": "വാചകം മുതൽ സംഭാഷണം വരെ"
+	},
+	"filter_dyslexia": {
+		"message": "ഡിസ്ലെക്സിയ"
+	},
+	"filter_pro": {
+		"message": "പ്രോ സവിശേഷതകൾ"
+	},
+	"filter": {
+		"message": "ഫിൽട്ടർ ചെയ്യുക"
+	},
+	"filter_writing": {
+		"message": "എഴുത്തു"
+	},
+	"highlighter_title": {
+		"message": "ഹൈലൈറ്റർ"
+	},
+	"filter_reading": {
+		"message": "വായന"
+	},
+	"filter_active": {
+		"message": "സജീവമാണ്"
+	},
+	"filter_audio": {
+		"message": "ഓഡിയോ സവിശേഷതകൾ"
+	},
+	"feature_blindness": {
+		"message": "വർണ്ണാന്ധത"
+	},
+	"feature_emphasize_links": {
+		"message": "ലിങ്കുകൾ ഊന്നിപ്പറയുക"
+	},
+	"feature_emphasize_stroke": {
+		"message": "ടെക്സ്റ്റ് സ്ട്രോക്ക്"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "നിറം"
+	},
+	"color": {
+		"message": "നിറം"
+	},
+	"feature_specialized_font": {
+		"message": "പ്രത്യേക ഫോണ്ട്"
+	},
+	"feature_specialized_font_options": {
+		"message": "ഫോണ്ട് ഓപ്ഷനുകൾ"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "ഹൈലൈറ്റ് മെനു ഓണാണ്"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "ഹൈലൈറ്റ് മെനു ഓഫാണ്"
+	},
+	"feature_highlight_menu": {
+		"message": "ഹൈലൈറ്റ് മെനു"
+	},
+	"feature_highlight_menu_description": {
+		"message": "ഞങ്ങളുടെ ഹൈലൈറ്റ് ടെക്സ്റ്റ് മെനു കാണിക്കുന്നു."
+	},
+	"show": {
+		"message": "കാണിക്കുക"
+	},
+	"welcome": {
+		"message": "ഹെൽപ്പർബേർഡിലേക്ക് സ്വാഗതം"
+	},
+	"feature_immersive_reader": {
+		"message": "ആഴത്തിലുള്ള വായനക്കാരൻ"
+	},
+	"create_a_new_note": {
+		"message": "ഒരു പുതിയ കുറിപ്പ് സൃഷ്ടിക്കുക"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "ഈ പേജിൽ Microsoft-ന്റെ ഇമ്മേഴ്‌സീവ് റീഡർ ഉപയോഗിക്കുക."
+	},
+	"feature_toolbar_google": {
+		"message": "Google ഡോക്‌സും സ്ലൈഡും"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Google ഡോക് ഫയലുകളിൽ ഒരു ഹെൽപ്പർബേർഡ് ടൂൾബാർ ചേർക്കുന്നു."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF ടൂൾബാർ"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Pdf ഫയലുകളിൽ ഒരു ഹെൽപ്പർബേർഡ് ടൂൾബാർ ചേർക്കുന്നു."
+	},
+	"pause_helperbird": {
+		"message": "$1 താൽക്കാലികമായി നിർത്തുക"
+	},
+	"quick_action": {
+		"message": "ദ്രുത പ്രവർത്തനങ്ങൾ"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 ഓഫാണ്"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 ഓണാണ്"
+	},
+	"voice_typing_is_on": {
+		"message": "വോയ്‌സ് ടൈപ്പിംഗ് ഓണാണ്"
+	},
+	"voice_typing_is_off": {
+		"message": "വോയ്‌സ് ടൈപ്പിംഗ് ഓഫാണ്"
+	},
+	"helperbird_paused": {
+		"message": "ഹെൽപ്പർബേർഡ് ഓഫ്"
+	},
+	"helperbird_running": {
+		"message": "ഹെൽപ്പർബേർഡ് ഓടുന്നു"
+	},
+	"applying_settings": {
+		"message": "നിങ്ങളുടെ ക്രമീകരണങ്ങൾ പ്രയോഗിക്കുന്നു"
+	},
+	"feature_favorites": {
+		"message": "പ്രിയപ്പെട്ടവ"
+	},
+	"all_feature_favorites": {
+		"message": "എല്ലാം"
+	},
+	"hide_feature_favorites": {
+		"message": "പ്രിയപ്പെട്ടവ മറയ്ക്കുക"
+	},
+	"feature_favorites_description": {
+		"message": "പ്രിയപ്പെട്ടവ മാത്രം കാണിക്കുക."
+	},
+	"feature_print": {
+		"message": "അച്ചടിക്കുക"
+	},
+	"feature_print_description": {
+		"message": "നിലവിലെ പേജ് പ്രിന്റ് ചെയ്യുക."
+	},
+	"feature_printing_success": {
+		"message": "പ്രിന്റിംഗ് തുറക്കുന്നു"
+	},
+	"feature_reader_mode": {
+		"message": "റീഡർ മോഡ്"
+	},
+	"feature_readermode_opening": {
+		"message": "റീഡർ മോഡ് തുറക്കുന്നു"
+	},
+	"feature_readermode_closing": {
+		"message": "റീഡർ മോഡ് അടയ്ക്കുന്നു"
+	},
+	"view_table": {
+		"message": "മേശ കാഴ്ച"
+	},
+	"view_time": {
+		"message": "ടൈംലൈൻ കാഴ്ച"
+	},
+	"view_card": {
+		"message": "കാർഡ് കാഴ്ച"
+	},
+	"feature_screenshot": {
+		"message": "സ്ക്രീൻഷോട്ട്"
+	},
+	"feature_screenshot_description": {
+		"message": "നിലവിലെ പേജിന്റെ സ്ക്രീൻഷോട്ട് എടുക്കുക."
+	},
+	"feature_screenshot_error": {
+		"message": "സ്ക്രീൻഷോട്ട് എടുക്കുന്നതിൽ പിശക്"
+	},
+	"feature_screenshot_success": {
+		"message": "സ്ക്രീൻഷോട്ട് ക്യാപ്ചർ ചെയ്യുന്നു"
+	},
+	"feature_tooltip": {
+		"message": "ചിത്ര വിവരണങ്ങൾ"
+	},
+	"feature_tooltip_description": {
+		"message": "ആൾട്ട്, ടൈറ്റിൽ ടാഗുകൾ മൗസിൽ കാണിക്കുക."
+	},
+	"feature_translate": {
+		"message": "വിവർത്തനം ചെയ്യുക"
+	},
+	"feature_language": {
+		"message": "ഭാഷകൾ"
+	},
+	"feature_magnifier": {
+		"message": "മാഗ്നിഫയർ"
+	},
+	"feature_magnifier_description": {
+		"message": "മാഗ്നിഫയർ"
+	},
+	"percentage": {
+		"message": "ശതമാനം"
+	},
+	"feature_analyze": {
+		"message": "വാക്കുകളുടെ എണ്ണം"
+	},
+	"feature_analyze_description": {
+		"message": "വിശകലനം ചെയ്യുക"
+	},
+	"feature_analyze_words": {
+		"message": "വാക്കുകൾ"
+	},
+	"feature_analyze_characters": {
+		"message": "കഥാപാത്രങ്ങൾ"
+	},
+	"feature_annotations": {
+		"message": "കുറിപ്പുകൾ"
+	},
+	"feature_annotations_description": {
+		"message": "ഒരു പുതിയ സ്റ്റിക്കി കുറിപ്പ് നൽകി പേജ് വ്യാഖ്യാനിക്കുക."
+	},
+	"feature_annotate_open": {
+		"message": "ഒരു പുതിയ നോട്ട് സൃഷ്ടിക്കുന്നു"
+	},
+	"annotate": {
+		"message": "വ്യാഖ്യാനിക്കുക"
+	},
+	"feature_cognitive_load": {
+		"message": "വേഗതയുള്ള വായന"
+	},
+	"bold": {
+		"message": "ധൈര്യം"
+	},
+	"feature_background_color": {
+		"message": "പശ്ചാത്തല നിറം"
+	},
+	"feature_font_color": {
+		"message": "അക്ഷരത്തിന്റെ നിറം"
+	},
+	"feature_highlight_menu_min": {
+		"message": "മെനു"
+	},
+	"feature_highlight_color": {
+		"message": "നിറം ഹൈലൈറ്റ് ചെയ്യുക"
+	},
+	"feature_link_color": {
+		"message": "ലിങ്ക് നിറം"
+	},
+	"feature_cursor_size": {
+		"message": "കഴ്സർ വലിപ്പം"
+	},
+	"feature_font_size": {
+		"message": "വാചക വലുപ്പം"
+	},
+	"feature_font_size_titles": {
+		"message": "തലക്കെട്ടുകളുടെ വലിപ്പം"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "ഖണ്ഡികകളുടെ വലുപ്പം"
+	},
+	"feature_gray_hue": {
+		"message": "ചാരനിറം"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "ഖണ്ഡികകൾ ഹൈലൈറ്റ് ചെയ്യുക"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "ഖണ്ഡികകളുടെ നിറം ഹൈലൈറ്റ് ചെയ്യുക"
+	},
+	"feature_images_hide_title": {
+		"message": "ചിത്രങ്ങൾ മറയ്ക്കുക"
+	},
+	"hide": {
+		"message": "മറയ്ക്കുക"
+	},
+	"feature_images_hide": {
+		"message": "എല്ലാ ചിത്രങ്ങളും മറയ്ക്കുക"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Gifs മറയ്ക്കുക"
+	},
+	"feature_high_contast": {
+		"message": "ഉയർന്ന ദൃശ്യതീവ്രത"
+	},
+	"feature_text_adjustments": {
+		"message": "ടെക്സ്റ്റ് ക്രമീകരണങ്ങൾ"
+	},
+	"feature_text_align": {
+		"message": "ടെക്സ്റ്റ് അലൈൻ ചെയ്യുക"
+	},
+	"feature_text_alignment": {
+		"message": "വിന്യാസം"
+	},
+	"feature_letter_spacing": {
+		"message": "അക്ഷരങ്ങളുടെ വിടവ്"
+	},
+	"spacing": {
+		"message": "സ്പേസിംഗ്"
+	},
+	"feature_line_height_spacing": {
+		"message": "ലൈൻ ഉയരം"
+	},
+	"height": {
+		"message": "ഉയരം"
+	},
+	"feature_line_focus": {
+		"message": "ലൈൻ ഫോക്കസ്"
+	},
+	"feature_line_focus_color": {
+		"message": "ലൈൻ ഫോക്കസ് നിറം"
+	},
+	"feature_line_focus_height": {
+		"message": "ലൈൻ ഫോക്കസ് ഉയരം"
+	},
+	"feature_mute": {
+		"message": "വീഡിയോ നിശബ്ദമാക്കുക"
+	},
+	"feature_mute_description": {
+		"message": "പേജുകളിൽ നിന്ന് വീഡിയോകളും ശബ്ദങ്ങളും നിശബ്ദമാക്കുക."
+	},
+	"ocr_read_words": {
+		"message": "വേർതിരിച്ച വാചകം വായിക്കുക"
+	},
+	"text": {
+		"message": "വാചകം"
+	},
+	"ocr_read_words_save": {
+		"message": "വേർതിരിച്ചെടുത്ത വാചകം സംരക്ഷിക്കുക"
+	},
+	"feature_extract_text": {
+		"message": "ടെക്‌സ്‌റ്റ് എക്‌സ്‌ട്രാക്‌റ്റ് (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "പ്രവർത്തനക്ഷമമാക്കുക, സ്ക്രീനിലെ ഏരിയ തിരഞ്ഞെടുക്കുക."
+	},
+	"feature_overlay": {
+		"message": "ഓവർലേ"
+	},
+	"feature_overlay_color": {
+		"message": "ഓവർലേ നിറം"
+	},
+	"feature_paragraph_width": {
+		"message": "ഖണ്ഡിക വീതി"
+	},
+	"width": {
+		"message": "വീതി"
+	},
+	"highlighted_text": {
+		"message": "ഹൈലൈറ്റ് ചെയ്‌ത വാചകം"
+	},
+	"issue_on_page": {
+		"message": "ഇഷ്യൂ"
+	},
+	"feature_reading_guide": {
+		"message": "വായനാ സഹായി"
+	},
+	"feature_reading_guide_color": {
+		"message": "വായനാ സഹായി നിറം"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "ഡിസ്ലെക്സിയ ഭരണാധികാരി"
+	},
+	"feature_ruler_width": {
+		"message": "ഭരണാധികാരിയുടെ വീതി"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "ഉയരം"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "സ്ഥാനം"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "നിറം"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "പിന്തുടരുക"
+	},
+	"feature_auto_scroll": {
+		"message": "യാന്ത്രിക സ്ക്രോൾ"
+	},
+	"speed": {
+		"message": "വേഗത"
+	},
+	"subscription_deleted": {
+		"message": "സബ്‌സ്‌ക്രിപ്‌ഷൻ റദ്ദാക്കി"
+	},
+	"title_enjoy_until": {
+		"message": "വരെ നിങ്ങളുടെ ട്രയൽ ആസ്വദിക്കൂ"
+	},
+	"incomplete_expired": {
+		"message": "ഞങ്ങൾക്ക് പേയ്‌മെന്റ് പൂർത്തിയാക്കാനായില്ല."
+	},
+	"past_due": {
+		"message": "നിങ്ങളുടെ സബ്‌സ്‌ക്രിപ്‌ഷൻ കാലാവധി കഴിഞ്ഞിരിക്കുന്നു."
+	},
+	"incomplete": {
+		"message": "ഞങ്ങൾക്ക് പേയ്‌മെന്റ് പൂർത്തിയാക്കാനായില്ല."
+	},
+	"transparency": {
+		"message": "തെളിച്ചം"
+	},
+	"title_message_full": {
+		"message": "Helperbird Pro സബ്‌സ്‌ക്രിപ്‌ഷൻ കണ്ടെത്തി."
+	},
+	"contact_support": {
+		"message": "പിന്തുണയുമായി ബന്ധപ്പെടുക."
+	},
+	"buy": {
+		"message": "$1 വാങ്ങുക"
+	},
+	"feature_voice_typing": {
+		"message": "വോയ്സ് ടൈപ്പിംഗ്"
+	},
+	"feature_voice_typing_description": {
+		"message": "എല്ലാ ഇൻപുട്ടുകളിലും വോയ്‌സ് ടൈപ്പിംഗ് ചേർക്കുന്നു. ഇൻപുട്ടിലെ ബട്ടണിൽ ക്ലിക്ക് ചെയ്യുക."
+	},
+	"google_docs_notice": {
+		"message": "ഞങ്ങൾക്ക് ഇപ്പോൾ ഒരു Google ആഡ്‌ഓൺ ഉണ്ട്! കൂടുതൽ പിന്തുണ ലഭിക്കാൻ ഇൻസ്റ്റാൾ ചെയ്യുക."
+	},
+	"feature_spell_check": {
+		"message": "അക്ഷരപ്പിശക് പരിശോധന"
+	},
+	"feature_summarize": {
+		"message": "പേജ് സംഗ്രഹിക്കുക"
+	},
+	"feature_summarize_description": {
+		"message": "ഈ പേജ് സംഗ്രഹിക്കുക."
+	},
+	"feature_text_to_speech_options": {
+		"message": "ടെക്സ്റ്റ് ടു സ്പീച്ച് ഓപ്ഷനുകൾ"
+	},
+	"feature_speech_voice": {
+		"message": "ശബ്ദം"
+	},
+	"feature_speech_speed": {
+		"message": "വേഗത"
+	},
+	"feature_speech_pitch": {
+		"message": "പിച്ച്"
+	},
+	"feature_speech_volume": {
+		"message": "വ്യാപ്തം"
+	},
+	"feature_speech_highlight_color": {
+		"message": "നിറം ഹൈലൈറ്റ് ചെയ്യുക"
+	},
+	"feature_speech_reading_success": {
+		"message": "തിരഞ്ഞെടുത്ത വാചകം വായിക്കുന്നു."
+	},
+	"feature_text_to_speech": {
+		"message": "വാചകം മുതൽ സംഭാഷണം വരെ"
+	},
+	"you_need_to_highlight": {
+		"message": "നിങ്ങൾ കുറച്ച് വാചകം ഹൈലൈറ്റ് ചെയ്യേണ്ടതുണ്ട്."
+	},
+	"feature_word_prediction": {
+		"message": "വാക്ക് പ്രവചനം"
+	},
+	"feature_word_prediction_description": {
+		"message": "ഇൻപുട്ടുകളിൽ ഹെൽപ്പർബേർഡ്സ് വേഡ് പ്രവചനം ഓണാക്കുക."
+	},
+	"feature_word_spacing": {
+		"message": "വാക്കുകളുടെ അകലം"
+	},
+	"full_Screen": {
+		"message": "പൂർണ്ണ സ്ക്രീൻ"
+	},
+	"voice_typing_stop": {
+		"message": "വോയിസ് ടൈപ്പിംഗ് നിർത്തുന്നു."
+	},
+	"voice_typing_start": {
+		"message": "ഇപ്പോൾ സംസാരിക്കുക."
+	},
+	"speak_word_on_hover": {
+		"message": "ഉറക്കെ വായിക്കുക."
+	},
+	"speak_word_on_hover_info": {
+		"message": "ഹോവറിൽ വാക്ക് വായിക്കും."
+	},
+	"speak": {
+		"message": "സംസാരിക്കുക"
+	},
+	"auto_scroll_start": {
+		"message": "ഓട്ടോ സ്ക്രോൾ ആരംഭിച്ചു."
+	},
+	"auto_scroll_stop": {
+		"message": "ഓട്ടോ സ്ക്രോൾ നിർത്തി."
+	},
+	"popup_immersive_success": {
+		"message": "ഇമ്മേഴ്‌സീവ് റീഡർ ലോഡുചെയ്യുന്നു."
+	},
+	"popup_readermode_success": {
+		"message": "റീഡർ മോഡ് തുറക്കുന്നു."
+	},
+	"popup_printing_success": {
+		"message": "പ്രിന്റിംഗ് തുറക്കുന്നു."
+	},
+	"ocr_select": {
+		"message": "പേജിൽ ഏരിയ തിരഞ്ഞെടുക്കുക."
+	},
+	"ocr_extracted": {
+		"message": "ടെക്‌സ്‌റ്റ് എക്‌സ്‌ട്രാക്‌റ്റ് ചെയ്‌തു."
+	},
+	"ocr_extracting": {
+		"message": "വേർതിരിച്ചെടുക്കുന്നു"
+	},
+	"ocr_copy": {
+		"message": "ചിത്രത്തിൽ നിന്ന് വാചകം പകർത്തി. നിങ്ങളുടെ ക്ലിപ്പ്ബോർഡിൽ സംരക്ഷിച്ചു."
+	},
+	"ocr_no_text": {
+		"message": "വാചകമൊന്നും കണ്ടെത്തിയില്ല."
+	},
+	"popup_note_success": {
+		"message": "നിങ്ങളുടെ കുറിപ്പുകളിൽ സംരക്ഷിച്ചു."
+	},
+	"popup_immersive_error": {
+		"message": "ഇമ്മേഴ്‌സീവ് റീഡർ ലോഡുചെയ്യുന്നതിൽ പിശക്"
+	},
+	"popup_summarize_error": {
+		"message": "പേജ് സംഗ്രഹിക്കുന്നതിൽ പിശക്."
+	},
+	"popup_saving_error": {
+		"message": "സംരക്ഷിക്കുന്നതിൽ പിശക്"
+	},
+	"popup_summarize_success": {
+		"message": "സംഗ്രഹിക്കുന്ന പേജ്"
+	},
+	"popup_readermode_closing": {
+		"message": "റീഡർ മോഡ് അടയ്ക്കുന്നു"
+	},
+	"close": {
+		"message": "അടയ്ക്കുക"
+	},
+	"your_note_was_saved": {
+		"message": "നിങ്ങളുടെ കുറിപ്പ് സംരക്ഷിച്ചു."
+	},
+	"error_saving_your_note": {
+		"message": "നിങ്ങളുടെ കുറിപ്പ് സംരക്ഷിക്കുന്നതിൽ പിശക്. ദയവായി വീണ്ടും ശ്രമിക്കുക."
+	},
+	"popup_readinglist_error": {
+		"message": "വായനാ പട്ടികയിൽ സംരക്ഷിക്കുന്നതിൽ പിശക്"
+	},
+	"popup_readinglist_success": {
+		"message": "വായനാ പട്ടികയിൽ സംരക്ഷിച്ചു"
+	},
+	"popup_screenshot_error": {
+		"message": "സ്ക്രീൻഷോട്ട് എടുക്കുന്നതിൽ പിശക്"
+	},
+	"popup_screenshot_success": {
+		"message": "സ്ക്രീൻഷോട്ട് ക്യാപ്ചർ ചെയ്യുന്നു"
+	},
+	"copied_text": {
+		"message": "പകർത്തിയ വാചകം"
+	},
+	"copied_text_error": {
+		"message": "വാചകം പകർത്തുന്നതിൽ പിശക്."
+	},
+	"ocr_loading": {
+		"message": "ഹെൽപ്പർബേർഡ്സ് OCR ലോഡ് ചെയ്യുന്നു"
+	},
+	"ocr_save": {
+		"message": "നിങ്ങളുടെ കുറിപ്പുകളിൽ സംരക്ഷിച്ചു"
+	},
+	"popup_reading_success": {
+		"message": "തിരഞ്ഞെടുത്ത വാചകം വായിക്കുന്നു"
+	},
+	"popup_reading_finished": {
+		"message": "വായിച്ചു തീർത്തു"
+	},
+	"popup_reading_error": {
+		"message": "നിർത്തുന്നു"
+	},
+	"popup_reading_stopping": {
+		"message": "നിർത്തുന്നു"
+	},
+	"popup_reading_pause": {
+		"message": "താൽക്കാലികമായി നിർത്തി"
+	},
+	"notifcations_upgrade_title": {
+		"message": "ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് നിങ്ങൾ Helperbird Pro അപ്‌ഗ്രേഡ് ചെയ്യേണ്ടതുണ്ട്."
+	},
+	"menu_define": {
+		"message": "വാക്ക് നിർവ്വചിക്കുക"
+	},
+	"menu_website_readinglist": {
+		"message": "വായനാ പട്ടികയിലേക്ക് വെബ്സൈറ്റ് ചേർക്കുക"
+	},
+	"menu_readinglist": {
+		"message": "വായനാ പട്ടികയിലേക്ക് ചേർക്കുക"
+	},
+	"menu_text_to_speech": {
+		"message": "വാചകം മുതൽ സംഭാഷണം വരെ"
+	},
+	"menu_play": {
+		"message": "കളിക്കുക"
+	},
+	"menu_pause": {
+		"message": "താൽക്കാലികമായി നിർത്തുക"
+	},
+	"menu_stop": {
+		"message": "നിർത്തുക"
+	},
+	"menu_resume": {
+		"message": "പുനരാരംഭിക്കുക"
+	},
+	"menu_screenshot": {
+		"message": "സ്ക്രീൻ ഷോട്ട് എടുക്കുക"
+	},
+	"menu_share": {
+		"message": "പങ്കിടുക"
+	},
+	"menu_reader_mode": {
+		"message": "റീഡർ മോഡിൽ കാണുക"
+	},
+	"menu_translate": {
+		"message": "വിവർത്തനം ചെയ്യുക"
+	},
+	"road_map": {
+		"message": "റോഡ്മാപ്പ്"
+	},
+	"menu_immersive_reader": {
+		"message": "ഇമ്മേഴ്‌സീവ് റീഡറിൽ കാണുക"
+	},
+	"menu_summarize": {
+		"message": "പേജ് സംഗ്രഹിക്കുക"
+	},
+	"menu_summarize_page": {
+		"message": "പേജ് സംഗ്രഹിച്ചു"
+	},
+	"menu_annotate_page": {
+		"message": "പേജ് വ്യാഖ്യാനിക്കുക"
+	}
+}

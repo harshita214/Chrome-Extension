@@ -1,0 +1,133 @@
+.highlighter-f44336 {
+	background-color: #f44336 !important;
+	cursor: inherit !important;
+}
+.highlighter-ff9800 {
+	background-color: #ff9800 !important;
+	cursor: inherit !important;
+}
+.highlighter-ffeb3b {
+	background-color: #ffeb3b !important;
+	cursor: inherit !important;
+}
+.highlighter-4caf50 {
+	background-color: #4caf50 !important;
+	cursor: inherit !important;
+}
+.highlighter-2196f3 {
+	background-color: #2196f3 !important;
+	cursor: inherit !important;
+}
+.highlighter-3f51b5 {
+	background-color: #3f51b5 !important;
+	cursor: inherit !important;
+}
+.highlighter-9c27b0 {
+	background-color: #9c27b0 !important;
+	cursor: inherit !important;
+}
+
+.medium-toolbar-arrow-under:after {
+	border-color: #783ef9 transparent transparent transparent;
+	top: 60px;
+}
+
+.medium-toolbar-arrow-over:before {
+	border-color: transparent transparent #783ef9 transparent;
+}
+
+.medium-editor-toolbar {
+	background-color: #783ef9;
+	border: none;
+	border-radius: 10px;
+	box-shadow: 0 15px 35px rgb(50 50 93 / 10%), 0 5px 15px rgb(0 0 0 / 7%);
+}
+.medium-editor-toolbar li button {
+	background-color: transparent;
+	border: none;
+	box-sizing: border-box;
+	color: #fff;
+	height: 60px;
+	min-width: 40px;
+	padding: 5px 12px;
+	-webkit-transition: background-color 0.2s ease-in, color 0.2s ease-in;
+	transition: background-color 0.2s ease-in, color 0.2s ease-in;
+}
+.medium-editor-toolbar li button:hover {
+	background-color: #4606d0;
+	color: #ebebeb;
+}
+.medium-editor-toolbar li .helperbird-editor-button-first {
+	border-bottom-left-radius: 50px;
+	border-top-left-radius: 50px;
+
+	border-radius: 10px 0px 0px 10px;
+}
+.medium-editor-toolbar li .helperbird-editor-button-last {
+	border-bottom-right-radius: 50px;
+	border-right: none;
+	border-top-right-radius: 50px;
+
+	border-radius: 0px 10px 10px 0px;
+}
+.medium-editor-toolbar li .medium-editor-button-active {
+	background-color: #783ef9;
+	color: #ebebeb;
+}
+
+.medium-editor-toolbar-form {
+	background: #783ef9;
+	border-radius: 50px;
+	color: #fff;
+	overflow: hidden;
+}
+.medium-editor-toolbar-form .medium-editor-toolbar-input {
+	background: #783ef9;
+	box-sizing: border-box;
+	color: #fff;
+	height: 40px;
+	padding-left: 16px;
+	width: 220px;
+}
+.medium-editor-toolbar-form
+	.medium-editor-toolbar-input::-webkit-input-placeholder {
+	color: #f8f5f3;
+	color: rgba(248, 245, 243, 0.8);
+}
+.medium-editor-toolbar-form .medium-editor-toolbar-input:-moz-placeholder {
+	/* Firefox 18- */
+	color: #f8f5f3;
+	color: rgba(248, 245, 243, 0.8);
+}
+.medium-editor-toolbar-form .medium-editor-toolbar-input::-moz-placeholder {
+	/* Firefox 19+ */
+	color: #f8f5f3;
+	color: rgba(248, 245, 243, 0.8);
+}
+.medium-editor-toolbar-form .medium-editor-toolbar-input:-ms-input-placeholder {
+	color: #f8f5f3;
+	color: rgba(248, 245, 243, 0.8);
+}
+.medium-editor-toolbar-form a {
+	color: #fff;
+	-webkit-transform: translateY(2px);
+	transform: translateY(2px);
+}
+.medium-editor-toolbar-form .medium-editor-toolbar-close {
+	margin-right: 16px;
+}
+
+.medium-editor-toolbar-anchor-preview {
+	background: #783ef9;
+	border-radius: 50px;
+	padding: 5px 12px;
+}
+
+.medium-editor-anchor-preview a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.medium-editor-toolbar-actions li,
+.medium-editor-toolbar-actions button {
+}

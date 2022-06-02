@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird untuk Chrome"
+	},
+	"appDescription": {
+		"message": "Lebih 32 ciri kebolehaksesan & produktiviti dibina untuk menyokong setiap jenis pembaca, pelajar dan penulis. Termasuk sokongan disleksia."
+	},
+	"helpGuide": {
+		"message": "Panduan bantuan"
+	},
+	"upgrade_title": {
+		"message": "Ciri Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "Anda memerlukan langganan Helperbird Pro untuk menggunakan ciri ini. Jangan risau, 40 USD setahun atau 4.99 sebulan."
+	},
+	"plan_deal": {
+		"message": "Tawaran pelajar"
+	},
+	"plan_month": {
+		"message": "Tawaran bulanan"
+	},
+	"plan_year": {
+		"message": "Tawaran tahunan"
+	},
+	"upgrade_message": {
+		"message": "Tingkatkan kepada Helperbird Pro, untuk membuka kunci semua ciri."
+	},
+	"column_title": {
+		"message": "Ruangan"
+	},
+	"upgrade_now": {
+		"message": "Menaiktaraf sekarang"
+	},
+	"upgrade_to_pro": {
+		"message": "Naik taraf kepada Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Temui Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Sila log masuk ke Helperbird atau masukkan kunci langganan anda."
+	},
+	"privacy": {
+		"message": "Privasi"
+	},
+	"whats_new": {
+		"message": "Apa yang baru"
+	},
+	"privacy_details": {
+		"message": "Kami menghormati privasi anda, jadi ini adalah dalam bahasa yang jelas dan mudah."
+	},
+	"privacy_details_one": {
+		"message": "Di Helperbird, kami menghormati dan mengambil serius tentang privasi anda. Itulah sebabnya kami tidak menyimpan atau mengumpul apa-apa."
+	},
+	"privacy_details_two": {
+		"message": "Satu-satunya meminta e-mel anda, apabila anda log masuk. Untuk menyemak sama ada domain sekolah atau perniagaan anda telah dibayar atau jika anda telah membayar untuk akaun di Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Semua yang anda lakukan dan tetapan yang anda simpan kekal secara setempat pada penyemak imbas anda. Jangan sekali-kali meninggalkan komputer anda."
+	},
+	"free": {
+		"message": "Percuma"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "hidup"
+	},
+	"on_lower": {
+		"message": "pada"
+	},
+	"off": {
+		"message": "Mati"
+	},
+	"off_lower": {
+		"message": "dimatikan"
+	},
+	"notes": {
+		"message": "Nota"
+	},
+	"open_notes": {
+		"message": "Buka nota"
+	},
+	"save": {
+		"message": "Jimat"
+	},
+	"clear": {
+		"message": "Jelas"
+	},
+	"manage": {
+		"message": "Mengurus"
+	},
+	"open": {
+		"message": "Buka"
+	},
+	"copy": {
+		"message": "Salinan"
+	},
+	"delete": {
+		"message": "Padam"
+	},
+	"documents": {
+		"message": "Dokumen"
+	},
+	"remove": {
+		"message": "Alih keluar"
+	},
+	"version": {
+		"message": "Versi"
+	},
+	"visit": {
+		"message": "melawat"
+	},
+	"no_results": {
+		"message": "Tiada keputusan"
+	},
+	"reduce_motion": {
+		"message": "Animasi"
+	},
+	"maths_steps": {
+		"message": "Penyelesai matematik"
+	},
+	"tour": {
+		"message": "Lawatan Helperbird"
+	},
+	"reduce_motion_description": {
+		"message": "Elakkan animasi daripada dipaparkan pada halaman Web."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Pembaca Imersif ialah alat percuma yang melaksanakan teknik terbukti untuk meningkatkan bacaan dan penulisan"
+	},
+	"start": {
+		"message": "Mulakan"
+	},
+	"learn_more": {
+		"message": "Ketahui lebih lanjut"
+	},
+	"more": {
+		"message": "Lagi"
+	},
+	"editor_title": {
+		"message": "Editor"
+	},
+	"editor_title_open": {
+		"message": "Buka Editor Helperbirds"
+	},
+	"logout": {
+		"message": "Log keluar"
+	},
+	"signin": {
+		"message": "Log masuk"
+	},
+	"define_title": {
+		"message": "Kamus"
+	},
+	"define_title_open": {
+		"message": "Kamus Terbuka"
+	},
+	"define_empty_title": {
+		"message": "Cari perkataan dan kami akan mengembalikan maksudnya."
+	},
+	"define_search": {
+		"message": "Cari......"
+	},
+	"define_antonyms": {
+		"message": "Antonim"
+	},
+	"define_synonyms": {
+		"message": "sinonim"
+	},
+	"define_meanings": {
+		"message": "Maknanya"
+	},
+	"define_related": {
+		"message": "Berkaitan"
+	},
+	"define_etymology": {
+		"message": "Etimologi"
+	},
+	"export": {
+		"message": "Eksport"
+	},
+	"export_word": {
+		"message": "Eksport ke Word"
+	},
+	"export_docs": {
+		"message": "Eksport ke Dokumen Google"
+	},
+	"export_text": {
+		"message": "Eksport ke fail Teks"
+	},
+	"toolbar_pdf": {
+		"message": "Pembaca PDF"
+	},
+	"toolbar_pdf_open": {
+		"message": "Buka pembaca PDF"
+	},
+	"menus": {
+		"message": "Google Docs & Pdfs"
+	},
+	"upgrade_message_title": {
+		"description": "Sambungan Helperbird.",
+		"message": "Naik taraf kepada $1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Sambungan Helperbird.",
+		"message": "Akses ciri berkuasa seperti Mod Pembaca dan $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Sambungan Helperbird.",
+		"message": "Pilih pelan di bawah untuk membuka lebih 30 ciri dan sokongan 24 jam."
+	},
+	"alert_message": {
+		"message": "Tingkatkan atau log masuk untuk mengakses semua ciri Pro."
+	},
+	"alert_loading": {
+		"message": "Memuatkan...."
+	},
+	"alert_clear": {
+		"message": "Jelas"
+	},
+	"alert_cleared": {
+		"message": "Dikosongkan"
+	},
+	"alert_download": {
+		"message": "Muat turun"
+	},
+	"alert_no_data": {
+		"message": "Tiada keputusan"
+	},
+	"annotations_notes": {
+		"message": "Nota"
+	},
+	"import_annotations": {
+		"message": "Import nota"
+	},
+	"options": {
+		"message": "Pilihan"
+	},
+	"open_document": {
+		"message": "Buka dokumen"
+	},
+	"select_document": {
+		"message": "Anda perlu memilih dokumen."
+	},
+	"copied_document": {
+		"message": "Dokumen disalin"
+	},
+	"saved_document": {
+		"message": "Dokumen disimpan"
+	},
+	"issue_saving": {
+		"message": "Penyimpanan isu"
+	},
+	"show_updates": {
+		"message": "Tunjukkan Kemas Kini"
+	},
+	"new": {
+		"message": "Baru"
+	},
+	"pause": {
+		"message": "jeda"
+	},
+	"removed_document": {
+		"message": "Dokumen dialih keluar"
+	},
+	"opening_document": {
+		"message": "Membuka dokumen"
+	},
+	"get_started": {
+		"message": "Mulakan"
+	},
+	"saved_to_documents": {
+		"message": "Disimpan pada dokumen anda."
+	},
+	"message_alert": {
+		"message": "Dapatkan akses kepada semua ciri Helperbirds dan sokongan pelanggan pada bila-bila masa anda memerlukannya. Lebih 30 ciri."
+	},
+	"message_three_day": {
+		"message": "percubaan 3 hari"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Semak input anda"
+	},
+	"upgrade": {
+		"message": "Naik taraf"
+	},
+	"upgrade_": {
+		"message": "Naik taraf kepada $1"
+	},
+	"website": {
+		"message": "laman web"
+	},
+	"description": {
+		"message": "Penerangan"
+	},
+	"capture": {
+		"message": "Tangkap"
+	},
+	"category": {
+		"message": "kategori"
+	},
+	"error_found_label": {
+		"message": "Ada ralat"
+	},
+	"cancel": {
+		"message": "Batal"
+	},
+	"readinglist_title": {
+		"message": "Senarai bacaan"
+	},
+	"readinglist_title_open": {
+		"message": "Buka senarai Bacaan"
+	},
+	"note_removed": {
+		"message": "Nota dikeluarkan."
+	},
+	"note_removed_error": {
+		"message": "Tidak dapat mengalih keluar nota."
+	},
+	"readinglist_removed": {
+		"message": "Tapak web dialih keluar"
+	},
+	"settings_saved": {
+		"message": "Tetapan disimpan"
+	},
+	"check_for_updates": {
+		"message": "Menyemak kemas kini"
+	},
+	"show_highlights": {
+		"message": "Tunjukkan sorotan pada halaman."
+	},
+	"account_title": {
+		"message": "Akaun"
+	},
+	"account_description": {
+		"message": "Kami menggunakan e-mel yang sama yang anda log masuk ke penyemak imbas anda sebagai log masuk anda."
+	},
+	"signed_in_as": {
+		"message": "Log masuk sebagai"
+	},
+	"subscription_title": {
+		"message": "Langganan"
+	},
+	"current_plan": {
+		"message": "Pelan semasa anda"
+	},
+	"subscription_status": {
+		"message": "Status langganan anda:"
+	},
+	"check_subscription": {
+		"message": "Semak langganan"
+	},
+	"subscription_token_title": {
+		"message": "Kunci langganan"
+	},
+	"subscription_token_description": {
+		"message": "Jika anda mempunyai langganan Helperbird Pro, masukkannya di bawah untuk membuka kunci semua ciri Helperbird Pro."
+	},
+	"themes": {
+		"message": "Tema"
+	},
+	"theme": {
+		"message": "Tema"
+	},
+	"danger_zone_title": {
+		"message": "Penyimpanan"
+	},
+	"danger_zone_description": {
+		"message": "Butang di bawah akan mengosongkan semua tetapan dan memulakan sambungan seolah-olah ia baharu. Jadi berhati-hati kami tidak boleh mendapatkan apa-apa yang anda padamkan kembali."
+	},
+	"delete_everything": {
+		"message": "Padam semua"
+	},
+	"delete_this_note": {
+		"message": "Padamkan nota ini."
+	},
+	"visit_this_note": {
+		"message": "Lawati tapak web nota ini dihidupkan."
+	},
+	"everything_deleted": {
+		"message": "Semua tetapan dan storan kini dipadamkan."
+	},
+	"enter_email": {
+		"message": "Anda perlu memasukkan e-mel."
+	},
+	"shortcuts": {
+		"message": "Jalan pintas"
+	},
+	"shortcuts_menu_on": {
+		"message": "Pintasan dihidupkan"
+	},
+	"shortcuts_menu_off": {
+		"message": "Pintasan dimatikan"
+	},
+	"shortcuts_title": {
+		"message": "Jalan pintas"
+	},
+	"shortcuts_description": {
+		"message": "Jalan pintas"
+	},
+	"shortcuts_ocr": {
+		"message": "Dayakan OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Pembaca Imersif terbuka"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Buka Mod Pembaca"
+	},
+	"annotate_page": {
+		"message": "Anotasi halaman"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Buka PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Zum keluar"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Mengezum masuk"
+	},
+	"settings": {
+		"message": "tetapan"
+	},
+	"support_videos": {
+		"message": "Sokongan video"
+	},
+	"review_us": {
+		"message": "Semak kami"
+	},
+	"view": {
+		"message": "Lihat"
+	},
+	"views": {
+		"message": "Pandangan"
+	},
+	"no_favorites": {
+		"message": "Tiada kegemaran"
+	},
+	"sorting_none": {
+		"message": "Tiada apa yang dapat ditemui."
+	},
+	"sorting": {
+		"message": "Menyusun...."
+	},
+	"showing_favorites": {
+		"message": "Menunjukkan kegemaran"
+	},
+	"unpaid": {
+		"message": "Langganan anda tidak berbayar."
+	},
+	"canceled": {
+		"message": "Langganan anda dibatalkan."
+	},
+	"message_nothing_found": {
+		"message": "Kami tidak menemui langganan."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Kami tidak mendapat sebarang teks. Sila cuba lagi (Muat Semula). Cuba alat tambah PDF atau Google Docs kami."
+	},
+	"unpinned_favorite": {
+		"message": "Dialih keluar digemari"
+	},
+	"pin_favorite": {
+		"message": "Digemari"
+	},
+	"setting_saved": {
+		"message": "Tetapan disimpan"
+	},
+	"favourite": {
+		"message": "Kegemaran"
+	},
+	"un_favourite": {
+		"message": "Tidak digemari"
+	},
+	"how_to_use": {
+		"message": "Bagaimana nak guna"
+	},
+	"search": {
+		"message": "Cari"
+	},
+	"search_feature": {
+		"message": "Ciri carian"
+	},
+	"filter_productivity": {
+		"message": "Penyelidikan"
+	},
+	"helperbird_apps": {
+		"message": "Aplikasi Helperbird"
+	},
+	"fav_message": {
+		"message": "Nampaknya anda tidak mempunyai sebarang ciri yang digemari. Untuk kegemaran, klik tiga titik di sebelah ciri dan klik kegemaran."
+	},
+	"filter_features": {
+		"message": "Ciri penapis"
+	},
+	"student_offer": {
+		"message": "Pelajar mendapat Helperbird Pro untuk"
+	},
+	"filter_style": {
+		"message": "Paparan"
+	},
+	"filter_text_to_speech": {
+		"message": "Teks kepada ucapan"
+	},
+	"filter_dyslexia": {
+		"message": "Disleksia"
+	},
+	"filter_pro": {
+		"message": "Ciri pro"
+	},
+	"filter": {
+		"message": "Penapis"
+	},
+	"filter_writing": {
+		"message": "Menulis"
+	},
+	"highlighter_title": {
+		"message": "Penyerlah"
+	},
+	"filter_reading": {
+		"message": "Membaca"
+	},
+	"filter_active": {
+		"message": "Aktif"
+	},
+	"filter_audio": {
+		"message": "Ciri audio"
+	},
+	"feature_blindness": {
+		"message": "Buta warna"
+	},
+	"feature_emphasize_links": {
+		"message": "Tekankan pautan"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Sapuan teks"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Warna"
+	},
+	"color": {
+		"message": "Warna"
+	},
+	"feature_specialized_font": {
+		"message": "Font Khusus"
+	},
+	"feature_specialized_font_options": {
+		"message": "Pilihan fon"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Menu serlahan dihidupkan"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Menu serlahan dimatikan"
+	},
+	"feature_highlight_menu": {
+		"message": "Serlahkan menu"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Menunjukkan menu teks sorotan kami."
+	},
+	"show": {
+		"message": "Tunjukkan"
+	},
+	"welcome": {
+		"message": "Selamat datang ke Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Pembaca yang mengasyikkan"
+	},
+	"create_a_new_note": {
+		"message": "Buat nota baharu"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Gunakan pembaca Immersive oleh Microsoft pada halaman ini."
+	},
+	"feature_toolbar_google": {
+		"message": "Dokumen & Slaid Google"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Menambahkan bar alat Helperbird pada fail dokumen Google."
+	},
+	"feature_toolbar_pdf": {
+		"message": "Bar alat PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Menambahkan bar alat Helperbird pada fail Pdf."
+	},
+	"pause_helperbird": {
+		"message": "Jeda $1"
+	},
+	"quick_action": {
+		"message": "Tindakan pantas"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 dimatikan"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 dihidupkan"
+	},
+	"voice_typing_is_on": {
+		"message": "Penaipan suara dihidupkan"
+	},
+	"voice_typing_is_off": {
+		"message": "Penaipan suara dimatikan"
+	},
+	"helperbird_paused": {
+		"message": "Helperbird dimatikan"
+	},
+	"helperbird_running": {
+		"message": "Helperbird berlari"
+	},
+	"applying_settings": {
+		"message": "Menggunakan tetapan anda"
+	},
+	"feature_favorites": {
+		"message": "Kegemaran"
+	},
+	"all_feature_favorites": {
+		"message": "Semua"
+	},
+	"hide_feature_favorites": {
+		"message": "Sembunyikan Kegemaran"
+	},
+	"feature_favorites_description": {
+		"message": "Tunjukkan kegemaran sahaja."
+	},
+	"feature_print": {
+		"message": "Cetak"
+	},
+	"feature_print_description": {
+		"message": "Cetak halaman semasa."
+	},
+	"feature_printing_success": {
+		"message": "Membuka percetakan"
+	},
+	"feature_reader_mode": {
+		"message": "Mod Pembaca"
+	},
+	"feature_readermode_opening": {
+		"message": "Membuka mod Pembaca"
+	},
+	"feature_readermode_closing": {
+		"message": "Menutup mod Pembaca"
+	},
+	"view_table": {
+		"message": "Paparan meja"
+	},
+	"view_time": {
+		"message": "Paparan garis masa"
+	},
+	"view_card": {
+		"message": "Paparan kad"
+	},
+	"feature_screenshot": {
+		"message": "Tangkapan skrin"
+	},
+	"feature_screenshot_description": {
+		"message": "Ambil tangkapan skrin halaman semasa."
+	},
+	"feature_screenshot_error": {
+		"message": "Ralat menangkap tangkapan skrin"
+	},
+	"feature_screenshot_success": {
+		"message": "Menangkap tangkapan skrin"
+	},
+	"feature_tooltip": {
+		"message": "Penerangan imej"
+	},
+	"feature_tooltip_description": {
+		"message": "Tunjukkan tag alt dan tajuk pada tetikus di atas."
+	},
+	"feature_translate": {
+		"message": "Terjemah"
+	},
+	"feature_language": {
+		"message": "Bahasa"
+	},
+	"feature_magnifier": {
+		"message": "Pembesar"
+	},
+	"feature_magnifier_description": {
+		"message": "Pembesar"
+	},
+	"percentage": {
+		"message": "Peratusan"
+	},
+	"feature_analyze": {
+		"message": "Bilangan perkataan"
+	},
+	"feature_analyze_description": {
+		"message": "menganalisis"
+	},
+	"feature_analyze_words": {
+		"message": "perkataan"
+	},
+	"feature_analyze_characters": {
+		"message": "watak"
+	},
+	"feature_annotations": {
+		"message": "Nota"
+	},
+	"feature_annotations_description": {
+		"message": "Anotasi halaman dengan meninggalkan nota melekit baharu."
+	},
+	"feature_annotate_open": {
+		"message": "Mencipta nota baharu"
+	},
+	"annotate": {
+		"message": "Anotasi"
+	},
+	"feature_cognitive_load": {
+		"message": "Bacaan laju"
+	},
+	"bold": {
+		"message": "Keberanian"
+	},
+	"feature_background_color": {
+		"message": "Warna latar belakang"
+	},
+	"feature_font_color": {
+		"message": "Warna fon"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Menu"
+	},
+	"feature_highlight_color": {
+		"message": "Serlahkan warna"
+	},
+	"feature_link_color": {
+		"message": "Warna pautan"
+	},
+	"feature_cursor_size": {
+		"message": "Saiz kursor"
+	},
+	"feature_font_size": {
+		"message": "Saiz teks"
+	},
+	"feature_font_size_titles": {
+		"message": "Saiz pengepala"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Saiz perenggan"
+	},
+	"feature_gray_hue": {
+		"message": "Warna kelabu"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Serlahkan perenggan"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Serlahkan warna perenggan"
+	},
+	"feature_images_hide_title": {
+		"message": "Sembunyikan imej"
+	},
+	"hide": {
+		"message": "Sembunyi"
+	},
+	"feature_images_hide": {
+		"message": "Sembunyikan semua imej"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Sembunyikan Gif"
+	},
+	"feature_high_contast": {
+		"message": "Kontras tinggi"
+	},
+	"feature_text_adjustments": {
+		"message": "Pelarasan teks"
+	},
+	"feature_text_align": {
+		"message": "Jajaran Teks"
+	},
+	"feature_text_alignment": {
+		"message": "Penjajaran"
+	},
+	"feature_letter_spacing": {
+		"message": "Jarak huruf"
+	},
+	"spacing": {
+		"message": "Jarak"
+	},
+	"feature_line_height_spacing": {
+		"message": "Ketinggian garisan"
+	},
+	"height": {
+		"message": "Ketinggian"
+	},
+	"feature_line_focus": {
+		"message": "Fokus garisan"
+	},
+	"feature_line_focus_color": {
+		"message": "Warna fokus garisan"
+	},
+	"feature_line_focus_height": {
+		"message": "Ketinggian fokus garisan"
+	},
+	"feature_mute": {
+		"message": "Redamkan video"
+	},
+	"feature_mute_description": {
+		"message": "Redamkan video dan bunyi daripada halaman."
+	},
+	"ocr_read_words": {
+		"message": "Baca teks yang diekstrak"
+	},
+	"text": {
+		"message": "Teks"
+	},
+	"ocr_read_words_save": {
+		"message": "Simpan teks yang diekstrak"
+	},
+	"feature_extract_text": {
+		"message": "Ekstrak teks (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Dayakan, pilih kawasan pada skrin."
+	},
+	"feature_overlay": {
+		"message": "Tindanan"
+	},
+	"feature_overlay_color": {
+		"message": "Warna tindanan"
+	},
+	"feature_paragraph_width": {
+		"message": "Lebar perenggan"
+	},
+	"width": {
+		"message": "Lebar"
+	},
+	"highlighted_text": {
+		"message": "Teks yang diserlahkan"
+	},
+	"issue_on_page": {
+		"message": "Isu"
+	},
+	"feature_reading_guide": {
+		"message": "Panduan Membaca"
+	},
+	"feature_reading_guide_color": {
+		"message": "Warna Panduan Membaca"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Pembaris disleksia"
+	},
+	"feature_ruler_width": {
+		"message": "Lebar pembaris"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Ketinggian"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "kedudukan"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Warna"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "ikut"
+	},
+	"feature_auto_scroll": {
+		"message": "Tatal automatik"
+	},
+	"speed": {
+		"message": "Kelajuan"
+	},
+	"subscription_deleted": {
+		"message": "Langganan dibatalkan"
+	},
+	"title_enjoy_until": {
+		"message": "Nikmati percubaan anda sehingga"
+	},
+	"incomplete_expired": {
+		"message": "Kami tidak dapat menyelesaikan pembayaran."
+	},
+	"past_due": {
+		"message": "Langganan anda sudah lewat."
+	},
+	"incomplete": {
+		"message": "Kami tidak dapat menyelesaikan pembayaran."
+	},
+	"transparency": {
+		"message": "Kecerahan"
+	},
+	"title_message_full": {
+		"message": "Langganan Helperbird Pro ditemui."
+	},
+	"contact_support": {
+		"message": "Sila hubungi sokongan."
+	},
+	"buy": {
+		"message": "Beli $1"
+	},
+	"feature_voice_typing": {
+		"message": "Menaip suara"
+	},
+	"feature_voice_typing_description": {
+		"message": "Menambahkan penaipan suara pada semua input. Hanya klik butang pada input."
+	},
+	"google_docs_notice": {
+		"message": "Kami kini mempunyai Google Addon! Pasang untuk mendapatkan lebih banyak sokongan."
+	},
+	"feature_spell_check": {
+		"message": "Semak ejaan"
+	},
+	"feature_summarize": {
+		"message": "Ringkaskan halaman"
+	},
+	"feature_summarize_description": {
+		"message": "Ringkaskan halaman ini."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Pilihan teks ke pertuturan"
+	},
+	"feature_speech_voice": {
+		"message": "Suara"
+	},
+	"feature_speech_speed": {
+		"message": "Kelajuan"
+	},
+	"feature_speech_pitch": {
+		"message": "Pitch"
+	},
+	"feature_speech_volume": {
+		"message": "Kelantangan"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Serlahkan warna"
+	},
+	"feature_speech_reading_success": {
+		"message": "Membaca teks yang dipilih."
+	},
+	"feature_text_to_speech": {
+		"message": "Teks kepada ucapan"
+	},
+	"you_need_to_highlight": {
+		"message": "Anda perlu menyerlahkan beberapa teks."
+	},
+	"feature_word_prediction": {
+		"message": "Ramalan Perkataan"
+	},
+	"feature_word_prediction_description": {
+		"message": "Hidupkan ramalan perkataan Helperbirds pada input."
+	},
+	"feature_word_spacing": {
+		"message": "Jarak perkataan"
+	},
+	"full_Screen": {
+		"message": "Skrin penuh"
+	},
+	"voice_typing_stop": {
+		"message": "Berhenti menaip suara."
+	},
+	"voice_typing_start": {
+		"message": "Cakap sekarang."
+	},
+	"speak_word_on_hover": {
+		"message": "Baca dengan kuat."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Akan membaca perkataan pada tuding."
+	},
+	"speak": {
+		"message": "Cakap"
+	},
+	"auto_scroll_start": {
+		"message": "Tatal automatik dimulakan."
+	},
+	"auto_scroll_stop": {
+		"message": "Tatal automatik berhenti."
+	},
+	"popup_immersive_success": {
+		"message": "Memuatkan Pembaca Imersif."
+	},
+	"popup_readermode_success": {
+		"message": "Membuka mod Pembaca."
+	},
+	"popup_printing_success": {
+		"message": "Membuka percetakan."
+	},
+	"ocr_select": {
+		"message": "Pilih kawasan pada halaman."
+	},
+	"ocr_extracted": {
+		"message": "Teks diekstrak."
+	},
+	"ocr_extracting": {
+		"message": "Mengeluarkan"
+	},
+	"ocr_copy": {
+		"message": "Teks yang disalin daripada imej. Disimpan pada papan keratan anda."
+	},
+	"ocr_no_text": {
+		"message": "Tiada teks ditemui."
+	},
+	"popup_note_success": {
+		"message": "Disimpan pada nota anda."
+	},
+	"popup_immersive_error": {
+		"message": "Ralat memuatkan pembaca Imersif"
+	},
+	"popup_summarize_error": {
+		"message": "Ralat meringkaskan halaman."
+	},
+	"popup_saving_error": {
+		"message": "Ralat menyimpan"
+	},
+	"popup_summarize_success": {
+		"message": "Halaman ringkasan"
+	},
+	"popup_readermode_closing": {
+		"message": "Menutup mod Pembaca"
+	},
+	"close": {
+		"message": "tutup"
+	},
+	"your_note_was_saved": {
+		"message": "Nota anda telah disimpan."
+	},
+	"error_saving_your_note": {
+		"message": "Ralat menyimpan nota anda. Sila cuba lagi."
+	},
+	"popup_readinglist_error": {
+		"message": "Ralat menyimpan ke senarai Bacaan"
+	},
+	"popup_readinglist_success": {
+		"message": "Disimpan ke senarai Bacaan"
+	},
+	"popup_screenshot_error": {
+		"message": "Ralat menangkap tangkapan skrin"
+	},
+	"popup_screenshot_success": {
+		"message": "Menangkap tangkapan skrin"
+	},
+	"copied_text": {
+		"message": "Teks yang disalin"
+	},
+	"copied_text_error": {
+		"message": "Ralat menyalin teks."
+	},
+	"ocr_loading": {
+		"message": "Memuatkan Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "Disimpan pada nota anda"
+	},
+	"popup_reading_success": {
+		"message": "Membaca teks yang dipilih"
+	},
+	"popup_reading_finished": {
+		"message": "Selesai membaca"
+	},
+	"popup_reading_error": {
+		"message": "Berhenti"
+	},
+	"popup_reading_stopping": {
+		"message": "Berhenti"
+	},
+	"popup_reading_pause": {
+		"message": "Dijeda"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Anda perlu meningkatkan Helperbird Pro untuk menggunakan ciri ini."
+	},
+	"menu_define": {
+		"message": "Takrif perkataan"
+	},
+	"menu_website_readinglist": {
+		"message": "Tambahkan tapak web ke senarai Bacaan"
+	},
+	"menu_readinglist": {
+		"message": "Tambahkan ke senarai Bacaan"
+	},
+	"menu_text_to_speech": {
+		"message": "Teks kepada ucapan"
+	},
+	"menu_play": {
+		"message": "Main"
+	},
+	"menu_pause": {
+		"message": "jeda"
+	},
+	"menu_stop": {
+		"message": "Berhenti"
+	},
+	"menu_resume": {
+		"message": "Sambung semula"
+	},
+	"menu_screenshot": {
+		"message": "Ambil tangkapan skrin"
+	},
+	"menu_share": {
+		"message": "Kongsi"
+	},
+	"menu_reader_mode": {
+		"message": "Lihat dalam mod Pembaca"
+	},
+	"menu_translate": {
+		"message": "Terjemah"
+	},
+	"road_map": {
+		"message": "Pelan hala tuju"
+	},
+	"menu_immersive_reader": {
+		"message": "Lihat dalam pembaca Imersif"
+	},
+	"menu_summarize": {
+		"message": "Ringkaskan halaman"
+	},
+	"menu_summarize_page": {
+		"message": "Halaman diringkaskan"
+	},
+	"menu_annotate_page": {
+		"message": "Anotasi halaman"
+	}
+}

@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird Chrome-hoz"
+	},
+	"appDescription": {
+		"message": "Több mint 32 kisegítő és termelékenységi funkció, amely minden olvasót, tanulót és írót támogat. Tartalmazza a diszlexia támogatását."
+	},
+	"helpGuide": {
+		"message": "Súgó útmutatók"
+	},
+	"upgrade_title": {
+		"message": "Helperbird Pro funkció"
+	},
+	"upgrade_description": {
+		"message": "A funkció használatához Helperbird Pro előfizetésre van szükség. Ne aggódjon, évi 40 USD vagy havi 4,99."
+	},
+	"plan_deal": {
+		"message": "Diák ajánlat"
+	},
+	"plan_month": {
+		"message": "Havi ajánlat"
+	},
+	"plan_year": {
+		"message": "Éves ajánlat"
+	},
+	"upgrade_message": {
+		"message": "Frissítsen Helperbird Pro verzióra az összes funkció feloldásához."
+	},
+	"column_title": {
+		"message": "Oszlop"
+	},
+	"upgrade_now": {
+		"message": "Frissíts most"
+	},
+	"upgrade_to_pro": {
+		"message": "Frissítsen Helperbird Pro-ra"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Fedezze fel a Helperbird Pro-t"
+	},
+	"signin_message": {
+		"message": "Kérjük, jelentkezzen be a Helperbirdbe, vagy adja meg előfizetési kulcsát."
+	},
+	"privacy": {
+		"message": "Magánélet"
+	},
+	"whats_new": {
+		"message": "Mi újság"
+	},
+	"privacy_details": {
+		"message": "Tiszteletben tartjuk a magánéletét, ezért itt világos és egyszerű nyelvezeten olvasható."
+	},
+	"privacy_details_one": {
+		"message": "Itt, a Helperbirdnél rendkívül komolyan tiszteljük és vesszük az Ön személyes adatait. Ezért nem tárolunk és nem gyűjtünk semmit."
+	},
+	"privacy_details_two": {
+		"message": "Az egyetlen kérni az e-mail-címét, amikor bejelentkezik. Annak ellenőrzésére, hogy az iskolai vagy üzleti domainért fizetett-e, vagy fizetett-e egy Stripe-fiókért."
+	},
+	"privacy_details_three": {
+		"message": "Minden, amit csinál, és a mentett beállítások helyileg a böngészőben maradnak. Soha ne hagyja el a számítógépet."
+	},
+	"free": {
+		"message": "Ingyenes"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "Tovább"
+	},
+	"on_lower": {
+		"message": "tovább"
+	},
+	"off": {
+		"message": "Ki"
+	},
+	"off_lower": {
+		"message": "ki"
+	},
+	"notes": {
+		"message": "Megjegyzések"
+	},
+	"open_notes": {
+		"message": "Nyissa meg a jegyzeteket"
+	},
+	"save": {
+		"message": "Megment"
+	},
+	"clear": {
+		"message": "Egyértelmű"
+	},
+	"manage": {
+		"message": "Kezelése"
+	},
+	"open": {
+		"message": "Nyisd ki"
+	},
+	"copy": {
+		"message": "Másolat"
+	},
+	"delete": {
+		"message": "Töröl"
+	},
+	"documents": {
+		"message": "Dokumentumok"
+	},
+	"remove": {
+		"message": "Távolítsa el"
+	},
+	"version": {
+		"message": "Változat"
+	},
+	"visit": {
+		"message": "Látogatás"
+	},
+	"no_results": {
+		"message": "Nincs eredmény"
+	},
+	"reduce_motion": {
+		"message": "Animációk"
+	},
+	"maths_steps": {
+		"message": "Matek megoldó"
+	},
+	"tour": {
+		"message": "Helperbird Tour"
+	},
+	"reduce_motion_description": {
+		"message": "Akadályozza meg, hogy animációk jelenjenek meg a weboldalakon."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Az Immersive Reader egy ingyenes eszköz, amely bevált technikákat valósít meg az olvasás és az írás javítására"
+	},
+	"start": {
+		"message": "Rajt"
+	},
+	"learn_more": {
+		"message": "Tudj meg többet"
+	},
+	"more": {
+		"message": "Több"
+	},
+	"editor_title": {
+		"message": "Szerkesztő"
+	},
+	"editor_title_open": {
+		"message": "Nyissa meg a Helperbirds szerkesztőt"
+	},
+	"logout": {
+		"message": "Kijelentkezés"
+	},
+	"signin": {
+		"message": "Belépés"
+	},
+	"define_title": {
+		"message": "Szótár"
+	},
+	"define_title_open": {
+		"message": "Szótár megnyitása"
+	},
+	"define_empty_title": {
+		"message": "Keressen egy szót, és visszaadjuk a jelentését."
+	},
+	"define_search": {
+		"message": "Keresés......"
+	},
+	"define_antonyms": {
+		"message": "Antonímák"
+	},
+	"define_synonyms": {
+		"message": "Szinonimák"
+	},
+	"define_meanings": {
+		"message": "Jelentések"
+	},
+	"define_related": {
+		"message": "Összefüggő"
+	},
+	"define_etymology": {
+		"message": "Etimológia"
+	},
+	"export": {
+		"message": "Export"
+	},
+	"export_word": {
+		"message": "Exportálás Wordbe"
+	},
+	"export_docs": {
+		"message": "Exportálás a Google Dokumentumokba"
+	},
+	"export_text": {
+		"message": "Exportálás szöveges fájlba"
+	},
+	"toolbar_pdf": {
+		"message": "PDF olvasó"
+	},
+	"toolbar_pdf_open": {
+		"message": "Nyissa meg a PDF olvasót"
+	},
+	"menus": {
+		"message": "Google Docs és PDF"
+	},
+	"upgrade_message_title": {
+		"description": "Helperbird kiterjesztés.",
+		"message": "Frissítsen 1 dollárra"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Helperbird kiterjesztés.",
+		"message": "Hozzáférés olyan hatékony funkciókhoz, mint a Reader Mode és a $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Helperbird kiterjesztés.",
+		"message": "Válasszon az alábbi előfizetési csomagot több mint 30 funkció és 24 órás támogatás feloldásához."
+	},
+	"alert_message": {
+		"message": "Frissítsen vagy jelentkezzen be az összes Pro funkció eléréséhez."
+	},
+	"alert_loading": {
+		"message": "Betöltés...."
+	},
+	"alert_clear": {
+		"message": "Egyértelmű"
+	},
+	"alert_cleared": {
+		"message": "Törölve"
+	},
+	"alert_download": {
+		"message": "Letöltés"
+	},
+	"alert_no_data": {
+		"message": "Nincs eredmény"
+	},
+	"annotations_notes": {
+		"message": "Megjegyzések"
+	},
+	"import_annotations": {
+		"message": "Jegyzetek importálása"
+	},
+	"options": {
+		"message": "Lehetőségek"
+	},
+	"open_document": {
+		"message": "Nyissa meg a dokumentumot"
+	},
+	"select_document": {
+		"message": "Ki kell választani egy dokumentumot."
+	},
+	"copied_document": {
+		"message": "A dokumentum másolva"
+	},
+	"saved_document": {
+		"message": "A dokumentum mentve"
+	},
+	"issue_saving": {
+		"message": "Mentés probléma"
+	},
+	"show_updates": {
+		"message": "Frissítések megjelenítése"
+	},
+	"new": {
+		"message": "Új"
+	},
+	"pause": {
+		"message": "Szünet"
+	},
+	"removed_document": {
+		"message": "A dokumentum eltávolítva"
+	},
+	"opening_document": {
+		"message": "Dokumentum megnyitása"
+	},
+	"get_started": {
+		"message": "Fogj neki"
+	},
+	"saved_to_documents": {
+		"message": "Mentve a dokumentumok közé."
+	},
+	"message_alert": {
+		"message": "Hozzáférhet a Helperbird összes funkciójához és ügyfélszolgálatához, amikor csak szüksége van rá. Több mint 30 funkció."
+	},
+	"message_three_day": {
+		"message": "3 napos próba"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Ellenőrizze a bemeneteket"
+	},
+	"upgrade": {
+		"message": "Frissítés"
+	},
+	"upgrade_": {
+		"message": "Frissítsen 1 dollárra"
+	},
+	"website": {
+		"message": "Weboldal"
+	},
+	"description": {
+		"message": "Leírás"
+	},
+	"capture": {
+		"message": "Elfog"
+	},
+	"category": {
+		"message": "Kategória"
+	},
+	"error_found_label": {
+		"message": "Hiba történt"
+	},
+	"cancel": {
+		"message": "Megszünteti"
+	},
+	"readinglist_title": {
+		"message": "Olvasólista"
+	},
+	"readinglist_title_open": {
+		"message": "Nyissa meg az Olvasási listát"
+	},
+	"note_removed": {
+		"message": "Megjegyzés eltávolítva."
+	},
+	"note_removed_error": {
+		"message": "Nem sikerült eltávolítani a jegyzetet."
+	},
+	"readinglist_removed": {
+		"message": "A webhely eltávolítva"
+	},
+	"settings_saved": {
+		"message": "Beállítások elmentve"
+	},
+	"check_for_updates": {
+		"message": "Frissítések keresése"
+	},
+	"show_highlights": {
+		"message": "Kiemelések megjelenítése az oldalon."
+	},
+	"account_title": {
+		"message": "fiók"
+	},
+	"account_description": {
+		"message": "Ugyanazt az e-mail-címet használjuk, amellyel bejelentkezik a böngészőjébe."
+	},
+	"signed_in_as": {
+		"message": "Bejelentkezve mint"
+	},
+	"subscription_title": {
+		"message": "Feliratkozás"
+	},
+	"current_plan": {
+		"message": "A jelenlegi terved"
+	},
+	"subscription_status": {
+		"message": "Előfizetésed állapota:"
+	},
+	"check_subscription": {
+		"message": "Ellenőrizze az előfizetést"
+	},
+	"subscription_token_title": {
+		"message": "Előfizetési kulcs"
+	},
+	"subscription_token_description": {
+		"message": "Ha rendelkezik Helperbird Pro előfizetéssel, írja be alább a Helperbird Pro összes funkciójának feloldásához."
+	},
+	"themes": {
+		"message": "Témák"
+	},
+	"theme": {
+		"message": "Téma"
+	},
+	"danger_zone_title": {
+		"message": "Tárolás"
+	},
+	"danger_zone_description": {
+		"message": "Az alábbi gomb törli az összes beállítást, és elindítja a bővítményt, mintha új lenne. Tehát legyen óvatos, nem kaphatunk vissza semmit, amit töröl."
+	},
+	"delete_everything": {
+		"message": "Töröljön mindent"
+	},
+	"delete_this_note": {
+		"message": "Törölje ezt a jegyzetet."
+	},
+	"visit_this_note": {
+		"message": "Látogassa meg a webhelyet, amelyen ez a megjegyzés szerepel."
+	},
+	"everything_deleted": {
+		"message": "Az összes beállítás és tárhely törölve."
+	},
+	"enter_email": {
+		"message": "E-mail címet kell megadnia."
+	},
+	"shortcuts": {
+		"message": "Parancsikonok"
+	},
+	"shortcuts_menu_on": {
+		"message": "A gyorsbillentyűk be vannak kapcsolva"
+	},
+	"shortcuts_menu_off": {
+		"message": "A gyorsbillentyűk ki vannak kapcsolva"
+	},
+	"shortcuts_title": {
+		"message": "Parancsikonok"
+	},
+	"shortcuts_description": {
+		"message": "Parancsikonok"
+	},
+	"shortcuts_ocr": {
+		"message": "OCR engedélyezése"
+	},
+	"shortcuts_immsersive": {
+		"message": "Nyissa meg az Immersive olvasót"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Nyissa meg az Olvasó módot"
+	},
+	"annotate_page": {
+		"message": "Megjegyzés oldal"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Nyissa meg a PDF-et"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Kicsinyítés"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Nagyítás"
+	},
+	"settings": {
+		"message": "Beállítások"
+	},
+	"support_videos": {
+		"message": "Támogatási videók"
+	},
+	"review_us": {
+		"message": "Értékeljen minket"
+	},
+	"view": {
+		"message": "Kilátás"
+	},
+	"views": {
+		"message": "Nézetek"
+	},
+	"no_favorites": {
+		"message": "Nincsenek kedvencek"
+	},
+	"sorting_none": {
+		"message": "Semmit nem lehetett találni."
+	},
+	"sorting": {
+		"message": "Válogató...."
+	},
+	"showing_favorites": {
+		"message": "Kedvencek megjelenítése"
+	},
+	"unpaid": {
+		"message": "Az előfizetése nem fizetett."
+	},
+	"canceled": {
+		"message": "Az előfizetését törölték."
+	},
+	"message_nothing_found": {
+		"message": "Nem találtunk előfizetést."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Nem tudtunk szöveget kapni. Kérjük, próbálja újra (Frissítés). Próbálja ki PDF vagy Google Docs bővítményünket."
+	},
+	"unpinned_favorite": {
+		"message": "Eltávolítva a kedvencekből"
+	},
+	"pin_favorite": {
+		"message": "Kedvenc"
+	},
+	"setting_saved": {
+		"message": "Beállítás mentve"
+	},
+	"favourite": {
+		"message": "Kedvenc"
+	},
+	"un_favourite": {
+		"message": "Nem kedvenc"
+	},
+	"how_to_use": {
+		"message": "Hogyan kell használni"
+	},
+	"search": {
+		"message": "Keresés"
+	},
+	"search_feature": {
+		"message": "Keresési funkciók"
+	},
+	"filter_productivity": {
+		"message": "Kutatás"
+	},
+	"helperbird_apps": {
+		"message": "Helperbird alkalmazások"
+	},
+	"fav_message": {
+		"message": "Úgy tűnik, nincs kedvenc funkciója. A kedvencek közé helyezéséhez kattintson a három pontra egy funkció mellett, majd kattintson a Kedvenc elemre."
+	},
+	"filter_features": {
+		"message": "Szűrő jellemzők"
+	},
+	"student_offer": {
+		"message": "A tanulók a Helperbird Pro-t kapják"
+	},
+	"filter_style": {
+		"message": "Kijelző"
+	},
+	"filter_text_to_speech": {
+		"message": "Szöveg beszédté"
+	},
+	"filter_dyslexia": {
+		"message": "Diszlexia"
+	},
+	"filter_pro": {
+		"message": "Pro funkciók"
+	},
+	"filter": {
+		"message": "Szűrő"
+	},
+	"filter_writing": {
+		"message": "Írás"
+	},
+	"highlighter_title": {
+		"message": "Kiemelő"
+	},
+	"filter_reading": {
+		"message": "Olvasás"
+	},
+	"filter_active": {
+		"message": "Aktív"
+	},
+	"filter_audio": {
+		"message": "Audio funkciók"
+	},
+	"feature_blindness": {
+		"message": "Színvakság"
+	},
+	"feature_emphasize_links": {
+		"message": "Hangsúlyozza a linkeket"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Szövegvonás"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Szín"
+	},
+	"color": {
+		"message": "Szín"
+	},
+	"feature_specialized_font": {
+		"message": "Speciális betűtípus"
+	},
+	"feature_specialized_font_options": {
+		"message": "Betűtípus-beállítások"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Kiemelés menü be van kapcsolva"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "A kiemelés menü ki van kapcsolva"
+	},
+	"feature_highlight_menu": {
+		"message": "Menü kiemelése"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Megjeleníti a kiemelt szöveges menüt."
+	},
+	"show": {
+		"message": "Előadás"
+	},
+	"welcome": {
+		"message": "Üdvözöljük a Helperbirdben"
+	},
+	"feature_immersive_reader": {
+		"message": "Magával ragadó olvasó"
+	},
+	"create_a_new_note": {
+		"message": "Hozzon létre egy új jegyzetet"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Használja a Microsoft Immersive Reader olvasóját ezen az oldalon."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Dokumentumok és Diák"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Hozzáad egy Helperbird eszköztárat a Google doc fájlokhoz."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF eszköztár"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Hozzáad egy Helperbird eszköztárat a PDF-fájlokhoz."
+	},
+	"pause_helperbird": {
+		"message": "Szünet $1"
+	},
+	"quick_action": {
+		"message": "Gyors cselekvések"
+	},
+	"feature_pause_helperbird": {
+		"message": "1 dollár lejárt"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 be van kapcsolva"
+	},
+	"voice_typing_is_on": {
+		"message": "A hangos gépelés be van kapcsolva"
+	},
+	"voice_typing_is_off": {
+		"message": "A hangos gépelés ki van kapcsolva"
+	},
+	"helperbird_paused": {
+		"message": "Helperbird kikapcsolva"
+	},
+	"helperbird_running": {
+		"message": "Segítőmadár fut"
+	},
+	"applying_settings": {
+		"message": "A beállítások alkalmazása"
+	},
+	"feature_favorites": {
+		"message": "Kedvencek"
+	},
+	"all_feature_favorites": {
+		"message": "Minden"
+	},
+	"hide_feature_favorites": {
+		"message": "Kedvencek elrejtése"
+	},
+	"feature_favorites_description": {
+		"message": "Csak a kedvencek megjelenítése."
+	},
+	"feature_print": {
+		"message": "Nyomtatás"
+	},
+	"feature_print_description": {
+		"message": "Nyomtassa ki az aktuális oldalt."
+	},
+	"feature_printing_success": {
+		"message": "Nyitónyomtatás"
+	},
+	"feature_reader_mode": {
+		"message": "Olvasó mód"
+	},
+	"feature_readermode_opening": {
+		"message": "Olvasó mód megnyitása"
+	},
+	"feature_readermode_closing": {
+		"message": "Az olvasó mód bezárása"
+	},
+	"view_table": {
+		"message": "Táblázat nézet"
+	},
+	"view_time": {
+		"message": "Idővonal nézet"
+	},
+	"view_card": {
+		"message": "Kártya nézet"
+	},
+	"feature_screenshot": {
+		"message": "Képernyőkép"
+	},
+	"feature_screenshot_description": {
+		"message": "Készítsen képernyőképet az aktuális oldalról."
+	},
+	"feature_screenshot_error": {
+		"message": "Hiba a képernyőkép rögzítésekor"
+	},
+	"feature_screenshot_success": {
+		"message": "Képernyőkép rögzítése"
+	},
+	"feature_tooltip": {
+		"message": "Képleírások"
+	},
+	"feature_tooltip_description": {
+		"message": "Alt és title címkék megjelenítése az egérrel."
+	},
+	"feature_translate": {
+		"message": "fordít"
+	},
+	"feature_language": {
+		"message": "Nyelvek"
+	},
+	"feature_magnifier": {
+		"message": "Nagyító"
+	},
+	"feature_magnifier_description": {
+		"message": "Nagyító"
+	},
+	"percentage": {
+		"message": "Százalék"
+	},
+	"feature_analyze": {
+		"message": "Szavak száma"
+	},
+	"feature_analyze_description": {
+		"message": "elemezni"
+	},
+	"feature_analyze_words": {
+		"message": "szavak"
+	},
+	"feature_analyze_characters": {
+		"message": "karakterek"
+	},
+	"feature_annotations": {
+		"message": "Megjegyzések"
+	},
+	"feature_annotations_description": {
+		"message": "Írjon megjegyzéseket az oldalra új cetli hagyásával."
+	},
+	"feature_annotate_open": {
+		"message": "Új jegyzet létrehozása"
+	},
+	"annotate": {
+		"message": "Jegyzetek"
+	},
+	"feature_cognitive_load": {
+		"message": "Gyorsolvasás"
+	},
+	"bold": {
+		"message": "Merészség"
+	},
+	"feature_background_color": {
+		"message": "Háttérszín"
+	},
+	"feature_font_color": {
+		"message": "Betű szín"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Menü"
+	},
+	"feature_highlight_color": {
+		"message": "Szín kiemelése"
+	},
+	"feature_link_color": {
+		"message": "Link színe"
+	},
+	"feature_cursor_size": {
+		"message": "A kurzor mérete"
+	},
+	"feature_font_size": {
+		"message": "Szövegméret"
+	},
+	"feature_font_size_titles": {
+		"message": "Fejlécek mérete"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Bekezdések mérete"
+	},
+	"feature_gray_hue": {
+		"message": "Szürke árnyalat"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Jelölje ki a bekezdéseket"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Jelölje ki a bekezdések színét"
+	},
+	"feature_images_hide_title": {
+		"message": "Képek elrejtése"
+	},
+	"hide": {
+		"message": "Elrejt"
+	},
+	"feature_images_hide": {
+		"message": "Az összes kép elrejtése"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Gif elrejtése"
+	},
+	"feature_high_contast": {
+		"message": "Magas kontraszt"
+	},
+	"feature_text_adjustments": {
+		"message": "Szövegkorrekciók"
+	},
+	"feature_text_align": {
+		"message": "Szöveg igazítás"
+	},
+	"feature_text_alignment": {
+		"message": "Igazítás"
+	},
+	"feature_letter_spacing": {
+		"message": "Betűtávolságok"
+	},
+	"spacing": {
+		"message": "Térköz"
+	},
+	"feature_line_height_spacing": {
+		"message": "Vonalmagasság"
+	},
+	"height": {
+		"message": "Magasság"
+	},
+	"feature_line_focus": {
+		"message": "Vonalfókusz"
+	},
+	"feature_line_focus_color": {
+		"message": "Vonal fókusz színe"
+	},
+	"feature_line_focus_height": {
+		"message": "Vonal fókusz magassága"
+	},
+	"feature_mute": {
+		"message": "Videó némítása"
+	},
+	"feature_mute_description": {
+		"message": "Videók és hangok némítása az oldalakról."
+	},
+	"ocr_read_words": {
+		"message": "Kibontott szöveg olvasása"
+	},
+	"text": {
+		"message": "Szöveg"
+	},
+	"ocr_read_words_save": {
+		"message": "Sajtolt szöveg mentése"
+	},
+	"feature_extract_text": {
+		"message": "Szöveg kibontása (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Engedélyezés, válassza ki a területet a képernyőn."
+	},
+	"feature_overlay": {
+		"message": "Fedvény"
+	},
+	"feature_overlay_color": {
+		"message": "Fedőszín"
+	},
+	"feature_paragraph_width": {
+		"message": "Bekezdésszélesség"
+	},
+	"width": {
+		"message": "Szélesség"
+	},
+	"highlighted_text": {
+		"message": "Kiemelt szöveg"
+	},
+	"issue_on_page": {
+		"message": "Probléma"
+	},
+	"feature_reading_guide": {
+		"message": "Olvasási útmutató"
+	},
+	"feature_reading_guide_color": {
+		"message": "Olvasási útmutató színe"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Diszlexiás uralkodó"
+	},
+	"feature_ruler_width": {
+		"message": "Vonalzó szélessége"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Magasság"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Pozíció"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Szín"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Kövesse"
+	},
+	"feature_auto_scroll": {
+		"message": "Automatikus görgetés"
+	},
+	"speed": {
+		"message": "Sebesség"
+	},
+	"subscription_deleted": {
+		"message": "Az előfizetés lemondva"
+	},
+	"title_enjoy_until": {
+		"message": "Élvezze a próbaidőt addig"
+	},
+	"incomplete_expired": {
+		"message": "Nem tudtuk teljesíteni a fizetést."
+	},
+	"past_due": {
+		"message": "Előfizetése lejárt."
+	},
+	"incomplete": {
+		"message": "Nem tudtuk teljesíteni a fizetést."
+	},
+	"transparency": {
+		"message": "Fényerősség"
+	},
+	"title_message_full": {
+		"message": "Helperbird Pro előfizetés található."
+	},
+	"contact_support": {
+		"message": "Kérjük, lépjen kapcsolatba az ügyfélszolgálattal."
+	},
+	"buy": {
+		"message": "Vásároljon 1 dollárt"
+	},
+	"feature_voice_typing": {
+		"message": "Hangos gépelés"
+	},
+	"feature_voice_typing_description": {
+		"message": "Hozzáadja a hangos gépelést az összes bemenethez. Csak kattintson a bemeneten lévő gombra."
+	},
+	"google_docs_notice": {
+		"message": "Most már van egy Google Addonunk! Telepítse, hogy még több támogatást kapjon."
+	},
+	"feature_spell_check": {
+		"message": "Helyesírás-ellenőrzés"
+	},
+	"feature_summarize": {
+		"message": "Összefoglaló oldal"
+	},
+	"feature_summarize_description": {
+		"message": "Foglalja össze ezt az oldalt."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Szövegfelolvasó lehetőségek"
+	},
+	"feature_speech_voice": {
+		"message": "Hang"
+	},
+	"feature_speech_speed": {
+		"message": "Sebesség"
+	},
+	"feature_speech_pitch": {
+		"message": "Hangmagasság"
+	},
+	"feature_speech_volume": {
+		"message": "Hangerő"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Szín kiemelése"
+	},
+	"feature_speech_reading_success": {
+		"message": "Kiválasztott szöveg olvasása."
+	},
+	"feature_text_to_speech": {
+		"message": "Szöveg beszédté"
+	},
+	"you_need_to_highlight": {
+		"message": "Ki kell emelnie néhány szöveget."
+	},
+	"feature_word_prediction": {
+		"message": "Szójóslás"
+	},
+	"feature_word_prediction_description": {
+		"message": "Kapcsolja be a Helperbirds előrejelzését a bemeneteken."
+	},
+	"feature_word_spacing": {
+		"message": "Szóköz"
+	},
+	"full_Screen": {
+		"message": "Teljes képernyő"
+	},
+	"voice_typing_stop": {
+		"message": "A hangos gépelés leállítása."
+	},
+	"voice_typing_start": {
+		"message": "Most beszélj."
+	},
+	"speak_word_on_hover": {
+		"message": "Olvasd fel hangosan."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Lebegve olvassa el a szót."
+	},
+	"speak": {
+		"message": "Beszél"
+	},
+	"auto_scroll_start": {
+		"message": "Az automatikus görgetés elindult."
+	},
+	"auto_scroll_stop": {
+		"message": "Az automatikus görgetés leállt."
+	},
+	"popup_immersive_success": {
+		"message": "Betöltés alatt Magával ragadó olvasó."
+	},
+	"popup_readermode_success": {
+		"message": "Olvasó mód megnyitása."
+	},
+	"popup_printing_success": {
+		"message": "Nyitónyomtatás."
+	},
+	"ocr_select": {
+		"message": "Válassza ki a területet az oldalon."
+	},
+	"ocr_extracted": {
+		"message": "Szöveg kivonva."
+	},
+	"ocr_extracting": {
+		"message": "Kivonás"
+	},
+	"ocr_copy": {
+		"message": "Szöveg a képről másolva. Mentve a vágólapra."
+	},
+	"ocr_no_text": {
+		"message": "Nem található szöveg."
+	},
+	"popup_note_success": {
+		"message": "Mentve a jegyzetei közé."
+	},
+	"popup_immersive_error": {
+		"message": "Hiba a magával ragadó olvasó betöltésekor"
+	},
+	"popup_summarize_error": {
+		"message": "Hiba az oldal összegzésekor."
+	},
+	"popup_saving_error": {
+		"message": "Hiba a mentéskor"
+	},
+	"popup_summarize_success": {
+		"message": "Összefoglaló oldal"
+	},
+	"popup_readermode_closing": {
+		"message": "Az olvasó mód bezárása"
+	},
+	"close": {
+		"message": "Bezárás"
+	},
+	"your_note_was_saved": {
+		"message": "Jegyzetét elmentettük."
+	},
+	"error_saving_your_note": {
+		"message": "Hiba történt a jegyzet mentése közben. Kérlek próbáld újra."
+	},
+	"popup_readinglist_error": {
+		"message": "Hiba az olvasási listára való mentéskor"
+	},
+	"popup_readinglist_success": {
+		"message": "Mentve az Olvasólistára"
+	},
+	"popup_screenshot_error": {
+		"message": "Hiba a képernyőkép rögzítésekor"
+	},
+	"popup_screenshot_success": {
+		"message": "Képernyőkép rögzítése"
+	},
+	"copied_text": {
+		"message": "Másolt szöveg"
+	},
+	"copied_text_error": {
+		"message": "Hiba a szöveg másolása közben."
+	},
+	"ocr_loading": {
+		"message": "Helperbirds OCR betöltése"
+	},
+	"ocr_save": {
+		"message": "Mentve a jegyzetei közé"
+	},
+	"popup_reading_success": {
+		"message": "Kiválasztott szöveg olvasása"
+	},
+	"popup_reading_finished": {
+		"message": "Befejezte az olvasást"
+	},
+	"popup_reading_error": {
+		"message": "Megállás"
+	},
+	"popup_reading_stopping": {
+		"message": "Megállás"
+	},
+	"popup_reading_pause": {
+		"message": "Szüneteltetve"
+	},
+	"notifcations_upgrade_title": {
+		"message": "A funkció használatához frissítenie kell a Helperbird Pro-t."
+	},
+	"menu_define": {
+		"message": "Határozza meg a szót"
+	},
+	"menu_website_readinglist": {
+		"message": "Webhely hozzáadása az olvasólistához"
+	},
+	"menu_readinglist": {
+		"message": "Hozzáadás az olvasólistához"
+	},
+	"menu_text_to_speech": {
+		"message": "Szöveg beszédté"
+	},
+	"menu_play": {
+		"message": "Játék"
+	},
+	"menu_pause": {
+		"message": "Szünet"
+	},
+	"menu_stop": {
+		"message": "Állj meg"
+	},
+	"menu_resume": {
+		"message": "Önéletrajz"
+	},
+	"menu_screenshot": {
+		"message": "Készítsen képernyőképet"
+	},
+	"menu_share": {
+		"message": "Ossza meg"
+	},
+	"menu_reader_mode": {
+		"message": "Megtekintés Olvasó módban"
+	},
+	"menu_translate": {
+		"message": "fordít"
+	},
+	"road_map": {
+		"message": "Útiterv"
+	},
+	"menu_immersive_reader": {
+		"message": "Megtekintés az Immersive olvasóban"
+	},
+	"menu_summarize": {
+		"message": "Összefoglaló oldal"
+	},
+	"menu_summarize_page": {
+		"message": "Az oldal összefoglalva"
+	},
+	"menu_annotate_page": {
+		"message": "Megjegyzés oldal"
+	}
+}

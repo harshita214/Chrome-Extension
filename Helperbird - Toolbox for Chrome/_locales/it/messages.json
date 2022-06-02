@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird per Chrome"
+	},
+	"appDescription": {
+		"message": "Oltre 32 funzionalità di accessibilità e produttività create per supportare ogni tipo di lettore, studente e scrittore. Include il supporto per la dislessia."
+	},
+	"helpGuide": {
+		"message": "Guide di aiuto"
+	},
+	"upgrade_title": {
+		"message": "Funzionalità Helperbird Pro"
+	},
+	"upgrade_description": {
+		"message": "Per utilizzare questa funzione è necessario un abbonamento a Helperbird Pro. Non preoccuparti, costa 40 USD all'anno o 4,99 al mese."
+	},
+	"plan_deal": {
+		"message": "Offerta per studenti"
+	},
+	"plan_month": {
+		"message": "Offerta mensile"
+	},
+	"plan_year": {
+		"message": "Offerta annuale"
+	},
+	"upgrade_message": {
+		"message": "Esegui l'upgrade a Helperbird Pro, per sbloccare tutte le funzionalità."
+	},
+	"column_title": {
+		"message": "Colonna"
+	},
+	"upgrade_now": {
+		"message": "Aggiorna ora"
+	},
+	"upgrade_to_pro": {
+		"message": "Esegui l'upgrade a Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Scopri Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Accedi a Helperbird o inserisci la tua chiave di abbonamento."
+	},
+	"privacy": {
+		"message": "Privacy"
+	},
+	"whats_new": {
+		"message": "Cosa c'è di nuovo"
+	},
+	"privacy_details": {
+		"message": "Rispettiamo la tua privacy, quindi qui è in un linguaggio chiaro e semplice."
+	},
+	"privacy_details_one": {
+		"message": "Qui in Helperbird, rispettiamo e prendiamo molto sul serio la tua privacy. Ecco perché non immagazziniamo né raccogliamo nulla."
+	},
+	"privacy_details_two": {
+		"message": "L'unico chiedere la tua email, quando accedi. Per verificare se il tuo dominio scolastico o aziendale è stato pagato o se hai pagato per un account in Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Tutto ciò che fai e le impostazioni che salvi rimangono localmente sul tuo browser. Non lascia mai il tuo computer."
+	},
+	"free": {
+		"message": "Libero"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "SU"
+	},
+	"on_lower": {
+		"message": "su"
+	},
+	"off": {
+		"message": "Spento"
+	},
+	"off_lower": {
+		"message": "spento"
+	},
+	"notes": {
+		"message": "Appunti"
+	},
+	"open_notes": {
+		"message": "Appunti aperti"
+	},
+	"save": {
+		"message": "Salva"
+	},
+	"clear": {
+		"message": "Chiaro"
+	},
+	"manage": {
+		"message": "Maneggio"
+	},
+	"open": {
+		"message": "Aprire"
+	},
+	"copy": {
+		"message": "copia"
+	},
+	"delete": {
+		"message": "Eliminare"
+	},
+	"documents": {
+		"message": "Documenti"
+	},
+	"remove": {
+		"message": "Rimuovere"
+	},
+	"version": {
+		"message": "Versione"
+	},
+	"visit": {
+		"message": "Visita"
+	},
+	"no_results": {
+		"message": "Nessun risultato"
+	},
+	"reduce_motion": {
+		"message": "Animazioni"
+	},
+	"maths_steps": {
+		"message": "Risolutore di matematica"
+	},
+	"tour": {
+		"message": "Tour dell'uccello aiutante"
+	},
+	"reduce_motion_description": {
+		"message": "Impedisce la visualizzazione dell'animazione nelle pagine Web."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader è uno strumento gratuito che implementa tecniche collaudate per migliorare la lettura e la scrittura"
+	},
+	"start": {
+		"message": "Inizio"
+	},
+	"learn_more": {
+		"message": "Per saperne di più"
+	},
+	"more": {
+		"message": "Di più"
+	},
+	"editor_title": {
+		"message": "Editore"
+	},
+	"editor_title_open": {
+		"message": "Apri l'editor di Helperbirds"
+	},
+	"logout": {
+		"message": "Disconnettersi"
+	},
+	"signin": {
+		"message": "Login"
+	},
+	"define_title": {
+		"message": "Dizionario"
+	},
+	"define_title_open": {
+		"message": "Apri dizionario"
+	},
+	"define_empty_title": {
+		"message": "Cerca una parola e ti restituiremo il significato."
+	},
+	"define_search": {
+		"message": "Ricerca......"
+	},
+	"define_antonyms": {
+		"message": "Contrari"
+	},
+	"define_synonyms": {
+		"message": "Sinonimi"
+	},
+	"define_meanings": {
+		"message": "Significati"
+	},
+	"define_related": {
+		"message": "Imparentato"
+	},
+	"define_etymology": {
+		"message": "Etimologia"
+	},
+	"export": {
+		"message": "Esportare"
+	},
+	"export_word": {
+		"message": "Esporta in Word"
+	},
+	"export_docs": {
+		"message": "Esporta in Google Documenti"
+	},
+	"export_text": {
+		"message": "Esporta in file di testo"
+	},
+	"toolbar_pdf": {
+		"message": "Lettore PDF"
+	},
+	"toolbar_pdf_open": {
+		"message": "Apri lettore PDF"
+	},
+	"menus": {
+		"message": "Google Documenti e Pdf"
+	},
+	"upgrade_message_title": {
+		"description": "Estensione di Helperbird.",
+		"message": "Aggiorna a $ 1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Estensione di Helperbird.",
+		"message": "Accedi a potenti funzionalità come Modalità lettore e $ 1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Estensione di Helperbird.",
+		"message": "Scegli un piano di seguito per sbloccare oltre 30 funzionalità e supporto 24 ore su 24."
+	},
+	"alert_message": {
+		"message": "Esegui l'upgrade o accedi per accedere a tutte le funzionalità Pro."
+	},
+	"alert_loading": {
+		"message": "Caricamento in corso...."
+	},
+	"alert_clear": {
+		"message": "Chiaro"
+	},
+	"alert_cleared": {
+		"message": "Azzerato"
+	},
+	"alert_download": {
+		"message": "Scarica"
+	},
+	"alert_no_data": {
+		"message": "Nessun risultato"
+	},
+	"annotations_notes": {
+		"message": "Appunti"
+	},
+	"import_annotations": {
+		"message": "Importa note"
+	},
+	"options": {
+		"message": "Opzioni"
+	},
+	"open_document": {
+		"message": "Apri documento"
+	},
+	"select_document": {
+		"message": "Devi selezionare un documento."
+	},
+	"copied_document": {
+		"message": "Documento copiato"
+	},
+	"saved_document": {
+		"message": "Documento salvato"
+	},
+	"issue_saving": {
+		"message": "Risparmio di problemi"
+	},
+	"show_updates": {
+		"message": "Mostra aggiornamenti"
+	},
+	"new": {
+		"message": "Nuovo"
+	},
+	"pause": {
+		"message": "Pausa"
+	},
+	"removed_document": {
+		"message": "Documento rimosso"
+	},
+	"opening_document": {
+		"message": "Documento di apertura"
+	},
+	"get_started": {
+		"message": "Iniziare"
+	},
+	"saved_to_documents": {
+		"message": "Salvato nei tuoi documenti."
+	},
+	"message_alert": {
+		"message": "Ottieni l'accesso a tutte le funzionalità di Helperbirds e all'assistenza clienti ogni volta che ne hai bisogno. Oltre 30 funzioni."
+	},
+	"message_three_day": {
+		"message": "3 giorni di prova"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Controlla i tuoi input"
+	},
+	"upgrade": {
+		"message": "Aggiornamento"
+	},
+	"upgrade_": {
+		"message": "Aggiorna a $ 1"
+	},
+	"website": {
+		"message": "Sito web"
+	},
+	"description": {
+		"message": "Descrizione"
+	},
+	"capture": {
+		"message": "Catturare"
+	},
+	"category": {
+		"message": "Categoria"
+	},
+	"error_found_label": {
+		"message": "C'è un errore"
+	},
+	"cancel": {
+		"message": "Annulla"
+	},
+	"readinglist_title": {
+		"message": "Lista di lettura"
+	},
+	"readinglist_title_open": {
+		"message": "Apri elenco di lettura"
+	},
+	"note_removed": {
+		"message": "Nota rimossa."
+	},
+	"note_removed_error": {
+		"message": "Impossibile rimuovere la nota."
+	},
+	"readinglist_removed": {
+		"message": "Sito web rimosso"
+	},
+	"settings_saved": {
+		"message": "Impostazioni salvate"
+	},
+	"check_for_updates": {
+		"message": "Controlla gli aggiornamenti"
+	},
+	"show_highlights": {
+		"message": "Mostra i punti salienti della pagina."
+	},
+	"account_title": {
+		"message": "Account"
+	},
+	"account_description": {
+		"message": "Usiamo la stessa email con cui accedi al tuo browser come login."
+	},
+	"signed_in_as": {
+		"message": "Registrato come"
+	},
+	"subscription_title": {
+		"message": "Sottoscrizione"
+	},
+	"current_plan": {
+		"message": "Il tuo piano attuale"
+	},
+	"subscription_status": {
+		"message": "Il tuo stato di abbonamento:"
+	},
+	"check_subscription": {
+		"message": "Verifica abbonamento"
+	},
+	"subscription_token_title": {
+		"message": "Chiave di abbonamento"
+	},
+	"subscription_token_description": {
+		"message": "Se hai un abbonamento a Helperbird Pro, inseriscilo qui sotto per sbloccare tutte le funzionalità di Helperbird Pro."
+	},
+	"themes": {
+		"message": "Temi"
+	},
+	"theme": {
+		"message": "Tema"
+	},
+	"danger_zone_title": {
+		"message": "Conservazione"
+	},
+	"danger_zone_description": {
+		"message": "Il pulsante in basso cancellerà tutte le impostazioni e avvierà l'estensione come se fosse nuova. Quindi fai attenzione che non possiamo recuperare nulla che elimini."
+	},
+	"delete_everything": {
+		"message": "Cancella tutto"
+	},
+	"delete_this_note": {
+		"message": "Elimina questa nota."
+	},
+	"visit_this_note": {
+		"message": "Visita il sito Web su cui è presente questa nota."
+	},
+	"everything_deleted": {
+		"message": "Tutte le impostazioni e l'archiviazione vengono ora eliminate."
+	},
+	"enter_email": {
+		"message": "Devi inserire un'e-mail."
+	},
+	"shortcuts": {
+		"message": "Scorciatoie"
+	},
+	"shortcuts_menu_on": {
+		"message": "Le scorciatoie sono attive"
+	},
+	"shortcuts_menu_off": {
+		"message": "Le scorciatoie sono disattivate"
+	},
+	"shortcuts_title": {
+		"message": "Scorciatoie"
+	},
+	"shortcuts_description": {
+		"message": "Scorciatoie"
+	},
+	"shortcuts_ocr": {
+		"message": "Abilita l'OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Apri il lettore immersivo"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Apri la modalità lettore"
+	},
+	"annotate_page": {
+		"message": "Annota pagina"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Apri PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Rimpicciolisci"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Ingrandire"
+	},
+	"settings": {
+		"message": "Impostazioni"
+	},
+	"support_videos": {
+		"message": "Video di supporto"
+	},
+	"review_us": {
+		"message": "Recensisci noi"
+	},
+	"view": {
+		"message": "Visualizzazione"
+	},
+	"views": {
+		"message": "Visualizzazioni"
+	},
+	"no_favorites": {
+		"message": "Nessun favorito"
+	},
+	"sorting_none": {
+		"message": "Non è stato possibile trovare nulla."
+	},
+	"sorting": {
+		"message": "Ordinamento...."
+	},
+	"showing_favorites": {
+		"message": "Visualizzazione dei preferiti"
+	},
+	"unpaid": {
+		"message": "Il tuo abbonamento non è pagato."
+	},
+	"canceled": {
+		"message": "Il tuo abbonamento è stato annullato."
+	},
+	"message_nothing_found": {
+		"message": "Non siamo riusciti a trovare un abbonamento."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Non siamo riusciti a ricevere alcun testo. Riprova (Aggiorna). Prova il nostro componente aggiuntivo PDF o Google Docs."
+	},
+	"unpinned_favorite": {
+		"message": "Preferito rimosso"
+	},
+	"pin_favorite": {
+		"message": "Preferito"
+	},
+	"setting_saved": {
+		"message": "Impostazione salvata"
+	},
+	"favourite": {
+		"message": "Preferito"
+	},
+	"un_favourite": {
+		"message": "Sfavorevole"
+	},
+	"how_to_use": {
+		"message": "Come usare"
+	},
+	"search": {
+		"message": "Ricerca"
+	},
+	"search_feature": {
+		"message": "Funzioni di ricerca"
+	},
+	"filter_productivity": {
+		"message": "Ricerca"
+	},
+	"helperbird_apps": {
+		"message": "App di Helperbird"
+	},
+	"fav_message": {
+		"message": "Sembra che tu non abbia alcuna funzione preferita. In Preferiti, fai clic sui tre punti accanto a una funzione e fai clic su Preferiti."
+	},
+	"filter_features": {
+		"message": "Funzioni di filtro"
+	},
+	"student_offer": {
+		"message": "Gli studenti ottengono Helperbird Pro per"
+	},
+	"filter_style": {
+		"message": "Schermo"
+	},
+	"filter_text_to_speech": {
+		"message": "Sintesi vocale"
+	},
+	"filter_dyslexia": {
+		"message": "Dislessia"
+	},
+	"filter_pro": {
+		"message": "Funzionalità professionali"
+	},
+	"filter": {
+		"message": "Filtro"
+	},
+	"filter_writing": {
+		"message": "Scrivere"
+	},
+	"highlighter_title": {
+		"message": "Evidenziatore"
+	},
+	"filter_reading": {
+		"message": "Lettura"
+	},
+	"filter_active": {
+		"message": "Attivo"
+	},
+	"filter_audio": {
+		"message": "Funzionalità audio"
+	},
+	"feature_blindness": {
+		"message": "Daltonismo"
+	},
+	"feature_emphasize_links": {
+		"message": "Enfatizzare i collegamenti"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Tratto di testo"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Colore"
+	},
+	"color": {
+		"message": "Colore"
+	},
+	"feature_specialized_font": {
+		"message": "Carattere specializzato"
+	},
+	"feature_specialized_font_options": {
+		"message": "Opzioni dei caratteri"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Il menu Evidenzia è attivo"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Il menu di evidenziazione è disattivato"
+	},
+	"feature_highlight_menu": {
+		"message": "Evidenzia il menu"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Mostra il nostro menu di testo evidenziato."
+	},
+	"show": {
+		"message": "Spettacolo"
+	},
+	"welcome": {
+		"message": "Benvenuto in Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Lettore immersivo"
+	},
+	"create_a_new_note": {
+		"message": "Crea una nuova nota"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Usa il lettore immersivo di Microsoft in questa pagina."
+	},
+	"feature_toolbar_google": {
+		"message": "Documenti e Presentazioni Google"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Aggiunge una barra degli strumenti di Helperbird sui file di Google doc."
+	},
+	"feature_toolbar_pdf": {
+		"message": "barra degli strumenti PDF"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Aggiunge una barra degli strumenti di Helperbird sui file Pdf."
+	},
+	"pause_helperbird": {
+		"message": "Pausa $ 1"
+	},
+	"quick_action": {
+		"message": "Azioni rapide"
+	},
+	"feature_pause_helperbird": {
+		"message": "$ 1 è di sconto"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$ 1 è attivo"
+	},
+	"voice_typing_is_on": {
+		"message": "La digitazione vocale è attiva"
+	},
+	"voice_typing_is_off": {
+		"message": "La digitazione vocale è disattivata"
+	},
+	"helperbird_paused": {
+		"message": "Uccello aiutante spento"
+	},
+	"helperbird_running": {
+		"message": "Aiutante in esecuzione"
+	},
+	"applying_settings": {
+		"message": "Applicazione delle tue impostazioni"
+	},
+	"feature_favorites": {
+		"message": "Preferiti"
+	},
+	"all_feature_favorites": {
+		"message": "Tutti"
+	},
+	"hide_feature_favorites": {
+		"message": "Nascondi preferiti"
+	},
+	"feature_favorites_description": {
+		"message": "Mostra solo preferiti."
+	},
+	"feature_print": {
+		"message": "Stampa"
+	},
+	"feature_print_description": {
+		"message": "Stampa la pagina corrente."
+	},
+	"feature_printing_success": {
+		"message": "Apertura della stampa"
+	},
+	"feature_reader_mode": {
+		"message": "Modalità lettore"
+	},
+	"feature_readermode_opening": {
+		"message": "Apertura della modalità Lettore"
+	},
+	"feature_readermode_closing": {
+		"message": "Chiusura della modalità Lettore"
+	},
+	"view_table": {
+		"message": "Vista tabella"
+	},
+	"view_time": {
+		"message": "Vista sequenza temporale"
+	},
+	"view_card": {
+		"message": "Vista della carta"
+	},
+	"feature_screenshot": {
+		"message": "Immagine dello schermo"
+	},
+	"feature_screenshot_description": {
+		"message": "Fai uno screenshot della pagina corrente."
+	},
+	"feature_screenshot_error": {
+		"message": "Errore durante l'acquisizione dello screenshot"
+	},
+	"feature_screenshot_success": {
+		"message": "Cattura screenshot"
+	},
+	"feature_tooltip": {
+		"message": "Descrizioni delle immagini"
+	},
+	"feature_tooltip_description": {
+		"message": "Mostra i tag alt e title al passaggio del mouse."
+	},
+	"feature_translate": {
+		"message": "Tradurre"
+	},
+	"feature_language": {
+		"message": "Le lingue"
+	},
+	"feature_magnifier": {
+		"message": "Lente d'ingrandimento"
+	},
+	"feature_magnifier_description": {
+		"message": "Lente d'ingrandimento"
+	},
+	"percentage": {
+		"message": "Percentuale"
+	},
+	"feature_analyze": {
+		"message": "Conteggio parole"
+	},
+	"feature_analyze_description": {
+		"message": "analizzare"
+	},
+	"feature_analyze_words": {
+		"message": "parole"
+	},
+	"feature_analyze_characters": {
+		"message": "caratteri"
+	},
+	"feature_annotations": {
+		"message": "Appunti"
+	},
+	"feature_annotations_description": {
+		"message": "Annota la pagina lasciando una nuova nota adesiva."
+	},
+	"feature_annotate_open": {
+		"message": "Creazione di una nuova nota"
+	},
+	"annotate": {
+		"message": "Annotare"
+	},
+	"feature_cognitive_load": {
+		"message": "Lettura veloce"
+	},
+	"bold": {
+		"message": "Audacia"
+	},
+	"feature_background_color": {
+		"message": "Colore di sfondo"
+	},
+	"feature_font_color": {
+		"message": "Colore del carattere"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Menù"
+	},
+	"feature_highlight_color": {
+		"message": "Evidenzia il colore"
+	},
+	"feature_link_color": {
+		"message": "Colore collegamento"
+	},
+	"feature_cursor_size": {
+		"message": "Dimensione del cursore"
+	},
+	"feature_font_size": {
+		"message": "Dimensione del testo"
+	},
+	"feature_font_size_titles": {
+		"message": "Dimensioni delle intestazioni"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Dimensioni dei paragrafi"
+	},
+	"feature_gray_hue": {
+		"message": "Colore grigio"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Evidenzia i paragrafi"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Evidenzia il colore dei paragrafi"
+	},
+	"feature_images_hide_title": {
+		"message": "Nascondi immagini"
+	},
+	"hide": {
+		"message": "Nascondere"
+	},
+	"feature_images_hide": {
+		"message": "Nascondi tutte le immagini"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Nascondi GIF"
+	},
+	"feature_high_contast": {
+		"message": "Alto contrasto"
+	},
+	"feature_text_adjustments": {
+		"message": "Regolazioni del testo"
+	},
+	"feature_text_align": {
+		"message": "Allinea testo"
+	},
+	"feature_text_alignment": {
+		"message": "Allineamento"
+	},
+	"feature_letter_spacing": {
+		"message": "Spaziatura del carattere"
+	},
+	"spacing": {
+		"message": "Spaziatura"
+	},
+	"feature_line_height_spacing": {
+		"message": "Altezza della linea"
+	},
+	"height": {
+		"message": "Altezza"
+	},
+	"feature_line_focus": {
+		"message": "Messa a fuoco della linea"
+	},
+	"feature_line_focus_color": {
+		"message": "Colore della messa a fuoco della linea"
+	},
+	"feature_line_focus_height": {
+		"message": "Altezza di messa a fuoco della linea"
+	},
+	"feature_mute": {
+		"message": "Video muto"
+	},
+	"feature_mute_description": {
+		"message": "Disattiva video e suoni dalle pagine."
+	},
+	"ocr_read_words": {
+		"message": "Leggi il testo estratto"
+	},
+	"text": {
+		"message": "Testo"
+	},
+	"ocr_read_words_save": {
+		"message": "Salva il testo estratto"
+	},
+	"feature_extract_text": {
+		"message": "Estrai testo (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Abilita, seleziona l'area sullo schermo."
+	},
+	"feature_overlay": {
+		"message": "Sovrapposizione"
+	},
+	"feature_overlay_color": {
+		"message": "Colore di sovrapposizione"
+	},
+	"feature_paragraph_width": {
+		"message": "Larghezza del paragrafo"
+	},
+	"width": {
+		"message": "Larghezza"
+	},
+	"highlighted_text": {
+		"message": "Testo evidenziato"
+	},
+	"issue_on_page": {
+		"message": "Problema"
+	},
+	"feature_reading_guide": {
+		"message": "Guida alla lettura"
+	},
+	"feature_reading_guide_color": {
+		"message": "Colore guida alla lettura"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Righello della dislessia"
+	},
+	"feature_ruler_width": {
+		"message": "Larghezza del righello"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Altezza"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Posizione"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Colore"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Seguire"
+	},
+	"feature_auto_scroll": {
+		"message": "Scorrimento automatico"
+	},
+	"speed": {
+		"message": "Velocità"
+	},
+	"subscription_deleted": {
+		"message": "Abbonamento annullato"
+	},
+	"title_enjoy_until": {
+		"message": "Goditi la tua prova fino a"
+	},
+	"incomplete_expired": {
+		"message": "Non siamo riusciti a completare il pagamento."
+	},
+	"past_due": {
+		"message": "Il tuo abbonamento è scaduto."
+	},
+	"incomplete": {
+		"message": "Non siamo riusciti a completare il pagamento."
+	},
+	"transparency": {
+		"message": "Luminosità"
+	},
+	"title_message_full": {
+		"message": "Abbonamento a Helperbird Pro trovato."
+	},
+	"contact_support": {
+		"message": "Si prega di contattare l'assistenza."
+	},
+	"buy": {
+		"message": "Acquista $ 1"
+	},
+	"feature_voice_typing": {
+		"message": "Digitazione vocale"
+	},
+	"feature_voice_typing_description": {
+		"message": "Aggiunge la digitazione vocale su tutti gli ingressi. Basta fare clic sul pulsante sull'input."
+	},
+	"google_docs_notice": {
+		"message": "Ora abbiamo un componente aggiuntivo di Google! Installa per ottenere ancora più supporto."
+	},
+	"feature_spell_check": {
+		"message": "Controllo ortografico"
+	},
+	"feature_summarize": {
+		"message": "Riepilogo pagina"
+	},
+	"feature_summarize_description": {
+		"message": "Riassumi questa pagina."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Opzioni di sintesi vocale"
+	},
+	"feature_speech_voice": {
+		"message": "Voce"
+	},
+	"feature_speech_speed": {
+		"message": "Velocità"
+	},
+	"feature_speech_pitch": {
+		"message": "Intonazione"
+	},
+	"feature_speech_volume": {
+		"message": "Volume"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Evidenzia il colore"
+	},
+	"feature_speech_reading_success": {
+		"message": "Lettura del testo selezionato."
+	},
+	"feature_text_to_speech": {
+		"message": "Sintesi vocale"
+	},
+	"you_need_to_highlight": {
+		"message": "Devi evidenziare del testo."
+	},
+	"feature_word_prediction": {
+		"message": "Predizione delle parole"
+	},
+	"feature_word_prediction_description": {
+		"message": "Attiva la previsione delle parole di Helperbirds sugli input."
+	},
+	"feature_word_spacing": {
+		"message": "Spaziatura delle parole"
+	},
+	"full_Screen": {
+		"message": "A schermo intero"
+	},
+	"voice_typing_stop": {
+		"message": "Interruzione della digitazione vocale."
+	},
+	"voice_typing_start": {
+		"message": "Parla adesso."
+	},
+	"speak_word_on_hover": {
+		"message": "Leggere ad alta voce."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Leggerà la parola al passaggio del mouse."
+	},
+	"speak": {
+		"message": "Parlare"
+	},
+	"auto_scroll_start": {
+		"message": "Scorrimento automatico avviato."
+	},
+	"auto_scroll_stop": {
+		"message": "Scorrimento automatico interrotto."
+	},
+	"popup_immersive_success": {
+		"message": "Caricamento lettore immersivo."
+	},
+	"popup_readermode_success": {
+		"message": "Apertura della modalità Lettore."
+	},
+	"popup_printing_success": {
+		"message": "Apertura della stampa."
+	},
+	"ocr_select": {
+		"message": "Seleziona l'area nella pagina."
+	},
+	"ocr_extracted": {
+		"message": "Testo estratto."
+	},
+	"ocr_extracting": {
+		"message": "Estrazione"
+	},
+	"ocr_copy": {
+		"message": "Testo copiato dall'immagine. Salvato negli appunti."
+	},
+	"ocr_no_text": {
+		"message": "Nessun testo trovato."
+	},
+	"popup_note_success": {
+		"message": "Salvato nelle tue note."
+	},
+	"popup_immersive_error": {
+		"message": "Errore durante il caricamento del lettore immersivo"
+	},
+	"popup_summarize_error": {
+		"message": "Errore durante il riepilogo della pagina."
+	},
+	"popup_saving_error": {
+		"message": "Errore durante il salvataggio"
+	},
+	"popup_summarize_success": {
+		"message": "Pagina riepilogativa"
+	},
+	"popup_readermode_closing": {
+		"message": "Chiusura della modalità Lettore"
+	},
+	"close": {
+		"message": "Chiudere"
+	},
+	"your_note_was_saved": {
+		"message": "La tua nota è stata salvata."
+	},
+	"error_saving_your_note": {
+		"message": "Errore durante il salvataggio della nota. Per favore riprova."
+	},
+	"popup_readinglist_error": {
+		"message": "Errore durante il salvataggio nell'elenco di lettura"
+	},
+	"popup_readinglist_success": {
+		"message": "Salvato nell'elenco di lettura"
+	},
+	"popup_screenshot_error": {
+		"message": "Errore durante l'acquisizione dello screenshot"
+	},
+	"popup_screenshot_success": {
+		"message": "Cattura screenshot"
+	},
+	"copied_text": {
+		"message": "Testo copiato"
+	},
+	"copied_text_error": {
+		"message": "Errore durante la copia del testo."
+	},
+	"ocr_loading": {
+		"message": "Caricamento dell'OCR di Helperbirds"
+	},
+	"ocr_save": {
+		"message": "Salvato nelle tue note"
+	},
+	"popup_reading_success": {
+		"message": "Lettura del testo selezionato"
+	},
+	"popup_reading_finished": {
+		"message": "Lettura finita"
+	},
+	"popup_reading_error": {
+		"message": "Fermarsi"
+	},
+	"popup_reading_stopping": {
+		"message": "Fermarsi"
+	},
+	"popup_reading_pause": {
+		"message": "In pausa"
+	},
+	"notifcations_upgrade_title": {
+		"message": "È necessario aggiornare Helperbird Pro per utilizzare questa funzione."
+	},
+	"menu_define": {
+		"message": "Definisci parola"
+	},
+	"menu_website_readinglist": {
+		"message": "Aggiungi sito Web all'elenco di lettura"
+	},
+	"menu_readinglist": {
+		"message": "Aggiungi all'elenco di lettura"
+	},
+	"menu_text_to_speech": {
+		"message": "Sintesi vocale"
+	},
+	"menu_play": {
+		"message": "Giocare"
+	},
+	"menu_pause": {
+		"message": "Pausa"
+	},
+	"menu_stop": {
+		"message": "Fermare"
+	},
+	"menu_resume": {
+		"message": "Riprendere"
+	},
+	"menu_screenshot": {
+		"message": "Fai uno screenshot"
+	},
+	"menu_share": {
+		"message": "Condividere"
+	},
+	"menu_reader_mode": {
+		"message": "Visualizza in modalità Lettore"
+	},
+	"menu_translate": {
+		"message": "Tradurre"
+	},
+	"road_map": {
+		"message": "Tabella di marcia"
+	},
+	"menu_immersive_reader": {
+		"message": "Visualizza in lettore immersivo"
+	},
+	"menu_summarize": {
+		"message": "Riepilogo pagina"
+	},
+	"menu_summarize_page": {
+		"message": "Pagina riassunta"
+	},
+	"menu_annotate_page": {
+		"message": "Annota pagina"
+	}
+}

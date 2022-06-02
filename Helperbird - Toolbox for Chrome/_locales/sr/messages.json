@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Хелпербирд за Цхроме"
+	},
+	"appDescription": {
+		"message": "Преко 32 функције приступачности и продуктивности направљене да подрже сваку врсту читаоца, ученика и писца. Укључује подршку за дислексију."
+	},
+	"helpGuide": {
+		"message": "Водичи за помоћ"
+	},
+	"upgrade_title": {
+		"message": "Хелпербирд Про функција"
+	},
+	"upgrade_description": {
+		"message": "Потребна вам је Хелпербирд Про претплата да бисте користили ову функцију. Не брините, то је 40 УСД годишње или 4,99 месечно."
+	},
+	"plan_deal": {
+		"message": "Студентска понуда"
+	},
+	"plan_month": {
+		"message": "Месечна понуда"
+	},
+	"plan_year": {
+		"message": "Годишња понуда"
+	},
+	"upgrade_message": {
+		"message": "Надоградите на Хелпербирд Про, да бисте откључали све функције."
+	},
+	"column_title": {
+		"message": "Колона"
+	},
+	"upgrade_now": {
+		"message": "Надоградите сада"
+	},
+	"upgrade_to_pro": {
+		"message": "Надоградите на Хелпербирд Про"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Откријте Хелпербирд Про"
+	},
+	"signin_message": {
+		"message": "Пријавите се на Хелпербирд или унесите кључ за претплату."
+	},
+	"privacy": {
+		"message": "Приватност"
+	},
+	"whats_new": {
+		"message": "Шта је ново"
+	},
+	"privacy_details": {
+		"message": "Поштујемо вашу приватност, па је овде то јасно и једноставно."
+	},
+	"privacy_details_one": {
+		"message": "Овде у Хелпербирду поштујемо и схватамо вашу приватност изузетно озбиљно. Зато ништа не складиштимо и не сакупљамо."
+	},
+	"privacy_details_two": {
+		"message": "Једино питајте за вашу е-пошту када се пријавите. Да бисте проверили да ли је ваша школа или пословни домен плаћен или сте платили налог у Стрипе-у."
+	},
+	"privacy_details_three": {
+		"message": "Све што радите и подешавања која сачувате остају локално у вашем претраживачу. Никада не напушта рачунар."
+	},
+	"free": {
+		"message": "бесплатно"
+	},
+	"pro": {
+		"message": "Про"
+	},
+	"on": {
+		"message": "на"
+	},
+	"on_lower": {
+		"message": "на"
+	},
+	"off": {
+		"message": "Ван"
+	},
+	"off_lower": {
+		"message": "ван"
+	},
+	"notes": {
+		"message": "Напомене"
+	},
+	"open_notes": {
+		"message": "Отвори белешке"
+	},
+	"save": {
+		"message": "сачувати"
+	},
+	"clear": {
+		"message": "Јасно"
+	},
+	"manage": {
+		"message": "Управљати"
+	},
+	"open": {
+		"message": "Отвори"
+	},
+	"copy": {
+		"message": "Копирај"
+	},
+	"delete": {
+		"message": "Избриши"
+	},
+	"documents": {
+		"message": "Документи"
+	},
+	"remove": {
+		"message": "Уклони"
+	},
+	"version": {
+		"message": "Верзија"
+	},
+	"visit": {
+		"message": "Посетите"
+	},
+	"no_results": {
+		"message": "Нема резултата"
+	},
+	"reduce_motion": {
+		"message": "Анимације"
+	},
+	"maths_steps": {
+		"message": "Решавач математике"
+	},
+	"tour": {
+		"message": "Хелпербирд Тоур"
+	},
+	"reduce_motion_description": {
+		"message": "Спречите да се анимација приказује на веб страницама."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Иммерсиве Реадер је бесплатан алат који примењује проверене технике за побољшање читања и писања"
+	},
+	"start": {
+		"message": "Почетак"
+	},
+	"learn_more": {
+		"message": "Сазнајте више"
+	},
+	"more": {
+		"message": "Више"
+	},
+	"editor_title": {
+		"message": "Уредник"
+	},
+	"editor_title_open": {
+		"message": "Отворите Хелпербирдс Едитор"
+	},
+	"logout": {
+		"message": "Одјавити се"
+	},
+	"signin": {
+		"message": "Пријавите се"
+	},
+	"define_title": {
+		"message": "Речник"
+	},
+	"define_title_open": {
+		"message": "Отворите речник"
+	},
+	"define_empty_title": {
+		"message": "Претражите реч и ми ћемо јој вратити значење."
+	},
+	"define_search": {
+		"message": "Претрага......"
+	},
+	"define_antonyms": {
+		"message": "Антоними"
+	},
+	"define_synonyms": {
+		"message": "Синоними"
+	},
+	"define_meanings": {
+		"message": "Значења"
+	},
+	"define_related": {
+		"message": "Повезан"
+	},
+	"define_etymology": {
+		"message": "Етимологија"
+	},
+	"export": {
+		"message": "Извоз"
+	},
+	"export_word": {
+		"message": "Извези у Ворд"
+	},
+	"export_docs": {
+		"message": "Извезите у Гоогле документе"
+	},
+	"export_text": {
+		"message": "Извези у текстуалну датотеку"
+	},
+	"toolbar_pdf": {
+		"message": "ПДФ читач"
+	},
+	"toolbar_pdf_open": {
+		"message": "Отворите ПДФ читач"
+	},
+	"menus": {
+		"message": "Гоогле документи и ПДФ-ови"
+	},
+	"upgrade_message_title": {
+		"description": "Хелпербирд екстензија.",
+		"message": "Надоградите на 1 УСД"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Хелпербирд екстензија.",
+		"message": "Приступите моћним функцијама као што су Реадер Моде и $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Хелпербирд екстензија.",
+		"message": "Одаберите план у наставку да бисте откључали преко 30 функција и 24-часовну подршку."
+	},
+	"alert_message": {
+		"message": "Надоградите или се пријавите да бисте приступили свим Про функцијама."
+	},
+	"alert_loading": {
+		"message": "Учитавање...."
+	},
+	"alert_clear": {
+		"message": "Јасно"
+	},
+	"alert_cleared": {
+		"message": "Очишћено"
+	},
+	"alert_download": {
+		"message": "Преузимање"
+	},
+	"alert_no_data": {
+		"message": "Нема резултата"
+	},
+	"annotations_notes": {
+		"message": "Напомене"
+	},
+	"import_annotations": {
+		"message": "Увезите белешке"
+	},
+	"options": {
+		"message": "Опције"
+	},
+	"open_document": {
+		"message": "Отворите документ"
+	},
+	"select_document": {
+		"message": "Потребно је да изаберете документ."
+	},
+	"copied_document": {
+		"message": "Документ је копиран"
+	},
+	"saved_document": {
+		"message": "Документ је сачуван"
+	},
+	"issue_saving": {
+		"message": "Уштеда проблема"
+	},
+	"show_updates": {
+		"message": "Прикажи ажурирања"
+	},
+	"new": {
+		"message": "Нова"
+	},
+	"pause": {
+		"message": "Пауза"
+	},
+	"removed_document": {
+		"message": "Документ је уклоњен"
+	},
+	"opening_document": {
+		"message": "Отварање документа"
+	},
+	"get_started": {
+		"message": "Почети"
+	},
+	"saved_to_documents": {
+		"message": "Сачувано у вашим документима."
+	},
+	"message_alert": {
+		"message": "Добијте приступ свим Хелпербирдс функцијама и корисничкој подршци кад год вам затреба. Преко 30 функција."
+	},
+	"message_three_day": {
+		"message": "3 дана суђења"
+	},
+	"feature_pdf_reader": {
+		"message": "ПДФ"
+	},
+	"check_inputs": {
+		"message": "Проверите своје уносе"
+	},
+	"upgrade": {
+		"message": "Надоградите"
+	},
+	"upgrade_": {
+		"message": "Надоградите на 1 УСД"
+	},
+	"website": {
+		"message": "Веб сајт"
+	},
+	"description": {
+		"message": "Опис"
+	},
+	"capture": {
+		"message": "Цаптуре"
+	},
+	"category": {
+		"message": "Категорија"
+	},
+	"error_found_label": {
+		"message": "Дошло је до грешке"
+	},
+	"cancel": {
+		"message": "Поништити, отказати"
+	},
+	"readinglist_title": {
+		"message": "Листа за читање"
+	},
+	"readinglist_title_open": {
+		"message": "Отворите листу за читање"
+	},
+	"note_removed": {
+		"message": "Напомена је уклоњена."
+	},
+	"note_removed_error": {
+		"message": "Уклањање белешке није успело."
+	},
+	"readinglist_removed": {
+		"message": "Веб локација је уклоњена"
+	},
+	"settings_saved": {
+		"message": "Подешавања су сачувана"
+	},
+	"check_for_updates": {
+		"message": "Провери ажурирања"
+	},
+	"show_highlights": {
+		"message": "Прикажи истакнуте ставке на страници."
+	},
+	"account_title": {
+		"message": "Рачун"
+	},
+	"account_description": {
+		"message": "Користимо исту адресу е-поште на коју се пријављујете у свој претраживач као ваша пријава."
+	},
+	"signed_in_as": {
+		"message": "Пријављен као"
+	},
+	"subscription_title": {
+		"message": "Претплата"
+	},
+	"current_plan": {
+		"message": "Ваш тренутни план"
+	},
+	"subscription_status": {
+		"message": "Ваш статус претплате:"
+	},
+	"check_subscription": {
+		"message": "Проверите претплату"
+	},
+	"subscription_token_title": {
+		"message": "Кључ за претплату"
+	},
+	"subscription_token_description": {
+		"message": "Ако имате претплату на Хелпербирд Про, унесите је испод да бисте откључали све функције Хелпербирд Про-а."
+	},
+	"themes": {
+		"message": "Теме"
+	},
+	"theme": {
+		"message": "Тема"
+	},
+	"danger_zone_title": {
+		"message": "Складиште"
+	},
+	"danger_zone_description": {
+		"message": "Дугме испод ће обрисати сва подешавања и покренути проширење као да је ново. Зато будите опрезни да не можемо вратити ништа што избришете."
+	},
+	"delete_everything": {
+		"message": "Обриши све"
+	},
+	"delete_this_note": {
+		"message": "Избришите ову белешку."
+	},
+	"visit_this_note": {
+		"message": "Посетите веб локацију на којој се налази ова белешка."
+	},
+	"everything_deleted": {
+		"message": "Сва подешавања и складиште су сада избрисани."
+	},
+	"enter_email": {
+		"message": "Морате да унесете е-маил."
+	},
+	"shortcuts": {
+		"message": "Пречице"
+	},
+	"shortcuts_menu_on": {
+		"message": "Пречице су укључене"
+	},
+	"shortcuts_menu_off": {
+		"message": "Пречице су искључене"
+	},
+	"shortcuts_title": {
+		"message": "Пречице"
+	},
+	"shortcuts_description": {
+		"message": "Пречице"
+	},
+	"shortcuts_ocr": {
+		"message": "Омогући ОЦР"
+	},
+	"shortcuts_immsersive": {
+		"message": "Отворите имерзивни читач"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Отворите Реадер Моде"
+	},
+	"annotate_page": {
+		"message": "Страница са коментарима"
+	},
+	"pdf_viewer": {
+		"message": "ПДФ"
+	},
+	"open_pdf": {
+		"message": "Отворите ПДФ"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Умањите"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Увеличати"
+	},
+	"settings": {
+		"message": "Подешавања"
+	},
+	"support_videos": {
+		"message": "Видео записи подршке"
+	},
+	"review_us": {
+		"message": "Прегледајте нас"
+	},
+	"view": {
+		"message": "Поглед"
+	},
+	"views": {
+		"message": "Погледи"
+	},
+	"no_favorites": {
+		"message": "Нема фаворита"
+	},
+	"sorting_none": {
+		"message": "Ништа се није могло наћи."
+	},
+	"sorting": {
+		"message": "Сортирање...."
+	},
+	"showing_favorites": {
+		"message": "Приказивање фаворита"
+	},
+	"unpaid": {
+		"message": "Ваша претплата је неплаћена."
+	},
+	"canceled": {
+		"message": "Ваша претплата је отказана."
+	},
+	"message_nothing_found": {
+		"message": "Нисмо могли да пронађемо претплату."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Нисмо могли да добијемо никакав текст. Покушајте поново (Освежи). Испробајте наш ПДФ или Гоогле документи додатак."
+	},
+	"unpinned_favorite": {
+		"message": "Уклоњено као омиљено"
+	},
+	"pin_favorite": {
+		"message": "Омиљено"
+	},
+	"setting_saved": {
+		"message": "Подешавање је сачувано"
+	},
+	"favourite": {
+		"message": "Фаворите"
+	},
+	"un_favourite": {
+		"message": "Неомиљено"
+	},
+	"how_to_use": {
+		"message": "Како се користи"
+	},
+	"search": {
+		"message": "Претрага"
+	},
+	"search_feature": {
+		"message": "Функције претраге"
+	},
+	"filter_productivity": {
+		"message": "Истраживања"
+	},
+	"helperbird_apps": {
+		"message": "Хелпербирд апликације"
+	},
+	"fav_message": {
+		"message": "Чини се да немате омиљене функције. Да бисте означили фаворит, кликните на три тачке поред функције и кликните на омиљено."
+	},
+	"filter_features": {
+		"message": "Функције филтера"
+	},
+	"student_offer": {
+		"message": "Ученици добијају Хелпербирд Про за"
+	},
+	"filter_style": {
+		"message": "Приказ"
+	},
+	"filter_text_to_speech": {
+		"message": "Текст у говор"
+	},
+	"filter_dyslexia": {
+		"message": "дислексија"
+	},
+	"filter_pro": {
+		"message": "Про карактеристике"
+	},
+	"filter": {
+		"message": "Филтер"
+	},
+	"filter_writing": {
+		"message": "Писање"
+	},
+	"highlighter_title": {
+		"message": "Хигхлигхтер"
+	},
+	"filter_reading": {
+		"message": "Читање"
+	},
+	"filter_active": {
+		"message": "Ацтиве"
+	},
+	"filter_audio": {
+		"message": "Аудио карактеристике"
+	},
+	"feature_blindness": {
+		"message": "Далтонизам"
+	},
+	"feature_emphasize_links": {
+		"message": "Нагласите везе"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Тект строке"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Боја"
+	},
+	"color": {
+		"message": "Боја"
+	},
+	"feature_specialized_font": {
+		"message": "Специјализовани фонт"
+	},
+	"feature_specialized_font_options": {
+		"message": "Опције фонта"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Истакнути мени је укључен"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Истакнути мени је искључен"
+	},
+	"feature_highlight_menu": {
+		"message": "Истакните мени"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Приказује наш истакнути текстуални мени."
+	},
+	"show": {
+		"message": "Прикажи"
+	},
+	"welcome": {
+		"message": "Добродошли у Хелпербирд"
+	},
+	"feature_immersive_reader": {
+		"message": "Имерзивни читач"
+	},
+	"create_a_new_note": {
+		"message": "Направите нову белешку"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Користите Мицрософт Иммерсиве Реадер на овој страници."
+	},
+	"feature_toolbar_google": {
+		"message": "Гоогле документи и слајдови"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Додаје Хелпербирд траку са алаткама у датотеке Гоогле докумената."
+	},
+	"feature_toolbar_pdf": {
+		"message": "ПДФ трака са алаткама"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Додаје Хелпербирд траку са алаткама на ПДФ датотеке."
+	},
+	"pause_helperbird": {
+		"message": "Паузирајте $1"
+	},
+	"quick_action": {
+		"message": "Брзе акције"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 је искључен"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 је укључен"
+	},
+	"voice_typing_is_on": {
+		"message": "Куцање гласом је укључено"
+	},
+	"voice_typing_is_off": {
+		"message": "Куцање гласом је искључено"
+	},
+	"helperbird_paused": {
+		"message": "Хелпербирд офф"
+	},
+	"helperbird_running": {
+		"message": "Птица помоћница трчи"
+	},
+	"applying_settings": {
+		"message": "Примена ваших подешавања"
+	},
+	"feature_favorites": {
+		"message": "Фаворитес"
+	},
+	"all_feature_favorites": {
+		"message": "Све"
+	},
+	"hide_feature_favorites": {
+		"message": "Сакриј фаворите"
+	},
+	"feature_favorites_description": {
+		"message": "Прикажи само фаворите."
+	},
+	"feature_print": {
+		"message": "Принт"
+	},
+	"feature_print_description": {
+		"message": "Одштампајте тренутну страницу."
+	},
+	"feature_printing_success": {
+		"message": "Отварање штампања"
+	},
+	"feature_reader_mode": {
+		"message": "Реадер Моде"
+	},
+	"feature_readermode_opening": {
+		"message": "Отварање режима читача"
+	},
+	"feature_readermode_closing": {
+		"message": "Затварање режима читача"
+	},
+	"view_table": {
+		"message": "Приказ табеле"
+	},
+	"view_time": {
+		"message": "Приказ временске линије"
+	},
+	"view_card": {
+		"message": "Приказ картице"
+	},
+	"feature_screenshot": {
+		"message": "Снимак екрана"
+	},
+	"feature_screenshot_description": {
+		"message": "Направите снимак екрана тренутне странице."
+	},
+	"feature_screenshot_error": {
+		"message": "Грешка при снимању снимка екрана"
+	},
+	"feature_screenshot_success": {
+		"message": "Снимање снимка екрана"
+	},
+	"feature_tooltip": {
+		"message": "Описи слика"
+	},
+	"feature_tooltip_description": {
+		"message": "Прикажи алт и насловне ознаке када пређете мишем."
+	},
+	"feature_translate": {
+		"message": "превести"
+	},
+	"feature_language": {
+		"message": "Језици"
+	},
+	"feature_magnifier": {
+		"message": "Лупа"
+	},
+	"feature_magnifier_description": {
+		"message": "Лупа"
+	},
+	"percentage": {
+		"message": "Проценат"
+	},
+	"feature_analyze": {
+		"message": "Број речи"
+	},
+	"feature_analyze_description": {
+		"message": "анализирати"
+	},
+	"feature_analyze_words": {
+		"message": "речи"
+	},
+	"feature_analyze_characters": {
+		"message": "ликова"
+	},
+	"feature_annotations": {
+		"message": "Напомене"
+	},
+	"feature_annotations_description": {
+		"message": "Означите страницу тако што ћете оставити нову лепљиву белешку."
+	},
+	"feature_annotate_open": {
+		"message": "Прављење нове белешке"
+	},
+	"annotate": {
+		"message": "Аннотате"
+	},
+	"feature_cognitive_load": {
+		"message": "Брзо читање"
+	},
+	"bold": {
+		"message": "Болоднесс"
+	},
+	"feature_background_color": {
+		"message": "Боја позадине"
+	},
+	"feature_font_color": {
+		"message": "Боја фонта"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Мени"
+	},
+	"feature_highlight_color": {
+		"message": "Истакните боју"
+	},
+	"feature_link_color": {
+		"message": "Боја везе"
+	},
+	"feature_cursor_size": {
+		"message": "Величина курсора"
+	},
+	"feature_font_size": {
+		"message": "Величина текста"
+	},
+	"feature_font_size_titles": {
+		"message": "Величина заглавља"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Величина пасуса"
+	},
+	"feature_gray_hue": {
+		"message": "Сива нијанса"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Истакните пасусе"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Истакните боју пасуса"
+	},
+	"feature_images_hide_title": {
+		"message": "Сакриј слике"
+	},
+	"hide": {
+		"message": "Сакрити"
+	},
+	"feature_images_hide": {
+		"message": "Сакриј све слике"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Сакриј ГИФ-ове"
+	},
+	"feature_high_contast": {
+		"message": "Велики контраст"
+	},
+	"feature_text_adjustments": {
+		"message": "Прилагођавања текста"
+	},
+	"feature_text_align": {
+		"message": "Поравнање текста"
+	},
+	"feature_text_alignment": {
+		"message": "Поравнање"
+	},
+	"feature_letter_spacing": {
+		"message": "Размак између слова"
+	},
+	"spacing": {
+		"message": "Размак"
+	},
+	"feature_line_height_spacing": {
+		"message": "Висина линија"
+	},
+	"height": {
+		"message": "Висина"
+	},
+	"feature_line_focus": {
+		"message": "Фокус линије"
+	},
+	"feature_line_focus_color": {
+		"message": "Боја фокуса линије"
+	},
+	"feature_line_focus_height": {
+		"message": "Висина фокуса линије"
+	},
+	"feature_mute": {
+		"message": "Искључи видео"
+	},
+	"feature_mute_description": {
+		"message": "Искључите видео записе и звукове са страница."
+	},
+	"ocr_read_words": {
+		"message": "Прочитајте извучени текст"
+	},
+	"text": {
+		"message": "Текст"
+	},
+	"ocr_read_words_save": {
+		"message": "Сачувајте извучени текст"
+	},
+	"feature_extract_text": {
+		"message": "Издвоји текст (ОЦР)"
+	},
+	"feature_extract_text_description": {
+		"message": "Омогућите, изаберите област на екрану."
+	},
+	"feature_overlay": {
+		"message": "Оверлаи"
+	},
+	"feature_overlay_color": {
+		"message": "Боја преклапања"
+	},
+	"feature_paragraph_width": {
+		"message": "Ширина пасуса"
+	},
+	"width": {
+		"message": "Ширина"
+	},
+	"highlighted_text": {
+		"message": "Истакнути текст"
+	},
+	"issue_on_page": {
+		"message": "Питање"
+	},
+	"feature_reading_guide": {
+		"message": "Водич за читање"
+	},
+	"feature_reading_guide_color": {
+		"message": "Боја водича за читање"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Владар дислексије"
+	},
+	"feature_ruler_width": {
+		"message": "Ширина лењира"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Висина"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Положај"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Боја"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Пратити"
+	},
+	"feature_auto_scroll": {
+		"message": "Аутоматско померање"
+	},
+	"speed": {
+		"message": "Брзина"
+	},
+	"subscription_deleted": {
+		"message": "Претплата је отказана"
+	},
+	"title_enjoy_until": {
+		"message": "Уживајте у суђењу до"
+	},
+	"incomplete_expired": {
+		"message": "Нисмо могли да извршимо уплату."
+	},
+	"past_due": {
+		"message": "Ваша претплата је истекла."
+	},
+	"incomplete": {
+		"message": "Нисмо могли да извршимо уплату."
+	},
+	"transparency": {
+		"message": "Осветљеност"
+	},
+	"title_message_full": {
+		"message": "Пронађена је претплата Хелпербирд Про."
+	},
+	"contact_support": {
+		"message": "Молимо контактирајте подршку."
+	},
+	"buy": {
+		"message": "Купи $1"
+	},
+	"feature_voice_typing": {
+		"message": "Куцање гласом"
+	},
+	"feature_voice_typing_description": {
+		"message": "Додаје куцање гласом на свим улазима. Само кликните на дугме на улазу."
+	},
+	"google_docs_notice": {
+		"message": "Сада имамо Гоогле додатак! Инсталирајте да бисте добили још већу подршку."
+	},
+	"feature_spell_check": {
+		"message": "Провера правописа"
+	},
+	"feature_summarize": {
+		"message": "Страница са сажетком"
+	},
+	"feature_summarize_description": {
+		"message": "Сумирајте ову страницу."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Опције текста у говор"
+	},
+	"feature_speech_voice": {
+		"message": "Глас"
+	},
+	"feature_speech_speed": {
+		"message": "Брзина"
+	},
+	"feature_speech_pitch": {
+		"message": "Висина тона"
+	},
+	"feature_speech_volume": {
+		"message": "Волуме"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Истакните боју"
+	},
+	"feature_speech_reading_success": {
+		"message": "Читање изабраног текста."
+	},
+	"feature_text_to_speech": {
+		"message": "Текст у говор"
+	},
+	"you_need_to_highlight": {
+		"message": "Морате да истакнете неки текст."
+	},
+	"feature_word_prediction": {
+		"message": "Предвиђање речи"
+	},
+	"feature_word_prediction_description": {
+		"message": "Укључите Хелпербирдс предвиђање речи на улазима."
+	},
+	"feature_word_spacing": {
+		"message": "Размак између речи"
+	},
+	"full_Screen": {
+		"message": "Цео екран"
+	},
+	"voice_typing_stop": {
+		"message": "Заустављање куцања гласом."
+	},
+	"voice_typing_start": {
+		"message": "Говорим сада."
+	},
+	"speak_word_on_hover": {
+		"message": "Прочитајте наглас."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Прочитаће реч при лебдењу."
+	},
+	"speak": {
+		"message": "Говорити"
+	},
+	"auto_scroll_start": {
+		"message": "Покренуто је аутоматско померање."
+	},
+	"auto_scroll_stop": {
+		"message": "Аутоматско померање је заустављено."
+	},
+	"popup_immersive_success": {
+		"message": "Лоадинг Иммерсиве реадер."
+	},
+	"popup_readermode_success": {
+		"message": "Отварање режима читача."
+	},
+	"popup_printing_success": {
+		"message": "Отварање штампања."
+	},
+	"ocr_select": {
+		"message": "Изаберите област на страници."
+	},
+	"ocr_extracted": {
+		"message": "Текст извучен."
+	},
+	"ocr_extracting": {
+		"message": "Екстракција"
+	},
+	"ocr_copy": {
+		"message": "Копиран текст са слике. Сачувано у међуспремнику."
+	},
+	"ocr_no_text": {
+		"message": "Текст није пронађен."
+	},
+	"popup_note_success": {
+		"message": "Сачувано у вашим белешкама."
+	},
+	"popup_immersive_error": {
+		"message": "Грешка при учитавању имерзивног читача"
+	},
+	"popup_summarize_error": {
+		"message": "Грешка при сумирању странице."
+	},
+	"popup_saving_error": {
+		"message": "Грешка при чувању"
+	},
+	"popup_summarize_success": {
+		"message": "Страница са сумирањем"
+	},
+	"popup_readermode_closing": {
+		"message": "Затварање режима читача"
+	},
+	"close": {
+		"message": "Близу"
+	},
+	"your_note_was_saved": {
+		"message": "Ваша белешка је сачувана."
+	},
+	"error_saving_your_note": {
+		"message": "Грешка при чувању белешке. Молим вас, покушајте поново."
+	},
+	"popup_readinglist_error": {
+		"message": "Грешка при чувању на листи за читање"
+	},
+	"popup_readinglist_success": {
+		"message": "Сачувано на листи за читање"
+	},
+	"popup_screenshot_error": {
+		"message": "Грешка при снимању снимка екрана"
+	},
+	"popup_screenshot_success": {
+		"message": "Снимање снимка екрана"
+	},
+	"copied_text": {
+		"message": "Копиран текст"
+	},
+	"copied_text_error": {
+		"message": "Грешка при копирању текста."
+	},
+	"ocr_loading": {
+		"message": "Учитавање Хелпербирдс ОЦР"
+	},
+	"ocr_save": {
+		"message": "Сачувано у вашим белешкама"
+	},
+	"popup_reading_success": {
+		"message": "Читање изабраног текста"
+	},
+	"popup_reading_finished": {
+		"message": "Завршено читање"
+	},
+	"popup_reading_error": {
+		"message": "Заустављање"
+	},
+	"popup_reading_stopping": {
+		"message": "Заустављање"
+	},
+	"popup_reading_pause": {
+		"message": "Паузирано"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Морате да надоградите Хелпербирд Про да бисте користили ову функцију."
+	},
+	"menu_define": {
+		"message": "Дефинишите реч"
+	},
+	"menu_website_readinglist": {
+		"message": "Додајте веб локацију на листу за читање"
+	},
+	"menu_readinglist": {
+		"message": "Додај на листу за читање"
+	},
+	"menu_text_to_speech": {
+		"message": "Текст у говор"
+	},
+	"menu_play": {
+		"message": "Игра"
+	},
+	"menu_pause": {
+		"message": "Пауза"
+	},
+	"menu_stop": {
+		"message": "Зауставити"
+	},
+	"menu_resume": {
+		"message": "Резиме"
+	},
+	"menu_screenshot": {
+		"message": "Направите снимак екрана"
+	},
+	"menu_share": {
+		"message": "Објави"
+	},
+	"menu_reader_mode": {
+		"message": "Погледајте у режиму читача"
+	},
+	"menu_translate": {
+		"message": "превести"
+	},
+	"road_map": {
+		"message": "План"
+	},
+	"menu_immersive_reader": {
+		"message": "Погледајте у имерзивном читачу"
+	},
+	"menu_summarize": {
+		"message": "Страница са сажетком"
+	},
+	"menu_summarize_page": {
+		"message": "Страница је сажета"
+	},
+	"menu_annotate_page": {
+		"message": "Страница са коментарима"
+	}
+}

@@ -1,0 +1,1130 @@
+{
+	"appName": {
+		"message": "Helperbird for Chrome"
+	},
+	"appDescription": {
+		"message": "Over 32 tilgjengelighets- og produktivitetsfunksjoner bygget for å støtte alle slags lesere, elever og forfattere. Inkluderer dysleksistøtte."
+	},
+	"helpGuide": {
+		"message": "Hjelpeveiledninger"
+	},
+	"upgrade_title": {
+		"message": "Helperbird Pro-funksjon"
+	},
+	"upgrade_description": {
+		"message": "Du trenger et Helperbird Pro-abonnement for å bruke denne funksjonen. Ikke bekymre deg, det er 40 USD i året eller 4,99 i måneden."
+	},
+	"plan_deal": {
+		"message": "Studenttilbud"
+	},
+	"plan_month": {
+		"message": "Månedlig tilbud"
+	},
+	"plan_year": {
+		"message": "Årlig tilbud"
+	},
+	"upgrade_message": {
+		"message": "Oppgrader til Helperbird Pro for å låse opp alle funksjonene."
+	},
+	"column_title": {
+		"message": "Kolonne"
+	},
+	"upgrade_now": {
+		"message": "Oppgrader nå"
+	},
+	"upgrade_to_pro": {
+		"message": "Oppgrader til Helperbird Pro"
+	},
+	"discover_upgrade_to_pro": {
+		"message": "Oppdag Helperbird Pro"
+	},
+	"signin_message": {
+		"message": "Logg på Helperbird eller skriv inn abonnementsnøkkelen din."
+	},
+	"privacy": {
+		"message": "Personvern"
+	},
+	"whats_new": {
+		"message": "Hva er nytt"
+	},
+	"privacy_details": {
+		"message": "Vi respekterer ditt privatliv, så her er det på et klart og enkelt språk."
+	},
+	"privacy_details_one": {
+		"message": "Her hos Helperbird respekterer og tar vi personvernet ditt ekstremt alvorlig. Derfor lagrer eller samler vi ikke noe."
+	},
+	"privacy_details_two": {
+		"message": "Den eneste be om din e-post når du logger inn. For å sjekke om ditt skole- eller bedriftsdomene er betalt for eller om du har betalt for en konto i Stripe."
+	},
+	"privacy_details_three": {
+		"message": "Alt du gjør og innstillingene du lagrer forblir lokalt i nettleseren din. Forlater aldri datamaskinen."
+	},
+	"free": {
+		"message": "Gratis"
+	},
+	"pro": {
+		"message": "Pro"
+	},
+	"on": {
+		"message": "På"
+	},
+	"on_lower": {
+		"message": "på"
+	},
+	"off": {
+		"message": "Av"
+	},
+	"off_lower": {
+		"message": "av"
+	},
+	"notes": {
+		"message": "Notater"
+	},
+	"open_notes": {
+		"message": "Åpne notater"
+	},
+	"save": {
+		"message": "Lagre"
+	},
+	"clear": {
+		"message": "Klar"
+	},
+	"manage": {
+		"message": "Få til"
+	},
+	"open": {
+		"message": "Åpen"
+	},
+	"copy": {
+		"message": "Kopiere"
+	},
+	"delete": {
+		"message": "Slett"
+	},
+	"documents": {
+		"message": "Dokumenter"
+	},
+	"remove": {
+		"message": "Ta vekk"
+	},
+	"version": {
+		"message": "Versjon"
+	},
+	"visit": {
+		"message": "Besøk"
+	},
+	"no_results": {
+		"message": "Ingen resultater"
+	},
+	"reduce_motion": {
+		"message": "Animasjoner"
+	},
+	"maths_steps": {
+		"message": "Matematikkløser"
+	},
+	"tour": {
+		"message": "Helperbird Tour"
+	},
+	"reduce_motion_description": {
+		"message": "Forhindre at animasjon vises på nettsider."
+	},
+	"feature_immersive_reader_description": {
+		"message": "Immersive Reader er et gratis verktøy som implementerer utprøvde teknikker for å forbedre lesing og skriving"
+	},
+	"start": {
+		"message": "Start"
+	},
+	"learn_more": {
+		"message": "Lære mer"
+	},
+	"more": {
+		"message": "Mer"
+	},
+	"editor_title": {
+		"message": "Redaktør"
+	},
+	"editor_title_open": {
+		"message": "Åpne Helperbirds Editor"
+	},
+	"logout": {
+		"message": "Logg ut"
+	},
+	"signin": {
+		"message": "Logg Inn"
+	},
+	"define_title": {
+		"message": "Ordbok"
+	},
+	"define_title_open": {
+		"message": "Åpne ordboken"
+	},
+	"define_empty_title": {
+		"message": "Søk etter et ord, og vi vil returnere betydningen av det."
+	},
+	"define_search": {
+		"message": "Søk......"
+	},
+	"define_antonyms": {
+		"message": "Antonymer"
+	},
+	"define_synonyms": {
+		"message": "Synonymer"
+	},
+	"define_meanings": {
+		"message": "Betydninger"
+	},
+	"define_related": {
+		"message": "I slekt"
+	},
+	"define_etymology": {
+		"message": "Etymologi"
+	},
+	"export": {
+		"message": "Eksport"
+	},
+	"export_word": {
+		"message": "Eksporter til Word"
+	},
+	"export_docs": {
+		"message": "Eksporter til Google Dokumenter"
+	},
+	"export_text": {
+		"message": "Eksporter til tekstfil"
+	},
+	"toolbar_pdf": {
+		"message": "PDF-leser"
+	},
+	"toolbar_pdf_open": {
+		"message": "Åpne PDF-leser"
+	},
+	"menus": {
+		"message": "Google Dokumenter og PDF-filer"
+	},
+	"upgrade_message_title": {
+		"description": "Helperbird-utvidelse.",
+		"message": "Oppgrader til $1"
+	},
+	"upgrade_message_paragraph": {
+		"description": "Helperbird-utvidelse.",
+		"message": "Få tilgang til kraftige funksjoner som Reader Mode og $1."
+	},
+	"upgrade_message_paragraph_two": {
+		"description": "Helperbird-utvidelse.",
+		"message": "Velg en plan nedenfor for å låse opp over 30 funksjoner og 24 timers støtte."
+	},
+	"alert_message": {
+		"message": "Oppgrader eller logg på for å få tilgang til alle Pro-funksjoner."
+	},
+	"alert_loading": {
+		"message": "Laster ...."
+	},
+	"alert_clear": {
+		"message": "Klar"
+	},
+	"alert_cleared": {
+		"message": "Fjernet"
+	},
+	"alert_download": {
+		"message": "nedlasting"
+	},
+	"alert_no_data": {
+		"message": "Ingen resultater"
+	},
+	"annotations_notes": {
+		"message": "Notater"
+	},
+	"import_annotations": {
+		"message": "Importer notater"
+	},
+	"options": {
+		"message": "Alternativer"
+	},
+	"open_document": {
+		"message": "Åpne dokumentet"
+	},
+	"select_document": {
+		"message": "Du må velge et dokument."
+	},
+	"copied_document": {
+		"message": "Dokumentet er kopiert"
+	},
+	"saved_document": {
+		"message": "Dokumentet er lagret"
+	},
+	"issue_saving": {
+		"message": "Problem med lagring"
+	},
+	"show_updates": {
+		"message": "Vis oppdateringer"
+	},
+	"new": {
+		"message": "Ny"
+	},
+	"pause": {
+		"message": "Pause"
+	},
+	"removed_document": {
+		"message": "Dokument fjernet"
+	},
+	"opening_document": {
+		"message": "Åpningsdokument"
+	},
+	"get_started": {
+		"message": "Kom i gang"
+	},
+	"saved_to_documents": {
+		"message": "Lagret i dokumentene dine."
+	},
+	"message_alert": {
+		"message": "Få tilgang til alle Helperbirds-funksjoner og kundestøtte når du trenger det. Over 30 funksjoner."
+	},
+	"message_three_day": {
+		"message": "3 dagers prøveperiode"
+	},
+	"feature_pdf_reader": {
+		"message": "PDF"
+	},
+	"check_inputs": {
+		"message": "Sjekk inndataene dine"
+	},
+	"upgrade": {
+		"message": "Oppgradering"
+	},
+	"upgrade_": {
+		"message": "Oppgrader til $1"
+	},
+	"website": {
+		"message": "Nettsted"
+	},
+	"description": {
+		"message": "Beskrivelse"
+	},
+	"capture": {
+		"message": "Capture"
+	},
+	"category": {
+		"message": "Kategori"
+	},
+	"error_found_label": {
+		"message": "Det er en feil"
+	},
+	"cancel": {
+		"message": "Avbryt"
+	},
+	"readinglist_title": {
+		"message": "Leseliste"
+	},
+	"readinglist_title_open": {
+		"message": "Åpne leseliste"
+	},
+	"note_removed": {
+		"message": "Merknad fjernet."
+	},
+	"note_removed_error": {
+		"message": "Kunne ikke fjerne notatet."
+	},
+	"readinglist_removed": {
+		"message": "Nettstedet er fjernet"
+	},
+	"settings_saved": {
+		"message": "Instillinger lagret"
+	},
+	"check_for_updates": {
+		"message": "Se etter oppdateringer"
+	},
+	"show_highlights": {
+		"message": "Vis høydepunkter på siden."
+	},
+	"account_title": {
+		"message": "Regnskap"
+	},
+	"account_description": {
+		"message": "Vi bruker samme e-post som du logger på nettleseren din som pålogging."
+	},
+	"signed_in_as": {
+		"message": "Logget på som"
+	},
+	"subscription_title": {
+		"message": "Abonnement"
+	},
+	"current_plan": {
+		"message": "Din nåværende plan"
+	},
+	"subscription_status": {
+		"message": "Din abonnementsstatus:"
+	},
+	"check_subscription": {
+		"message": "Sjekk abonnementet"
+	},
+	"subscription_token_title": {
+		"message": "Abonnementsnøkkel"
+	},
+	"subscription_token_description": {
+		"message": "Hvis du har et Helperbird Pro-abonnement, skriv inn det nedenfor for å låse opp alle Helperbird Pros funksjoner."
+	},
+	"themes": {
+		"message": "Temaer"
+	},
+	"theme": {
+		"message": "Tema"
+	},
+	"danger_zone_title": {
+		"message": "Oppbevaring"
+	},
+	"danger_zone_description": {
+		"message": "Knappen nedenfor vil slette alle innstillinger og starte utvidelsen som om den var ny. Så pass på at vi ikke kan få tilbake noe du sletter."
+	},
+	"delete_everything": {
+		"message": "Slett alt"
+	},
+	"delete_this_note": {
+		"message": "Slett dette notatet."
+	},
+	"visit_this_note": {
+		"message": "Besøk nettstedet dette notatet er på."
+	},
+	"everything_deleted": {
+		"message": "Alle innstillinger og lagring er nå slettet."
+	},
+	"enter_email": {
+		"message": "Du må skrive inn en e-post."
+	},
+	"shortcuts": {
+		"message": "Snarveier"
+	},
+	"shortcuts_menu_on": {
+		"message": "Snarveier er på"
+	},
+	"shortcuts_menu_off": {
+		"message": "Snarveier er av"
+	},
+	"shortcuts_title": {
+		"message": "Snarveier"
+	},
+	"shortcuts_description": {
+		"message": "Snarveier"
+	},
+	"shortcuts_ocr": {
+		"message": "Aktiver OCR"
+	},
+	"shortcuts_immsersive": {
+		"message": "Åpne Immersive reader"
+	},
+	"shortcuts_reader_mode": {
+		"message": "Åpne lesermodus"
+	},
+	"annotate_page": {
+		"message": "Kommenter siden"
+	},
+	"pdf_viewer": {
+		"message": "PDF"
+	},
+	"open_pdf": {
+		"message": "Åpne PDF"
+	},
+	"open_pdf_zoom_out": {
+		"message": "Zoome ut"
+	},
+	"open_pdf_zoom_in": {
+		"message": "Zoom inn"
+	},
+	"settings": {
+		"message": "Innstillinger"
+	},
+	"support_videos": {
+		"message": "Støtte videoer"
+	},
+	"review_us": {
+		"message": "Anmeld oss"
+	},
+	"view": {
+		"message": "Utsikt"
+	},
+	"views": {
+		"message": "Visninger"
+	},
+	"no_favorites": {
+		"message": "Ingen favoritter"
+	},
+	"sorting_none": {
+		"message": "Ingenting kunne bli funnet."
+	},
+	"sorting": {
+		"message": "Sorterer...."
+	},
+	"showing_favorites": {
+		"message": "Viser favoritter"
+	},
+	"unpaid": {
+		"message": "Abonnementet ditt er ubetalt."
+	},
+	"canceled": {
+		"message": "Abonnementet ditt er kansellert."
+	},
+	"message_nothing_found": {
+		"message": "Vi fant ikke noe abonnement."
+	},
+	"couldnt_interact_with_page": {
+		"message": "Vi kunne ikke få noen tekst. Vennligst prøv igjen (Oppdater). Prøv PDF- eller Google Docs-tillegget vårt."
+	},
+	"unpinned_favorite": {
+		"message": "Fjernet som favoritt"
+	},
+	"pin_favorite": {
+		"message": "Favoritt"
+	},
+	"setting_saved": {
+		"message": "Innstillingen er lagret"
+	},
+	"favourite": {
+		"message": "Favoritt"
+	},
+	"un_favourite": {
+		"message": "Ikke favoritt"
+	},
+	"how_to_use": {
+		"message": "Hvordan å bruke"
+	},
+	"search": {
+		"message": "Søk"
+	},
+	"search_feature": {
+		"message": "Søkefunksjoner"
+	},
+	"filter_productivity": {
+		"message": "Forskning"
+	},
+	"helperbird_apps": {
+		"message": "Helperbird-apper"
+	},
+	"fav_message": {
+		"message": "Det ser ut til at du ikke har noen funksjoner som favoritt. For å favoritt, klikk på de tre prikkene ved siden av en funksjon og klikk på favoritt."
+	},
+	"filter_features": {
+		"message": "Filterfunksjoner"
+	},
+	"student_offer": {
+		"message": "Elever får Helperbird Pro for"
+	},
+	"filter_style": {
+		"message": "Vise"
+	},
+	"filter_text_to_speech": {
+		"message": "Tekst til tale"
+	},
+	"filter_dyslexia": {
+		"message": "Dysleksi"
+	},
+	"filter_pro": {
+		"message": "Pro funksjoner"
+	},
+	"filter": {
+		"message": "Filter"
+	},
+	"filter_writing": {
+		"message": "Skriving"
+	},
+	"highlighter_title": {
+		"message": "Highlighter"
+	},
+	"filter_reading": {
+		"message": "Lesning"
+	},
+	"filter_active": {
+		"message": "Aktiv"
+	},
+	"filter_audio": {
+		"message": "Lydfunksjoner"
+	},
+	"feature_blindness": {
+		"message": "Fargeblindhet"
+	},
+	"feature_emphasize_links": {
+		"message": "Legg vekt på lenker"
+	},
+	"feature_emphasize_stroke": {
+		"message": "Tekststrek"
+	},
+	"feature_emphasize_stroke_color": {
+		"message": "Farge"
+	},
+	"color": {
+		"message": "Farge"
+	},
+	"feature_specialized_font": {
+		"message": "Spesialisert skrift"
+	},
+	"feature_specialized_font_options": {
+		"message": "Skriftalternativer"
+	},
+	"feature_highlight_menu_menu_on": {
+		"message": "Markeringsmenyen er på"
+	},
+	"feature_highlight_menu_menu_off": {
+		"message": "Markeringsmenyen er av"
+	},
+	"feature_highlight_menu": {
+		"message": "Marker menyen"
+	},
+	"feature_highlight_menu_description": {
+		"message": "Viser vår uthevede tekstmeny."
+	},
+	"show": {
+		"message": "Forestilling"
+	},
+	"welcome": {
+		"message": "Velkommen til Helperbird"
+	},
+	"feature_immersive_reader": {
+		"message": "Oppslukende leser"
+	},
+	"create_a_new_note": {
+		"message": "Opprett et nytt notat"
+	},
+	"welcome_description": {
+		"message": "Thank you for downloading Helperbird. <br> We are proud to give you all the features you need to unlock your full potential with privacy in mind. <br> We have offer free features, also Pro features for  &#36;40 a year. <br> It helps us keep developing Helperbird and create more features."
+	},
+	"welcome_": {
+		"message": "Bruk Immersive Reader fra Microsoft på denne siden."
+	},
+	"feature_toolbar_google": {
+		"message": "Google Dokumenter og Slides"
+	},
+	"feature_toolbar_google_description": {
+		"message": "Legger til en Helperbird-verktøylinje på Google doc-filer."
+	},
+	"feature_toolbar_pdf": {
+		"message": "PDF-verktøylinje"
+	},
+	"feature_toolbar_pdf_description": {
+		"message": "Legger til en Helperbird-verktøylinje på Pdf-filer."
+	},
+	"pause_helperbird": {
+		"message": "Sett $1 på pause"
+	},
+	"quick_action": {
+		"message": "Raske handlinger"
+	},
+	"feature_pause_helperbird": {
+		"message": "$1 er avslag"
+	},
+	"feature_pause_helperbird_on": {
+		"message": "$1 er på"
+	},
+	"voice_typing_is_on": {
+		"message": "Stemmeskriving er på"
+	},
+	"voice_typing_is_off": {
+		"message": "Stemmeskriving er av"
+	},
+	"helperbird_paused": {
+		"message": "Helperbird av"
+	},
+	"helperbird_running": {
+		"message": "Helperbird som løper"
+	},
+	"applying_settings": {
+		"message": "Bruker innstillingene dine"
+	},
+	"feature_favorites": {
+		"message": "Favoritter"
+	},
+	"all_feature_favorites": {
+		"message": "Alle"
+	},
+	"hide_feature_favorites": {
+		"message": "Skjul favoritter"
+	},
+	"feature_favorites_description": {
+		"message": "Vis kun favoritter."
+	},
+	"feature_print": {
+		"message": "Skrive ut"
+	},
+	"feature_print_description": {
+		"message": "Skriv ut gjeldende side."
+	},
+	"feature_printing_success": {
+		"message": "Åpningsutskrift"
+	},
+	"feature_reader_mode": {
+		"message": "Lesermodus"
+	},
+	"feature_readermode_opening": {
+		"message": "Åpner Reader-modus"
+	},
+	"feature_readermode_closing": {
+		"message": "Lukker Reader-modus"
+	},
+	"view_table": {
+		"message": "Tabellvisning"
+	},
+	"view_time": {
+		"message": "Tidslinjevisning"
+	},
+	"view_card": {
+		"message": "Kortvisning"
+	},
+	"feature_screenshot": {
+		"message": "Skjermdump"
+	},
+	"feature_screenshot_description": {
+		"message": "Ta et skjermbilde av gjeldende side."
+	},
+	"feature_screenshot_error": {
+		"message": "Feil under opptak av skjermbilde"
+	},
+	"feature_screenshot_success": {
+		"message": "Tar skjermbilde"
+	},
+	"feature_tooltip": {
+		"message": "Bildebeskrivelser"
+	},
+	"feature_tooltip_description": {
+		"message": "Vis alt- og titteltagger på musen over."
+	},
+	"feature_translate": {
+		"message": "Oversette"
+	},
+	"feature_language": {
+		"message": "Språk"
+	},
+	"feature_magnifier": {
+		"message": "Forstørrelsesglass"
+	},
+	"feature_magnifier_description": {
+		"message": "Forstørrelsesglass"
+	},
+	"percentage": {
+		"message": "Prosentdel"
+	},
+	"feature_analyze": {
+		"message": "Ordtelling"
+	},
+	"feature_analyze_description": {
+		"message": "analysere"
+	},
+	"feature_analyze_words": {
+		"message": "ord"
+	},
+	"feature_analyze_characters": {
+		"message": "tegn"
+	},
+	"feature_annotations": {
+		"message": "Notater"
+	},
+	"feature_annotations_description": {
+		"message": "Merk siden ved å legge igjen en ny lapp."
+	},
+	"feature_annotate_open": {
+		"message": "Opprette et nytt notat"
+	},
+	"annotate": {
+		"message": "Kommenter"
+	},
+	"feature_cognitive_load": {
+		"message": "Hastighetslesing"
+	},
+	"bold": {
+		"message": "Dristighet"
+	},
+	"feature_background_color": {
+		"message": "Bakgrunnsfarge"
+	},
+	"feature_font_color": {
+		"message": "Skriftfarge"
+	},
+	"feature_highlight_menu_min": {
+		"message": "Meny"
+	},
+	"feature_highlight_color": {
+		"message": "Fremhev farge"
+	},
+	"feature_link_color": {
+		"message": "Lenkefarge"
+	},
+	"feature_cursor_size": {
+		"message": "Markørstørrelse"
+	},
+	"feature_font_size": {
+		"message": "Tekststørrelse"
+	},
+	"feature_font_size_titles": {
+		"message": "Størrelse på topptekster"
+	},
+	"feature_font_size_paragraphs": {
+		"message": "Avsnittsstørrelse"
+	},
+	"feature_gray_hue": {
+		"message": "Grå nyanse"
+	},
+	"feature_highlight_paragraphs": {
+		"message": "Fremhev avsnitt"
+	},
+	"feature_highlight_paragraphs_color": {
+		"message": "Fremhev avsnittsfarge"
+	},
+	"feature_images_hide_title": {
+		"message": "Skjul bilder"
+	},
+	"hide": {
+		"message": "Gjemme seg"
+	},
+	"feature_images_hide": {
+		"message": "Skjul alle bilder"
+	},
+	"feature_images_hide_gifs": {
+		"message": "Skjul gifs"
+	},
+	"feature_high_contast": {
+		"message": "Høy kontrast"
+	},
+	"feature_text_adjustments": {
+		"message": "Tekstjusteringer"
+	},
+	"feature_text_align": {
+		"message": "Tekstjustering"
+	},
+	"feature_text_alignment": {
+		"message": "Justering"
+	},
+	"feature_letter_spacing": {
+		"message": "Avstand mellom bokstavene"
+	},
+	"spacing": {
+		"message": "Avstand"
+	},
+	"feature_line_height_spacing": {
+		"message": "Linjehøyde"
+	},
+	"height": {
+		"message": "Høyde"
+	},
+	"feature_line_focus": {
+		"message": "Linjefokus"
+	},
+	"feature_line_focus_color": {
+		"message": "Linjefokusfarge"
+	},
+	"feature_line_focus_height": {
+		"message": "Linjefokushøyde"
+	},
+	"feature_mute": {
+		"message": "Demp video"
+	},
+	"feature_mute_description": {
+		"message": "Demp videoer og lyder fra sider."
+	},
+	"ocr_read_words": {
+		"message": "Les utskrevet tekst"
+	},
+	"text": {
+		"message": "Tekst"
+	},
+	"ocr_read_words_save": {
+		"message": "Lagre utskrevet tekst"
+	},
+	"feature_extract_text": {
+		"message": "Trekk ut tekst (OCR)"
+	},
+	"feature_extract_text_description": {
+		"message": "Aktiver, velg området på skjermen."
+	},
+	"feature_overlay": {
+		"message": "Overlegg"
+	},
+	"feature_overlay_color": {
+		"message": "Overleggsfarge"
+	},
+	"feature_paragraph_width": {
+		"message": "Avsnittsbredde"
+	},
+	"width": {
+		"message": "Bredde"
+	},
+	"highlighted_text": {
+		"message": "Uthevet tekst"
+	},
+	"issue_on_page": {
+		"message": "Utgave"
+	},
+	"feature_reading_guide": {
+		"message": "Leseveiledning"
+	},
+	"feature_reading_guide_color": {
+		"message": "Farge på leseveiledning"
+	},
+	"feature_dyslexia_ruler": {
+		"message": "Dysleksi hersker"
+	},
+	"feature_ruler_width": {
+		"message": "Linjalbredde"
+	},
+	"feature_dyslexia_ruler_height": {
+		"message": "Høyde"
+	},
+	"feature_dyslexia_ruler_position": {
+		"message": "Posisjon"
+	},
+	"feature_dyslexia_ruler_color": {
+		"message": "Farge"
+	},
+	"feature_dyslexia_ruler_follow": {
+		"message": "Følg"
+	},
+	"feature_auto_scroll": {
+		"message": "Automatisk rulling"
+	},
+	"speed": {
+		"message": "Hastighet"
+	},
+	"subscription_deleted": {
+		"message": "Abonnement kansellert"
+	},
+	"title_enjoy_until": {
+		"message": "Nyt prøveperioden til"
+	},
+	"incomplete_expired": {
+		"message": "Vi kunne ikke fullføre betalingen."
+	},
+	"past_due": {
+		"message": "Abonnementet ditt er forfalt."
+	},
+	"incomplete": {
+		"message": "Vi kunne ikke fullføre betalingen."
+	},
+	"transparency": {
+		"message": "Lysstyrke"
+	},
+	"title_message_full": {
+		"message": "Helperbird Pro-abonnement funnet."
+	},
+	"contact_support": {
+		"message": "Vennligst kontakt support."
+	},
+	"buy": {
+		"message": "Kjøp $1"
+	},
+	"feature_voice_typing": {
+		"message": "Stemmeskriving"
+	},
+	"feature_voice_typing_description": {
+		"message": "Legger til stemmeskriving på alle innganger. Bare klikk på knappen på inngangen."
+	},
+	"google_docs_notice": {
+		"message": "Vi har nå et Google-tillegg! Installer for å få enda mer støtte."
+	},
+	"feature_spell_check": {
+		"message": "Stavekontroll"
+	},
+	"feature_summarize": {
+		"message": "Oppsummer siden"
+	},
+	"feature_summarize_description": {
+		"message": "Oppsummer denne siden."
+	},
+	"feature_text_to_speech_options": {
+		"message": "Alternativer for tekst til tale"
+	},
+	"feature_speech_voice": {
+		"message": "Stemme"
+	},
+	"feature_speech_speed": {
+		"message": "Hastighet"
+	},
+	"feature_speech_pitch": {
+		"message": "Tonehøyde"
+	},
+	"feature_speech_volume": {
+		"message": "Volum"
+	},
+	"feature_speech_highlight_color": {
+		"message": "Fremhev farge"
+	},
+	"feature_speech_reading_success": {
+		"message": "Leser valgt tekst."
+	},
+	"feature_text_to_speech": {
+		"message": "Tekst til tale"
+	},
+	"you_need_to_highlight": {
+		"message": "Du må markere litt tekst."
+	},
+	"feature_word_prediction": {
+		"message": "Ordprediksjon"
+	},
+	"feature_word_prediction_description": {
+		"message": "Slå på Helperbirds ordprediksjon på innganger."
+	},
+	"feature_word_spacing": {
+		"message": "Ordavstand"
+	},
+	"full_Screen": {
+		"message": "Full skjerm"
+	},
+	"voice_typing_stop": {
+		"message": "Stopper stemmeskriving."
+	},
+	"voice_typing_start": {
+		"message": "Snakk nå."
+	},
+	"speak_word_on_hover": {
+		"message": "Les høyt."
+	},
+	"speak_word_on_hover_info": {
+		"message": "Vil lese ordet ved å sveve."
+	},
+	"speak": {
+		"message": "Snakke"
+	},
+	"auto_scroll_start": {
+		"message": "Automatisk rulling startet."
+	},
+	"auto_scroll_stop": {
+		"message": "Autorulling stoppet."
+	},
+	"popup_immersive_success": {
+		"message": "Laster oppslukende leser."
+	},
+	"popup_readermode_success": {
+		"message": "Åpner Reader-modus."
+	},
+	"popup_printing_success": {
+		"message": "Åpningsutskrift."
+	},
+	"ocr_select": {
+		"message": "Velg område på siden."
+	},
+	"ocr_extracted": {
+		"message": "Tekst trukket ut."
+	},
+	"ocr_extracting": {
+		"message": "Trekker ut"
+	},
+	"ocr_copy": {
+		"message": "Kopier tekst fra bilde. Lagret på utklippstavlen."
+	},
+	"ocr_no_text": {
+		"message": "Ingen tekst ble funnet."
+	},
+	"popup_note_success": {
+		"message": "Lagret i notatene dine."
+	},
+	"popup_immersive_error": {
+		"message": "Feil ved innlasting av oppslukende leser"
+	},
+	"popup_summarize_error": {
+		"message": "Feil ved oppsummering av siden."
+	},
+	"popup_saving_error": {
+		"message": "Feil under lagring"
+	},
+	"popup_summarize_success": {
+		"message": "Oppsummerende side"
+	},
+	"popup_readermode_closing": {
+		"message": "Lukker Reader-modus"
+	},
+	"close": {
+		"message": "Lukk"
+	},
+	"your_note_was_saved": {
+		"message": "Notatet ditt ble lagret."
+	},
+	"error_saving_your_note": {
+		"message": "Feil under lagring av notatet. Vær så snill, prøv på nytt."
+	},
+	"popup_readinglist_error": {
+		"message": "Feil ved lagring i leseliste"
+	},
+	"popup_readinglist_success": {
+		"message": "Lagret i leselisten"
+	},
+	"popup_screenshot_error": {
+		"message": "Feil under opptak av skjermbilde"
+	},
+	"popup_screenshot_success": {
+		"message": "Tar skjermbilde"
+	},
+	"copied_text": {
+		"message": "Kopiert tekst"
+	},
+	"copied_text_error": {
+		"message": "Feil under kopiering av tekst."
+	},
+	"ocr_loading": {
+		"message": "Laster inn Helperbirds OCR"
+	},
+	"ocr_save": {
+		"message": "Lagret i notatene dine"
+	},
+	"popup_reading_success": {
+		"message": "Leser valgt tekst"
+	},
+	"popup_reading_finished": {
+		"message": "Ferdig lest"
+	},
+	"popup_reading_error": {
+		"message": "Stopper"
+	},
+	"popup_reading_stopping": {
+		"message": "Stopper"
+	},
+	"popup_reading_pause": {
+		"message": "Pause"
+	},
+	"notifcations_upgrade_title": {
+		"message": "Du må oppgradere Helperbird Pro for å bruke denne funksjonen."
+	},
+	"menu_define": {
+		"message": "Definer ordet"
+	},
+	"menu_website_readinglist": {
+		"message": "Legg nettstedet til leselisten"
+	},
+	"menu_readinglist": {
+		"message": "Legg til leseliste"
+	},
+	"menu_text_to_speech": {
+		"message": "Tekst til tale"
+	},
+	"menu_play": {
+		"message": "Spille"
+	},
+	"menu_pause": {
+		"message": "Pause"
+	},
+	"menu_stop": {
+		"message": "Stoppe"
+	},
+	"menu_resume": {
+		"message": "Gjenoppta"
+	},
+	"menu_screenshot": {
+		"message": "Ta skjermbilde"
+	},
+	"menu_share": {
+		"message": "Dele"
+	},
+	"menu_reader_mode": {
+		"message": "Vis i lesermodus"
+	},
+	"menu_translate": {
+		"message": "Oversette"
+	},
+	"road_map": {
+		"message": "Veikart"
+	},
+	"menu_immersive_reader": {
+		"message": "Se i oppslukende leser"
+	},
+	"menu_summarize": {
+		"message": "Oppsummer siden"
+	},
+	"menu_summarize_page": {
+		"message": "Side oppsummert"
+	},
+	"menu_annotate_page": {
+		"message": "Kommenter siden"
+	}
+}
