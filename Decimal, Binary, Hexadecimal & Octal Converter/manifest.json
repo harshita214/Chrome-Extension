@@ -1,0 +1,11 @@
+{
+    "name": "Decimal, Binary, Hexadecimal & Octal Converter",
+    "version": "1.0.0",
+    "description": "Decimal, Binary, Hexadecimal & Octal Converter",
+    "manifest_version": 3,
+    "author": "Tee Chia Suen",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Decimal, Binary, Hexadecimal & Octal Converter"
+    }
+}

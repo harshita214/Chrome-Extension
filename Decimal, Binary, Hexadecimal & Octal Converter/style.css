@@ -1,0 +1,44 @@
+body {
+    	font-size: 18px;
+   	margin: 0;
+    	min-height: 240px;
+    	padding: 0;
+   	width: 260px;
+}
+
+.wrapper {
+    	text-align: center;
+    	font-family: 'Arial';
+    	font-weight: 80;
+    	font-size: 18px;
+
+}
+
+.convert {
+	display: flex;
+}
+
+.convert > select {
+	width: 100px;
+	margin: 10px;
+  
+}
+
+.button {
+	background-color: red;
+	border: none;
+	color: white;
+	padding: 10px 21px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 18px;
+	margin: 4px 2px;
+	transition-duration: 0.2s;
+	cursor: pointer;
+	border-radius: 8px;
+}
+
+.button:hover {
+	background-color: green;
+}
