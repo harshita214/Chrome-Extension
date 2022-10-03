@@ -1,12 +1,17 @@
 document.querySelector("#done").addEventListener("click", function() {
     const update = function() {
-        let bdt = document.querySelector("#bdt").value,
+        let bdt = document.querySelector("#bdt").value;
+        if(bdt.length>0){
+            document.getElementById('output').style.display='block';
+            
             bday = new Date(bdt),
             bday_val = bday.getTime(),
             today = new Date(),
             now = today.getTime(),
-            value = now - bday_val,
-            val_sec = Math.floor(value / 1000),
+            value = now-bday_val,
+            console.log(bday);
+            if(value>=0){
+            var_sec = Math.floor(value / 1000),
             var_min = Math.floor(value / (1000 * 60)),
             var_hour = Math.floor(value / (1000 * 60 * 60)),
             var_day = Math.floor(value / (1000 * 60 * 60 * 24)),
@@ -17,14 +22,22 @@ document.querySelector("#done").addEventListener("click", function() {
             document.querySelector(x).innerHTML = y;
 
         }
-        insert("#year", var_year + " years");
-        insert("#month", var_month + " months"); 
-        insert("#week", var_week + " weeks"); 
-        insert("#day", var_day + " days"); 
-        insert("#hour", var_hour + " hours"); 
-        insert("#minute", var_min + " minutes"); 
-        insert("#second", var_sec + " seconds");     
-
+        insert("#year","years : "+ var_year );
+        insert("#month", "months : "+var_month); 
+        insert("#week", "weeks : "+var_week); 
+        insert("#day", "days : "+var_day ); 
+        insert("#hour", "hours : "+var_hour); 
+        insert("#minute","minutes : "+var_min); 
+        insert("#second","seconds : "+var_sec );
+    }     
+     else{
+        document.querySelector("#year").innerHTML = "INVALID DETAILS";
+     }   
+    }else{
+        document.querySelector("#year").innerHTML = "INVALID DETAILS";
+    }
     };
     setInterval(update, 1000)
+   
 })
+

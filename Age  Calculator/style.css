@@ -4,12 +4,47 @@ body {
     min-height: 150px;
     padding: 0;
     width: 270px;
+    border-radius: 10px;
+    background-color: lightblue;
+    padding: 10px;
+    
 }
 
+.box{
+
+border-radius: 12px;
+width: 20vw;
+height: 45vh;
+background-color: lightblue;
+
+}
 .title_paragraph {
     text-align: center;
     font-family: 'Buda', cursive;
     font-weight: 80;
     font-size: 18px;
 
+}
+input{
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: white;
+    padding: 10px;
+    width: 50vw;
+}
+#done{
+background-color: rgb(219, 252, 229);
+border-radius: 10px;
+padding: 10px;
+}
+#output{
+    display:none;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+p{
+    text-align: center;
 }
