@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decimal, Binary, Hexadecimal & Octal Converter</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="col">
+            <div class="title"><h4>Decimal, Binary, Hexadecimal & Octal Converter</h4></div>
+            <div class="Main">
+                <div class="sm">Enter number</div>
+                <input type="number" id="input">
+                <div class="convert">  
+                    <select class="from" id="from">
+                          <option value="Decimal">Decimal</option>
+						  <option value="Binary">Binary</option>
+						  <option value="Octal">Octal</option>
+						  <option value="Hexadecimal">Hexadecimal</option>
+                    </select>
+                    <div class="arrow">
+                        <p>&rarr;</p>
+                    </div>
+                    <select class="to" id="to">
+                        <option value="Decimal">Decimal</option>
+						<option value="Binary">Binary</option>
+						<option value="Octal">Octal</option>
+						<option value="Hexadecimal">Hexadecimal</option>
+                    </select>
+                </div>
+                
+                    <button class="button" id="button">Convert</button>
+            
+				<div>
+					<p class="result" id="result"></p>
+				</div>
+            </div>
+        </div>
+    </div>
+    <script src="Converter.js"></script>
+</body>
+</html>
