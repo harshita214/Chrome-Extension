@@ -54,7 +54,7 @@
 
 <h2 align="center">Overview</h2>
 
-<p align="center">        Chrome Extensions are something which we use very frequently in our day-to-day life for example, Grammarly. In this project, similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension— it makes it more exciting. So you may be on any level of learning, you can always contribute to this project and build your very own extensions!                   </p>
+<p align="center">        Chrome Extensions are something which we use very frequently in our day-to-day life, for example, Grammarly. Similarly, in this project, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extensions makes life easier but what if we build an extension— it makes it more exciting. So you may be on any level of learning, you can always contribute to this project and build your very own extensions!                   </p>
 
 <div align="center">   <h3>     Contribution is fun! ✨    </h3>    </div>
   
@@ -169,7 +169,7 @@ Here's an example of what a Chrome Extension usually looks like:
 ![](https://github.com/GoogleChrome/chrome-extensions-samples/blob/main/apps/samples/hello-world/assets/screenshot_1280_800.png)
 (Image taken from [Chrome's extension library](https://github.com/GoogleChrome/chrome-extensions-samples) as an example.)
 
-Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext).md) documentation it has all the steps.
+Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext).md) documentation for all the steps.
 
 
 
@@ -218,7 +218,7 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 
 <h2 align="center">Contribution Guidelines</h2>
 
-<p align="center">                    We would ❤️ for you to contribute to Chrome-Extension and help make it better by adding your ideas or by making current one better! We want contributing to be fun, enjoyable, and educational for everyone. All contributions are welcome, including issues as well as updates.                         </p>
+<p align="center">                    We would ❤️ for you to contribute to Chrome-Extension and help make it better by adding your ideas or by making current ones better! We want contributing to be fun, enjoyable, and educational for everyone. All contributions are welcome, including issues as well as updates.                         </p>
 
 <br>
 
@@ -227,7 +227,7 @@ Read [this](https://github.com/harshita214/Chrome-Extension/blob/main/readme(ext
 
 ###  How to Start?  📌
 
-If you have a idea of any Chrome-Extension you want to build just open an appropriate issue regarding this, we will discuss and assign you that issue. In case you are confused and have queries, just ping [me](https://www.linkedin.com/in/harshita-sharma-bb7992208/), will help you get along and build!
+If you have an idea of any Chrome-Extension you want to build just open an appropriate issue regarding this, we will discuss and assign you that issue. In case you are confused and have queries, just ping [me](https://www.linkedin.com/in/harshita-sharma-bb7992208/), I will help you get along and build!
 
 <br>
 
@@ -272,10 +272,10 @@ $ git checkout -b [name_of_your_new_branch]
 $ git push origin [name_of_your_new_branch]
 ```
 
-5. Submit your changes for review
+5. Submit your changes for review:
    If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
    
-6. Start a Pull Request
+6. Start a Pull Request:
    Now submit the pull request and click on `Create pull request`.
    
 7. Get a code review approval/reject
