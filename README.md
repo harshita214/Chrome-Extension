@@ -351,6 +351,16 @@ Or you can create a  <a href="https://github.com/aman34503/harshita214/issues">i
 ### Show some ❤️ by starring this awesome Repository!
 
 </div>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<hr>
+
+<h3 align="center"> 
+
+ ‼️ For [JWOC'23](https://jwoc.tech/) program Admin and Mentor rights of Chrome-Extension are given to [Mohak Srivastav](https://github.com/whiteHatpro) ‼️
+
+</h3>
   
   
 <div id="Bottom"></div>
