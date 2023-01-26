@@ -333,7 +333,8 @@ To maintain a safe and inclusive space for everyone to learn and grow, contribut
 
 If you have any feedback or suggestions please reach out to Project - Maintainer.  
 * [Harshita sharma](https://github.com/harshita214) 
-  
+* [Mohak Srivastav](https://github.com/whiteHatpro)
+
 Or you can create a  <a href="https://github.com/aman34503/harshita214/issues">issue</a> and mention there , which new features or extension can make this Project more good.
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
