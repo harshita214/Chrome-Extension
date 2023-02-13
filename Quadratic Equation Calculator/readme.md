@@ -10,5 +10,10 @@
 * CSS
 * JavaScript
 
+## File Overview:
+* popup.html defines the contents of extension popup
+* popup.js retrieves input for variables a, b, and c from popup.html and calculates roots using the Math library
+* style.css defines dimensions and color of the popup and "Calculate" button
+
 ## Screenshot:
 ![image](https://user-images.githubusercontent.com/88873588/155519171-1a41f9c6-2774-45f6-8de9-1fed198a3016.png)
