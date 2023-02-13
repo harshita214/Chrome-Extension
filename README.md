@@ -76,70 +76,70 @@
 
 <h2 align="center">Available Extensions</h2>
 
-| S-No. | Extensions | 
-|:--|:--|
-| 01. | [AD Blocker](https://github.com/harshita214/Chrome-Extension/tree/main/AD%20BLOCKER) | 
-| 02. | [Abusive Word Hider](https://github.com/harshita214/Chrome-Extension/tree/main/Abusive%20Word%20Hider) | 
-| 03. | [Alarm clock](https://github.com/harshita214/Chrome-Extension/tree/main/Alarm%20clock) | 
-| 04. | [Coding Profile Launcher](https://github.com/harshita214/Chrome-Extension/tree/main/Coding%20Profile%20Launcher) | 
-| 05. | [Gif Downloader](https://github.com/harshita214/Chrome-Extension/tree/main/Gif%20Downloader) | 
-| 06. | [Hex code color picker](https://github.com/harshita214/Chrome-Extension/tree/main/Hex%20code%20color%20picker%20extension) | 
-| 07. | [Highlight Us](https://github.com/harshita214/Chrome-Extension/tree/main/Highlight%20Us) | 
-| 08. | [Music Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Music%20Mode) | 
-| 09. | [Night Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Dark%20Mode%20Extension) |
-| 10. | [Prank Your Friend](https://github.com/harshita214/Chrome-Extension/tree/main/PrankYourFriend) | 
-| 11. | [Quotes](https://github.com/harshita214/Chrome-Extension/tree/main/Quotes) | 
-| 12. | [Random Jokes](https://github.com/harshita214/Chrome-Extension/tree/main/Random%20Jokes%20Extension) | 
-| 13. | [Simple Interest Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Simple%20Interest%20Calculator) | 
-| 14. | [Spacing](https://github.com/harshita214/Chrome-Extension/tree/main/Spacing) | 
-| 15. | [Tab Tracker](https://github.com/harshita214/Chrome-Extension/tree/main/Tab%20Tracker) | 
-| 16. | [Timer](https://github.com/harshita214/Chrome-Extension/tree/main/Timer) | 
-| 17. | [To-Do List Chrome Extension](https://github.com/harshita214/Chrome-Extension/tree/main/To-Do%20List%20ChromeExtension) | 
-| 18. | [Water Break](https://github.com/harshita214/Chrome-Extension/tree/main/Water%20Break) | 
-| 19. | [Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/calculator) | 
-| 20. | [Hello World](https://github.com/harshita214/Chrome-Extension/tree/main/helloWorldExtension) | 
-| 21. | [Word of the day](https://github.com/harshita214/Chrome-Extension/tree/main/wordoftheday) | 
-| 22. | [Compound Interest Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/CompoundInterest) | 
-| 23. | [Meaning of word](https://github.com/harshita214/Chrome-Extension/tree/main/Meaning%20of%20word%20extensions) | 
-| 24. | [TIC TAC TOE](https://github.com/harshita214/Chrome-Extension/tree/main/TIC-TAC-TOE) | 
-| 25. | [The Memory Game](https://github.com/harshita214/Chrome-Extension/tree/main/The%20Memory%20Game) | 
-| 26. | [Weather App](https://github.com/harshita214/Chrome-Extension/tree/main/Weather%20App) | 
-| 27. | [Font changer](https://github.com/harshita214/Chrome-Extension/tree/main/font%20changer) | 
-| 28. | [Rgb hex converter](https://github.com/harshita214/Chrome-Extension/tree/main/rgb%20%20hex%20converter) | 
-| 29. | [Screenshot & Video Recorder](https://github.com/harshita214/Chrome-Extension/tree/main/screenshot%20and%20video%20recorder) | 
-| 30. | [Tumbler_tiled](https://github.com/harshita214/Chrome-Extension/tree/main/tumbler_tiled) | 
-| 31. | [URL shortener](https://github.com/harshita214/Chrome-Extension/tree/main/url%20shortener) | 
-| 32. | [BMI Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/BMI%20Calculator) | 
-| 33. | [Covid-19 Stats.](https://github.com/harshita214/Chrome-Extension/tree/main/COVID-19%20stats) |
-| 34. | [Dark ColorGen](https://github.com/harshita214/Chrome-Extension/tree/main/Dark%20ColorGen) | 
-| 35. | [Flash Cards](https://github.com/harshita214/Chrome-Extension/tree/main/Flashcards) | 
-| 36. | [Quadratic Equation Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Quadratic%20Equation%20Calculator) | 
-| 37. | [Rand Pass](https://github.com/harshita214/Chrome-Extension/tree/main/RandPass) | 
-| 38. | [Timezoneee](https://github.com/harshita214/Chrome-Extension/tree/main/Timezoneee) | 
-| 39. | [Block Site](https://github.com/harshita214/Chrome-Extension/tree/main/block%20site) | 
-| 40. | [Calender 2022](https://github.com/harshita214/Chrome-Extension/tree/main/calender%202022) | 
-| 41. | [Panic Button](https://github.com/harshita214/Chrome-Extension/tree/main/panic%20button) |
-| 42. | [Random Gradient Generator](https://github.com/harshita214/Chrome-Extension/tree/main/random%20gradient%20generator) |
-| 43. | [Rock Paper Scissor](https://github.com/harshita214/Chrome-Extension/tree/main/rock%20paper%20scissor) | 
-| 44. | [Safety Badge](https://github.com/harshita214/Chrome-Extension/tree/main/safety%20badge) | 
-| 45. | [Snippet Highlighter](https://github.com/harshita214/Chrome-Extension/tree/main/snippet%20highlighter) | 
-| 46. | [Contrast](https://github.com/harshita214/Chrome-Extension/tree/main/contrast) | 
-| 47. | [Age Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Age%20Calculator)
-| 48. | [File Converter](https://github.com/harshita214/Chrome-Extension/tree/main/File%20Converter)
-| 49. | [Breaking Bad](https://github.com/harshita214/Chrome-Extension/tree/main/Breaking%20Bad)
-| 50. | [Wordle Solver](https://github.com/harshita214/Chrome-Extension/tree/main/wordle%20solver)
-| 51. | [Revision Helper](https://github.com/harshita214/Chrome-Extension/tree/main/revisionHelper)
-| 52. | [Hashtag Suggestor](https://github.com/harshita214/Chrome-Extension/tree/main/tag%20suggestor)
-| 53. | [Pinterest Chrome Extension](https://github.com/harshita214/Chrome-Extension/tree/main/pinterest%20chrome%20extension)
-| 54. | [Keyboard Shortcuts](https://github.com/harshita214/Chrome-Extension/tree/main/keyboard%20shortcuts)
-| 55. | [Cricket Series Extension](https://github.com/harshita214/Chrome-Extension/tree/main/Cricket%20Series%20Extension)
-| 56. | [Format Currency Extension](https://github.com/harshita214/Chrome-Extension/tree/main/Format%20Currency%20Extension)
-| 57. | [GitHub Extension](https://github.com/harshita214/Chrome-Extension/tree/main/Github%20Extension)
-| 58. | [QR Generator Extension](https://github.com/harshita214/Chrome-Extension/tree/main/QR-Generator)
-| 59. | [Random Activity](https://github.com/harshita214/Chrome-Extension/tree/main/Random%20Activity%20Generator)
-| 60. | [Random Fact Extension](https://github.com/harshita214/Chrome-Extension/tree/main/RandomFact) 
-| 61. | [Say It](https://github.com/harshita214/Chrome-Extension/tree/main/Say%20It)
-| 62. | [Snake Game](https://github.com/harshita214/Chrome-Extension/tree/main/Snake%20Game%20-Chrome%20Extension)
+| S-No. | Extensions | Description |
+|:--|:--|:--|
+| 01. | [AD Blocker](https://github.com/harshita214/Chrome-Extension/tree/main/AD%20BLOCKER) | Blocks network requests from advertising servers |
+| 02. | [Abusive Word Hider](https://github.com/harshita214/Chrome-Extension/tree/main/Abusive%20Word%20Hider) | Blocks all abusive words on web pages |
+| 03. | [Alarm clock](https://github.com/harshita214/Chrome-Extension/tree/main/Alarm%20clock) | Simple alarm clock with set and reset buttons |
+| 04. | [Coding Profile Launcher](https://github.com/harshita214/Chrome-Extension/tree/main/Coding%20Profile%20Launcher) | Stores personal account links for quick access |
+| 05. | [Gif Downloader](https://github.com/harshita214/Chrome-Extension/tree/main/Gif%20Downloader) | Allows the searching and download of gif files |
+| 06. | [Hex code color picker](https://github.com/harshita214/Chrome-Extension/tree/main/Hex%20code%20color%20picker%20extension) | Displays hex code for colors on browser |
+| 07. | [Highlight Us](https://github.com/harshita214/Chrome-Extension/tree/main/Highlight%20Us) | Allows for the highlighting of text and figures on web pages |
+| 08. | [Music Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Music%20Mode) | Plays mp3 files within chrome |
+| 09. | [Night Mode](https://github.com/harshita214/Chrome-Extension/tree/main/Dark%20Mode%20Extension) | Changes style of web pages to a darker tone |
+| 10. | [Prank Your Friend](https://github.com/harshita214/Chrome-Extension/tree/main/PrankYourFriend) | Changes content of image search results |
+| 11. | [Quotes](https://github.com/harshita214/Chrome-Extension/tree/main/Quotes) | Generates a random quote |
+| 12. | [Random Jokes](https://github.com/harshita214/Chrome-Extension/tree/main/Random%20Jokes%20Extension) | Generates a random joke |
+| 13. | [Simple Interest Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Simple%20Interest%20Calculator) | Calculates non-compunding interest |
+| 14. | [Spacing](https://github.com/harshita214/Chrome-Extension/tree/main/Spacing) | Changes spacing size between all characters on a web page |
+| 15. | [Tab Tracker](https://github.com/harshita214/Chrome-Extension/tree/main/Tab%20Tracker) | Saves tabs and input within tabs for future use |
+| 16. | [Timer](https://github.com/harshita214/Chrome-Extension/tree/main/Timer) | Basic timer with start and reset buttons |
+| 17. | [To-Do List Chrome Extension](https://github.com/harshita214/Chrome-Extension/tree/main/To-Do%20List%20ChromeExtension) | Create a to-do list for a specified date |
+| 18. | [Water Break](https://github.com/harshita214/Chrome-Extension/tree/main/Water%20Break) | No longer exists |
+| 19. | [Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/calculator) | Simple four-function calculator |
+| 20. | [Hello World](https://github.com/harshita214/Chrome-Extension/tree/main/helloWorldExtension) | Prints Hello World to screen |
+| 21. | [Word of the day](https://github.com/harshita214/Chrome-Extension/tree/main/wordoftheday) | Generates random word |
+| 22. | [Compound Interest Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/CompoundInterest) | Calculates compounding interest |
+| 23. | [Meaning of word](https://github.com/harshita214/Chrome-Extension/tree/main/Meaning%20of%20word%20extensions) | Allows for quick access to definitions |
+| 24. | [TIC TAC TOE](https://github.com/harshita214/Chrome-Extension/tree/main/TIC-TAC-TOE) | Simple tic tac toe game |
+| 25. | [The Memory Game](https://github.com/harshita214/Chrome-Extension/tree/main/The%20Memory%20Game) | Visual memory trainer |
+| 26. | [Weather App](https://github.com/harshita214/Chrome-Extension/tree/main/Weather%20App) | Displays temperature, in celcius, of specified city |
+| 27. | [Font changer](https://github.com/harshita214/Chrome-Extension/tree/main/font%20changer) | Changes all font style and size on a web page |
+| 28. | [Rgb hex converter](https://github.com/harshita214/Chrome-Extension/tree/main/rgb%20%20hex%20converter) | Converts rgb to hex and vice versa |
+| 29. | [Screenshot & Video Recorder](https://github.com/harshita214/Chrome-Extension/tree/main/screenshot%20and%20video%20recorder) | Captures chrome allowing image file or WebM download |
+| 30. | [Tumbler_tiled](https://github.com/harshita214/Chrome-Extension/tree/main/tumbler_tiled) | Modifies style of tumblr dashboard |
+| 31. | [URL shortener](https://github.com/harshita214/Chrome-Extension/tree/main/url%20shortener) | Converts long urls to short ones |
+| 32. | [BMI Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/BMI%20Calculator) | Calculates body mass index |
+| 33. | [Covid-19 Stats.](https://github.com/harshita214/Chrome-Extension/tree/main/COVID-19%20stats) | Shows current Covid-19 statistics |
+| 34. | [Dark ColorGen](https://github.com/harshita214/Chrome-Extension/tree/main/Dark%20ColorGen) | Generates dark colors for UI creation |
+| 35. | [Flash Cards](https://github.com/harshita214/Chrome-Extension/tree/main/Flashcards) | Flippable flashcards with study time scheduler |
+| 36. | [Quadratic Equation Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Quadratic%20Equation%20Calculator) | Allows three coefficient inputs to calculate the roots of a quadratic function |
+| 37. | [Rand Pass](https://github.com/harshita214/Chrome-Extension/tree/main/RandPass) | Creates random and secure passwords |
+| 38. | [Timezoneee](https://github.com/harshita214/Chrome-Extension/tree/main/Timezoneee) | Converts time between different time zones |
+| 39. | [Block Site](https://github.com/harshita214/Chrome-Extension/tree/main/block%20site) | Blocks specified sites |
+| 40. | [Calender 2022](https://github.com/harshita214/Chrome-Extension/tree/main/calender%202022) | Simple calendar showing current date (outdated-2022) |
+| 41. | [Panic Button](https://github.com/harshita214/Chrome-Extension/tree/main/panic%20button) | Hides all opened tabs with option to restore them |
+| 42. | [Random Gradient Generator](https://github.com/harshita214/Chrome-Extension/tree/main/random%20gradient%20generator) | Generates a random gradient |
+| 43. | [Rock Paper Scissor](https://github.com/harshita214/Chrome-Extension/tree/main/rock%20paper%20scissor) | Simple rock paper scissors game against random ai |
+| 44. | [Safety Badge](https://github.com/harshita214/Chrome-Extension/tree/main/safety%20badge) | Shows safety status of url before clicking |
+| 45. | [Snippet Highlighter](https://github.com/harshita214/Chrome-Extension/tree/main/snippet%20highlighter) | Allows for highlighting and organization of content on web page |
+| 46. | [Contrast](https://github.com/harshita214/Chrome-Extension/tree/main/contrast) | Changes color scheme of web pages |
+| 47. | [Age Calculator](https://github.com/harshita214/Chrome-Extension/tree/main/Age%20Calculator) | Calculates time between specified dates |
+| 48. | [File Converter](https://github.com/harshita214/Chrome-Extension/tree/main/File%20Converter) | Converts jpeg to png and vice versa |
+| 49. | [Breaking Bad](https://github.com/harshita214/Chrome-Extension/tree/main/Breaking%20Bad) | Generates random breaking bad quote |
+| 50. | [Wordle Solver](https://github.com/harshita214/Chrome-Extension/tree/main/wordle%20solver) | Solves wordle puzzle for you |
+| 51. | [Revision Helper](https://github.com/harshita214/Chrome-Extension/tree/main/revisionHelper) | Notification system for revisions |
+| 52. | [Hashtag Suggestor](https://github.com/harshita214/Chrome-Extension/tree/main/tag%20suggestor) | Generates hashtags for specified pictures with color coded rating |
+| 53. | [Pinterest Chrome Extension](https://github.com/harshita214/Chrome-Extension/tree/main/pinterest%20chrome%20extension) |Saves pinterest ideas within extension |
+| 54. | [Keyboard Shortcuts](https://github.com/harshita214/Chrome-Extension/tree/main/keyboard%20shortcuts) | Adds additional keyboard shortcuts to chrome |
+| 55. | [Cricket Series Extension](https://github.com/harshita214/Chrome-Extension/tree/main/Cricket%20Series%20Extension) | Displays upcoming cricket events |
+| 56. | [Format Currency Extension](https://github.com/harshita214/Chrome-Extension/tree/main/Format%20Currency%20Extension) | Adds commas and periods to value depending on selected currency |
+| 57. | [GitHub Extension](https://github.com/harshita214/Chrome-Extension/tree/main/Github%20Extension) | Shows your github feed and recent activity |
+| 58. | [QR Generator Extension](https://github.com/harshita214/Chrome-Extension/tree/main/QR-Generator) | Generates QR code for text entered |
+| 59. | [Random Activity](https://github.com/harshita214/Chrome-Extension/tree/main/Random%20Activity%20Generator) | Generates a random activity |
+| 60. | [Random Fact Extension](https://github.com/harshita214/Chrome-Extension/tree/main/RandomFact) | Generates a random fact |
+| 61. | [Say It](https://github.com/harshita214/Chrome-Extension/tree/main/Say%20It) | Text to speech generator |
+| 62. | [Snake Game](https://github.com/harshita214/Chrome-Extension/tree/main/Snake%20Game%20-Chrome%20Extension) |Simple snake game |
 
 
 
