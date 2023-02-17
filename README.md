@@ -1,4 +1,11 @@
 <div id="top"></div>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/80174214/161392790-7895ef9b-bc4d-41ee-a17a-395e3773ac19.png" width="250px">
+</div>
+<h1 align="center"> ❄ JWOC </h1>
+<p>JWOC provides a fully immersive learning experience for students and first-time contributors by promoting the wonders of open-source software and crafting a community of new and experienced technical developers. The best projects are selected for this program. Students get acquainted with the projects from the mentors during the Community Bonding Period. Students work on these projects during the coding phase</p>
+
+![Website](https://jwoc.tech/)
 
 <h1 align="center"> Chrome-Extension </h1>
 
@@ -40,7 +47,6 @@
 * [Overview](#Overview)
 * [Available Extensions](#Available-Extensions)
 * [How to view extension?](#How-to-view-extension?)
-* [Open Source programs this repo has been part of](#Open-Source-programs-this-repo-has-been-part-of)
 * [Contribution Guidelines](#Contribution-Guidelines)
 * [Contributors](#Contributors)
 * [Feedback](#Feedback)
@@ -54,12 +60,12 @@
 
 <h2 align="center">Overview</h2>
 
-<p align="center">        Chrome Extensions are something which we use very frequently in our day-to-day life for example, Grammarly. In this project, similarly, I will be adding some extensions and along with it giving some ideas of extensions that can be implemented. Using extension makes life easier but what if we build an extension— it makes it more exciting. So you may be on any level of learning, you can always contribute to this project and build your very own extensions!                   </p>
+<p align="center">  In our day-to-day lives, we use Chrome Extensions frequently, such as Grammarly. Similarly, I will add some extensions and along with them give some ideas of extensions that can be implemented. What if we built an extension to make life easier? It would be much more exciting. so,It doesn't matter what level of learning you have, you can always contribute to this project and build your own extensions!  </p>
 
 <div align="center">   <h3>     Contribution is fun! ✨    </h3>    </div>
   
 
- #### Tech-Stack used :
+ ### Tech-Stack used :
 
   ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
