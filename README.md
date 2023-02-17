@@ -1,12 +1,15 @@
 <div id="top"></div>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/80174214/161392790-7895ef9b-bc4d-41ee-a17a-395e3773ac19.png" width="250px">
+<img src="https://d33wubrfki0l68.cloudfront.net/4e39c7238cdfd48eccdfb5e1835170ec52e5f614/bd0b1/assets/img/jwoc_logo_sticker.svg" width="250px">
 </div>
 <h1 align="center"> ❄ JWOC </h1>
-<p>JWOC provides a fully immersive learning experience for students and first-time contributors by promoting the wonders of open-source software and crafting a community of new and experienced technical developers. The best projects are selected for this program. Students get acquainted with the projects from the mentors during the Community Bonding Period. Students work on these projects during the coding phase</p>
+<p>JWOC provides a fully immersive learning experience for students and first-time contributors by promoting the wonders of open-source software and crafting a community of new and experienced technical developers.
+  The best projects are selected for this program. Students get acquainted with
+  the projects from the mentors during the Community Bonding Period. Students work
+  on these projects during the coding phase. At the end of the coding period, the
+  winners of the programs are announced on the basis of their contribution in terms of quantity as well as quality.</p>
 
-![Website](https://jwoc.tech/)
-
+<a href="https://jwoc.tech/">Website</a>
 <h1 align="center"> Chrome-Extension </h1>
 
 
