@@ -8,8 +8,9 @@
   the projects from the mentors during the Community Bonding Period. Students work
   on these projects during the coding phase. At the end of the coding period, the
   winners of the programs are announced on the basis of their contribution in terms of quantity as well as quality.</p>
-
-<a href="https://jwoc.tech/">Website</a>
+<p align="center">
+  <a href="https://jwoc.tech/">JGEC Winter of code</a>
+</p>
 <h1 align="center"> Chrome-Extension </h1>
 
 
