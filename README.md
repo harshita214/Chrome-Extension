@@ -11,6 +11,10 @@
 <p align="center">
   <a href="https://jwoc.tech/">JGEC Winter of code</a>
 </p>
+<p align="center">
+  <a href="https://github.com/harshita214/Chrome-Extension/blob/main/LICENSE">Open Source License</a>
+</p>
+
 <h1 align="center"> Chrome-Extension </h1>
 
 
