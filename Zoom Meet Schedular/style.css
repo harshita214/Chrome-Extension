@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;400;500;600;700&display=swap');
+*{
+    font-family: 'Roboto Mono', monospace;
+    box-sizing: border-box;
+    font-weight: 600;
+}
+.navbar{
+    display: flex;
+    align-items: flex-start;
+    font-size: 10px;
+    gap: 5rem;
+    list-style-type: none;
+}
+.logo{
+  font-size: 1.5rem;
+  color: linear-gradient(45deg,red,blue);
+}
+.navbar li i{
+    display: block;
+    font-size: 40px;
+}
+#button {
+    display: inline-block;
+    padding: 10px 10px;
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #267e9c;
+    border: none;
+  }
+  
+  #button:hover {
+    background-color: #1d3a67;  
+}
+#options{
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+#options a,button {
+  font-size: 1rem;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  transform: all .2s ease;
+}
+#options a:hover{
+  border: solid 10px black;
+  border-width: 1px 3px 3px 0;
+}
+#options .close:hover{
+  border: solid 10px black;
+  border-width: 1px 3px 3px 0;
+}
+#options button{
+  border: none;
+  
+}
+#drop-down:hover #options {display: block;}
