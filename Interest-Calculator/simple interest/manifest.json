@@ -1,0 +1,19 @@
+{   "manifest_version":2,
+    "name":"SimpleInterest",
+    "description": "this is for calculating simple interest in your browser tab",
+    "version": "0.1.0",
+    "browser_action":{
+        "default_tittle":"simpleInterest",
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "icons": {
+        "128": "logo.png"
+      },
+    "permissions":[
+        "https://*/*", 
+        "http://*/*",
+        "tabs"
+    ]
+
+}
