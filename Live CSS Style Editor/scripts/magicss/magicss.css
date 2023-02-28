@@ -1,5 +1,6 @@
 #MagiCSS-bookmarklet {
-    text-align: left;
+    background-color: #000;
+    text-align: center;
 }
 
 #MagiCSS-bookmarklet * {
@@ -118,7 +119,7 @@
 
 .magic-css-header .magicss-title {
     display: flex;
-    background-color: #4458ae;
+    background-color: #070809;
     border-radius: 5px 5px 0 0;
     font-weight: bold;
     color: #fff;
@@ -532,13 +533,13 @@
 }
 
 .magic-css-tooltipster.tooltipster-default .tooltipster-box {
-    background-color: #7A89C6;
+    background-color: #0e0f12;
 }
 .magic-css-tooltipster.tooltipster-top .tooltipster-arrow-background {
-    border-top-color: #7A89C6;
+    border-top-color: #080809;
 }
 .magic-css-tooltipster.tooltipster-bottom .tooltipster-arrow-background {
-    border-bottom-color: #7A89C6;
+    border-bottom-color: #0e0f12;
 }
 
 .magic-css-tooltipster.tooltipster-default .tooltipster-box {
@@ -799,7 +800,7 @@
 }
 
 #MagiCSS-bookmarklet .CodeMirror-placeholder {
-    color: #aaa;
+    color: #c2b2b2;
 }
 
 #MagiCSS-bookmarklet .ui-icon-gripsmall-diagonal-se {
@@ -1170,7 +1171,7 @@ html .magicss-mouse-over-dom-element {
     text-align: right;
 
     /* The following styles help in avoiding some flickering when this text/element is animated */
-    background-color: rgba(99,113,186,1);
+    background-color: rgb(10, 10, 11);
     -webkit-backface-visibility: hidden;
 }
 

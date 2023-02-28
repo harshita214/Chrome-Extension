@@ -190,7 +190,7 @@
 }
 
 .magicss-dialog-search-icons .magicssSearchResultEntryIcon:focus .magicssSearchResultEntryIconBorderLayer {
-    border: 2px solid rgb(139,139,192);
+    border: 2px solid rgb(15, 15, 16);
 }
 
 .magicss-dialog-search-icons .magicssSearchResultEntryIcon:hover {
