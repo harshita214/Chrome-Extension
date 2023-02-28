@@ -1,0 +1,33 @@
+{
+    "name": "Tab Manager",
+    "version": "0.0.1",
+    "Description": "Manage Chrome Tabs",
+    "manifest_version": 3,
+
+    "background": {
+            
+        "service_worker": "background.js" },
+
+"permissions": [
+    "tabs", "activeTab"
+],
+
+"content_scripts": [
+    {
+    "matches": ["<all_urls>"],
+    "js": [
+           "index.js",
+           "popup.js"
+        ],
+    
+        "run_at": "document_start"
+    }
+],
+ "action":{
+     "default_popup": "popup.html",
+
+     "css":["style.css"]
+ }
+
+
+}
