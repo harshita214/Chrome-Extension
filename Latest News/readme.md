@@ -17,4 +17,8 @@
 https://user-images.githubusercontent.com/77873383/160280002-8dd153c6-5691-4dc7-9c81-f8b0e737da4f.mp4
 
 
+## updated Latest news Extension
+
+  ![Extension](./1.png)
+
 

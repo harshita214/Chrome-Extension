@@ -33,7 +33,7 @@ const amount = p * (Math.pow((1 + (r / 100)), (t)));
     result.innerHTML=" Something wrong ";
     document.body.appendChild(result);
   }
- 
+  
 
 
 
