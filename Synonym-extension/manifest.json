@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Find Synonyms",
+
+    "version": "1.0",
+    "permissions" :  ["activeTab"
+    
+        
+],
+    "host_permissions": [
+        "http://www.google.com/",
+        "https://www.google.com/"
+      ],
+   
+    "action": {
+        "default_popup": "synonyms.html",
+        "default_icon": "icon.png"        
+    }
+}
