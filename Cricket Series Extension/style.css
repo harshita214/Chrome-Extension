@@ -1,11 +1,11 @@
 body {
-  width: 400px;
+  width: 300px;
   height: 580px;
-  background-color: green;
+  background-color:  #2c3e50;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  color: beige;
+  color: white;
 }
 
 .choices {
@@ -17,8 +17,14 @@ body {
 }
 .choices button {
   color: white;
-  background-color: red;
+  background-color: rgb(0, 187, 255);
   border-radius: 8px;
+  width: 70px;
+  height: 30px;
+}
+
+.choices button:hover {
+background-color:rgb(45, 95, 98);
 }
 
 #series {
@@ -33,4 +39,5 @@ body {
 .seriesName {
   display: flex;
   justify-content: center;
+  font-family: sans-serif;
 }

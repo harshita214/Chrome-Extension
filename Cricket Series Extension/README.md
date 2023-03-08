@@ -23,3 +23,9 @@ This extension generates Cricket Series sorted by date.
 ## Simulation Video
 
 ![cricket_series_extension](./images/cricket_series_extension.gif)
+
+## Updated UI 
+
+  ![Extension](./1.png)
+  ![Extension](./2.png)
+    ![Extension](./3.png)
