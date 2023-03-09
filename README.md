@@ -286,42 +286,76 @@ When `TYPE` can be:
 
 **All PRs must include a commit message with the changes description!**
 
-<b> <h3> For the initial start, fork the project and use git clone command to download the repository to your computer </b> </h3>. A standard procedure for working on an issue would be to:
+<b> <h3> For the initial start, fork the project and use git clone command to download the repository to your computer.</b> </h3> <b>A standard procedure for working on an issue would be to:</b>
 
-1. `git pull`, before creating a new branch, pull the changes from upstream. Your master needs to be up to date.
+**1.** Fork [this](https://github.com/harshita214/Chrome-Extension.git) repository.
 
-```
-$ git pull
-```
-
-2. Create new branch from `master`
-```
-$ git checkout -b [name_of_your_new_branch]
-```
-
-3. Work - commit - repeat ( be sure to be in your branch )
-
-<p align="right">(<a href="#top">Back to top</a>)</p>
-
-4. Push changes to GitHub
+**2.** Clone your forked copy of the project.
 
 ```
-$ git push origin [name_of_your_new_branch]
+git clone https://github.com/<your_user_name>/Chrome-Extension.git
 ```
 
-5. Submit your changes for review
-   If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
-   
-6. Start a Pull Request
-   Now submit the pull request and click on `Create pull request`.
-   
-7. Get a code review approval/reject
+where `your_user_name` is your GitHub username.
 
-8. After approval, merge your PR 
+**3.** Navigate to the project directory.
 
-9. GitHub will automatically delete the branch after the merge is done. (they can still be restored).
+```
+cd Chrome-Extension
+```
 
-10. Yey! you made it! 🎊
+**4.** Add a reference(remote) to the original repository.
+
+```
+git remote add upstream https://github.com/harshita214/Chrome-Extension.git 
+```
+
+**5.** Check the remotes for this repository.
+
+```
+git remote -v
+```
+
+**6.** Always take a pull from the upstream repository to your main branch to keep it at par with the main project(updated repository). Feel free to raise new issues.
+
+```
+git pull upstream main
+```
+
+**7.** Create a new branch(According to the Branch naming convention mentioned above)
+
+```
+git checkout -b <your_branch_name>
+```
+
+**8.** Make necessary changes and commit those changes
+
+**9.** Track your changes.
+
+```
+git add .
+```
+
+**10.** Commit your changes .
+
+```
+git commit -m "<Description_About_Your_Changes>"
+```
+
+**11.** Push the committed changes in your feature branch to your remote repo.
+
+```
+git push -u origin <your_branch_name>
+```
+
+**12.** To create a pull request, click on `Compare & pull request`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+
+**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+
+**14.** Click on `Create pull request`.
+
+**15.** And you are done creating a pull request to this project. Be patient while your PR is reviewed.
+
 
 
 
