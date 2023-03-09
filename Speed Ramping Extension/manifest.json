@@ -1,0 +1,32 @@
+{
+  "name": "YouTube Speed Controls",
+  "description": "A simple Chrome extension to control the playback speed of YouTube videos using shortcut keys",
+  "version": "1.0",
+  "manifest_version": 3,
+ 
+  "permissions": ["activeTab"],
+  "commands": {
+    "increase_speed": {
+        "suggested_key": {
+            "default": "Ctrl+Shift+B",
+            "mac": "Command+Shift+B"
+        },
+        "description": "Increase playback speed"
+    },
+    "decrease_speed": {
+        "suggested_key": {
+            "default": "Ctrl+Shift+V",
+            "mac": "Command+Shift+V"
+        },
+        "description": "Decrease playback speed"
+    }
+},
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+
+}
