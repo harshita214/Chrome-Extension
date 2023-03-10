@@ -11,7 +11,7 @@ body {
 :root {
   --color-light: white;
   --color-dark: #212121;
-  --color-signal: #fab700;
+  --color-signal: #4285F4;
   --color-background: var(--color-light);
   --color-text: var(--color-dark);
   --color-accent: var(--color-signal);
@@ -21,12 +21,13 @@ body {
   font-family: "Inter", sans-serif;
   font-size: calc(0.6rem + 0.4vw);
   color: var(--color-text);
+  background-image: url(Holiday.jpeg);
   background: var(--color-background);
   font-weight: 300;
   padding: 0 calc(var(--size-bezel) * 3);
 }
 .card {
-  background: var(--color-background);
+  background: url(Holiday.jpeg);
   padding: calc(4 * var(--size-bezel));
   margin-top: calc(4 * var(--size-bezel));
   border-radius: var(--size-radius);
@@ -42,11 +43,11 @@ body {
   top: 0;
   padding: calc(var(--size-bezel) * 0.75) calc(var(--size-bezel) * 0.5);
   margin: calc(var(--size-bezel) * 0.75 + 3px) calc(var(--size-bezel) * 0.5);
-  background: pink;
+  background: url(Holiday.jpeg);
   white-space: nowrap;
   transform: translate(0, 0);
   transform-origin: 0 0;
-  background: var(--color-background);
+
   transition: transform 120ms ease-in;
   font-weight: bold;
   line-height: 1.2;
@@ -69,7 +70,7 @@ body {
 }
 
 .button:hover {
-  border-color: rgba(255, 255, 255, 1);
+  border-color: rgba(255, 255, 255, 0);
 }
 
 .input__field {
