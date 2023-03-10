@@ -5,7 +5,7 @@
     "description": "Meet Dark Toggle a chrome extension that can change your website from dark mood to light mode and vice versa! :) ",
     "background": {
         "scripts": [
-            "popup.js"
+            "script.js"
         ],
         "persistent": true
     },
