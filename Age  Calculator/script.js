@@ -17,6 +17,13 @@ document.querySelector("#done").addEventListener("click", function() {
             document.querySelector(x).innerHTML = y;
 
         }
+        // insert("Age in years", "#year", var_year );
+        // insert("Age in months", "#month", var_month ); 
+        // insert("Age in weeks","#week", var_week); 
+        // insert("Age in days","#day", var_day); 
+        // insert("Age in hours","#hour", var_hour ); 
+        // insert("Age in minutes", "#minute", var_min); 
+        // // insert("#second", var_sec + " seconds"); 
         insert("#year", var_year + " years");
         insert("#month", var_month + " months"); 
         insert("#week", var_week + " weeks"); 
@@ -24,6 +31,7 @@ document.querySelector("#done").addEventListener("click", function() {
         insert("#hour", var_hour + " hours"); 
         insert("#minute", var_min + " minutes"); 
         insert("#second", var_sec + " seconds");     
+        
 
     };
     setInterval(update, 1000)
