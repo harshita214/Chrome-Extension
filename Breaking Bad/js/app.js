@@ -1,6 +1,4 @@
-// const URL = 'https://favqs.com/api/qotd';
-const URL = 'https://breaking-bad-quotes.herokuapp.com/v1/quotes';
-
+const URL = 'https://api.breakingbadquotes.xyz/v1/quotes';
 const quote = document.querySelector('.quote');
 const quoteAuthor = document.querySelector('.quoteAuthor');
 
