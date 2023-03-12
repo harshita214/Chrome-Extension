@@ -1,0 +1,13 @@
+{
+    "name": "Sales tax Calculator",
+    "version":"1.0",
+    "manifest_version": 2,
+    "description":"Helps in calculating sales tax.",
+    
+    "browser_action": {
+    "default_icon":"icon48.png",
+        "default_popup": "index.html"
+        
+    },
+    "permissions": ["activeTab"]
+}
