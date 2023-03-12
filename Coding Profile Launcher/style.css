@@ -9,11 +9,11 @@ body {
 }
 
 h1 {
-    font-family: "Menlo", monospace;
+    font-family: "Open Sans", sans-serif;
     font-size: 22px;
     font-weight: 400;
     margin: 0;
-    color: #2e165b;
+    color: #4285F4;
 }
 
 a:link,
@@ -34,6 +34,7 @@ img {
 
 .modal-content {
     padding: 0 22px;
+    color: #0863f7;
 }
 
 .modal-icons {
@@ -54,6 +55,7 @@ img {
 .flex-container {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 10px 22px;
 }
 
@@ -78,7 +80,7 @@ img {
     font-size: 1rem; 
     text-align: center;
     vertical-align: middle;
-    background-color: #2e165b;
+    background-color: #F4B400;
     border: 1px solid 007bff;
     margin-top: .25rem;
     margin-bottom: .25rem;
@@ -86,8 +88,8 @@ img {
   }
   .btn:hover{
     color: #fff;
-    background-color: #532d84;
-    border-color: #7e4eac;
+    background-color: #4285F4;
+    border-color: #0863f7;
   }
   .flex a div{
     visibility: hidden;
