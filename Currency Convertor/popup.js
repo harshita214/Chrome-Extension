@@ -113,7 +113,9 @@ const conversionSucceeded = (apiResponse) => {
   });
 
   let amount = document.getElementById("Amount").value;
-  amount = amount == 0 ? 1 : amount;
+  if(!amount)
+  toast( "Enter valid Amount");
+  amount = (amount === 0) ? 1 : amount;
   display.textContent = formatter.format(value * amount);
   doneToasting();
 };
@@ -158,6 +160,7 @@ const convert = (event) => {
   toast(`Preparing to convert ....`);
   const btn = event ? event.target : document.querySelector("button");
   const selected = getSelectedCurrency();
+
   if (
     !selected ||
     selected.trim() === "" ||
@@ -195,7 +198,7 @@ const startApp = () => {
   let draw = document.getElementsByClassName("btn")[0];
   draw.addEventListener("click", () => {
     document.getElementsByClassName("conversion")[0].style.display = "block";
-    convert(event);
+    convert(event);s
   });
 };
 startApp(); 
