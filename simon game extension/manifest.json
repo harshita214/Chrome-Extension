@@ -1,0 +1,20 @@
+
+{
+    "name": "Simon Game",
+    "description": "quick and easy to use stop watch for chrome",
+    "version": "1.0",
+    "manifest_version": 2,
+    
+    "icons": {
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    
+    "browser_action": {
+      "default_icon": "icon48.png",
+      "default_popup": "index.html"
+    },
+    "permissions": ["activeTab"]
+  }
+  
