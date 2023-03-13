@@ -3,7 +3,7 @@
   "name": " BMI Calculator",
   "version": "0.0.1",
   "icons": {
-    "100": "./Logo-code.png"
+     "512": "bmi.png"
   },
   "browser_action": {
     "default_popup": "index.html"
