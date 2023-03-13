@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PNR Status Checker</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        font-size: 14px;
+        line-height: 1.5;
+        margin: 0;
+        padding: 10px;
+      }
+      h1 {
+        font-size: 20px;
+        font-weight: bold;
+        margin: 0 0 10px;
+      }
+      label {
+        display: block;
+        margin: 0 0 5px;
+      }
+      input[type="text"] {
+        width: 100%;
+        margin: 0 0 10px;
+        padding: 5px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      button {
+        display: block;
+        margin: 0 0 10px;
+        padding: 5px;
+        border: none;
+        border-radius: 4px;
+        background-color: #4CAF50;
+        color: #fff;
+        cursor: pointer;
+      }
+      button:hover {
+        background-color: #3e8e41;
+      }
+      #result {
+        margin: 10px 0;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+    </style>
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <h1>PNR Status Checker</h1>
+    <label for="pnr">Enter your 10-digit PNR number:</label>
+    <input type="text" id="pnr" name="pnr" placeholder="Enter PNR number...">
+    <button id="check">Check Status</button>
+    <div id="result"></div>
+  </body>
+</html>
