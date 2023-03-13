@@ -1,0 +1,32 @@
+
+body {
+    width: 300px;
+    height: 350px;
+    background-color:  #2c3e50;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+  }
+  
+h1{
+    background-color: rgb(0, 187, 255);
+
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+  button{
+    background-color: #247de2;
+    outline: none;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
+button:hover{
+    background-color: aquamarine;
+}
+#text{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    border-radius: 1.5rem;
+}

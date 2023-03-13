@@ -1,0 +1,13 @@
+{
+    "name": "Temperature Converter Extension",
+    "version":"1.0",
+    "manifest_version": 2,
+    "description":"Helps in converting the unit of Temperature",
+    
+    "browser_action": {
+    "default_icon":"icon48.png",
+        "default_popup": "index.html"
+        
+    },
+    "permissions": ["activeTab"]
+}

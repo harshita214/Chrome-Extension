@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperature Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="calculator-name-header">
+    
+        <h1>Temperature Converter</h1>
+      </div>
+    <form id="tempCalc" style="align-items: center;">
+        <br/><br/>
+        <input type="number" name="temp" id="temp" placeholder="Enter Temperature">
+        <br/>
+        <br/>
+        <select name="temp_diff" id="temp_diff">
+        
+            <option value="cel-fah">Celsius to Fahrenheit</option>
+            <option value="fah-cel">Fahrenheit to Celsius</option>
+            <option value="cel-kel">Celsius to Kelvin</option>
+            <option value="kel-cel">Kelvin to Celsius</option>
+            <option value="fah-kel">Fahrenheit to Kelvin</option>
+            <option value="kel-fah">Kelvin to Fahrenheit</option>
+        </select><br/><br/>
+        <button type="button" id="submit">Submit</button><br/><br/><br/>
+        <div class="outterbox"> 
+            <div class="box"><span id="result"></span></div>
+        </div>
+        
+
+    </form>
+    <a href="../index.html"><i id="home" class="fa fa-home" aria-hidden="true"></i></a>
+    <script src="index.js" charset="utf-8"></script>
+</body>
+
+</html>
