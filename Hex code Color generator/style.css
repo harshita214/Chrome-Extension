@@ -1,0 +1,41 @@
+body {
+    height: 500px;
+    width:500px;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    place-items: center;
+    
+    font-size: 20px;
+    background-color: #2c3e50;;
+}
+
+.main {
+    height: 300px;
+    width: 250px;
+    background: #3A3A38;
+    border-radius: 3px;
+    display: grid;
+    place-items: center;
+    color: #fff;
+    font-family: verdana;
+    border-radius: 5px;
+}
+
+#colorPicker {
+    background-color: none;
+    outline: none;
+    border: none;
+    height: 50px;
+    width: 50px;
+    cursor: pointer;
+}
+
+#box {
+    outline: none;
+    border: 1px solid #333;
+    border-radius: 5px;
+    height: 30px;
+    width: 70px;
+    padding: 0 5px;
+}
