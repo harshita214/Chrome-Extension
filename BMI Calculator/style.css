@@ -1,3 +1,13 @@
+@font-face {
+	font-family: ProductSans;
+	src: url(Product\ Sans\ Regular.ttf);
+}
+
+@font-face {
+	font-family: ProductSansBold;
+	src: url(Product\ Sans\ Bold.ttf);
+}
+
 body {
 	background: linear-gradient(-45deg, #ee7752, #e73c7e, #6723d5, #23d5ab);
 	background-size: 400% 400%;
@@ -31,11 +41,11 @@ body {
 	box-shadow: rgba(255, 255, 255, 0.25) 0px 54px 55px, rgba(255, 255, 255, 0.12) 0px -12px 30px, rgba(255, 255, 255, 0.12) 0px 4px 6px, rgba(255, 255, 255, 0.17) 0px 12px 13px, rgba(255, 255, 255, 0.09) 0px -3px 5px;
 }
 .head{
-	margin-left:60px;
+	margin-left: 112px;
 	display:inline-block;
 }
 .h1{
-	font-family: 'Merriweather', serif;
+	font-family: 'ProductSans';
 }
 .uinput{
 	
@@ -50,7 +60,7 @@ body {
   outline: 0;
   padding:8px 0px 8px 20px;
   background-color:transparent;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'ProductSans';
   font-size: 1.2rem;
   font-weight:lighter;
   color:#fff;
@@ -61,7 +71,7 @@ body {
 	outline: 0;
 	padding:8px 0px 8px 20px;
 	background-color:transparent;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ProductSans';
 	font-size: 1.2rem;
 	font-weight:lighter;
 	color:#fff;
@@ -72,31 +82,33 @@ body {
   }
 
 .weightguide {
-	margin-left: 50px;
-	margin-top:5px;
+	margin-left: 75px;
+	margin-top:50px;
+	scale: 120%;
 	/* margin-top: -15px; */
 	color: white;
 	background-color: rgba(247, 110, 201, 0.3);
+	border-radius: 20px;
 	display:inline-block;
-	font-family: 'Merriweather', serif;
+	font-family: 'ProductSans';
 }
 
 
 #result {
 	font-size:25px;
-	margin-left: 160px;
+	margin-left: 170px;
 	margin-top:10px;
 	color: white ;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'ProductSansBold';
 }
 .row1{
-	background-color: rgba(255,255,255,0.3);
+	background-color: transparent;
 }
 .row2{
-	background-color: rgba(255,255,255,0.3);
+	background-color: transparent;
 }
 .row3{
-	background-color: rgba(255,255,255,0.3);
+	background-color: transparent;
 }
 
 #submit{
@@ -110,16 +122,23 @@ body {
 	background-color: #D83f87;
 	color:#fff;
 	font-size:23px;
-	font-family: 'Merriweather', serif;
+	font-family: 'ProductSans';
 	cursor: pointer;
 }
 
 body {
 	background-color: #2a1b3d;
+	border-radius: 20px;
+	padding: 10px;
 }
 
 h1{
-	padding-top:25px;
+	padding-top:0px;
 	color: white;
 }
 
+table{
+      border-radius: 20px;
+	  background-color:  #D83f87;
+	  margin: 10px;
+}
