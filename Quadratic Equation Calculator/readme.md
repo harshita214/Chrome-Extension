@@ -12,3 +12,7 @@
 
 ## Screenshot:
 ![image](https://user-images.githubusercontent.com/88873588/155519171-1a41f9c6-2774-45f6-8de9-1fed198a3016.png)
+
+## Updated Quadratic Equation Calculator
+![Extension](./1.png)
+![Extension](./2.png)

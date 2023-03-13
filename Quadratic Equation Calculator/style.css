@@ -1,4 +1,9 @@
 
+body{
+    background-color: #2c3e50;
+    min-width:480px;
+    min-height: 500px;
+}
 #container {
     position: relative;
    
@@ -10,7 +15,7 @@
     border-radius: 25px;
     width: 300px;
     height: 400px;
-    background-color: rgb(235, 151, 221);
+    background-color:  #247de2;
     top: 90px;
 }
 
@@ -40,10 +45,7 @@
 
 
 
-body {
-    min-width:480px;
-    min-height: 500px;
-}
+
 
 input {
     background-color: rgb(255, 255, 255);
@@ -55,10 +57,13 @@ font-size: 20px;
 
 button {
     position: absolute;
-    background-color: mediumorchid;
+    background-color: #5d8e5c;
     font-size: 20px;
     border-color: indigo;
     left: 60px;
+}
+button:hover{
+    background-color: aquamarine;
 }
 h1 {
     position: absolute;
