@@ -1,27 +1,40 @@
+@font-face {
+	font-family: ProductSans;
+	src: url(Product\ Sans\ Regular.ttf);
+}
+
+@font-face {
+	font-family: ProductSansBold;
+	src: url(Product\ Sans\ Bold.ttf);
+}
+
 body {
-    font-family: serif;
-    min-height: 80vh;
+    font-family: ProductSans;
+    color: #FFFFFF;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #fff;
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #6723d5, #23d5ab);
 }
 
 .container {
-    background: #dddddd;
-    width: 300px;
-    height: 500px;
+    background-color: #44318D;
+    width: 350px;
+    height: 450px;
     border-radius: 20px;
 }
 h1 {
-    color: #2a2a2a;
+    color: #FFFFFF;
     font-size: 30px;
+    padding-top: 15px;
     text-align: center;
+    font-family: 'ProductSansBold';
 }
 .container p {
-    padding-left: 10px;
+    border-radius: 20px;
     font-size: 16px;
     text-align: center;
+    border-radius: 20px;
 }
 
 form input [type="text"] {
@@ -40,27 +53,40 @@ input {
     margin: 30px auto;
     border: none;
     outline: none;
+    border-radius: 20px;
 }
 
 #billamt {
     width: 60%;
-    font-size: 19px;
     background: #f7f7f7;
+    border: none;
+    outline: none;
+    border-radius: 20px;
     padding: 5px auto;
 }
 
 #service {
-    font-size: 17px;
+    font-size: 15px;
     text-align: center;
-    padding: 20px;
-    margin: 10px;
+    display: block;
+    margin: 0 auto;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    padding: 5px;
+    font-family: 'ProductSans';
+
 }
 #peopleamt {
     width: 60%;
     margin-left: 5px 5px 8px 8px;
+    border: none;
+    outline: none;
+    border-radius: 20px;
 }
 
 #tips {
-    font-size: 30px;
+    margin-bottom: 40px;
+    font-size: 20px;
     text-align: center;
 }
