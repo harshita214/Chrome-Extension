@@ -1,6 +1,6 @@
-var a;
-var b;
-var c;
+var a1;
+var b1;
+var c1;
 var ans;
 var ans2;
 var dis = document.getElementById("dis");
@@ -12,12 +12,20 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
 function calc() {
-    a = parseFloat(document.getElementById("ain").value);
-    b = parseFloat(document.getElementById("bin").value);
-    c = parseFloat(document.getElementById("cin").value);
-
-    
-    disc = (Math.pow(b,2)-(4*(a*c)))
+    a1 = document.getElementById("ain").value;
+    b1 = document.getElementById("bin").value;
+    c1 =document.getElementById("cin").value;
+         
+    if(a1==""||b1==""||c1==""){
+        dis.innerHTML=" ";
+        out1.innerHTML = "Fill all the details";
+        out2.innerHTML = " ";
+    }
+    else{
+        let a= parseFloat(a1);
+        let b=parseFloat(b1);
+        let c= parseFloat(c1);
+   let disc = (Math.pow(b,2)-(4*(a*c)))
     ans = ((0 - b) + (Math.sqrt(((Math.pow(b,2)-(4*(a*c))))))) / (2 * a);
     ans2 = ((0 - b) - (Math.sqrt(((Math.pow(b,2)-(4*(a*c))))))) / (2 * a);
 
@@ -30,6 +38,6 @@ function calc() {
     out2.innerHTML = "X2= " + ans2;
     }
 
-
+    }
 
 }
