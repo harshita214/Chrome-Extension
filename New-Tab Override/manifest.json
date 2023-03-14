@@ -1,0 +1,8 @@
+{
+    "manifest_version":2,
+    "name": "Tab Override Extension",
+    "version":"0.1",
+    "chrome_url_overrides":{
+        "newtab" : "sketch/index.html"
+    }
+} 
