@@ -112,10 +112,14 @@ const conversionSucceeded = (apiResponse) => {
     currency: `${getSelectedCurrency2()}`,
   });
 
-  let amount = document.getElementById("Amount").value;
-  if(!amount)
+  const amount = document.getElementById("Amount").value;
+  console.log(document.getElementById("Amount").value);
+  if(!amount || amount ===null ){
   toast( "Enter valid Amount");
+return
+  }
   amount = (amount === 0) ? 1 : amount;
+  console.log(amount);
   display.textContent = formatter.format(value * amount);
   doneToasting();
 };
@@ -123,6 +127,7 @@ const conversionSucceeded = (apiResponse) => {
 const createNode = (element) => {
   return document.createElement(element);
 };
+
 
 const append = (parent, el) => {
   return parent.appendChild(el);
@@ -156,7 +161,27 @@ const getSelectedCurrency2 = () => {
   return document.getElementsByClassName("select-text")[1].value;
 };
 
+
 const convert = (event) => {
+  const amount = document.getElementById("Amount").value;
+  console.log(document.getElementById("Amount").value);
+  if(amount==""|| amount==null || !amount){
+    alert("Kindly fill amount");
+    return  
+  }
+let ac =document.getElementsByClassName("select-text")[0].value;
+let ca = document.getElementsByClassName("select-text")[1].value;
+
+console.log(ac);
+console.log(ca);
+if(ac=="From"||ca=="To"){
+  alert("Kindly select currencies for conversion");
+  return  
+}
+
+
+
+    // console.log("running");
   toast(`Preparing to convert ....`);
   const btn = event ? event.target : document.querySelector("button");
   const selected = getSelectedCurrency();
@@ -190,7 +215,10 @@ const convert = (event) => {
     .catch((error) => {
       console.log(error);
     });
+
+  // }
 };
+
 
 const startApp = () => {
   populateCurrencies();
@@ -198,7 +226,7 @@ const startApp = () => {
   let draw = document.getElementsByClassName("btn")[0];
   draw.addEventListener("click", () => {
     document.getElementsByClassName("conversion")[0].style.display = "block";
-    convert(event);s
+    convert(event);
   });
 };
 startApp(); 

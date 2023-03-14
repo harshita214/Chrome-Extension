@@ -3,6 +3,9 @@
     "version": "2.1.0",
     "manifest_version": 2,
     "description": "This is simple chrome extension that user can use this as a simple calculator for tips.",
+    "icons": {
+        "512": "Tipcalculator logo.png"
+     },
     "background": {
         "scripts": [
             "script.js"
