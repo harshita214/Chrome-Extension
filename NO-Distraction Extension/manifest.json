@@ -1,0 +1,12 @@
+{
+    "manifest_version":2,
+    "name":"No-Distraction",
+    "version":"0.1",
+    "content_scripts":[
+        {
+            "matches":
+            ["<all_urls>"],
+            "js":["index.js"]
+        }
+    ]
+}
