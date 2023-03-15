@@ -1,0 +1,16 @@
+{
+    "name": "CSS measurements Converter Extension",
+    "version":"1.0",
+    "manifest_version": 2,
+    "description":"Helps in converting the unit of Temperature",
+    
+    "browser_action": {
+    "default_icon":"icon48.png",
+        "default_popup": "index.html"
+        
+    },
+    "permissions": ["activeTab"],
+    
+    "content_security_policy":"script-src 'self' https://apis.google.com; object-src 'self'"
+
+}
