@@ -1,8 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap");
 :root {
-  --background-color: #8d91aa;
-  --font-color: #504e4e;
+  --background-color: #191919;
 }
+@font-face {
+	font-family: ProductSans;
+	src: url(Product\ Sans\ Regular.ttf);
+}
+
+@font-face {
+	font-family: ProductSansBold;
+	src: url(Product\ Sans\ Bold.ttf);
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -15,10 +24,12 @@
 .wrapper {
   width: 370px;
   border-radius: 7px;
+  color: #191919;
   padding: 25px 30px;
 }
 .wrapper header {
-  font-family: "Playfair Display", serif;
+  color: #FFFFFF;
+  font-family: ProductSansBold;
   font-size: 28px;
   text-align: center;
   letter-spacing: 2px;
@@ -31,11 +42,15 @@
 form .row{
     display: flex;
     flex-direction: column;
+    font-family: ProductSans;
+    color: #FFFFFF;
     margin-bottom: 20px;
 }
 
 form .row label {
     margin-bottom: 5px;
+    font-family: ProductSans;
+    color: #FFFFFF;
     font-size: 18px;
 }
 
@@ -47,7 +62,7 @@ form :where(textarea , select , button){
 }
 
 form .row textarea {
-    color: var(--font-color);
+    color: #191919;
     resize: none;
     height: 70px;
     font-size: 15px;
@@ -75,7 +90,8 @@ form button {
     height: 52px;
     margin-top: 10px;
     font-family: "Playfair Display", serif;
-    background-color: #f1ecce;
+    background-color: #FF785A;
+    font-family: ProductSans;
     color: var(--background-color);
     font-size: 17px;
     letter-spacing: 2px;
