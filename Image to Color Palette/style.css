@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
+
+:root {
+	--size: 340px;
+	--sizePadding: calc(var(--size) + 20px);
+	--paleteBox: calc(var(--sizePadding) / 4);
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	width: 100%;
+	height: 100vh;
+	background: #ccc;
+}
+
+* {
+	font-family: "Varela Round", sans-serif;
+}
+
+.container {
+	box-shadow: rgb(3, 4, 5) 0px 20px 30px -10px;
+	border-radius: 5px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	height: 410px;
+	width: 360px;
+	transition: 0.7s;
+}
+
+.image {
+	width: var(--size);
+	height: var(--size);
+	background: #fff url("https://gifyu.com/images/image-removebg-preview.png")
+		no-repeat center center;
+	background-size: 30%;
+	cursor: pointer;
+	padding: 10px;
+	position: relative;
+	border-radius: 5px 5px 0 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+img {
+	object-fit: contain;
+	opacity: 0;
+}
+
+span {
+	cursor: pointer;
+	z-index: 2;
+	position: absolute;
+	margin: 5px;
+	opacity: 0.5;
+}
+
+span:hover {
+	opacity: 1;
+}
+
+.del {
+	bottom: 0;
+	left: 0;
+}
+
+.picker {
+	top: 0;
+	right: 0;
+}
+
+.res {
+	width: var(--sizePadding);
+	height: 50px;
+	background: linear-gradient(to right, #646464 50%, #313131);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.colorPalette {
+	width: var(--paleteBox);
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #eee;
+	font-size: 12px;
+}
+
+.active,
+.colorPalette:hover {
+	scale: 1.2;
+	z-index: 2;
+}
+
+.colorPalette p {
+	cursor: default;
+}
+
+.hex {
+	width: var(--width);
+	height: 50px;
+	opacity: 0;
+	display: flex;
+	align-items: center;
+	position: relative;
+	transition: 0.7s;
+	border-radius: 0 0 5px 5px;
+}
+
+.hex span {
+	position: absolute;
+	right: 4px;
+	color: #fff;
+}
+
+#result {
+	color: #fff;
+	margin-left: 20px;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="Pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.3.0/color-thief.umd.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/9407/9407055.png" type="image/x-icon">
+
+    <title>myColorPIcker | PaletteGenerator</title>
+</head>
+
+<body>
+  <div class="container">
+	<div class="image">
+		<span id="del" class="material-icons del" title="Remover imagem">
+			delete
+		</span>
+		<span class="material-icons picker" id="picker" title="Pegar Cor">
+			colorize
+		</span>
+		<img src="" alt="" width="300" height="300">
+	</div>
+	<div class="res">
+		<div class="colorPalette"></div>
+		<div class="colorPalette active"></div>
+		<div class="colorPalette"></div>
+		<div class="colorPalette"></div>
+	</div>
+	<div class="hex">
+		<p id="result"></p>
+		<span class="material-icons" id="copy" title="Copiar">
+			content_copy
+		</span>
+	</div>
+</div>
+<input type="file" name="file" id="fileInput" accept="image/*" hidden>
+</body>
+<script src="main.js"></script>
+</html>
