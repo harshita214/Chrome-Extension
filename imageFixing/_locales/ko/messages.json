@@ -1,0 +1,17 @@
+{
+  "description": {
+    "message": "엑박이 뜨는 이미지를 제대로 보이도록 고쳐드립니다!"
+  },
+  "options": {
+    "message": "옵션"
+  },
+  "retry_limit": {
+    "message": "재시도 횟수"
+  },
+  "gcinterval": {
+    "message": "메모리 정리 주기"
+  },
+  "use_proxy": {
+    "message": "접속 차단 이미지 프록시 이용"
+  }
+}

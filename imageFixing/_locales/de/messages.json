@@ -1,0 +1,17 @@
+{
+  "description": {
+    "message": "Lass mich dein kaputtes Bild reparieren!"
+  }, 
+  "gcinterval": {
+    "message": "Garbage Collector-Intervall"
+  }, 
+  "options": {
+    "message": "Optionen"
+  }, 
+  "retry_limit": {
+    "message": "Wiederholen Sie den Limiter"
+  }, 
+  "use_proxy": {
+    "message": "Verwenden Sie den Proxy für blockierte Bilder"
+  }
+}

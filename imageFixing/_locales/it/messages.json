@@ -1,0 +1,17 @@
+{
+  "description": {
+    "message": "Lasciami riparare la tua immagine rotta!"
+  }, 
+  "gcinterval": {
+    "message": "Intervallo del Garbage Collector"
+  }, 
+  "options": {
+    "message": "Opzioni"
+  }, 
+  "retry_limit": {
+    "message": "Riprova limitatore"
+  }, 
+  "use_proxy": {
+    "message": "Usa proxy per l'immagine bloccata"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "description": {
+    "message": "ให้ฉันแก้ไขภาพที่แตกสลายของคุณ!"
+  }, 
+  "gcinterval": {
+    "message": "ช่วงเวลาเก็บขยะ"
+  }, 
+  "options": {
+    "message": "ตัวเลือก"
+  }, 
+  "retry_limit": {
+    "message": "ลองใช้ limiter อีกครั้ง"
+  }, 
+  "use_proxy": {
+    "message": "ใช้พร็อกซีสำหรับรูปภาพที่ถูกบล็อก"
+  }
+}
