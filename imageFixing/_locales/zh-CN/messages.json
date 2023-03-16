@@ -1,0 +1,17 @@
+{
+  "description": {
+    "message": "让我修复您损坏的图像！"
+  }, 
+  "gcinterval": {
+    "message": "垃圾收集器间隔"
+  }, 
+  "options": {
+    "message": "选件"
+  }, 
+  "retry_limit": {
+    "message": "重试限制器"
+  }, 
+  "use_proxy": {
+    "message": "使用代理来阻止图像"
+  }
+}

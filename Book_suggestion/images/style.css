@@ -1,0 +1,36 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #bdcdcd;
+
+}
+
+.model-contents{
+/* text-align: center; */
+font-weight: bolder;
+}
+
+.but{
+
+    padding: 5px;
+border: none;
+background: none;
+
+}
+.flex{
+
+
+border: 2px solid black;
+display: inline-block;
+border-radius: 10px;
+/* border: none; */
+    /* outline: none; */
+/* background-color: blue; */
+font-weight: bolder;
+
+}
+/* .Anime-icons{
+
+
+
+
+} */

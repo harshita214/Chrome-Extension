@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Roboto:ital,wght@0,100;1,300&family=Source+Sans+Pro:wght@200&family=Ubuntu&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #085078;
+    user-select: none;
+    font-family: 'Merriweather', serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
+}
+
+.calculator {
+    width: 490px;
+    padding: 30px;
+    border-radius: 10px;
+    background: -webkit-linear-gradient(to right, #85D8CE, #085078);
+    background: linear-gradient(to right, #85D8CE, #085078);
+}
+
+.credits {
+    font-size: 10px;
+    color: white;
+    margin-top: 5px;
+    text-align: right;
+    justify-content: end;
+    user-select: none;
+    margin-left: 78%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover,
+a:visited,
+a:focus {
+    color: #5db9e7;
+    text-decoration: none;
+}
+
+input[type=text] {
+    width: 460px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #333333;
+    color: #d9d9d9;
+    padding: 5px;
+    margin-left: 10px;
+    font-size: large;
+    outline: none;
+    padding-left: 10px;
+    
+}
+
+::selection {
+    color: black;
+    background-color: white;
+}
+
+.calc-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.button {
+    margin-top: 10px;
+    width: 63px;
+    border: none;
+    height: 50px;
+    border-radius: 4px;
+    color: #000000;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: hsla(180, 100%, 40%, 0.3);
+    transition: .2s;
+}
+
+.functions-one {
+    width: 210px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+.functions-two {
+    width: 280px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.triggers {
+    background-color: #ffc266;
+}
+
+
+
+.numbers {
+    background-color: #999999;
+}
+
+.basic-stuff {
+    background-color: #5db9e7;
+}
+
+.complex-stuff {
+    background-color: #53ebeb;
+}
+
+/* Style to set the title of calculator */
+.title {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: left;
+    width: 447px;
+    color: white;
+    justify-content: left;
+}

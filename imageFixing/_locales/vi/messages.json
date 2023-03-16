@@ -1,0 +1,17 @@
+{
+  "description": {
+    "message": "Hãy để tôi sửa hình ảnh bị hỏng của bạn!"
+  }, 
+  "gcinterval": {
+    "message": "Khoảng thời gian thu gom rác"
+  }, 
+  "options": {
+    "message": "Tùy chọn"
+  }, 
+  "retry_limit": {
+    "message": "Thử lại giới hạn"
+  }, 
+  "use_proxy": {
+    "message": "Sử dụng proxy cho hình ảnh bị chặn"
+  }
+}

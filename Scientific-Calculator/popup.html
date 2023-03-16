@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="/img/favicon.png" />
+    <title>Scientific Calculator Chrome Extension</title>
+  </head>
+
+  <body>
+    <div class="calculator">
+      <div class="title">Scientific Calculator</div>
+      <input type="text" id="screen" maxlength="20" />
+      <div class="calc-buttons">
+        <div class="functions-one">
+          <button class="button triggers">AC</button>
+          <button class="button basic-stuff">(</button>
+          <button class="button basic-stuff">)</button>
+          <button class="button numbers">7</button>
+          <button class="button numbers">8</button>
+          <button class="button numbers">9</button>
+          <button class="button numbers">4</button>
+          <button class="button numbers">5</button>
+          <button class="button numbers">6</button>
+          <button class="button numbers">1</button>
+          <button class="button numbers">2</button>
+          <button class="button numbers">3</button>
+          <button class="button basic-stuff">±</button>
+          <button class="button numbers">0</button>
+          <button class="button basic-stuff">.</button>
+        </div>
+
+        <div class="functions-two">
+          <button class="button triggers">DEL</button>
+          <button class="button complex-stuff">%</button>
+          <button class="button complex-stuff">x!</button>
+          <button class="button complex-stuff">x^</button>
+          <button class="button basic-stuff">*</button>
+          <button class="button basic-stuff">/</button>
+          <button class="button complex-stuff">ln</button>
+          <button class="button complex-stuff">e</button>
+          <button class="button basic-stuff">+</button>
+          <button class="button complex-stuff">x²</button>
+          <button class="button complex-stuff">log</button>
+          <button class="button complex-stuff">cos</button>
+          <button class="button basic-stuff">-</button>
+          <button class="button complex-stuff">√</button>
+          <button class="button complex-stuff">sin</button>
+          <button class="button complex-stuff">tan</button>
+          <button class="button triggers">=</button>
+          <button class="button complex-stuff">&#x003C0;</button>
+          <button class="button complex-stuff">∘</button>
+          <button class="button complex-stuff">rad</button>
+        </div>
+        <span class="credits"
+          >Credits: <a href="/popup.html">Hamza Zaidi</a></span
+        >
+      </div>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

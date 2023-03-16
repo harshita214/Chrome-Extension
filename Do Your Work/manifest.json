@@ -1,10 +1,10 @@
 {
     "manifest_version": 3,
     "name": "Do Your Work",
-    "version": "0.0.1",
+    "version": "0.0.",
     "description": "Get Back To Your Work",
     "icons": {
-        "128": "img/Image.png"
+        "logo": "/booklogo.png"
     },
     "content_scripts": [
         {
