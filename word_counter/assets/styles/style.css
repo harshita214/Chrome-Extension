@@ -1,0 +1,110 @@
+/* CSS reset */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  text-decoration: none;
+  list-style: none;
+  user-select: none;
+}
+/* scroll bar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(158, 158, 158);
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgb(187, 187, 187);
+}
+::-webkit-scrollbar-thumb:active {
+  background-color: rgb(207, 207, 207);
+}
+body {
+  font-family: "Dosis", sans-serif;
+  background: rgb(1, 0, 18);
+  background: -moz-linear-gradient(
+    90deg,
+    rgba(1, 0, 18, 1) 0%,
+    rgba(71, 1, 150, 1) 52%,
+    rgba(0, 109, 110, 1) 100%
+  );
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(1, 0, 18, 1) 0%,
+    rgba(71, 1, 150, 1) 52%,
+    rgba(0, 109, 110, 1) 100%
+  );
+  background: linear-gradient(
+    90deg,
+    rgba(1, 0, 18, 1) 0%,
+    rgba(71, 1, 150, 1) 52%,
+    rgba(0, 109, 110, 1) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#010012",endColorstr="#006d6e",GradientType=1);
+}
+textarea {
+  outline-color: #efefef !important;
+  font-family: "Dosis", sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  border: solid 1px #efefef;
+  border-radius: 10px;
+  padding: 10px;
+  resize: none;
+}
+/* container */
+.container {
+  background-color: #efefef;
+  width: fit-content;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: rgb(0 0 0 / 20%) 0px 24px 50px -2px;
+}
+.counter-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.counters {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container h4 {
+  width: 40px;
+  height: 40px;
+  background: #e1e1e1;
+  border-radius: 50%;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-top: 10px;
+}
+.animation-gif {
+  display: flex;
+  justify-content: center;
+}
+.app-container {
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  justify-content: space-around;
+}
+/* media-queries */
+@media (max-width: 654px) {
+  .app-container {
+    flex-direction: column;
+  }
+}
