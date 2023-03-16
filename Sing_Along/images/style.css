@@ -1,0 +1,16 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+
+}
+
+.model-contents{
+/* text-align: center; */
+font-weight: bolder;
+}
+.Anime-icons{
+
+    display: flex-box;
+
+
+}
