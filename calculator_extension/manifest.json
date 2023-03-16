@@ -1,0 +1,22 @@
+{
+    "name": "Calculator",
+    "version": "2.1.0",
+    "manifest_version": 2,
+    "description": "This is simple chrome extension that user can use this as a simple calculator for tips.",
+  
+    "background": {
+        "scripts": [
+            "script.js"
+        ],
+        "persistent": true
+    },
+    "browser_action": {
+        "default_title": "Calculator",
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "https://*/*",
+        "http://*/*",
+        "tabs"
+    ]
+}
