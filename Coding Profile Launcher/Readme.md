@@ -68,3 +68,6 @@ BOOM , You ready to use this extension and whenever you click on any websites ic
 <br>
 
 <br>
+
+## screenshot of Extension
+![Extension](./1.png)

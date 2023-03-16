@@ -75,3 +75,7 @@ And now click on "Calculate" Button, And the yyou will get your body BMI...
 
 
 <br>
+
+
+## screenshot of extension
+![Extension](./1.png)

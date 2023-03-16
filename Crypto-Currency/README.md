@@ -17,3 +17,6 @@ This Extension will showcase the status of all the Crypto Currencies based on th
 ![image](https://user-images.githubusercontent.com/72455881/170811620-301088cb-549f-4f48-8369-5329ee6520bf.png)
 ![image](https://user-images.githubusercontent.com/72455881/170811627-1827b71b-ac3b-4949-9937-c2dbfbc03cfc.png)
 
+
+## screenshot of Extension
+![Extension](./1.png)
