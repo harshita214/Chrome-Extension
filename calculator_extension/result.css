@@ -1,0 +1,27 @@
+.outterbox{
+    display: flex;
+    justify-content: center;
+}
+.cubicRootsResult{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.box{
+    max-width: max-content;
+    min-width:10rem;
+    min-height: 2rem;
+    max-height: fit-content;
+    background-color: rgb(250, 248, 248);
+    border-radius: 5px;
+    box-shadow: 2px 5px 5px #484848;
+    
+}
+.box span{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

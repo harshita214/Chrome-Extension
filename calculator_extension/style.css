@@ -1,0 +1,604 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+
+* {
+  font-family: "Ubuntu", sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ffeeb7;
+  display: grid;
+  
+  place-items: center;
+  /* overflow: hidden; */
+  overflow-x: hidden;
+  /* overflow-y: hidden; */
+}
+
+form {
+  background-color: #ffb4a3;
+  padding: 80px;
+  width: 50%;
+  margin: 60px auto;
+  text-align: center;
+  place-items: center;
+  box-shadow: 0 10px 6px -6px #777;
+}
+
+label {
+  font-size: 26px;
+  font-weight: 500;
+}
+
+#temp {
+  border: none;
+  padding: 10px;
+  height: 25px;
+  width: 150px;
+  font-size: 20px;
+  border-radius: 3px;
+  margin-top: 20px;
+}
+
+#temp_diff {
+  height: 25px;
+  margin-left: 5px;
+  padding: 5px;
+  border: none;
+  border-radius: 3px;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+[type="button"], .reset {
+  height: 35px;
+  margin: 20px;
+  margin-bottom: -10px;
+  width: 100px;
+  font-size: 15px;
+  border: none;
+  border-radius: 3px;
+  background-color: black;
+  color: white;
+}
+
+#resultContainer {
+  font-size: 30px;
+}
+
+#num1 {
+  border: none;
+  padding: 10px;
+  height: 25px;
+  width: 200px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+
+#num2 {
+  border: none;
+  padding: 10px;
+  height: 25px;
+  width: 200px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+#num3{
+  border: none;
+  padding: 10px;
+  height: 25px;
+  width: 200px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+#num4{
+  border: none;
+  padding: 8px;
+  height: 25px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-top: 5px;
+  
+}
+
+#num3 {
+  border: none;
+  padding: 9px;
+  height: 25px;
+  width: 200px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+#cal,#bitcal {
+  height: 25px;
+  padding: 3px;
+  border: none;
+  border-radius: 3px;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+
+#resultCalculator {
+  font-size: 30px;
+}
+
+#bill {
+  border: none;
+  padding: 10px;
+  height: 15px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+
+#resultTipContainer{
+  font-size: 30px;
+
+}
+
+#resultDataCalculator {
+  font-size: 30px;
+}
+#resultWeighCalculator {
+  font-size: 30px;
+}
+
+
+#numChange {
+  border: none;
+  padding: 10px;
+  height: 25px;
+  width: 150px;
+  font-size: 20px;
+  border-radius: 3px;
+  margin-top: 20px;
+}
+
+#numSys {
+  height: 25px;
+  margin-left: 5px;
+  padding: 3px;
+  border: none;
+  border-radius: 3px;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+#resultNumChange {
+  font-size: 30px;
+}
+
+#base {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+}
+
+#index {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+}
+
+#resultPower {
+  font-size: 30px;
+}
+
+#fact {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 120px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+
+#resultFact {
+  font-size: 15px;
+}
+
+#log,#order {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 120px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+.cells{
+  border: none;
+  padding: 15px;
+  height: 35px;
+  width: 40px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+.rows{
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+.flex{
+  display: flex;
+  gap: 1.5em;
+}
+
+#resultLog {
+  font-size: 30px;
+}
+
+#num {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 120px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+#resultWord {
+  font-size: 30px;
+}
+
+#resultBMI {
+  font-size: 30px;
+}
+
+#resultBMImsg {
+  font-size: 20px;
+  color: #071b88;
+}
+
+#wei {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+}
+
+#hei {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+}
+
+#bmiImg {
+  display: flex;
+  justify-content: center;
+}
+
+#bsl{
+  width:300px;
+  height:35px;
+}
+
+table,
+td {
+  border: 1px solid black;
+  background-color: #ffd6cd;
+}
+
+thead {
+  background-color: black;
+  color: #fff;
+}
+
+#DOB {
+  padding: 5px;
+  height: 20px;
+  width: 150px;
+  font-size: 15px;
+}
+
+#resultAge {
+  font-size: 30px;
+}
+
+#a {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 100px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+#b {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 100px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+#c {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 100px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+#d {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 100px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+  margin-right: 10px;
+}
+
+#resultEqn {
+  font-size: 30px;
+}
+
+#num1,#bitnum1 {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+}
+
+#num2, #angle-value ,#bitnum2{
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+}
+
+#resultHCF {
+  font-size: 30px;
+}
+
+#resultLCM {
+  font-size: 30px;
+}
+
+#input {
+  border: none;
+  padding: 10px;
+  height: 25px;
+  width: 150px;
+  font-size: 20px;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+
+#inputdata {
+  border: none;
+  padding: 10px;
+  height: 12px;
+  width: 140px;
+  font-size: 20px;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+#inputweigh {
+  border: none;
+  padding: 10px;
+  height: 12px;
+  width: 140px;
+  font-size: 20px;
+  border-radius: 3px;
+  margin-top: 10px;
+}
+
+#output {
+  font-size: 30px;
+}
+
+#conversion {
+  height: 25px;
+  margin-left: 5px;
+  padding: 3px;
+  border: none;
+  border-radius: 3px;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+.calculator-name-header {
+  margin-top: 50px;
+  padding: 10px;
+  border-radius: 0px 15px 0px 15px;
+  box-shadow: 0px 0px 16px 1px;
+  font-size: 25px;
+  background-color: #ffb4a3;
+}
+
+#home{
+  /* background-color: black; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    position: fixed;
+    right: 2rem;
+    bottom: 2rem;
+    border-radius: 15px;
+    color: #ffffff;
+    background-color: #121916;
+    height: 2.5rem;
+    width: 2.5rem;
+    font-size: 1.2;
+    z-index: 999;
+}
+
+#angle-type {
+  height: 40px;
+  padding: 3px;
+  border: none;
+  border-radius: 3px;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+.checkbox-span{
+  padding: 20px;
+}
+
+.input-box{
+  display: flex;
+  justify-content: flex-start;
+  /* text-align: center; */
+  column-gap: 3rem;
+  align-items: center;
+  /* row-gap: 9rem !important; */
+  margin-bottom: 1rem;
+}
+
+.input-box input{
+  /* margin-top: 1rem; */
+  padding: 5px;
+}
+
+.result-container{
+  display: flex;
+  justify-content: center;
+  column-gap: 1.5rem;
+}
+
+.outterbox1, .outterbox2{
+  color: var(--color--label);
+}
+
+#resultBMR {
+  font-size: 30px;
+  color: green;
+}
+
+#errormsg {
+  font-size: 20px;
+  color: red;
+}
+
+#age {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+  position: relative;
+}
+
+#male {
+  font-size: 18px;
+  margin-left: 30px;
+}
+#female {
+  font-size: 18px;
+  margin-left: 30px;
+}
+
+#weight {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+  position: relative;
+}
+
+#height {
+  border: none;
+  padding: 10px;
+  height: 20px;
+  width: 150px;
+  font-size: 18px;
+  border-radius: 3px;
+  margin-left: 5px;
+  position: relative;
+}
+
+#calculate-btn {
+  padding: 8px 24px;
+  margin: 16px 0;
+  font-size: 18px;
+  background: #110501;
+  color: #fff;
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+
+#reset {
+  padding: 8px 24px;
+  margin: 16px 0;
+  font-size: 18px;
+  font-weight: 100;
+  text-transform: uppercase;
+  background: #110501;
+  color: #fff;
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+
+.bmr-calculator .result {
+  text-align: center;
+  color: #171616;
+  font-size: 18px;
+}
+
+.bmr-calculator .result .calories {
+  color: green;
+  font-size: 36px;
+  font-weight: 900;
+  margin-right: 8px;
+}
+
+.bmr-calculator .result .error-message {
+  color: red;
+  font-size: 15px;
+  display: none;
+}
+
+.bmr-calculator .result .error-message.active {
+  display: block;
+}
