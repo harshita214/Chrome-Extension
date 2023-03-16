@@ -6,7 +6,7 @@ document.querySelector("#done").addEventListener("click", function() {
             today = new Date(),
             now = today.getTime(),
             value = now - bday_val,
-            val_sec = Math.floor(value / 1000),
+           val_sec = Math.floor(value / 1000),
             var_min = Math.floor(value / (1000 * 60)),
             var_hour = Math.floor(value / (1000 * 60 * 60)),
             var_day = Math.floor(value / (1000 * 60 * 60 * 24)),
@@ -30,7 +30,7 @@ document.querySelector("#done").addEventListener("click", function() {
         insert("#day", var_day + " days"); 
         insert("#hour", var_hour + " hours"); 
         insert("#minute", var_min + " minutes"); 
-        insert("#second", var_sec + " seconds");     
+        insert("#second", val_sec + " seconds");     
         
 
     };

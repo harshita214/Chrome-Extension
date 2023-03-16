@@ -2,16 +2,19 @@
 body {
     font-size: 14px;
     margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     min-height: 150px;
     padding: 0;
     width: 270px;
-    background-color: beige;
+    background-color: #2c3e50;
     border: 2px solid black;
    padding-left: 10px;
    padding-right: 10px;
    text-align: center;
 }
-
+p{
+    color: aliceblue;
+}
 .title_paragraph {
     
     text-align: center;
@@ -25,10 +28,14 @@ body {
     cursor: pointer;
 }
 
-#done{
+.do {
     border: 1px solid black;
  border-radius: 3px ; 
-background-color: rgb(153, 157, 240);
+background-color:rgb(0, 187, 255);
 cursor: pointer ;
 box-shadow: 2px;
+}
+
+ .do:hover{
+    background-color:rgb(45, 95, 98);
 }

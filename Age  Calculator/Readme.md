@@ -70,3 +70,8 @@ Select your date of birth, time and then click on "Done" button and Then it will
 
 
 <br>
+
+## updated UI and code of  Age Calculator Extension
+
+![Extension](./1.png)
+
