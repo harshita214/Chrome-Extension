@@ -18,3 +18,9 @@ This extension generate new quotes every time we click on the new quote button.
 ![Extension](./Screenshots/Image_2.png)
 ![Extension](./Screenshots/Image_3.png)
 ![Extension](./Screenshots/Image_4.png)
+
+
+## Screenshot of Extension
+
+
+![Extension](./1.png)

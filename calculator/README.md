@@ -11,3 +11,7 @@ Just install the extension and u are good to go
 ![ScreenShot](screenshots/shot-2.png)
 
 more features coming soon
+
+
+## screenshot of extension
+![Extension](./1.png)
