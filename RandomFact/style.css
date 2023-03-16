@@ -1,7 +1,7 @@
-body {
+/*body {
     width: 300px;
     height: 300px;
-    background-color: aliceblue;
+    background-color:  #2c3e50;
     display: flex;
     justify-content: center;
 }
@@ -10,8 +10,222 @@ p {
     display: inner-flex;
     margin: auto 10px;
     font-size: 22px;
-    color: blue;
+    color: white;
     border-radius: 6px;
-    border: 1px solid lightblue;
+    border: 1px solid #2c3e50;
     padding: 10px;
+}  */
+body{
+background:#2c3e50;
+color: #fff;
+font-family: "Open Sans", sans-serif;
+height: 250px;
+width:300px;
+overflow: hidden;
+
+}
+.c {
+text-align: center;
+display: block;
+position: relative;
+width: 80%;
+margin: 100px auto;
+}
+
+
+.text {
+font-size: 70px;
+text-align: center;
+position: relative;
+display: inline-block;
+margin: 19px 0px 0px 0px;
+/* top: 256.301px; */
+z-index: 3;
+width: 100%;
+line-height: 1.2em;
+display: inline-block;
+}
+
+
+.right {
+float: right;
+width: 60%;
+}
+
+hr {
+padding: 0;
+border: none;
+border-top: 5px solid #fff;
+color: #fff;
+text-align: center;
+margin: 0px auto;
+width: 420px;
+height: 10px;
+z-index: -10;
+}
+
+hr:after {
+display: inline-block;
+position: relative;
+top: -0.75em;
+font-size: 2em;
+padding: 0 0.2em;
+background: #33cc99;
+}
+
+.cloud {
+width: 350px;
+height: 120px;
+
+background: #fff;
+background: linear-gradient(top, #fff 100%);
+background: -webkit-linear-gradient(top, #fff 100%);
+background: -moz-linear-gradient(top, #fff 100%);
+background: -ms-linear-gradient(top, #fff 100%);
+background: -o-linear-gradient(top, #fff 100%);
+
+border-radius: 100px;
+-webkit-border-radius: 100px;
+-moz-border-radius: 100px;
+
+position: absolute;
+margin: 120px auto 20px;
+z-index: -1;
+transition: ease 1s;
+}
+
+.cloud:after,
+.cloud:before {
+content: "";
+position: absolute;
+background: #fff;
+z-index: -1;
+}
+
+.cloud:after {
+width: 100px;
+height: 100px;
+top: -50px;
+left: 50px;
+
+border-radius: 100px;
+-webkit-border-radius: 100px;
+-moz-border-radius: 100px;
+}
+
+.cloud:before {
+width: 180px;
+height: 180px;
+top: -90px;
+right: 50px;
+
+border-radius: 200px;
+-webkit-border-radius: 200px;
+-moz-border-radius: 200px;
+}
+p{
+font-size: 20px;
+}
+
+.x1 {
+top: -50px;
+left: 100px;
+-webkit-transform: scale(0.3);
+-moz-transform: scale(0.3);
+transform: scale(0.3);
+opacity: 0.5;
+-webkit-animation: moveclouds 15s linear infinite;
+-moz-animation: moveclouds 15s linear infinite;
+-o-animation: moveclouds 15s linear infinite;
+}
+
+.x1_5 {
+top: -80px;
+left: 250px;
+-webkit-transform: scale(0.3);
+-moz-transform: scale(0.3);
+transform: scale(0.3);
+opacity:0.5;
+-webkit-animation: moveclouds 17s linear infinite;
+-moz-animation: moveclouds 17s linear infinite;
+-o-animation: moveclouds 17s linear infinite;
+}
+
+.x2 {
+left: 250px;
+top: 30px;
+-webkit-transform: scale(0.6);
+-moz-transform: scale(0.6);
+transform: scale(0.6);
+opacity: 0.65;
+-webkit-animation: moveclouds 25s linear infinite;
+-moz-animation: moveclouds 25s linear infinite;
+-o-animation: moveclouds 25s linear infinite;
+}
+
+.x3 {
+left: 250px;
+bottom: -70px;
+
+-webkit-transform: scale(0.6);
+-moz-transform: scale(0.6);
+transform: scale(0.6);
+opacity: 0.6;
+
+-webkit-animation: moveclouds 25s linear infinite;
+-moz-animation: moveclouds 25s linear infinite;
+-o-animation: moveclouds 25s linear infinite;
+}
+
+.x4 {
+left: 470px;
+botttom: 20px;
+
+-webkit-transform: scale(0.75);
+-moz-transform: scale(0.75);
+transform: scale(0.75);
+opacity: 0.75;
+
+-webkit-animation: moveclouds 18s linear infinite;
+-moz-animation: moveclouds 18s linear infinite;
+-o-animation: moveclouds 18s linear infinite;
+}
+
+.x5 {
+left: 200px;
+top: 300px;
+
+-webkit-transform: scale(0.5);
+-moz-transform: scale(0.5);
+transform: scale(0.5);
+opacity: 0.7;
+
+-webkit-animation: moveclouds 20s linear infinite;
+-moz-animation: moveclouds 20s linear infinite;
+-o-animation: moveclouds 20s linear infinite;
+}
+
+@-webkit-keyframes moveclouds {
+0% {
+  margin-left: 1000px;
+}
+100% {
+  margin-left: -1000px;
+}
+}
+@-moz-keyframes moveclouds {
+0% {
+  margin-left: 1000px;
+}
+100% {
+  margin-left: -1000px;
+}
+}
+@-o-keyframes moveclouds {
+0% {
+  margin-left: 1000px;
+}
+100% {
+  margin-left: -1000px;
+}
 }

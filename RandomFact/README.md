@@ -14,3 +14,10 @@ A basic array was used to implement the repo of facts.
 <li>Display of facts category wise (eg: If user enters a country name, facts with respect to a country can be generated)</li>
 <li>Enhancement of UI (always possible ;))</li>
 </ul>
+
+## UI Enhancement 
+
+![Extension](./1.png)
+![Extension](./2.png)
+
+Added an animation of moving clouds in the background in this update.
