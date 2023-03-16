@@ -1,0 +1,15 @@
+{
+ "manifest_version":2,
+ "name": "overwrite",
+ "version":"1.0",
+ "browser_action":{
+    "default_icon": "icon48.png"
+ },
+ "content_scripts": [{
+    "matches":[
+        "<all_urls>"
+    ],
+    "js":["p5.dom.js","p5.js","sketch.js"]
+ }]
+
+}
