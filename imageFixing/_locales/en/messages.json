@@ -1,0 +1,17 @@
+{
+  "description": {
+    "message": "Let me fix your broken image!"
+  },
+  "options": {
+    "message": "Options"
+  },
+  "retry_limit": {
+    "message": "Retry limiter"
+  },
+  "gcinterval": {
+    "message": "Garbage collector interval"
+  },
+  "use_proxy": {
+    "message": "Use proxy for blocked image"
+  }
+}

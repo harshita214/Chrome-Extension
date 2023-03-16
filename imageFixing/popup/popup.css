@@ -1,0 +1,149 @@
+/**
+ * Copyright (c) 2020 Xvezda <https://xvezda.com/>
+ *
+ * Use of this source code is governed by an MIT-style
+ * license that can be found in the LICENSE file or at
+ * https://opensource.org/licenses/MIT.
+ */
+
+:root {
+    --header-height: 50px;
+    --header-bgcolor: #ececec;
+    --header-border-color: lightgray;
+    --header-brand-size: 28px;
+
+    --popup-width: 400px;
+    --popup-max-width: 480px;
+
+    --mute-color: darkgray;
+
+    --default-gapsize: 10px;
+    --default-margin: 8px;
+    --default-padding: 8px;
+    --default-color: #222;
+
+    --title-font-size: 20px;
+    --title-color: #333;
+    --title-border-color: lightgray;
+
+    --input-font-size: 14px;
+    --input-padding: 3px;
+
+    --options-cell-padding: 5px 0;
+}
+
+div {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+p {
+    margin: 0 0 var(--default-margin) 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: block;
+    width: var(--popup-width);
+    max-width: var(--popup-max-width);
+    font-size: 16px;
+    color: var(--default-color);
+}
+
+.nostyle {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.block {
+    display: block;
+}
+
+.default-cursor {
+    cursor: default;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.center-align {
+    text-align: center;
+}
+
+.mute {
+    color: var(--mute-color);
+}
+
+.header {
+    height: var(--header-height);
+    background-color: var(--header-bgcolor);
+    border-bottom: 1px solid var(--header-border-color);
+    margin-bottom: var(--default-margin);
+}
+
+.header::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.header .brand {
+    font-size: var(--header-brand-size);
+    margin: 0;
+    padding: var(--default-gapsize) 0 0 var(--default-padding);
+    float: left;
+}
+
+.header .info {
+    float: right;
+    padding: var(--default-padding);
+}
+
+.container {
+    padding: var(--default-padding);
+}
+
+.title {
+    color: var(--title-color);
+    padding: 0 0 var(--default-padding) 0;
+    margin: 0 0 var(--default-margin) 0;
+    border-bottom: 1px solid var(--title-border-color);
+    font-size: var(--title-font-size);
+}
+
+.input-ctrl {
+    display: inline;
+    max-width: 100%;
+    margin: 0;
+    padding: var(--input-padding);
+    font-size: var(--input-font-size);
+}
+
+.table {
+    display: table;
+}
+
+.table-row {
+    display: table-row;
+}
+
+.table-cell {
+    display: table-cell;
+}
+
+.options {
+    margin-left: var(--default-margin);
+    border-collapse: separate;
+}
+
+.options .table-row > .table-cell {
+    padding: var(--options-cell-padding);
+}
+
+.options .table-row > .table-cell:not(:first-child) {
+    padding-left: var(--default-padding);
+}

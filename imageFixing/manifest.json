@@ -1,0 +1,28 @@
+  {
+    "name": "FixImg",
+    "author": "Xvezda <xvezda@naver.com>",
+    "homepage_url": "https://github.com/Xvezda/chrome-fiximg",
+    "description" : "__MSG_description__",
+    "version": "1.0.1",
+    "default_locale": "en",
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": true
+    },
+    "browser_action": {
+      "default_popup": "popup/popup.html"
+    },
+    "icons": {
+      "16": "icons/icons8-gallery-16.png",
+      "24": "icons/icons8-gallery-24.png",
+      "32": "icons/icons8-gallery-32.png",
+      "64": "icons/icons8-gallery-64.png"
+    },
+    "manifest_version": 2,
+    "permissions": [
+      "webRequest",
+      "webRequestBlocking",
+      "storage",
+      "*://*/*"
+    ]
+  }

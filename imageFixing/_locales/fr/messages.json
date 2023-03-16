@@ -1,0 +1,17 @@
+{
+  "description": {
+    "message": "Laissez-moi réparer votre image cassée!"
+  }, 
+  "gcinterval": {
+    "message": "Intervalle du ramasse-miettes"
+  }, 
+  "options": {
+    "message": "Les options"
+  }, 
+  "retry_limit": {
+    "message": "Retry limiteur"
+  }, 
+  "use_proxy": {
+    "message": "Utiliser un proxy pour l'image bloquée"
+  }
+}

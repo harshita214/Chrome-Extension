@@ -1,0 +1,17 @@
+{
+  "description": {
+    "message": "壊れた画像を修正しましょう！"
+  },
+  "gcinterval": {
+    "message": "ガベージコレクターの間隔"
+  },
+  "options": {
+    "message": "オプション"
+  },
+  "retry_limit": {
+    "message": "リトライリミッター"
+  },
+  "use_proxy": {
+    "message": "ブロックされた画像にプロキシを使用する"
+  }
+}
