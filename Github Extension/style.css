@@ -1,11 +1,20 @@
+@font-face {
+	font-family: ProductSans;
+	src: url(Product\ Sans\ Regular.ttf);
+}
+
+@font-face {
+	font-family: ProductSansBold;
+	src: url(Product\ Sans\ Bold.ttf);
+}
+
 body {
   width: 500px;
   height: 580px;
-  background-color: black;
+  background-color: #086788;
   display: flex;
   justify-content: center;
   flex-direction: column;
-  color: beige;
   overflow: hidden;
 }
 
@@ -15,13 +24,16 @@ body {
 
 .seriesCol {
   display: flex;
+  padding: 10px;
   flex-direction: row;
   justify-content: space-between;
   justify-items: center;
 }
 .userprofile {
   display: flex;
+  padding: 10px;
   flex-direction: row;
+  font-family: 'ProductSans', sans-serif;
   justify-content: center;
 }
 .avatar {
@@ -33,29 +45,31 @@ body {
 .userimg {
   height: 70px;
   width: 70px;
+  padding: 5px;
   border-radius: 30%;
-  border: 1px solid whitesmoke;
   background-color: antiquewhite;
 }
 .panel-heading {
-  padding: 0;
+  
+  padding: 20px;
   border: 0;
 }
 
 .panel-title {
   display: block;
-  padding: 15px;
-  color: white;
-  font-size: 10px;
-  font-weight: bold;
+  padding: 20px;
+  color: #086788;
+  border-radius: 20px;
+  font-size: 15px;
+  font-family: 'ProductSansBold', sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   word-spacing: 3px;
   text-decoration: none;
-  background-color: gray;
+  background-color: #FFF1D0;
 }
 .panel-heading a:before {
-  font-family: "Glyphicons Halflings";
+  font-family: 'ProductSans', sans-serif;
   content: "\e114";
   float: right;
   transition: all 0.5s;
