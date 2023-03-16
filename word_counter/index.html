@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="assets/styles/style.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="assets/img/favicoAn.png"
+      type="image/x-icon"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap"
+      rel="stylesheet"
+    />
+   
+    <title>JS Text Counter</title>
+  </head>
+  <body>
+    <div class="app-container">
+      <div>
+        <div class="container">
+          <div>
+            <textarea
+              name="text-field"
+              id="text-field"
+              cols="30"
+              rows="10"
+              maxlength="99999"
+              placeholder="Type Something..."
+            ></textarea>
+          </div>
+
+          <div class="counter-container">
+            <div class="counters">
+              <h2>Words</h2>
+              <h4 id="words-counter">0</h4>
+            </div>
+            <div class="counters">
+              <h2>Space</h2>
+              <h4 id="space-counter">0</h4>
+            </div>
+            <div class="counters">
+              <h2 id="chars-txt">Chars</h2>
+              <h4 id="chars-counter">0</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="animation-gif">
+          <lottie-player
+            src="https://assets10.lottiefiles.com/private_files/lf30_5bsxhzst.json"
+            background="transparent"
+            speed="1"
+            style="width: 300px; height: 300px"
+            loop
+            autoplay
+          ></lottie-player>
+        </div>
+      </div>
+    </div>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <script src="app.js"></script>
+ <script>
+// elements
+const inputField = document.querySelector("#text-field");
+const wordsCounter = document.querySelector("#words-counter");
+const spaceCounter = document.querySelector("#space-counter");
+const charsCounter = document.querySelector("#chars-counter");
+const charsTxt = document.querySelector("#chars-txt");
+// functions
+inputField.addEventListener("input", function (e) {
+  const value = e.target.value;
+  //   words
+  const words = value.split(/\s+/).filter((item) => item.length);
+  wordsCounter.textContent = words.length;
+  //   chars
+  charsCounter.textContent = value.length;
+  console.log(value.length);
+  if (value.length == 99999) {
+    charsTxt.classList.add("animate__animated", "animate__headShake");
+    charsTxt.style.color = "#c70a0a";
+  } else {
+    charsTxt.classList.remove("animate__animated", "animate__headShake");
+    charsTxt.style.color = "#000";
+  }
+  //   space
+  const whiteSpaces = value.split("").filter((item) => item == " ").length;
+  spaceCounter.textContent = whiteSpaces;
+});
+
+
+ </script>
+ 
+ 
+ 
+  </body>
+</html>
