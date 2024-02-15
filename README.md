@@ -362,11 +362,11 @@ git push -u origin <your_branch_name>
 **1.** Create a manifest.json files, this should have the manifest_version, description, name, version. Use this link to guide you    
        Link: https://web.dev/articles/add-manifest
 
-**2.** Now that the basics are setup you can add relevants JavaScript and CSS files to build the core of the project.
+**2.** Now that the basics are setup you can add relevant JavaScript and CSS files to build the core of the project.
 
-**3.** Once finished with development go to chrome settings, more tools, extenstions and turn on developer mode. Once done click load unpack to place extension in chrome store.
+**3.** Once finished with development go to chrome settings, more tools, extensions and turn on developer mode. Once done click load unpack to place extension in chrome store.
 
-<b> <h3></b> </h3> <b>Helpfu details for chrome API's used in projects in repo:</b>
+<b> <h3></b> </h3> <b>Helpful details for chrome API's used in projects in repo:</b>
 
 **1.** action: This will allow you to control how the extension interacts when placed on the tool bar.
                Include action keyword in manifest. setIcon() is used to set icon in the toolbar.
@@ -392,7 +392,7 @@ git push -u origin <your_branch_name>
 **8.** pageCapture: Saves a page as a MHTML file.
                     Add pageCapture permissions to the manifest file. saveAsMHTML() function calls the request. The capture is stored in a details objects with a unique id.
 
-**9.** printing: Allows for extensions to connect to a printing devices and perform print jobs.
+**9.** printing: Allows for extensions to connect to a printing device and perform print jobs.
                  Functions include cancelJob, submitJob, getPrinters, and getPrinterInfo. Size of print job can be modified through max_height_microns, min_height_microns, and width_microns.
 
 **10.** search: Lets the extension use default browsing platform to search.
