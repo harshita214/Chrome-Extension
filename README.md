@@ -357,8 +357,46 @@ git push -u origin <your_branch_name>
 
 **15.** And you are done creating a pull request to this project. Be patient while your PR is reviewed.
 
+<b> <h3> Tips to begin a new extension.</b> </h3> <b>How to start building a new extension:</b>
 
+**1.** Create a manifest.json files, this should have the manifest_version, description, name, version. Use this link to guide you    
+       Link: https://web.dev/articles/add-manifest
 
+**2.** Now that the basics are setup you can add relevants JavaScript and CSS files to build the core of the project.
+
+**3.** Once finished with development go to chrome settings, more tools, extenstions and turn on developer mode. Once done click load unpack to place extension in chrome store.
+
+<b> <h3></b> </h3> <b>Helpfu details for chrome API's used in projects in repo:</b>
+
+**1.** action: This will allow you to control how the extension interacts when placed on the tool bar.
+               Include action keyword in manifest. setIcon() is used to set icon in the toolbar.
+
+**2.** audio: This will let your extension see what audio devices are connected to the device. 
+              isActive boolean will let you see what devices are on. Display names are places in a string array.
+
+**3.** browsingData: Allows extension to modify user history on chrome. 
+                     Give browsingData permissions in the manifest file. Make sure to use a returned promise while process is happening in the background to account for delay.
+
+**4.** commands: Use this to link bindings with your keys to the extension.
+                 Keys are seperated into alpha keys, numeric jets, standard key, and modifier keys. Places keys into a command declaration to create a command.
+
+**5.** documentScan: This can retrieve data from scanned images.
+                     Items such as URL that are scanned are stored in a string array. Rest of data scanned is stored in RESULTS. Only 1 image can be scanned at a time.  
+
+**6.** networkingAttributes: Gives network data that is collected from chrome.
+                             Stores iv4, ipv6, and MAC address in strings. These can be retrieved using the getNewotkDetails method.
+
+**7.** fontSettings: Used to edit the fonts in tabs.
+                     Using the getFont method with constraints of family type and script you can get the current font. setFont() sets the font with the same comstraints. fonts are organized by fontID.
+
+**8.** pageCapture: Saves a page as a MHTML file.
+                    Add pageCapture permissions to the manifest file. saveAsMHTML() function calls the request. The capture is stored in a details objects with a unique id.
+
+**9.** printing: Allows for extensions to connect to a printing devices and perform print jobs.
+                 Functions include cancelJob, submitJob, getPrinters, and getPrinterInfo. Size of print job can be modified through max_height_microns, min_height_microns, and width_microns.
+
+**10.** search: Lets the extension use default browsing platform to search.
+                results from search are stored in queryInfo. To choose what tab to perform query you can use tabId or current tab using CURRENT_TAB.
 
 
 <br>
